@@ -1,0 +1,10 @@
+info.prefix=Join our
+info.sufix=§7and type §a!link §7in §a#bot-commands§7 to link your account.
+notLinked=Your account is not linked. 
+unlinked=You have successfully unlinked your account.
+requestAccepted=§aYou are now linked.
+requestDenied=§eYou denied the link request. 
+unlink.unknownPlatform=Unknown platform please use one of these: %s.
+noOpenRequestFor=There is no open request from the platform %s
+groupsync.command.reload=You have triggered a reload.
+groupsync.command.missingArgument=Please use /groupsync reload

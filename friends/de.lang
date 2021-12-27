@@ -1,0 +1,77 @@
+chat.empty_page=§cDiese Seite ist leer.
+chat.already_server=§cDu bist schon auf diesem Server
+chat.no_number=§cDas ist keine Zahl
+
+chat.reply_empty=§cEs gibt keine Nachricht auf die du Antworten kannst
+
+chat.help=§aBefehle zur Verwaltung von Freunden<br>%s
+
+chat.settings.friend_requests=§cDieser Spieler akzeptiert keine Freundschaftsanfragen
+chat.settings.jumping=§cDieser Spieler hat das nachspringen deaktiviert
+chat.settings.party_requests=§cDieser Spieler akzeptiert keine Partyanfragen von dir
+chat.settings.private_messages=§cDieser Spieler akzeptiert keine private Nachrichten von dir
+
+chat.friend.already=§7Du bist schon mit §a%s §7befreundet
+chat.friend.add=§7Eine Freundschaftsanfrage wurde zu §a%s §7gesendet
+chat.friend.remove=§7Die Freundschaft mit §c%s §7wurde aufgelößt
+chat.friend.accept=§a%s §7ist nun mit dir befreundet
+chat.friend.accept_all=Alle Freundschaftsanfragen wurden §aakzeptiert
+chat.friend.deny=§7Du hast die Freundschaftsanfrage von §c%s §7abgelehnt
+chat.friend.deny_all=Alle Freundschaftsanfragen wurden §cabgelehnt
+chat.friend.jump=§7Springe zu §a%s §7...
+chat.friend.request=§a%s §7will mit dir befreundet sein<br>     §7Klicke hier zum: 
+chat.friend.request_already=§cFreundschaftsanfrage bereits gesendet
+chat.friend.button.accept=§a§l[ANNHEMEN]
+chat.friend.button.decline=§c§l[ABLEHNEN]
+chat.friend.online=§a%s §7ist jetzt online
+chat.friend.offline=§c%s §7ist jetzt offline
+chat.friend.no_request=§cDu hast keine Freundschaftsanfrage von §a%s
+chat.friend.no_friend=§cDu hast keinen Freund namens §a%s §cin deiner Freundesliste
+chat.friend.list=Deine Freunde §aSeite %s
+chat.friend.list.online=§aOnline
+chat.friend.list.offline=§cOffline
+chat.friend.requests=Freundschaftsanfragen §aSeite %s
+chat.friend.toggle=§a%s §7geupdated zu %s
+chat.friend.toggle_invalid=§cKeine Einstellung namens §a%s §cgefunden
+
+chat.toggle.enabled=§aan
+chat.toggle.disabled=§caus
+
+inv.friends=§8§l➤ §e§lFreunde
+inv.friend_requests=§8§l➤ §e§lFreundschaftsanfragen
+inv.settings=§8§l➤ §e§lEinstellungen
+
+hotbar.friends=§8➤ §e§lFreunde §8▍ §7Rechtsklick
+
+item.name.friends=§7Freunde: §a%s
+item.name.friend_requests=§7Freunschaftsanfragen: §e%s
+item.name.settings=§7Einstellungen
+
+item.name.page.previous=§6« §7Vorherige Seite
+item.name.page.next=§7Nächste Seite §6»
+item.lore.page=§7Seite: §f%s§8/§7%s
+
+item.lore.current_server=§7Gerade auf §e%s
+item.lore.online=§aOnline
+item.lore.offline=§cOffline
+
+item.name.enabled=§aAN
+item.name.disabled=§cAUS
+
+item.name.all=§aALLE
+item.name.only_friends=§6NUR FREUNDE
+item.name.nobody=§CKEINER
+
+item.name.private_messages=§6Private Nachrichten
+item.name.party_requests=§5Partyanfragen
+item.name.friend_request=§aFreundschaftsanfragen
+
+item.name.friend.accept=§a§lANNEHMEN
+item.name.friend.decline=§c§lABLEHNEN
+
+item.name.party_invite=§5Zur Party einladen
+item.name.party_invite.disabled=§5§mZur Party einladen
+item.name.jumping=§bNachspringen
+item.name.jumping.disabled=§b§mNachspringen
+
+empty=%s

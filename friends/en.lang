@@ -1,0 +1,78 @@
+chat.empty_page=§cThis page is empty
+chat.already_server=§cYou're already on this server
+chat.no_number=§cThis is not a number
+
+chat.reply_empty=§cThere is no message to reply to
+
+chat.help=§aFriend management commands<br>%s
+
+chat.settings.friend_requests=§cThis player don't accepts friend requests
+chat.settings.jumping=§cThis player disabled jumping
+chat.settings.party_requests=§cThis player won't accept party invites from you
+chat.settings.private_messages=§cThis player won't accept private messages from you
+
+chat.friend.already=You're already friends with §a%s
+chat.friend.add=A friend request has been sent to §a%s
+chat.friend.remove=§7The friendship with §c%s §7was terminated
+chat.friend.accept=§a%s §7is now your friend
+chat.friend.accept_all=All friend request has been §aaccepted
+chat.friend.deny=You've rejected the friend request from §c%s
+chat.friend.deny_all=All friend request has been §crejected
+chat.friend.jump=§7Jumping to §a%s §7...
+chat.friend.request=§a%s §7wants to be friends with you<br>     §7Click here to: 
+chat.friend.request_already=§cFriend request already sent
+chat.friend.button.accept=§a§l[ACCEPT]
+chat.friend.button.decline=§c§l[DECLINE]
+chat.friend.online=§a%s §7is now online.
+chat.friend.offline=§c%s §7is now offline.
+chat.friend.no_request=§cYou have no friend request from §a%s
+chat.friend.no_friend=§cYou have nobody called §a%s §cin your friend list
+chat.friend.list=Your friends §aPage %s
+chat.friend.list.online=§aOnline
+chat.friend.list.offline=§cOffline
+chat.friend.requests=Friend requests §aPage %s
+chat.friend.toggle=§a%s §7updated to %s
+chat.friend.toggle_invalid=§cNo setting with the name §a%s §cfound
+
+chat.toggle.enabled=§aenabled
+chat.toggle.disabled=§cdisabled
+
+inv.friends=§8§l➤ §e§lFriends
+inv.friend_requests=§8§l➤ §e§lFriend request
+inv.settings=§8§l➤ §e§lSettings
+
+hotbar.friends=§8➤ §e§lFriends §8▍ §7Right click
+
+item.name.friends=§7Friends: §a%s
+item.name.friend_requests=§7Friend requests: §e%s
+item.name.settings=§7Settings
+
+item.name.page.previous=§6« §7Previous page
+item.name.page.next=§7Next page §6»
+item.lore.page=§7Page: §f%s§8/§7%s
+
+item.lore.current_server=§7Currently on §e%s
+item.lore.online=§aOnline
+item.lore.offline=§cOffline
+
+item.name.enabled=§aENABLED
+item.name.disabled=§cDISABLED
+
+item.name.all=§aALL
+item.name.only_friends=§6ONLY FRIENDS
+item.name.nobody=§CNOBODY
+
+item.name.private_messages=§6Private messages
+item.name.party_requests=§5Party requests
+item.name.friend_request=§aFriend requests
+
+item.name.friend.accept=§a§lACCEPT
+item.name.friend.decline=§c§lDECLINE
+
+item.name.party_invite=§5Invite to party
+item.name.party_invite.disabled=§5§mInvite to party
+item.name.jumping=§bJump
+item.name.jumping.disabled=§b§mJump
+
+empty=%s
+

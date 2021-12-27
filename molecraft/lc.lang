@@ -1,0 +1,37 @@
+chat.event.broadcast=§7random event: §a%s
+chat.event.broadcast_forced=§7forcd event: §a%s
+chat.countdown.players_teleported=§eall players wuz teleportd 2 their spawns
+chat.countdown.round_start=§7the round starts in §e%s secondz§7.
+chat.countdown.round_start_one=§7the round starts in §e%s second§7.
+chat.compass_height_difference=§7height difference: §a%s blockz§7.
+chat.player_nearby=§cthere iz playr nearby!
+chat.event_token_select=§7youve selectd §e%s
+chat.dirt_cleared=§7all ov teh dirt has been removd frum ur inventory!
+inventory.token=§6§levent tokens
+item.name.event_token=§8➤ §6§levent tokens §8▍ §7right click
+event.actionbar=-= event =-
+event.actionbar_timer=-= event for %s seccondz =-
+event.anvil=§aanvil
+event.armor_upgrade=§aarmor upgrade
+event.black_magic=§ablack magic
+event.blindness=§ablindnes
+event.chest_refill=§achest refill
+event.damage_dirt=§adamage dirt
+event.drill=§adrill
+event.dynamite_dirt=§adynamite dirt
+event.extra_chest=§aextra chest
+event.extra_health=§aextra health
+event.feed=§afed
+event.freeze=§afreeze
+event.gps=§agps
+event.half_heart=§ahalf hart
+event.half_life=§ahalf life
+event.hunger=§ahungr
+event.inventory_drop=§ainventory drop
+event.lights=§alights?
+event.party=§aparty!
+event.regeneration_dirt=§aregenerashun dirt
+event.speed=§asped
+event.switch=§aswitch
+event.sword_upgrade=§asword upgrade
+event.warning_toxic=§awarnin toxic

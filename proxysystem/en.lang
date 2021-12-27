@@ -1,0 +1,152 @@
+chat.giveaway=§6Win a §5§lNintendo Switch §6and §c§lmuch more!!!! §6More information at §9https://smashmc.eu/giveaway
+
+chat.server_not_found=§cServer couldn't be found!
+chat.cant_on_lobby=§cYou can't do this on the lobby!
+chat.already_on_server=§cYou're already on this server! Use §e/spawn §cto get to spawn!
+chat.help=List of most important commands:
+
+chat.teamchat=§8● §eTeamChat §8| §6%s §8➥ §7%s
+
+chat.chatfilter.offense=§a%s §7tried to §cinsult
+chat.chatfilter.advertising=§a%s §7is trying to §cadvertise
+chat.chatfilter.message= §8➥ §eMessage§8: §7%s
+chat.chatfilter.mute= §8➥ §eClick here to mute§8: 
+chat.chatfilter.recognized=§cDetected word: §e%s
+
+chat.mute.temporarily.cancel=§7You are §ctemporarily §7banned from the chat for §c%s
+chat.mute.permanently.cancel=§7You are §cpermanently §7banned from the chat
+chat.mute.remaining_time=§7Remaining time §8➥ §e%s
+
+chat.mute=§7Player §a%s §7was muted by §a%s §7for the reason §c%s
+chat.ban=§7Player §a%s §7was banned by §a%s §7for the reason §c%s
+chat.ban.remaining_time=§7Remaining time §8➥ §e%s
+chat.unmute=§7Player §a%s §7was unmuted by §a%s
+chat.unmute_notify=§7You were unmuted by §a%s
+chat.unban=§7Player §a%s §7was unbanned by §a%s
+
+chat.already_banned=§cThis player is already banned!
+chat.already_muted=§cThis player is already muted!
+
+chat.not_banned=§cThis player is currently not banned!
+chat.not_muted=§cThis player is currently not muted!
+
+chat.kick=§7Player §a%s §7was kicked by §a%s
+chat.kick.reason=§7Reason§8: §c%s
+chat.cannot_punish=§cThis player cannot be punished.
+
+chat.info=§7Information about §e%s §7(%s§7)
+chat.info.first_joined=§8➥ §a§lFirst joined§8: §e%s
+chat.info.last_seen=§8➥ §a§lLast seen§8: §e%s
+chat.info.ban_points=§8➥ §a§lBan points§8: §e%s
+chat.info.mute_points=§8➥ §a§lMute points§8: §e%s
+chat.info.bans=§8➥ §a§lBans§8:
+chat.info.mutes=§8➥ §a§lMutes§8:
+chat.info.active=§7(§aactive§7)
+chat.info.sameIp=§8➥ §a§lSame IP: §e
+
+chat.punishment_removed=§7Punishment §e%s §7has been §cremoved§7.
+chat.unknown_punishment=§cUnknown punishment ID!
+chat.punishinfo=§7Information about punishment §a%s
+chat.punishinfo.from=§8➥ §7From§8: §e%s
+chat.punishinfo.reason=§8➥ §7Reason§8: §e%s
+chat.punishinfo.comment=§8➥ §7Comment§8: §e%s
+chat.punishinfo.created_by=§8➥ §7Created by§8: §e%s
+chat.punishinfo.created_on=§8➥ §7Created on§8: §e%s
+chat.punishinfo.end_at=§8➥ §7Ends at§8: §e%s
+
+kick.title=§cYou were kicked from the server!
+kick.reason=§7Reason §8➥ §c%s
+
+ban.title=§cYou are %s banned from this server!
+ban.reason=§7Reason §8➥ §c%s
+ban.banned_by=§7Banned by §8➥ §c%s
+ban.remaining_time=§7Remaining time §8➥ §e%s
+ban.appeal_at=§7Appeal at §a§n%s
+
+ban.reason.altaccount=Alt account
+ban.reason.appearance=Appearance
+ban.reason.hacking=Hacking
+ban.reason.reportabuse=Report abuse
+ban.reason.teaming=Teaming
+ban.reason.vpn=VPN
+ban.reason.bugusing=Bug using
+ban.reason.houseban=Houseban
+ban.reason.name=Name
+ban.reason.farming=Farming
+ban.reason.buildings=Buildings
+ban.reason.trolling=Trolling
+ban.reason.targeting=Targeting
+
+mute.reason.advertising=Advertising
+mute.reason.offense=Offense
+mute.reason.spam=Spam
+mute.reason.threat=Threat
+mute.reason.provocation=Provocation
+
+punishment.type.perm=permanently
+punishment.type.temp=temporarily
+
+chat.button.click=§e§l[Click]
+chat.teamspeak=Talk with other players on our TeamSpeak: 
+chat.discord=Take a look at our Discord: 
+chat.apply=Here you can apply: 
+
+chat.joinme=§7Player §e%s §7is currently playing on the §6%s §7Server 
+chat.joinme.button=§a§l[JOIN]
+chat.joinme.wait=§7You need to wait §e%s §7before you can perform joinme.
+
+chat.spy=§8● §3Spy §8➥ §7%s: %s
+chat.spy.added=§7Spy mode §aactivated
+chat.spy.removed=§7Spy mode §cdeactivated
+
+chat.maintenance.on=§7Maintenance mode has been turned §aon
+chat.maintenance.off=§7Maintenance mode has been turned §coff
+maintenance.disconnect=§cWe are currently in maintenance mode!
+
+chat.donate=§aCheck this site for more information: §ehttps://smashmc.eu/
+chat.chatclear=§aThe chat has been cleared!
+
+# SkinBan
+chat.texture.invalid=§cInvalid texture.
+chat.skin.already_banned=§cThis skin is already banned.
+chat.skin.banned.other=§7The skin of §a%s §7was banned by §a%s
+kick.reason.skin=Please change your skin.
+chat.skin.not_banned=This skin is not banned.
+chat.skin.unbanned=§7The skin of §a%s §7was unbanned by §a%s
+
+chat.streamer.enabled=§7Streamer mode §aenabled
+chat.streamer.disabled=§7Streamer mode §cdisabled
+chat.streamer.still_enabled=§7The streamer mode is still active. Please use §e/streamer §7to disable.
+chat.streamer.feature_disabled=§cPlease disable streamer mode first.
+
+# Chat filter warnings
+chat.filter.blacklist=§cPlease stay calm and kind :)
+chat.filter.zeichenspam=§cPlease don't flood the chat with characters.
+chat.filter.wiederholung=§cPlease do not repeat chat messages.
+chat.filter.spam=§cPlease slow down in chat.
+chat.filter.werbung=§cPlease don't use domains in chat.
+chat.filter.capslock=§cPlease disable capslock.
+chat.filter.symbole=§cYou message contains illegal characters.
+
+# Playtime
+chat.playtime.own=§7Your playtime: §a%s hours and %s minutes§7!
+chat.playtime.other=§7Playtime of §a%s§7: §a%s hours and %s minutes§7!
+
+# StatsV2
+chat.stats.missing=§cPlayer §e%s §chasn't played §e%s §cin the given time frame.
+chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
+chat.stats.tail= 
+chat.stats.about.all=§8» §a%s§8: §7All time statistics<br>
+chat.stats.about.monthly=§8» §a%s§8: §7Statistics of the last 30 days<br>
+chat.stats.rank= §8● §7Ranking§8: §a%s
+chat.stats.kills= §8● §7Kills§8: §a%s
+chat.stats.deaths= §8● §7Deaths§8: §a%s
+chat.stats.kd= §8● §7K/D§8: §a%s
+chat.stats.plays= §8● §7Games§8: §a%s
+chat.stats.wins= §8● §7Wins§8: §a%s
+chat.stats.winprop= §8● §7Win propability§8: §a%s%%
+chat.stats.character= §8● §7Most played§8: §a%s
+chat.stats.map= §8● §7%s§8: §a%s games §7(§e%s §7PPD)
+chat.stats.invalid_position=§cThere is no player at this position.
+chat.charstats= §8● §a%s§8: §7%s picks §8| §a%s%% §7Win propability
+

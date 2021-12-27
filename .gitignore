@@ -1,0 +1,19 @@
+#
+# IntelliJ
+#
+*.iml
+.idea/*
+!.idea/runConfigurations/
+
+#
+# Visual Studio Code
+#
+.settings/
+.classpath
+.factorypath
+.project
+.vscode/
+
+.DS_Store
+/out/
+/bin/

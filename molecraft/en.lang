@@ -1,0 +1,43 @@
+chat.event.broadcast=§7Random Event: §a%s
+chat.event.broadcast_forced=§7Forced Event: §a%s
+
+chat.countdown.players_teleported=§eAll players were teleported to their spawns
+chat.countdown.round_start=§7The round starts in §e%s seconds§7.
+chat.countdown.round_start_one=§7The round starts in §e%s second§7.
+
+chat.compass_height_difference=§7Height difference: §a%s blocks§7.
+chat.player_nearby=§cThere is a player nearby!
+chat.event_token_select=§7You've selected §e%s
+chat.dirt_cleared=§7All of the dirt has been removed from your inventory!
+
+inventory.token=§6§lEvent tokens
+
+item.name.event_token=§8➤ §6§lEvent tokens §8▍ §7Right click
+
+event.actionbar=-= Event =-
+event.actionbar_timer=-= Event for %s seconds =-
+
+event.anvil=§aAnvil
+event.armor_upgrade=§aArmor upgrade
+event.black_magic=§aBlack magic
+event.blindness=§aBlindness
+event.chest_refill=§aChest refill
+event.damage_dirt=§aDamage dirt
+event.drill=§aDrill
+event.dynamite_dirt=§aDynamite dirt
+event.extra_chest=§aExtra chest
+event.extra_health=§aExtra health
+event.feed=§aFeed
+event.freeze=§aFreeze
+event.gps=§aGPS
+event.half_heart=§aHalf heart
+event.half_life=§aHalf life
+event.hunger=§aHunger
+event.inventory_drop=§aInventory drop
+event.lights=§aLights?
+event.party=§aParty!
+event.regeneration_dirt=§aRegeneration dirt
+event.speed=§aSpeed
+event.switch=§aSwitch
+event.sword_upgrade=§aSword upgrade
+event.warning_toxic=§aWarning toxic

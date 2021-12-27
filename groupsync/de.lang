@@ -1,0 +1,10 @@
+info.prefix=Betrete unseren
+info.sufix=§7und gib §a!link §7in §a#bot-commands§7 ein um dich zu verlinken. 
+notLinked=Dein Account ist nicht verlinkt. 
+unlinked=Du hast die Verlinkung aufgehoben. 
+requestAccepted=§aDu bist jetzt verlinkt. 
+requestDenied=§eDu hast die Verlinkungsanfrage abgelehnt. 
+unlink.unknownPlatform=Unbekannte Plattform. Verfügbar: %s.
+noOpenRequestFor=Keine offene Verlinkunsanfrage mit der Plattform: %s
+groupsync.command.reload=§aGroupsync wurde neu geladen
+groupsync.command.missingArgument=§cBitte nutze §e/groupsync reload

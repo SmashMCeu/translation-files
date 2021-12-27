@@ -1,0 +1,217 @@
+# Inventory names
+inventory.game_selector=§2§lNavigation
+inventory.gadget_inventory=§8➤ §c§lInventar
+inventory.purchase_confirm=§8➤ §c§lKaufbestätigung
+inventory.chest_opening=§8➤ §b§lChest opening
+inventory.claim_vote=§8➤ §e§lHole deine Belohnung ab
+
+# Hotbar items
+item.name.game_selector=§8➤ §a§lSpiele §8▍ §7Rechtsklick
+item.name.back_to_spawn=§8➤ §6§lSpawn §8▍ §7Rechtsklick
+item.name.gadget_inventory=§8➤ §c§lInventar §8▍ §7Rechtsklick
+item.name.speed_on=§8➤ §b§lSchnelligkeit §8▍ §aAn
+item.name.speed_off=§8➤ §b§lSchnelligkeit §8▍ §cAus
+
+# Gadget categories
+item.name.items=§e§lItems
+item.name.particles=§e§lPartikel
+item.name.heads=§e§lKöpfe
+item.name.effects=§e§lEffekte
+item.name.boots=§e§lSchuhe
+
+# Gadgets
+item.name.crazy_head=§bVerrückt
+item.name.girl_head=§dMädchen
+item.name.cuddly_bear_head=§cKnuddelbär
+item.name.angel_wings=§fEngel Flügel
+item.name.devil_wings=§cTeufel Flügel
+item.name.emerald=§aEmerald
+item.name.fire=§6Feuer
+item.name.water=§9Wasser
+item.name.lava=§6Lava
+item.name.ender=§5Ender
+item.name.heart=§cHerz
+item.name.gravity_grenade=§7Gravitationsgranate
+item.name.double_jump=§6Doppelsprung
+item.name.jump_boost=§aSprungkraft
+item.name.speed=§fGeschwindigkeit
+item.name.grabber=§cGreifer
+item.name.lovebow=§4Excaliliebe
+item.name.fly=§bFly
+item.name.rocket_boots=§cRaketenschuhe
+item.name.aggressive_laugh_head=§dAggressive Lache (§5HD§d)
+item.name.cartoon_head=§dKartoon (§5HD§d)
+item.name.illusion_head=§dIllusion (§5HD§d)
+item.name.mustage_head=§dSchnauzer (§5HD§d)
+item.name.thug_life_head=§bThug Life (§3Minecraft 1.13+§b)
+item.name.color_boots=§eFarbenschuhe
+item.name.cookie_boots=§6Keksschuhe
+item.name.dirt_boots=§cErdschlappen
+item.name.melon_boots=§aMelonenschuhe
+item.name.nyan_boots=§dNyan-Schuhe
+item.name.hook=§bEnterhaken
+item.name.night_vision=§9Nachtsicht
+item.name.ender_boots=§5Enderschuhe
+item.name.flower_boots=§2Blumenschuhe
+item.name.rain_cloud=§bRegenwolke
+item.name.color_ghosts=§5Farbige Geister
+item.name.ban_hammer=§6Ban Hammer
+item.name.flying_staff=§bFlugstab
+item.name.rainbow=§5Rainbow
+item.name.seasonal=§c§lSaisonal
+item.name.ghost_pet=§fGeist-Haustier
+item.name.bat_wings=§6Fledermausflügel
+item.name.bat_pet=§6Fledermaus-Haustier
+item.name.pumpkin_grenate=§cKürbis-Granate
+item.name.pumpkin_boots=§6Kürbisschuhe
+item.name.santa_head=§cSanta
+item.name.ice_boots=§dEisschuhe
+item.name.snowman_pet=§fSchneeman-Haustier
+
+chat.gadget_disabled=§cDein Gadget ist hier deaktiviert.
+
+# Chest opening
+item.name.use_key=§a§lBenutze einen Schlüssel
+item.name.rewards=§3§lBelohnungen
+item.lore.rewards=§7Du kannst alle Gadgets gewinnen und
+item.name.keys=§e§lSchlüssel
+chat.won_coins=§7Du hast insgesamt §6%s Coins §7gewonnen!
+chat.won_gadget=§7Du hast das %s §7Gadget gewonnen!
+chat.won_purchased_gadget=§7Du hast das %s §7Gadget gewonnen. Da du es schon hast, bekommst du den vollen Kaufpreis in Coins!
+chat.won_gadget_broadcast=§a%s §7hat %s §7Gadget gewonnen!
+reward.relic=RELIKTE
+reward.legendary=LEGENDÄRE
+reward.epic=EPISCHE
+reward.rare=SELTENE
+reward.uncommon=UNGEWÖHLNICHE
+reward.common=GEWÖHNLICHE
+chat.reward.broadcast=%s §7hat eine %s §7Belohnung aus dem Chest Opening gezogen.
+
+# Holograms
+entity.top5_line1=§aDas sind die §e§lTOP 5 §aSmash Spieler des Monats!
+entity.top5_line2=§aDie §e§lTOP 5 §aSpieler bekommen §3§lPRO §c§lUMSONST§a!
+entity.halloftoday.line1=§6§lHall of Today
+entity.halloftoday.line2=§7Hier hängen die Köpfe aller Spieler,
+entity.halloftoday.line3=§7die heute den Server betreten haben.
+entity.halloftoday.line4=§bFindest du deinen eigenen?
+
+# Server from the game selector
+item.lore.server_state=§8➥ §7Status §8» %s
+item.lore.server_map=§8➥ §7Karte §8» %s
+item.lore.server_players=§8➥ §7Spieler §8» %s
+item.lore.server_spectating=§8➥ §7Spieler §8» %s §7(+%s Zuschauer)
+item.lore.smash_description=§7Spiele Smash mit Superkräften
+item.lore.smash_description2=§7und besonderen Items!
+item.lore.gungame_description=§7Eine weitere epische Smash-
+item.lore.gungame_description2=§7variante mit zufälligen Skins!
+item.lore.teamsmash_description=§7Alleine ist langweilig?
+item.lore.teamsmash_description2=§7Spiele Smash in Teams!
+item.lore.molecraft_description=§7Grabe dich zu anderen Spielern
+item.lore.molecraft_description2=§7und bekämpfe sie!
+item.lore.bedwars_description=§7Spiele klassisches Bedwars!
+
+# Lobby selector
+item.name.lobby_switcher=§8➤ §6§lLobby §8▍ §7Rechtsklick
+inventory.lobby_switcher=§8➤ §e§lLobby wechseln
+item.name.lobby=§e%s
+item.name.lobby_connected=§a%s §7(§aAktuell§7)
+
+# Player hider
+item.name.players_shown=§8➤ §3§lSpieler §8▍ §aSichtbar
+item.name.players_hidden=§8➤ §3§lSpieler §8▍ §cVersteckt
+
+# Achievements Item
+item.name.achievements=§8➤ §b§lAchievements
+
+# Lobby+ & LobbyFun
+chat.plugin_info=§aUnsere Server laufen mit folgenden Open-Source Plugins
+kick.lobby_busy=§cDie Lobby ist gerade ausgelastet!<br>Bitte versuche es später erneut!
+title.useless_round=§7Sinnlose Runde
+title.useless_rounds=§7Sinnlose Runden
+chat.dropper.area=§cBitte bleibe in der Zone!
+chat.dropper.fail=§cDu bist gescheitert!
+chat.dropper.finish=§aDu hast das Dropper Level §e%s §ageschafft!
+chat.dropper.highscore=§7Der §aRekord §7beim Dropper ist §a%s §7von §a%s§7!
+chat.football.score_blue=Spieler §a%s §7hat für §bTeam Blau §7ein Tor geschossen§7!
+chat.football.score_red=Spieler §a%s §7hat für §cTeam Rot §7ein Tor geschossen!
+chat.ttt.wait=§aWarte auf zweiten Spieler...
+chat.ttt.leave_queue=§eDu wartest nicht länger auf einen zweiten Spieler!
+chat.ttt.start=§aDas Spiel beginnt jetzt!
+chat.ttt.tie=§eDas ist unentschieden!
+chat.ttt.win=§aDer Spieler §e%s §ahat gewonnen!
+chat.follow_me=Hey! Folge mir doch auf sozialen Medien :)
+chat.teleport_to=§7Teleportiere dich zu §a%s§7...
+chat.highscore=§7Der Rekord ist §a%s§7 von §a%s§7!
+entity.survival.playing=%s Spieler
+entity.play_dropper=§a§lMinispiel: §9§lThe Dropper
+entity.play_football=§a§lMinispiel: §b§lFußball
+entity.play_ttt=§a§lMinispiel: §c§lTickTackToe
+entity.play_snake=§a§lMinispiel: §2§lSnake
+actionbar.global_spinner=Globaler Spinner: %s
+chat.become_partner=§7Du möchtest zu unserem Partner werden? Dann kontaktiere uns gerne auf unserem Discord (§3/discord§7).
+
+# Osterevent
+easterevent.title.collected= 
+easterevent.title.collected_sub=§aDu hast ein Ei gefunden!
+easterevent.title.already_collected=§cDu hast dieses Ei bereits gefunden!
+easterevent.title.all_collected=§6§lHerzlichen Glückwunsch!
+easterevent.title.all_collected_sub=§7Du hast alle Ostereier gefunden!
+easterevent.chat.giveaway_entered=§aDu hast alle §eOstereier §agefunden und bist jetzt beim Gewinnspiel mit dabei!
+easterevent.holo.line1=§e✪ §6SmashMC Osterevent §e✪
+easterevent.holo.line2=§7Für jedes gefundene Ei erhälst du §e200 Coins§7.
+easterevent.holo.line3=§7Zudem gibt es ein Gewinnspiel für Spieler, die
+easterevent.holo.line4=§7alle Ostereier gefunden haben. (§b/discord§7)
+easterevent.holo.your_eggs=§eDeine Ostereier §8» §6§l%s§7/§e%s
+easterevent.chat.all_collected=§7§lDer Spieler §e§l%s §7§lhat alle Ostereier gefunden.
+# Halloween Event
+halloween.title.collected= 
+halloween.title.collected_sub=§eDu hast eine Süßigkeit gefunden!
+halloween.title.already_collected=§cDu hast diese Süßigkeit bereits gefunden!
+halloween.title.all_collected=§c§lHerzlichen Glückwunsch!
+halloween.title.all_collected_sub=§eDu hast alle Süßigkeiten gefunden!
+halloween.chat.giveaway_entered=§eDu hast alle §cSüßigkeiten §egefunden!
+halloween.holo.line1=§4✪ §c§lSmashMC Halloween 2021 §4✪
+halloween.holo.line2=§7Für jede Süßgikeit gibt es §c200 Coins§7.
+halloween.holo.line3=§7Zudem werden exklusive Gewinne durch das
+halloween.holo.line4=§7finden von Süßigkeiten freigeschaltet.
+halloween.holo.your_eggs=§eDeine Süßigkeiten §8» §c§l%s§7/§c%s
+halloween.chat.all_collected=§7§lDer Spieler §c§l%s §7§lhat alle Süßigkeiten gefunden.
+chat.reward=§aDu hast eine neue Belohnung erhalten.
+
+# Claim Vote
+item.claimvote.name=§aBelohnung abholen
+item.claimvote.lore1=§7Vote und hole deine Belohnung ab.
+item.claimvote.lore2=§eDu kannst alle 24h voten.
+chat.claimvote.success=§aDu hast deine Belohnung abgeholt! Ein Schlüssel wurde deinem Schlüsselbund hinzugefügt. Du kannst ihn verwenden, um eine Kiste beim Chestopening zu öffnen
+chat.claimvote.failure=§cDu kannst deine Belohnung nicht abholen, da du noch nicht gevotet hast oder schon deine Belohnung abgeholt hast! Du kannst alle 24h hier voten: §ehttps://minecraft-server.eu/vote/index/1E504/%s
+
+# Afk
+chat.afk.on=§aDu wirst nun als afk angezeigt!
+chat.afk.off=§cDu wirst nun nicht mehr als afk angezeigt.
+chat.target_afk=§7Hey! Der Spieler §e%s §7scheint AFK zu sein.
+
+# Minigames
+item.lore.football=§7Freies Fußball mit anderen Spielern.
+item.lore.kotl=§7Bist du der Leiterkönig?
+item.lore.snake=§7Hast du die längste Schlange?
+item.lore.the_dropper_1=§7Spiele The Droppper mit steigender
+item.lore.the_dropper_2=§7Schwierigkeit und setze den Highscore.
+
+chat.no_abuse.enabled=§aNicht stören Modus aktiviert.
+chat.no_abuse.disabled=§cNicht stören Modus deaktiviert.
+
+# Christmas Event
+entity.name.santa=§c§lAdventskalender
+christmas.chat.reward.in_future=§cDu kannst dieses Türchen noch nicht öffnen!
+christmas.chat.reward.in_past=§cDu kannst dieses Türchen nicht mehr öffnen!
+christmas.chat.reward.already_claimed=§cDu hast dieses Türchen bereits geöffnet.
+christmas.chat.reward.claimed=§aDu hast das §c§l%s Türchen §ageöffnet.
+christmas.chat.reward.coins=§aDu hast §e%s Coins §aerhalten.
+christmas.chat.reward.vipkeys=§aDu hast §e%s VIP-Key(s) §aerhalten.
+christmas.chat.reward.votekeys=§aDu hast §e%s Vote-Key(s) §aerhalten.
+christmas.chat.reward.rank=§aDu hast §e1 Tag Pro §aerhalten.
+christmas.chat.reward.gadget=§aDu hast das §e%s-Gadget §aerhalten.
+christmas.chat.reward.refund=§aDu kannst diese Belohnung nicht bekommen, da dir diese nix bringt, dafür erhäst du §e%s Coins§a.
+christmas.inventory.calendar=§8➤ §c§lAdventskalender
+christmas.item.name=§c§l%s. Türchen
+christmas.item.lore=§7➥ Klicke zum öffnen
