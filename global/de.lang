@@ -8,6 +8,7 @@ scoreboard.coins= §e§lCoins
 scoreboard.role= §a§lRang
 scoreboard.friends= §6§lFreunde
 
+# Common item display names
 item.name.confirm=§aBestätigen
 item.name.cancel=§cAbbrechen
 item.name.remove=§cEntfernen
@@ -24,6 +25,7 @@ item.lore.vote=§9Klicke um abzustimmen!
 item.lore.join=§9Klicke um beizutreten!
 holo.rightclick=§7(Rechtsklick)
 
+# Common inventory titles
 inventory.navigator=§bTeleporter
 inventory.mapvoting=§b§lMapvoting
 inventory.name.achievements=§8§l➤ §3§lAchievements
@@ -42,10 +44,6 @@ chat.command.unknown_enum=§cUngültiger Paramter: §e%s§c, verfügbar: §e%s
 chat.command.unknown_type=§cUngültiger Parameter! §e%s §cist kein §e%s§c!
 chat.command_self=§cDu kannst den Befehl nicht an dir selbst benutzen!
 chat.too_expensive=§cDu hast nicht genügend Geld.
-button.accept=§a§l[ANNEHMEN]
-button.deny=§c§l[ABLEHNEN]
-
-# chat messages for games
 chat.player_join=§7Spieler §e%s §7hat das Spiel betreten!
 chat.player_leave=§7Spieler §e%s §7hat das Spiel verlassen!
 chat.start_countdown=§7Das Spiel startet in §e%s Sekunden§7.
@@ -68,10 +66,15 @@ kick.server_full=§cDer Server ist voll! Du kannst §3Pro §ckaufen, um trotzdem
 kick.server_too_full=§eDer Server ist voll!
 kick.pro_joined=§cDu wurdest gekickt, um einem §3Pro §cplatz zu machen.<br>§cDu kannst den §3Pro §cRang hier erwerben: §e§nhttps://shop.smashmc.eu/
 kick.restart=§cDer Server startet neu!
+button.accept=§a§l[ANNEHMEN]
+button.deny=§c§l[ABLEHNEN]
+button.confirm=[BESTÄTIGEN]
 
-# titles for games
+# Common player titles
 title.player_win=§7hat gewonnen!
 title.players_win=§7haben gewonnen!
+
+### Legacy global stuff (to be removed)
 
 # private server system
 item.lore.players=§8➥ §7Spieler §8» §a%s§8/§a%s
@@ -104,18 +107,12 @@ item.lore.slots=§7Slots: §e%s
 item.lore.slotwarning1=§e⚠ §cMehr als 12 Slots sind nicht empfohlen
 item.lore.slotwarning2=§cund könnten zu Problemen führen.
 
-# Jump and run
-chat.jumpandrun.level_finished=§7Du hast das Jump and Run-Level §a%s §7erreicht!
-chat.jumpandrun.beat_highscore=§aDu hast den neuen Jump and Run Rekord auf §e%s §agesetzt!
-chat.jumpandrun.highscore=§7Der Jump and Run Rekord ist §a%s§7 von §a%s§7!
-
 # Smash Core
 chat.giftpro.confirm=§aBist du dir sicher, dass du §31x Pro §afür §c24 Stunden §aan §e%s §averschenken möchtest?
 chat.giftpro.cooldown=§cDu kannst Pro erst wieder in §e%s §cverschenken.
 chat.giftpro.confirmed=§aDu hast §e%s §aden Rang §3Pro §afür §c24 Stunden §ageschenkt.
 chat.giftpro.invalid_target=§cDieser Spieler hat bereits einen Rang.
 chat.giftpro.gift_recieved=§aDer Spieler §e%s §ahat dir §3Pro §afür §c24 Stunden §ageschenkt.
-chat.button.confirm=[BESTÄTIGEN]
 chat.coinflip=§7Münze wird geworfen...
 chat.coinflip.heads=§aEs ist §eKopf§a!
 chat.coinflip.tails=§aEs ist §eZahl§a!

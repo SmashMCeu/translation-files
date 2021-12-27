@@ -198,6 +198,11 @@ item.lore.snake=§7Is your snake the biggest one?
 item.lore.the_dropper_1=§7Play the dropper with increasing
 item.lore.the_dropper_2=§7difficulty and set the highscore.
 
+# Jump and run
+chat.jumpandrun.level_finished=§7You reached jump and run level §a%s§7!
+chat.jumpandrun.beat_highscore=§aYou set the jump and run highscore to §e%s§a!
+chat.jumpandrun.highscore=§7The highscore for the jump and run is §a%s§7 by §a%s§7!
+
 chat.no_abuse.enabled=§aDon't disturb mode enabled.
 chat.no_abuse.disabled=§cDon't disturb mode disabled.
 

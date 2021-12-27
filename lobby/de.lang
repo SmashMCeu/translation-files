@@ -198,6 +198,11 @@ item.lore.snake=§7Hast du die längste Schlange?
 item.lore.the_dropper_1=§7Spiele The Droppper mit steigender
 item.lore.the_dropper_2=§7Schwierigkeit und setze den Highscore.
 
+# Jump and run
+chat.jumpandrun.level_finished=§7Du hast das Jump and Run-Level §a%s §7erreicht!
+chat.jumpandrun.beat_highscore=§aDu hast den neuen Jump and Run Rekord auf §e%s §agesetzt!
+chat.jumpandrun.highscore=§7Der Jump and Run Rekord ist §a%s§7 von §a%s§7!
+
 chat.no_abuse.enabled=§aNicht stören Modus aktiviert.
 chat.no_abuse.disabled=§cNicht stören Modus deaktiviert.
 
