@@ -1,0 +1,39 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  - name: Upload to mario
+    image: appleboy/drone-scp
+    settings:
+      host: mario.smashmc.eu
+      username:
+        from_secret: mario_username
+      key:
+        from_secret: mario_key
+      port: 22334
+      target: /tmp/cicd/language
+      source: ./*
+    when:
+      branch:
+        - main
+      event:
+        - push
+
+  - name: Copy to template
+    image: appleboy/drone-ssh
+    settings:
+      host: mario.smashmc.eu
+      username:
+        from_secret: mario_username
+      key:
+        from_secret: mario_key
+      port: 22334
+      script:
+        - rm -rf /home/minecraft/file/language
+        - mv /tmp/cicd/language /home/minecraft/file/
+    when:
+      branch:
+        - main
+      event:
+        - push
