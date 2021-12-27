@@ -31,7 +31,7 @@ steps:
       port: 22334
       script:
         - rm -rf /home/minecraft/file/language
-        - mv /tmp/cicd/language /home/minecraft/file/
+        - mv /tmp/cicd/language/* /home/minecraft/file/language
     when:
       branch:
         - main
