@@ -102,8 +102,6 @@ chat.filter.spam=§cpls downt type in sped over 9000
 chat.filter.werbung=§cis this a viruz link????
 chat.filter.capslock=§cpls dont shout :c
 chat.filter.symbole=§cthis character iz bad :o
-chat.playtime.own=§7ur pleytime: §a%s huors and %s minutez§7!
-chat.playtime.other=§7pleytime of §a%s§7: §a%s huors and %s minutez§7!
 chat.joinme.wait=§7u ned to wait §e%s §7before u can perform joinmah.
 chat.cannot_punish=§cThis player cannot be punished.
 

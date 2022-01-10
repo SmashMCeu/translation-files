@@ -128,10 +128,6 @@ chat.filter.werbung=§cPlease don't use domains in chat.
 chat.filter.capslock=§cPlease disable capslock.
 chat.filter.symbole=§cYou message contains illegal characters.
 
-# Playtime
-chat.playtime.own=§7Your playtime: §a%s hours and %s minutes§7!
-chat.playtime.other=§7Playtime of §a%s§7: §a%s hours and %s minutes§7!
-
 # StatsV2
 chat.stats.missing=§cPlayer §e%s §chasn't played §e%s §cin the given time frame.
 chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|

@@ -142,3 +142,7 @@ chat.giveaway.already_entered=§aDu nimmst bereits am Gewinnspiel teil.
 chat.giveaway.condition_fail=§7Um am Gewinnspiel teilnehmen zu können, musst du mindestens eine Runde Smash in den letzten 30 Tagen gespielt haben.<br>§cBitte spiele erst eine Runde Smash und gib dann diesen Befehl erneut ein.
 chat.giveaway.not_running=§cEs gibt derzeit kein aktives Gewinnspiel oder es ist vorbei.
 chat.giveaway.entered=§a§lDu bist nun im Gewinnspiel mit dabei. §c(Nintendo Switch) <br>§7Mehr Informationen findest du auf unserem Discord (§3/discord§7).<br>§aViel Glück!
+
+# Playtime
+chat.playtime.own=§7Deine Spielzeit beträgt §a%s Stunden und %s Minuten§7!
+chat.playtime.other=§7Die Spielzeit von §a%s §7beträgt §a%s Stunden und %s Minuten§7!

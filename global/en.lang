@@ -142,3 +142,7 @@ chat.giveaway.already_entered=§aYou are already participating in the giveaway.
 chat.giveaway.condition_fail=§7To join the giveaway you need to play Smash first.
 chat.giveaway.not_running=§cThe is no ongoing giveaway.
 chat.giveaway.entered=§a§lYou joined the giveaway. §c(Nintendo Switch)<br>§7You can find more information on our discord (§3/discord§7).<br>§aBest luck!
+
+# Playtime
+chat.playtime.own=§7Your playtime: §a%s hours and %s minutes§7!
+chat.playtime.other=§7Playtime of §a%s§7: §a%s hours and %s minutes§7!

@@ -129,10 +129,6 @@ chat.filter.werbung=§cBitte benutze keine fremden Domains im Chat.
 chat.filter.capslock=§cBitte deaktiviere deine Feststelltaste.
 chat.filter.symbole=§cDeine Nachricht enthält verbotene Symbole.
 
-# Playtime
-chat.playtime.own=§7Deine Spielzeit beträgt §a%s Stunden und %s Minuten§7!
-chat.playtime.other=§7Die Spielzeit von §a%s §7beträgt §a%s Stunden und %s Minuten§7!
-
 # StatsV2
 chat.stats.missing=§cDer Spieler §e%s §chat diesen Monat noch kein §e%s §cgespielt. Nutze §e/stats smash all§c, um die Gesamtstatistiken einzusehen.
 chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
