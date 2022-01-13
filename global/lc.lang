@@ -127,7 +127,3 @@ chat.giveaway.entered=§au joind teh giveaway and moa information on our discort
 button.accept=§a§l[ACCEPT]
 button.deny=§c§l[DENY]
 chat.too_expensive=§cno enough money
-
-# Playtime
-chat.playtime.own=§7ur pleytime: §a%s huors and %s minutez§7!
-chat.playtime.other=§7pleytime of §a%s§7: §a%s huors and %s minutez§7!
