@@ -64,13 +64,15 @@ chat.map_vote=§aYou voted for §e%s§a!
 chat.deathmatch=§7The deathmatch starts in §e%s seconds§7.
 chat.deathmatch_min=§7The deathmatch starts in §e%s minutes§7.
 chat.deathmatch_end=§eThe deathmatch ends in §c%s seconds§e.
+chat.button.accept=§a§l[ACCEPT]
+chat.button.deny=§c§l[DENY]
+chat.button.confirm=[CONFIRM]
+
+# Common kick messages
 kick.server_full=§cThis server is full! You can buy §3Pro §cto join full servers!
 kick.server_too_full=§eThis server is full!
 kick.pro_joined=§cYou were kicked to allow a §3Pro §cto join.<br>§cYou can buy §3Pro §crank on §e§nhttp://purchase.smashmc.eu/
 kick.restart=§cThe server is restarting!
-button.accept=§a§l[ACCEPT]
-button.deny=§c§l[DENY]
-button.confirm=[CONFIRM]
 
 # Common player titles
 title.player_win=§7won the game!

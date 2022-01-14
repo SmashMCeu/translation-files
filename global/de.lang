@@ -11,6 +11,8 @@ scoreboard.role= §a§lRang
 scoreboard.friends= §6§lFreunde
 
 # Common item display names
+item.name.accept=§aAnnehmen
+item.name.deny=§cAblehnen
 item.name.confirm=§aBestätigen
 item.name.cancel=§cAbbrechen
 item.name.remove=§cEntfernen
@@ -64,13 +66,15 @@ chat.map_vote=§aDu hast für §e%s §aabgestimmt!
 chat.deathmatch=§7Das Deathmatch startet in §e%s Sekunden§7.
 chat.deathmatch_min=§7Das Deathmatch startet in §e%s Minuten§7.
 chat.deathmatch_end=§eDas Deathmatch endet in §c%s Sekunden§e.
+chat.button.accept=§a§l[ANNEHMEN]
+chat.button.deny=§c§l[ABLEHNEN]
+chat.button.confirm=[BESTÄTIGEN]
+
+# Common kick messages
 kick.server_full=§cDer Server ist voll! Du kannst §3Pro §ckaufen, um trotzdem joinen zu können!
 kick.server_too_full=§eDer Server ist voll!
 kick.pro_joined=§cDu wurdest gekickt, um einem §3Pro §cplatz zu machen.<br>§cDu kannst den §3Pro §cRang hier erwerben: §e§nhttps://shop.smashmc.eu/
 kick.restart=§cDer Server startet neu!
-button.accept=§a§l[ANNEHMEN]
-button.deny=§c§l[ABLEHNEN]
-button.confirm=[BESTÄTIGEN]
 
 # Common player titles
 title.player_win=§7hat gewonnen!
