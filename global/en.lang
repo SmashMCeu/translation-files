@@ -11,6 +11,8 @@ scoreboard.role= §a§lRole
 scoreboard.friends= §6§lFriends
 
 # Common item display names
+item.name.accept=§aAccept
+item.name.deny=§cDeny
 item.name.confirm=§aConfirm
 item.name.cancel=§cCancel
 item.name.remove=§cRemove
