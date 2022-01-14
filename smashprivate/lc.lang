@@ -1,4 +1,5 @@
 item.lore.players=§8➥ §7players §8» §a%s§8/§a%s
+item.lore.server_state=§8➥ §7on §8» %s
 item.name.create_server=§ecreate private servr
 item.lore.create_server=§7create private servr.
 item.name.edit_server=§cedit private servr

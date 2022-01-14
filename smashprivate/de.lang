@@ -1,4 +1,5 @@
 item.lore.players=§8➥ §7Spieler §8» §a%s§8/§a%s
+item.lore.server_state=§8➥ §7Status §8» %s
 item.name.create_server=§aServer erstellen
 item.lore.create_server=§7Erstelle deinen eigenen Server.
 item.name.edit_server=§eServer editieren
