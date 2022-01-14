@@ -108,12 +108,3 @@ item.more_slots=§2+ §aSlots
 item.lore.slots=§7Slots: §e%s
 item.lore.slotwarning1=§e⚠ §cMore than 12 slots is not recommended
 item.lore.slotwarning2=§cand may lead to unwanted problems.
-
-# Giveaway
-chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/giveaway<br>§7To accept and join the giveaway, please enter the command again.
-chat.giveaway.invalid_contact=§cPlease specify your email address or discord tag.
-chat.giveaway.already_entered=§aYou are already participating in the giveaway.
-chat.giveaway.condition_fail=§7To join the giveaway you need to play Smash first.
-chat.giveaway.not_running=§cThe is no ongoing giveaway.
-chat.giveaway.entered=§a§lYou joined the giveaway. §c(Nintendo Switch)<br>§7You can find more information on our discord (§3/discord§7).<br>§aBest luck!
-

@@ -88,15 +88,6 @@ item.lore.slots=§7slotz: §e%s
 item.lore.slotwarning1=§e⚠ §cmoar than 12 slots is dawngerous!
 item.lore.slotwarning2=§ccan may lead to unwanted problems :o
 inventory.name.achievements=§8§l➤ §3§larschivements
-
-# Giveaway
-chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/giveaway<br>§7To accept and join the giveaway, please enter the command again.
-chat.giveaway.invalid_contact=§chow tf are we supposed to find u?
-chat.giveaway.already_entered=§ano cheatin!
-chat.giveaway.condition_fail=§7play smash first pls!
-chat.giveaway.not_running=§c404 - no giveaway found :c
-chat.giveaway.entered=§au joind teh giveaway and moa information on our discort §7(/discordn)§a. best lucc!!!112
-
 button.accept=§a§l[ACCEPT]
 button.deny=§c§l[DENY]
 chat.too_expensive=§cno enough money
