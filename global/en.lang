@@ -109,30 +109,6 @@ item.lore.slots=§7Slots: §e%s
 item.lore.slotwarning1=§e⚠ §cMore than 12 slots is not recommended
 item.lore.slotwarning2=§cand may lead to unwanted problems.
 
-# Smash Core
-chat.giftpro.confirm=§aYou are about to gift §31x Pro §afor §c24 hours §ato §e%s §a.
-chat.giftpro.cooldown=§cYou can gift pro in §e%s §cagain.
-chat.giftpro.confirmed=§aYou gifted §e%s §3Pro §afor §c24 hours§a.
-chat.giftpro.invalid_target=§cThis player already has a rank.
-chat.giftpro.gift_recieved=§aThe player §e%s §agifted you §3Pro §afor §c24 hours§a.
-chat.coinflip=§7Flipping a coin...
-chat.coinflip.heads=§aIt is §eHeads§a!
-chat.coinflip.tails=§aIt is §eTails§a!
-chat.coinflip.already_requested=§cYou already asked §e%s §cfor a game.
-chat.coinflip.requested=§aYou asked §e%s §aato play for §e%s Coins§a.
-chat.coinflip.request=§a%s §7wants to play with you for §c%s Coins§7. (§eCoinflip§7)
-chat.coinflip.no_request=§cThere is no request from §e%s
-chat.coinflip.declined=§cThe player §e%s §cdenied your request.
-chat.coinflip.you_declined=§cRequest from §e%s §cwas declined.
-chat.coinflip.start_heads=§aNow playing with §e%s §afor §e%s Coins§a. You take §eHeads.
-chat.coinflip.start_tails=§aNow playing with §e%s §afor §e%s Coins§a. You take §eTails.
-chat.coinflip.invalid_player=§cYou can't play with yourself.
-chat.coinflip.invalid_coins=§cInvalid input
-title.coinflip.heads=§eHeads
-title.coinflip.tails=§eTails
-title.win=§aYou win!
-title.lose=§cYou loose!
-
 # Economy
 chat.balance=§7Your balance is §a%s Coins§7.
 chat.balance_other=§7The balance of §a%s §7is §a%s Coins§7.

@@ -89,31 +89,6 @@ item.lore.slotwarning1=§e⚠ §cmoar than 12 slots is dawngerous!
 item.lore.slotwarning2=§ccan may lead to unwanted problems :o
 inventory.name.achievements=§8§l➤ §3§larschivements
 
-# Smash Core
-chat.giftpro.confirm=§au are about to gift §31x Pro §afor §c24 hours §ato §e%s §a.
-chat.giftpro.cooldown=§cu can gift pro in §e%s §cagain.
-chat.giftpro.confirmed=§au gifted §e%s §3Pro §afor §c24 hours§a.
-chat.giftpro.invalid_target=§cthis player already has a rank.
-chat.giftpro.gift_recieved=§ateh playr §e%s §agifted you §3pro §afor §c24 hours§a.
-button.confirm=[CONFIRM]
-chat.coinflip=§7flipin a coin..
-chat.coinflip.heads=§aitz §eheadz§a!
-chat.coinflip.tails=§aitz §etailz§a!
-chat.coinflip.already_requested=§cu already asked §e%s §cfor a game.
-chat.coinflip.requested=§au asked §e%s §aato play for §e%s Coins§a.
-chat.coinflip.request=§a%s §7wants to play with you for §c%s Coins§7. (§eCoinflip§7)
-chat.coinflip.no_request=§cter is no request from §e%s
-chat.coinflip.declined=§cteh player §e%s §cdenied your request.
-chat.coinflip.you_declined=§creqwuest from §e%s §cwas declined.
-chat.coinflip.start_heads=§anoa playing with §e%s §afor §e%s Coins§a. You take §eHeads.
-chat.coinflip.start_tails=§anoa playing with §e%s §afor §e%s Coins§a. You take §eTails.
-chat.coinflip.invalid_player=§cu can't play with urself :c
-chat.coinflip.invalid_coins=§cbad!
-title.coinflip.heads=§eheadz
-title.coinflip.tails=§etailz
-title.win=§ayaaaay!
-title.lose=§coh no!
-
 # Economy
 chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/giveaway<br>§7To accept and join the giveaway, please enter the command again.
 chat.balance=§7ur balansche iz §a%s gold§7.

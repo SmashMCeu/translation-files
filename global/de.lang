@@ -109,30 +109,6 @@ item.lore.slots=§7Slots: §e%s
 item.lore.slotwarning1=§e⚠ §cMehr als 12 Slots sind nicht empfohlen
 item.lore.slotwarning2=§cund könnten zu Problemen führen.
 
-# Smash Core
-chat.giftpro.confirm=§aBist du dir sicher, dass du §31x Pro §afür §c24 Stunden §aan §e%s §averschenken möchtest?
-chat.giftpro.cooldown=§cDu kannst Pro erst wieder in §e%s §cverschenken.
-chat.giftpro.confirmed=§aDu hast §e%s §aden Rang §3Pro §afür §c24 Stunden §ageschenkt.
-chat.giftpro.invalid_target=§cDieser Spieler hat bereits einen Rang.
-chat.giftpro.gift_recieved=§aDer Spieler §e%s §ahat dir §3Pro §afür §c24 Stunden §ageschenkt.
-chat.coinflip=§7Münze wird geworfen...
-chat.coinflip.heads=§aEs ist §eKopf§a!
-chat.coinflip.tails=§aEs ist §eZahl§a!
-chat.coinflip.already_requested=§cDu hast §e%s §cbereits nach einem Spiel gefragt.
-chat.coinflip.requested=§aDu hast §e%s §aauf ein Spiel um §e%s Coins §aeingeladen.
-chat.coinflip.request=§a%s §7möchte mit dir um §c%s Coins §7spielen. (§eMünze werfen§7)
-chat.coinflip.no_request=§cKeine Anfrage von §e%s
-chat.coinflip.declined=§cDer Spieler §e%s §cmöchte nicht spielen.
-chat.coinflip.you_declined=§cAnfrage von §e%s §cabgelehnt.
-chat.coinflip.start_heads=§aSpiele mit §e%s §aum §e%s Coins§a. Du bist §eKopf.
-chat.coinflip.start_tails=§aSpiele mit §e%s §aum §e%s Coins§a. Du bist §eZahl.
-chat.coinflip.invalid_player=§cDu kannst nicht mit dir selbst spielen.
-chat.coinflip.invalid_coins=§cUngültiger betrag.
-title.coinflip.heads=§eKopf
-title.coinflip.tails=§eZahl
-title.win=§aDu hast gewonnen
-title.lose=§cDu hast verloren
-
 # Economy
 chat.balance=§7Dein Guthaben beträgt §a%s Coins§7.
 chat.balance_other=§7Das Guthaben von §a%s §7beträgt §a%s Coins§7.
