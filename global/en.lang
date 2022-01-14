@@ -32,7 +32,6 @@ holo.rightclick=§7(Right click)
 # Common inventory titles
 inventory.navigator=§bTeleporter
 inventory.mapvoting=§b§lMapvoting
-inventory.name.achievements=§8§l➤ §3§lAchievements
 
 # Common chat messages
 chat.pro=§cThis feature is only available if you purchase §3Pro rank§c.<br>You can find more information on §ehttps://shop.smashmc.eu/
@@ -79,34 +78,3 @@ kick.restart=§cThe server is restarting!
 # Common player titles
 title.player_win=§7won the game!
 title.players_win=§7won the game!
-
-### Legacy global stuff (to be removed)
-item.lore.players=§8➥ §7Players §8» §a%s§8/§a%s
-item.name.create_server=§aCreate private server
-item.lore.create_server=§7Create a private server.
-item.name.edit_server=§eEdit private server
-item.lore.edit_server=§7Edit your private server.
-item.name.set_pin=§3Set server pin
-item.lore.set_pin=§7Set the pin a user has to enter
-item.lore.set_pin2=§7before joining your server.
-item.name.remove_pin=§cRemove pin
-item.lore.remove_pin=§7Remove pin from your server.
-item.lore.pin_is=§7Pin: §e%s
-item.name.delete_server=§4Delete server
-item.lore.delete_server=§7Delete your private server.
-inventory.privatesmash.create=§aCreate Server
-inventory.privatesmash.edit=§cEdit Server
-inventory.privatesmash.list=§a§lPrivate Servers
-inventory.privatesmash.enter_pin=§3Enter a new pin
-inventory.privatesmash.enter_the_pin=§cEnter the pin
-chat.no_private_server=§cYou don't have a private server!
-item.name.private_server=§aSmash %s
-item.name.private_server_pin=§e%s's §7Server (§c§lPin§7)
-item.name.back=§c« §7Back
-item.lore.pin_required=§cPin required
-item.lore.no_pin_required=§aNo pin
-item.less_slots=§4- §cSlots
-item.more_slots=§2+ §aSlots
-item.lore.slots=§7Slots: §e%s
-item.lore.slotwarning1=§e⚠ §cMore than 12 slots is not recommended
-item.lore.slotwarning2=§cand may lead to unwanted problems.

@@ -1,4 +1,5 @@
 # Achievements
+inventory.name=§8§l➤ §3§lAchievements
 chat.claimed=§7New achievement §a%s §7claimed.
 difficulty.easy=§aEasy
 difficulty.medium=§eAdvanced
@@ -58,4 +59,3 @@ lore.first_join=§7Be the first in the Hall Of Today.
 lore.vote=§7Vote for SmashMC.
 lore.influencer=§7Find 100 friends.
 lore.top_five=§7Get into the monthly top 5.
-
