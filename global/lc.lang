@@ -91,3 +91,4 @@ inventory.name.achievements=§8§l➤ §3§larschivements
 button.accept=§a§l[ACCEPT]
 button.deny=§c§l[DENY]
 chat.too_expensive=§cno enough money
+button.confirm=[CONFIRM]

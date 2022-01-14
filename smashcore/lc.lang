@@ -4,7 +4,6 @@ chat.giftpro.cooldown=§cu can gift pro in §e%s §cagain.
 chat.giftpro.confirmed=§au gifted §e%s §3Pro §afor §c24 hours§a.
 chat.giftpro.invalid_target=§cthis player already has a rank.
 chat.giftpro.gift_recieved=§ateh playr §e%s §agifted you §3pro §afor §c24 hours§a.
-button.confirm=[CONFIRM]
 chat.coinflip=§7flipin a coin..
 chat.coinflip.heads=§aitz §eheadz§a!
 chat.coinflip.tails=§aitz §etailz§a!

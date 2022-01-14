@@ -41,7 +41,8 @@ chat.info.ban_points=§8➥ §a§lBan points§8: §e%s
 chat.info.mute_points=§8➥ §a§lMute points§8: §e%s
 chat.info.bans=§8➥ §a§lBans§8:
 chat.info.mutes=§8➥ §a§lMutes§8:
-chat.info.active=§7(§aactive§7)
+chat.info.server=§8➥ §a§lActive on §8: §e%s
+chat.info.playtime=§8➥ §a§lPlaytime: §e%s Hours und %s Minutes
 chat.info.sameIp=§8➥ §a§lSame IP: §e
 
 chat.punishment_removed=§7Punishment §e%s §7has been §cremoved§7.
