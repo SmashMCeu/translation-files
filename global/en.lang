@@ -77,8 +77,6 @@ title.player_win=§7won the game!
 title.players_win=§7won the game!
 
 ### Legacy global stuff (to be removed)
-
-# private server system
 item.lore.players=§8➥ §7Players §8» §a%s§8/§a%s
 item.name.create_server=§aCreate private server
 item.lore.create_server=§7Create a private server.
