@@ -1,10 +1,5 @@
 prefix=§8● §aSmashMC §8➥ §7
 
-# Langugae system memssages
-inventory.language=§cBitte wähle eine Sprache
-chat.cooldown=§cBitte warte kurz, bevor du das erneut tust!
-chat.language=§aDu hast die Sprache §e%s §aausgewählt. Du kannste sie jederzeit mit §e/language §aändern.
-
 # Scoreboard
 scoreboard.coins= §e§lCoins
 scoreboard.role= §a§lRang
@@ -34,6 +29,7 @@ inventory.navigator=§bTeleporter
 inventory.mapvoting=§b§lMapvoting
 
 # Common chat messages
+chat.cooldown=§cBitte warte kurz, bevor du das erneut tust!
 chat.pro=§cDieses Feature ist nur für Spieler mit dem §3Pro Rang §cverfügbar.<br>§cMehr Informationen findest du auf §ehttps://smashmc.eu/
 chat.no_permission=§cDu hast keine Rechte für diesen Befehl!
 chat.invalid_arguments=§cFalsche oder unzureichende Parameter!
