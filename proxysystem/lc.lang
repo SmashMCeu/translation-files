@@ -40,6 +40,7 @@ chat.info.bans=§8➥ §a§lbanz§8:
 chat.info.mutes=§8➥ §a§lmutez§8:
 chat.info.server=§8➥ §a§lplayin on §8: §e%s
 chat.info.playtime=§8➥ §a§lplaytime: §e%s hours and %s minutes
+chat.info.active=§7(§aactive§7)
 chat.punishment_removed=§7punishment §e%s §7has been §cremovd§7.
 chat.unknown_punishment=§cunknown punishment id!
 chat.punishinfo=§7informashun bout punishment §a%s

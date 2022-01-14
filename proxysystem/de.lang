@@ -44,6 +44,7 @@ chat.info.mutes=§8➥ §a§lMutes§8:
 chat.info.server=§8➥ §a§lAktiv auf§8: §e%s
 chat.info.playtime=§8➥ §a§lSpielzeit: §e%s Stunden und %s Minuten
 chat.info.sameIp=§8➥ §a§lGleiche IP: §e
+chat.info.active=§7(§aAktiv§7)
 
 chat.punishment_removed=§7Bestrafung §e%s §7wurde §centfernt§7.
 chat.unknown_punishment=§cUnbekannte Bestrafungs ID!
