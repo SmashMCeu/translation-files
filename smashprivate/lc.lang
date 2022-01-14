@@ -19,7 +19,6 @@ inventory.enter_the_pin=§sentr teh pin
 chat.no_private_server=§cyou doan has private servr!
 item.name.private_server=§asmash %s
 item.name.private_server_pin=§e%ss §7servr (§c§lpin§7)
-item.name.back=§2« §cbacc
 item.lore.pin_required=§cpin requird
 item.lore.no_pin_required=§anonono pin
 item.less_slots=§4- §cslotz

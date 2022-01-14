@@ -49,10 +49,6 @@ item.name.friends=§7Freunde: §a%s
 item.name.friend_requests=§7Freunschaftsanfragen: §e%s
 item.name.settings=§7Einstellungen
 
-item.name.page.previous=§6« §7Vorherige Seite
-item.name.page.next=§7Nächste Seite §6»
-item.lore.page=§7Seite: §f%s§8/§7%s
-
 item.lore.current_server=§7Gerade auf §e%s
 item.lore.online=§aOnline
 item.lore.offline=§cOffline
