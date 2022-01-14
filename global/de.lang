@@ -109,10 +109,6 @@ item.lore.slots=§7Slots: §e%s
 item.lore.slotwarning1=§e⚠ §cMehr als 12 Slots sind nicht empfohlen
 item.lore.slotwarning2=§cund könnten zu Problemen führen.
 
-# Economy
-chat.balance=§7Dein Guthaben beträgt §a%s Coins§7.
-chat.balance_other=§7Das Guthaben von §a%s §7beträgt §a%s Coins§7.
-
 # Giveaway
 chat.giveaway.requirements=§cMit der Teilnahme am Gewinnspiel, stimmst du folgenden Bedingungen zu: §ehttps://smashmc.eu/giveaway<br>§7Wenn du einverstanden bist, gib den Befehl erneut ein.
 chat.giveaway.invalid_contact=§cBitte gib deine E-Mail Adresse oder Discord-Tag an.

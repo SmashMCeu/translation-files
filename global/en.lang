@@ -109,10 +109,6 @@ item.lore.slots=§7Slots: §e%s
 item.lore.slotwarning1=§e⚠ §cMore than 12 slots is not recommended
 item.lore.slotwarning2=§cand may lead to unwanted problems.
 
-# Economy
-chat.balance=§7Your balance is §a%s Coins§7.
-chat.balance_other=§7The balance of §a%s §7is §a%s Coins§7.
-
 # Giveaway
 chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/giveaway<br>§7To accept and join the giveaway, please enter the command again.
 chat.giveaway.invalid_contact=§cPlease specify your email address or discord tag.

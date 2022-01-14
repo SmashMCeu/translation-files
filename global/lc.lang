@@ -89,10 +89,8 @@ item.lore.slotwarning1=§e⚠ §cmoar than 12 slots is dawngerous!
 item.lore.slotwarning2=§ccan may lead to unwanted problems :o
 inventory.name.achievements=§8§l➤ §3§larschivements
 
-# Economy
+# Giveaway
 chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/giveaway<br>§7To accept and join the giveaway, please enter the command again.
-chat.balance=§7ur balansche iz §a%s gold§7.
-chat.balance_other=§7the balansche off §a%s §7iz §a%s gold§7.
 chat.giveaway.invalid_contact=§chow tf are we supposed to find u?
 chat.giveaway.already_entered=§ano cheatin!
 chat.giveaway.condition_fail=§7play smash first pls!
