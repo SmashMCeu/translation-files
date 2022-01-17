@@ -144,7 +144,7 @@ chat.stats.games= §8● §7Games§8: §a%s
 chat.stats.wins= §8● §7Wins§8: §a%s
 chat.stats.winprop= §8● §7Win propability§8: §a%s%%
 chat.stats.character= §8● §7Most played§8: §a%s
-chat.stats.map= §8● §7%s§8: §a%s games §7(§e%s §7PPD)
+chat.stats.map= §8● §b%s§8: §a%s §7games/day §7(§e%s §7total)
 chat.stats.invalid_position=§cThere is no player at this position.
 chat.charstats= §8● §a%s§8: §7%s picks §8| §a%s%% §7Win propability
 
