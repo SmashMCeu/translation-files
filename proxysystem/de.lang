@@ -13,8 +13,8 @@ chat.chatfilter.message= §8➥ §eNachricht§8: §7%s
 chat.chatfilter.mute= §8➥ §eKlicke hier zum muten§8: 
 chat.chatfilter.recognized=§cErkanntes Wort: §e%s
 
-chat.mute.temporarily.cancel=§7Du wurdest §ctemporär §7vom chat gebannt §c%s
-chat.mute.permanently.cancel=§7Du wurdest §cpermanent §7vom chat gebannt
+chat.mute.temporarily.cancel=§7Du wurdest §ctemporär §7vom Chat gebannt §c%s
+chat.mute.permanently.cancel=§7Du wurdest §cpermanent §7vom Chat gebannt
 chat.mute.remaining_time=§7Verbleibende Zeit §8➥ §e%s
 
 chat.mute=§7Der Spieler §a%s §7wurde von §a%s §7gemutet für den Grund §c%s
