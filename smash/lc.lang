@@ -200,6 +200,8 @@ chat.settings.items= §8● §7itemz: §a%s
 
 chat.respawn_box.enabled=§arespawm boccs enabld.
 chat.respawn_box.disabled=§crespawm boccs disabld.
+chat.nightmode.enabled=§aNight mod enabld.
+chat.nightmode.disabled=§cNight mod disabld.
 chat.settings.double_jump.false= §8● §7doublu jumbu: §cno
 chat.settings.double_jump.true= §8● §7doublu jumbu: §ayes
 item.name.settings.double_jump=§bdouble jumbo

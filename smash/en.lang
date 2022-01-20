@@ -225,3 +225,6 @@ chat.settings.items= §8● §7Items: §a%s
 
 chat.respawn_box.enabled=§aRespawn box enabled.
 chat.respawn_box.disabled=§cRespawn box disabled.
+chat.nightmode.enabled=§aNight mode enabled.
+chat.nightmode.disabled=§cNight mode disabled.
+
