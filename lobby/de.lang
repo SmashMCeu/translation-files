@@ -4,6 +4,11 @@ inventory.gadget_inventory=§8➤ §c§lInventar
 inventory.purchase_confirm=§8➤ §c§lKaufbestätigung
 inventory.chest_opening=§8➤ §b§lChest opening
 inventory.claim_vote=§8➤ §e§lHole deine Belohnung ab
+inventory.social=§c%s
+
+# Social menu
+item.name.request_friend=§cFreund hinzufügen
+item.name.invite_party=§eParty einladen
 
 # Hotbar items
 item.name.game_selector=§8➤ §a§lSpiele §8▍ §7Rechtsklick
