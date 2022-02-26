@@ -22,4 +22,4 @@ title.coinflip.tails=§eTails
 title.win=§aYou win!
 title.lose=§cYou loose!
 chat.ignore.added=§aNow hiding global chat messages from §e%s
-chat.ignore.remove=§cNo longer hiding global chat messages from §e%s
+chat.ignore.removed=§cNo longer hiding global chat messages from §e%s

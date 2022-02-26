@@ -22,4 +22,4 @@ title.coinflip.tails=§eZahl
 title.win=§aDu hast gewonnen
 title.lose=§cDu hast verloren
 chat.ignore.added=§aÖffentliche Chatnachrichten von §e%s §asind werden nun versteckt.
-chat.ignore.remove=§cÖffentliche Chatnachrichten von §e%s §cwerden nicht länger versteckt.
+chat.ignore.removed=§cÖffentliche Chatnachrichten von §e%s §cwerden nicht länger versteckt.
