@@ -23,3 +23,5 @@ title.win=§aYou win!
 title.lose=§cYou loose!
 chat.ignore.added=§cNow hiding global chat messages from §e%s
 chat.ignore.removed=§aNo longer hiding global chat messages from §e%s
+chat.ignore.none=§aNo ignored players.
+chat.ignore.clear=§aList of ignored players cleared.

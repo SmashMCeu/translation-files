@@ -23,3 +23,5 @@ title.win=§aDu hast gewonnen
 title.lose=§cDu hast verloren
 chat.ignore.added=§cÖffentliche Chatnachrichten von §e%s §csind werden nun für dich versteckt.
 chat.ignore.removed=§aÖffentliche Chatnachrichten von §e%s §awerden nicht länger versteckt.
+chat.ignore.none=§aKeine ignorierten Spieler.
+chat.ignore.clear=§aListe ignorierter Spieler wurde gelöscht.
