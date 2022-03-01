@@ -33,7 +33,7 @@ chat.team_joined=Du bist dem §cTeam %s §7beigetreten.
 chat.team_full=§cDieses Team ist voll!
 item.name.team_selector=§8➤ §c§lTeamauswahl §8▎ §7Rechtsklick
 inventory.teams=Teamauswahl
-chat.still_respawning=§cDiese Aktion ist während dem respawnen gesperrt!
+chat.still_respawning=§cDiese Aktion ist gerade gesperrt!
 
 item.apple=Apfel
 item.bats=Bomben Fledermäuse
