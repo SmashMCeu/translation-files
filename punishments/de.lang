@@ -1,0 +1,111 @@
+# Punishments
+
+# Reasons
+punishment.insult=Beleidigung
+punishment.behaviour=Benehmen
+punishment.spam=Spam
+punishment.discrimination=Diskriminierung
+punishment.advertising=Werbung
+punishment.cheating=Cheating
+punishment.teaming=Teaming
+punishment.farming=Farming
+punishment.trolling=Trolling
+punishment.bugusing=Ausnutzen von Bugs
+punishment.supportabuse=Support Ausnutzung
+punishment.reportabuse=Unnötiges Reporten
+punishment.altaccount=Bannumgehung
+
+# Command translations
+chat.scope.not_resolvable=§cKonnte kein Template zum angegebenen Grund finden. Bitte gib Zeit sowie Typ der Bestrafung an oder wähle einen anderen Grund.
+chat.reason.no_permission=§cDieser Bestrafungsgrund ist nur für höhere Teammitglieder.
+chat.not_found=§cKonnte keine passende Bestrafung zum bearbeiten finden.
+chat.same_reason_active=§cDer angegebene Spieler ist bereits für diesen Grund bestraft.
+chat.proof_added=§aBeweis wurde zu der Bestrafung hinzugefügt.
+chat.comment_added=§aKommentar wurde zu der Bestrafung hinzugefügt.
+chat.cannot_punish=§cDieser Spieler kann nicht bestraft werden.
+chat.invalid_identifier=§cUngültiger Typ oder Id.
+chat.appeal.illegal_duration=§cDie angegebene Dauer ist länger als die Restzeit der Bestrafung.
+chat.endpoint_timeout=§cDer Server hat die Anfrage nicht in angegebener Zeit beantwortet.
+chat.edit.reason=§aDer Grund wurde von §e%s §aauf §e%s §aaktualisiert.
+chat.edit.proof=§aDer Beweis wurde von §e%s §aauf §e%s §aaktualisiert.
+chat.edit.duration=§aDer Dauer wurde von §e%s §aauf §e%s §aaktualisiert.
+chat.edit.warn.appeal=§eDie bearbeitete Bestrafung enthält einen Appeal der die Änderungen ggf. unwirksam macht.
+chat.edit.comment=§aDer Kommentar wurde von §e%s §aauf §e%s §aaktualisiert.
+
+# Buttons
+chat.button.create_appeal=§c§l[ERSTELLEN]
+chat.button.falseban=§c§l[FEHLBAN]
+chat.button.reduce=§b§l[VERKÜRZUNG]
+
+# Notifications
+chat.notify.ban=Spieler §a%1$s §7wurde von %2$s §7für §c%3$s §7gebannt.
+chat.notify.mute=Spieler §a%1$s §7wurde von %2$s §7für §c%3$s §7gemuted.
+chat.notify.kick=Spieler §a%1$s §7wurde von %2$s §7gekickt.
+chat.appeal.reduced=§7Bestrafung des Spielers §a%s §7wegen §c%s §7wurde von %s verkürzt.
+chat.appeal.forgiven=§7Bestrafung des Spielers §a%s §7wegen §c%s §7wurde von %s aufgehoben.
+chat.notify.reason=Grund: §e%s
+chat.mute.active=§7Du wurdest aufgrund von §c%1$s §7vom Chat ausgeschlossen.
+chat.duration=§7Verbleibende Zeit: §e%s
+
+# Disconnect screen
+screen.header=§8● §aSmashMC §8●<br>
+screen.ban=§cDu wurdest gebannt.<br>
+screen.kick=§cDu wurdest vom Server geworfen.<br>
+screen.reason=§cGrund: §e%s
+screen.duration=§cVerbleibende Zeit: §e%s
+screen.footer= <br>§7Du kannst unter §asmashmc.eu/appeal §7einen Antrag<br>§7auf Entbannung stellen.
+screen.footer.appealed= <br>§7Es besteht keine Möglichkeit auf einen<br>§7weiteren Entbannungsantrag.
+
+# Info commands
+chat.appeal.select_punishment=§3Auswahl der Bestrafung von §e%s§3:
+chat.punish.info=§3Informationen über Bestrafung §e§l#%s §3von §e§l%s§7:
+chat.info=§3Informationen über §e§l%s§3:
+chat.info.role= §8● §7Rang§8: §a%s
+chat.info.ip= §8● §7IP§8: §a%s
+chat.info.active_on= §8● §7Aktiv auf§8: §a%s
+chat.info.last_seen= §8● §7Zuletzt gesehen§8: §a%s
+chat.info.first_seen= §8● §7Zuerst gesehen§8: §a%s
+chat.info.playtime= §8● §7Spielzeit§8: §a%s
+chat.info.language= §8● §7Sprache§8: §a%s
+chat.info.violations= §8● §e§lVerstöße§8:
+chat.info.punishments= §8● §e§lBestrafungen§8:
+chat.info.same_ip= §8● §e§lGleiche IP§8:
+info.active=§7(§aAktiv§7)
+chat.info.type= §8● §7Typ§8: §a%s
+chat.info.reason= §8● §7Grund§8: §c%s
+chat.info.effective_duration= §8● §7Gesamtdauer§8: §a%s
+chat.info.time_left= §8● §7Verbleibende Zeit§8: §a%s
+chat.info.created_by= §8● §7Ausgesprochen von§8: §a%s
+chat.info.created_at= §8● §7Ausgesprochen am§8: §a%s
+chat.info.comment= §8● §7Kommentar§8: §a%s
+chat.info.proof= §8● §7Beweis§8: §a%s
+chat.info.active= §8● §7Aktiv§8: §a%s
+chat.info.appeal= §8● §e§lAppeal§8: §a
+chat.info.appeal.type=   §8➥ §a§7Typ§8: §e%s
+chat.info.appeal.by=   §8➥ §a§7Von§8: §e%s
+chat.info.appeal.at=   §8➥ §a§7Am§8: §e%s
+chat.info.appeal.original_duration=   §8➥ §a§7Ursprüngliche Dauer§8: §e%s
+chat.info.appeal.new_duration=   §8➥ §a§7Neue Dauer§8: §e%s
+chat.info.appeal.comment=   §8➥ §a§7Weil§8: §e%s
+hover.active_on=§7Aktiv auf§8: §a%s
+hover.last_seen=§7Zuletzt gesehen§8: §a%s
+hover.type=§7Typ: §e%s
+hover.reason=§7Grund: §e%s
+hover.effective_duration=§7Gesamtdauer: §e%s
+hover.by=§7Von: §e%s
+hover.comment=§7Kommentar: §e%s
+hover.appeal.by=§7Aufgehoben von: §a%s
+hover.appeal.at=§7Aufgehoben am: §a%s
+hover.reduced.by=§7Verkürzt von: §a%s
+hover.reduced.at=§7Verkürzt am: §a%s
+
+# Time and duration
+time.day=Tag
+time.days=Tage
+time.hour=Stunde
+time.hours=Stunden
+time.minute=Minute
+time.minutes=Minuten
+time.and=und
+time.permanent=PERMANENT
+time.none=Keine
