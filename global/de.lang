@@ -33,6 +33,7 @@ inventory.navigator=§bTeleporter
 inventory.mapvoting=§b§lMapvoting
 
 # Common chat messages
+chat.error=§cEin unerwarteter Fehler ist aufgetreten. Bitte melde dies einem Administrator.
 chat.cooldown=§cBitte warte kurz, bevor du das erneut tust!
 chat.pro=§cDieses Feature ist nur für Spieler mit dem §3Pro Rang §cverfügbar.<br>§cMehr Informationen findest du auf §ehttps://smashmc.eu/
 chat.no_permission=§cDu hast keine Rechte für diesen Befehl!
