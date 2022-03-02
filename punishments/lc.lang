@@ -98,6 +98,7 @@ hover.appeal.by=§7Appealed by: §a%s
 hover.appeal.at=§7Appealed at: §a%s
 hover.reduced.by=§7Redwuced by: §a%s
 hover.reduced.at=§7Redwuced at: §a%s
+hover.appeal.reason=§7reasn: §a%s
 
 # Time and duration
 time.day=* 24 hourz

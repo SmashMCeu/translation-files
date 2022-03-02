@@ -98,6 +98,7 @@ hover.appeal.by=§7Aufgehoben von: §a%s
 hover.appeal.at=§7Aufgehoben am: §a%s
 hover.reduced.by=§7Verkürzt von: §a%s
 hover.reduced.at=§7Verkürzt am: §a%s
+hover.appeal.reason=§7Grund: §a%s
 
 # Time and duration
 time.day=Tag
