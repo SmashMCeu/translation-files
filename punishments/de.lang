@@ -34,7 +34,7 @@ chat.edit.comment=§aDer Kommentar wurde von §e%s §aauf §e%s §aaktualisiert.
 
 # Buttons
 chat.button.create_appeal=§c§l[ERSTELLEN]
-chat.button.falseban=§c§l[FEHLBAN]
+chat.button.falseban=§c§l[FEHLBANN]
 chat.button.reduce=§b§l[VERKÜRZUNG]
 
 # Notifications
