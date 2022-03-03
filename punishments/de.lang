@@ -14,6 +14,7 @@ punishment.bugusing=Ausnutzen von Bugs
 punishment.supportabuse=Support Ausnutzung
 punishment.reportabuse=Unnötiges Reporten
 punishment.altaccount=Bannumgehung
+punishment.threat=Drohung
 
 # Command translations
 chat.scope.not_resolvable=§cKonnte kein Template zum angegebenen Grund finden. Bitte gib Zeit sowie Typ der Bestrafung an oder wähle einen anderen Grund.

@@ -14,6 +14,7 @@ punishment.bugusing=bug
 punishment.supportabuse=poor supporters :c
 punishment.reportabuse=reports spam
 punishment.altaccount=nononononono
+punishment.threat=thrat
 
 # Command translations
 chat.scope.not_resolvable=§ccud not find any matching template to teh given reason. Please specify duraytion and type of puwnishmnt or choose another reason.

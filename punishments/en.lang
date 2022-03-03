@@ -14,6 +14,7 @@ punishment.bugusing=Bugusing
 punishment.supportabuse=Support Abuse
 punishment.reportabuse=Report Abuse
 punishment.altaccount=Alternative Account
+punishment.threat=Threat
 
 # Command translations
 chat.scope.not_resolvable=§cCould not find any matching template to the given reason. Please specify duration and type of punishment or choose another reason.
