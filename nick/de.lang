@@ -3,7 +3,7 @@ prefix=§8● §5Nick §8➥ §7
 # Chat
 chat.nick=§7Du wirst nun als %s §7angezeigt.
 chat.unnick=§7Du wirst nun wieder als du selbst angezeigt.
-chat.lobby_only=§cDieser Befehl ist darf nur auf der Lobby ausgeführt werden.
+chat.lobby_only=§cDieser Befehl darf nur auf der Lobby ausgeführt werden.
 
 # Inventory, Items
 item.name.enabled=§8➤ §5§lNick §8▍ §a%s
