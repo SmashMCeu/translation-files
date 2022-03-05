@@ -1,4 +1,15 @@
 prefix=§8● §5Nick §8➥ §7
 
+# Chat
 chat.nick=§7You are now displayed as %s§7.
 chat.unnick=§7You are now displayed as usual.
+chat.lobby_only=§cDieser Befehl ist darf nur auf der Lobby ausgeführt werden.
+
+# Inventory, Items
+item.name.enabled=§8➤ §5§lNick §8▍ §a%s
+item.name.disabled=§8➤ §5§lNick §8▍ §7Right click
+inventory.title=§5§lNick
+inventory.item.off=§c§lNo nick
+inventory.item.default=§a§lPlayer nick
+inventory.item.pro=§3§lPro nick
+inventory.item.proplus=§b§lPro+ nick
