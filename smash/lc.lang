@@ -199,8 +199,9 @@ chat.settings.velocity_multiplier= §8● §7knockback buff: %s
 chat.settings.start_lives= §8● §7liv: §a%s
 chat.settings.items= §8● §7itemz: §a%s
 
-chat.respawn_box.enabled=§arespawm boccs enabld.
-chat.respawn_box.disabled=§crespawm boccs disabld.
+chat.respawn_box.enabled=§arespawm boccs alwis enabld.
+chat.respawn_box.disabled=§crespawm boccs alwis disabld.
+chat.respawn_box.respawn=§eRespawn box onli fur respawm.
 chat.nightmode.enabled=§aNight mod enabld.
 chat.nightmode.disabled=§cNight mod disabld.
 chat.settings.double_jump.false= §8● §7doublu jumbu: §cno

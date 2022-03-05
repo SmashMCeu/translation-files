@@ -224,7 +224,8 @@ chat.settings.velocity_multiplier= §8● §7Rückstoßmultiplikator: %s
 chat.settings.start_lives= §8● §7Startleben: §a%s
 chat.settings.items= §8● §7Items: §a%s
 
-chat.respawn_box.enabled=§aRespawn Box aktiviert.
-chat.respawn_box.disabled=§cRespawn Box deaktiviert.
+chat.respawn_box.enabled=§aRespawn Box immer aktiviert.
+chat.respawn_box.disabled=§cRespawn Box immer deaktiviert.
+chat.respawn_box.respawn=§eRespawn Box nur beim respawn.
 chat.nightmode.enabled=§aNachtmodus aktiviert.
 chat.nightmode.disabled=§cNachtmodus deaktiviert.
