@@ -1,7 +1,7 @@
 prefix=§8● §5Nick §8➥ §7
 
 # Chat
-chat.nick=§7You are now displayed as %s§7.
+chat.nick=§7You are now displayed as %s §7in minigames.
 chat.unnick=§7You are now displayed as usual.
 chat.lobby_only=§cDieser Befehl ist darf nur auf der Lobby ausgeführt werden.
 chat.cutom_warning=§eWarning: §cThe use of custom nicknames may result in glitches.
