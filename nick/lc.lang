@@ -4,6 +4,7 @@ prefix=§8● §5Nicc §8➥ §7
 chat.nick=§7you are now faking %s§7.
 chat.unnick=§7back to reality
 chat.lobby_only=§cDieser Befehl ist darf nur auf der Lobby ausgeführt werden.
+chat.cutom_warning=§eWarning: §cteh use of custom nicknames may result in big BOOOM of the plugin.
 
 # Inventory, Items
 item.name.enabled=§8➤ §5§lnicc §8▍ §a%s
