@@ -35,7 +35,7 @@ inventory.mapvoting=§b§lMapvoting
 # Common chat messages
 chat.error=§cAn unexpected error occurred. Please report this to an administrator.
 chat.cooldown=§cPlease wait a bit before doing this again!
-chat.pro=§cThis feature is only available if you purchase §3Pro rank§c.<br>You can find more information on §ehttps://shop.smashmc.eu/
+chat.pro=§cThis feature is only available if you purchase §3Pro rank§c.<br>You can find more information at §ehttps://shop.smashmc.eu/
 chat.no_permission=§cYou do not have permission to execute this command!
 chat.invalid_arguments=§cInvalid or insufficient arguments!
 chat.invalid_arguments_use=§cPlease use: §e%s
