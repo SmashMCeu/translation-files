@@ -8,6 +8,11 @@ item.lore.use_key=§aPlay with §51x Pro Key§a.
 item.lore.no_keys=§cYou are not a §3Pro§c.
 chat.key_used=§aYou used a §5Pro Key §ato unlock your character.
 
+item.lore.difficulty=§3Difficulty§8: %s
+difficulty.easy=§a✯§8✯✯ §7(easy)
+difficulty.normal=§e✯✯§8✯ §7(normal)
+difficulty.hard=§c✯✯✯ §7(hard)
+
 chat.character_selected=§aYou selected %s§a!
 chat.command_not_for_spectators=§cThis command is not for spectators!
 chat.unknown_map=§cMap §e%s §cnot found!
