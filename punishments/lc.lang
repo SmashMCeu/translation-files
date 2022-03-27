@@ -102,6 +102,7 @@ hover.reduced.by=§7Redwuced by: §a%s
 hover.reduced.at=§7Redwuced at: §a%s
 hover.appeal.reason=§7reasn: §a%s
 hover.active_ban=§cactiv ben
+hover.shared_ip=§7Busted ip: §a%s
 
 # Time and duration
 time.day=* 24 hourz
