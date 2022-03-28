@@ -101,7 +101,7 @@ hover.appeal.at=§7Appealed at: §a%s
 hover.reduced.by=§7Reduced by: §a%s
 hover.reduced.at=§7Reduced at: §a%s
 hover.appeal.reason=§7Reason: §a%s
-hover.active_ban=§cActive ban
+hover.active_ban=§7Status: §cActive ban
 hover.shared_ip=§7Shared Ip: §a%s
 hover.name=§7Name: §a%s
 
