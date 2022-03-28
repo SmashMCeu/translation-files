@@ -103,6 +103,7 @@ hover.reduced.at=§7Verkürzt am: §a%s
 hover.appeal.reason=§7Grund: §a%s
 hover.active_ban=§cAktiver Bann
 hover.shared_ip=§7Geteilte Ip: §a%s
+hover.name=§7Name: §a%s
 
 # Time and duration
 time.day=Tag
