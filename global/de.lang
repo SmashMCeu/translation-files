@@ -1,9 +1,9 @@
-prefix=§8● §aSmashMC §8➥ §7
+prefix=§fWishMC: §b
 
 # Scoreboard
-scoreboard.coins= §e§lCoins
-scoreboard.role= §a§lRang
-scoreboard.friends= §6§lFreunde
+scoreboard.coins= §f§lCoins
+scoreboard.role= §f§lRang
+scoreboard.friends= §f§lFreunde
 
 # Common item display names
 item.name.accept=§aAnnehmen
@@ -35,7 +35,7 @@ inventory.mapvoting=§b§lMapvoting
 # Common chat messages
 chat.error=§cEin unerwarteter Fehler ist aufgetreten. Bitte melde dies einem Administrator.
 chat.cooldown=§cBitte warte kurz, bevor du das erneut tust!
-chat.pro=§cDieses Feature ist nur für Spieler mit dem §3Pro Rang §cverfügbar.<br>§cMehr Informationen findest du auf §ehttps://shop.smashmc.eu/
+chat.pro=§cDieses Feature ist nur für Spieler mit dem §3Pro Rang §cverfügbar.<br>§cMehr Informationen findest du auf §ehttps://WishMC.online/shop/
 chat.no_permission=§cDu hast keine Rechte für diesen Befehl!
 chat.invalid_arguments=§cFalsche oder unzureichende Parameter!
 chat.invalid_arguments_use=§cBitte nutze: §e%s
@@ -73,7 +73,7 @@ chat.button.confirm=[BESTÄTIGEN]
 # Common kick messages
 kick.server_full=§cDer Server ist voll! Du kannst §3Pro §ckaufen, um trotzdem joinen zu können!
 kick.server_too_full=§eDer Server ist voll!
-kick.pro_joined=§cDu wurdest gekickt, um einem §3Pro §cplatz zu machen.<br>§cDu kannst den §3Pro §cRang hier erwerben: §e§nhttps://shop.smashmc.eu/
+kick.pro_joined=§cDu wurdest gekickt, um einem §3Pro §cplatz zu machen.<br>§cDu kannst den §3Pro §cRang hier erwerben: §e§nhttps://wishmc.online/shop/
 kick.restart=§cDer Server startet neu!
 
 # Common player titles

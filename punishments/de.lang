@@ -50,12 +50,12 @@ chat.mute.active=§7Du wurdest aufgrund von §c%1$s §7vom Chat ausgeschlossen.
 chat.duration=§7Verbleibende Zeit: §e%s
 
 # Disconnect screen
-screen.header=§8● §aSmashMC §8●<br>
+screen.header=§8● §bWishMC §8●<br>
 screen.ban=§cDu wurdest gebannt.<br>
 screen.kick=§cDu wurdest vom Server geworfen.<br>
 screen.reason=§cGrund: §e%s
 screen.duration=§cVerbleibende Zeit: §e%s
-screen.footer= <br>§7Du kannst unter §asmashmc.eu/appeal §7einen Antrag<br>§7auf Entbannung stellen.
+screen.footer= <br>§7Du kannst unter §awishmc.online/appeal §7einen Antrag<br>§7auf Entbannung stellen.
 screen.footer.appealed= <br>§7Es besteht keine Möglichkeit auf einen<br>§7weiteren Entbannungsantrag.
 
 # Info commands

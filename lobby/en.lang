@@ -154,7 +154,7 @@ entity.play_football=§a§lMinigame: §b§lFootball
 entity.play_ttt=§a§lMinigame: §c§lTicTacToe
 entity.play_snake=§a§lMinigame: §2§lSnake
 actionbar.global_spinner=Global spinner: %s
-chat.become_partner=§7You want to apply for a partnership with SmashMC? Please contact us on our Discord (§3/discord§7).
+chat.become_partner=§7You want to apply for a partnership with WishMC? Please contact us on our Discord (§3/discord§7).
 
 # Osterevent
 easterevent.title.collected= 
@@ -163,7 +163,7 @@ easterevent.title.already_collected=§cYou've already found this egg!
 easterevent.title.all_collected=§6§lCongratulations!
 easterevent.title.all_collected_sub=§7You found all easter eggs!
 easterevent.chat.giveaway_entered=§aYou found all §eeaster eggs §aand entered the giveaway.
-easterevent.holo.line1=§e✪ §6SmashMC Easter Event §e✪
+easterevent.holo.line1=§e✪ §6WishMc Easter Event §e✪
 easterevent.holo.line2=§7For every easter egg you get §e200 Coins§7.
 easterevent.holo.line3=§7Additionally there is a giveaway for those
 easterevent.holo.line4=§7who found all easter eggs. (§b/discord§7)
