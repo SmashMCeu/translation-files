@@ -50,12 +50,12 @@ chat.mute.active=§7You were muted for §c%1$s§7.
 chat.duration=§7Remaining time: §e%s
 
 # Disconnect screen
-screen.header=§8● §bWishMC §8●<br>
+screen.header=§8● §aSmashMC §8●<br>
 screen.ban=§cYou are banned from this server.<br>
 screen.kick=§cYou were kicked from the server.<br>
 screen.reason=§cReason: §e%s
 screen.duration=§cRemaining time: §e%s
-screen.footer= <br>§7If you want to appeal you can<br>§7go to §awishmc.online/appeal
+screen.footer= <br>§7If you want to appeal you can<br>§7go to §asmashmc.eu/appeal
 screen.footer.appealed= <br>§7This ban can §cnot §7be appealed again.
 
 # Info commands

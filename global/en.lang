@@ -1,9 +1,9 @@
-prefix=§fWishMC: §b
+prefix=§8● §aSmashMC §8➥ §7
 
 # Scoreboard
-scoreboard.coins= §f§lCoins
-scoreboard.role= §f§lRole
-scoreboard.friends= §f§lFriends
+scoreboard.coins= §e§lCoins
+scoreboard.role= §a§lRole
+scoreboard.friends= §6§lFriends
 
 # Common item display names
 item.name.accept=§aAccept
@@ -35,7 +35,7 @@ inventory.mapvoting=§b§lMapvoting
 # Common chat messages
 chat.error=§cAn unexpected error occurred. Please report this to an administrator.
 chat.cooldown=§cPlease wait a bit before doing this again!
-chat.pro=§cThis feature is only available if you purchase §3Pro rank§c.<br>You can find more information at §ehttps://wishmc.online/shop/
+chat.pro=§cThis feature is only available if you purchase §3Pro rank§c.<br>You can find more information at §ehttps://shop.smashmc.eu/
 chat.no_permission=§cYou do not have permission to execute this command!
 chat.invalid_arguments=§cInvalid or insufficient arguments!
 chat.invalid_arguments_use=§cPlease use: §e%s
@@ -73,7 +73,7 @@ chat.button.confirm=[CONFIRM]
 # Common kick messages
 kick.server_full=§cThis server is full! You can buy §3Pro §cto join full servers!
 kick.server_too_full=§eThis server is full!
-kick.pro_joined=§cYou were kicked to allow a §3Pro §cto join.<br>§cYou can buy §3Pro §crank on §e§nhttps://wishmc.online/shop/
+kick.pro_joined=§cYou were kicked to allow a §3Pro §cto join.<br>§cYou can buy §3Pro §crank on §e§nhttp://purchase.smashmc.eu/
 kick.restart=§cThe server is restarting!
 
 # Common player titles
