@@ -157,18 +157,18 @@ actionbar.global_spinner=Globaler Spinner: %s
 chat.become_partner=§7Du möchtest zu unserem Partner werden? Dann kontaktiere uns gerne auf unserem Discord (§3/discord§7).
 
 # Osterevent
-easterevent.title.collected= 
-easterevent.title.collected_sub=§aDu hast ein Ei gefunden!
-easterevent.title.already_collected=§cDu hast dieses Ei bereits gefunden!
-easterevent.title.all_collected=§6§lHerzlichen Glückwunsch!
-easterevent.title.all_collected_sub=§7Du hast alle Ostereier gefunden!
-easterevent.chat.giveaway_entered=§aDu hast alle §eOstereier §agefunden und bist jetzt beim Gewinnspiel mit dabei!
-easterevent.holo.line1=§e✪ §6SmashMC Osterevent §e✪
-easterevent.holo.line2=§7Für jedes gefundene Ei erhälst du §e200 Coins§7.
-easterevent.holo.line3=§7Zudem gibt es ein Gewinnspiel für Spieler, die
-easterevent.holo.line4=§7alle Ostereier gefunden haben. (§b/discord§7)
-easterevent.holo.your_eggs=§eDeine Ostereier §8» §6§l%s§7/§e%s
-easterevent.chat.all_collected=§7§lDer Spieler §e§l%s §7§lhat alle Ostereier gefunden.
+eastern.title.collected= 
+eastern.title.collected_sub=§aDu hast ein Ei gefunden!
+eastern.title.already_collected=§cDu hast dieses Ei bereits gefunden!
+eastern.title.all_collected=§6§lHerzlichen Glückwunsch!
+eastern.title.all_collected_sub=§7Du hast alle Ostereier gefunden!
+eastern.chat.giveaway_entered=§aDu hast alle §eOstereier §agefunden und bist jetzt beim Gewinnspiel mit dabei!
+eastern.holo.line1=§e✪ §6SmashMC Osterevent §e✪
+eastern.holo.line2=§7Für jedes gefundene Ei erhälst du §e200 Coins§7.
+eastern.holo.line3=§7Zudem gibt es ein Gewinnspiel für Spieler, die
+eastern.holo.line4=§7alle Ostereier gefunden haben. (§b/discord§7)
+eastern.holo.your_eggs=§eDeine Ostereier §8» §6§l%s§7/§e%s
+eastern.chat.all_collected=§7§lDer Spieler §e§l%s §7§lhat alle Ostereier gefunden.
 # Halloween Event
 halloween.title.collected= 
 halloween.title.collected_sub=§eDu hast eine Süßigkeit gefunden!

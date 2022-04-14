@@ -157,18 +157,18 @@ actionbar.global_spinner=Global spinner: %s
 chat.become_partner=§7You want to apply for a partnership with SmashMC? Please contact us on our Discord (§3/discord§7).
 
 # Osterevent
-easterevent.title.collected= 
-easterevent.title.collected_sub=§aYou found an easter egg!
-easterevent.title.already_collected=§cYou've already found this egg!
-easterevent.title.all_collected=§6§lCongratulations!
-easterevent.title.all_collected_sub=§7You found all easter eggs!
-easterevent.chat.giveaway_entered=§aYou found all §eeaster eggs §aand entered the giveaway.
-easterevent.holo.line1=§e✪ §6SmashMC Easter Event §e✪
-easterevent.holo.line2=§7For every easter egg you get §e200 Coins§7.
-easterevent.holo.line3=§7Additionally there is a giveaway for those
-easterevent.holo.line4=§7who found all easter eggs. (§b/discord§7)
-easterevent.holo.your_eggs=§eYour easter eggs §8» §6§l%s§7/§e%s
-easterevent.chat.all_collected=§7§lThe player §e§l%s §7§lfound all easter eggs.
+eastern.title.collected= 
+eastern.title.collected_sub=§aYou found an easter egg!
+eastern.title.already_collected=§cYou've already found this egg!
+eastern.title.all_collected=§6§lCongratulations!
+eastern.title.all_collected_sub=§7You found all easter eggs!
+eastern.chat.giveaway_entered=§aYou found all §eeaster eggs §aand entered the giveaway.
+eastern.holo.line1=§e✪ §6SmashMC Easter Event §e✪
+eastern.holo.line2=§7For every easter egg you get §e200 Coins§7.
+eastern.holo.line3=§7Additionally there is a giveaway for those
+eastern.holo.line4=§7who found all easter eggs. (§b/discord§7)
+eastern.holo.your_eggs=§eYour easter eggs §8» §6§l%s§7/§e%s
+eastern.chat.all_collected=§7§lThe player §e§l%s §7§lfound all easter eggs.
 # Halloween Event
 halloween.title.collected= 
 halloween.title.collected_sub=§eYou collected a sweet!
