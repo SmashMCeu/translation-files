@@ -73,6 +73,9 @@ item.name.santa_head=§cSanta
 item.name.ice_boots=§dIce boots
 item.name.snowman_pet=§fSnowman-Pet
 item.name.christmas_tree=§cChristmas tree
+item.name.easterbow=§cEaster bow
+item.name.easter_boots=§dEaster boots
+item.name.rabbit_pet=§6Robo rabbit
 
 chat.gadget_disabled=§cYou gadgets are now disabled.
 

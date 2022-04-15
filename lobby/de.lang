@@ -73,6 +73,9 @@ item.name.santa_head=§cSanta
 item.name.ice_boots=§dEisschuhe
 item.name.snowman_pet=§fSchneeman-Haustier
 item.name.christmas_tree=§cWeihnachtsbaum
+item.name.easterbow=§cOsterbogen
+item.name.easter_boots=§dOsterschuhe
+item.name.rabbit_pet=§6Robohase
 
 chat.gadget_disabled=§cDein Gadget ist hier deaktiviert.
 
