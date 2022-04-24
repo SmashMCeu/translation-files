@@ -115,3 +115,4 @@ time.minutes=minutes
 time.and=and
 time.permanent=PERMANENT
 time.none=none
+time.never=never

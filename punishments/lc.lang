@@ -115,3 +115,4 @@ time.minutes=* 60 secondz
 time.and=plus
 time.permanent=UNTIL UNIVERSE COLLAPSES
 time.none=nowne
+time.never=never
