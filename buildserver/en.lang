@@ -1,9 +1,9 @@
-chat.teleport.no_request=§cYou have no pending teleportrequest.
-chat.teleport.accept.to=§aYou accepted the teleportrequest.
+chat.teleport.no_request=§cYou have no pending teleport request.
+chat.teleport.accept.to=§aYou accepted the teleport request.
 chat.teleport.accepted.to=§7You were teleported to §e%s§7.
-chat.teleport.accept.here=§aYou accepted the teleportrequest.
+chat.teleport.accept.here=§aYou accepted the teleport request.
 chat.teleport.accepted.here=§e%s §7were teleported to you.
-chat.teleport.ask.to=§7You sent a teleportrequest to §e%s.
+chat.teleport.ask.to=§7You sent a teleport request to §e%s.
 chat.teleport.asked.to=§e%s §7wants to teleport to you.
-chat.teleport.ask.here=§7You sent a teleportrequest to §e%s.
+chat.teleport.ask.here=§7You sent a teleport request to §e%s.
 chat.teleport.asked.here=§e%s §7wants you to teleport to them.
