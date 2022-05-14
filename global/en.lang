@@ -66,6 +66,7 @@ chat.map_vote=§aYou voted for §e%s§a!
 chat.deathmatch=§7The deathmatch starts in §c%s seconds§7.
 chat.deathmatch_min=§7The deathmatch starts in §c%s minutes§7.
 chat.deathmatch_end=§eThe deathmatch ends in §c%s seconds§e.
+chat.no_self_play=§cYou can't play with yourself.
 chat.button.accept=§a§l[ACCEPT]
 chat.button.deny=§c§l[DENY]
 chat.button.confirm=[CONFIRM]

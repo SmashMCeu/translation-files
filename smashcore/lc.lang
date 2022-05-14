@@ -15,7 +15,6 @@ chat.coinflip.declined=§cteh player §e%s §cdenied your request.
 chat.coinflip.you_declined=§creqwuest from §e%s §cwas declined.
 chat.coinflip.start_heads=§anoa playing with §e%s §afor §e%s Coins§a. You take §eHeads.
 chat.coinflip.start_tails=§anoa playing with §e%s §afor §e%s Coins§a. You take §eTails.
-chat.coinflip.invalid_player=§cu can't play with urself :c
 chat.coinflip.invalid_coins=§cbad!
 title.coinflip.heads=§eheadz
 title.coinflip.tails=§etailz

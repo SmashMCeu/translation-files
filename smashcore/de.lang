@@ -15,7 +15,6 @@ chat.coinflip.declined=§cDer Spieler §e%s §cmöchte nicht spielen.
 chat.coinflip.you_declined=§cAnfrage von §e%s §cabgelehnt.
 chat.coinflip.start_heads=§aSpiele mit §e%s §aum §e%s Coins§a. Du bist §eKopf.
 chat.coinflip.start_tails=§aSpiele mit §e%s §aum §e%s Coins§a. Du bist §eZahl.
-chat.coinflip.invalid_player=§cDu kannst nicht mit dir selbst spielen.
 chat.coinflip.invalid_coins=§cUngültiger betrag.
 title.coinflip.heads=§eKopf
 title.coinflip.tails=§eZahl
