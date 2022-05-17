@@ -1,6 +1,6 @@
 chat.how_to_verify=Please join our discord or teamspeak server to verify.
 chat.link.unknown=§cThis veirification code has expired or is invalid.
-chat.linked=§aSuccessfully connected to §e%s §aon §c%s§a.
-chat.resynced=§aRequested a re-sync.
-chat.unlinked=§eSuccessfully unlinked.
+chat.linked=Successfully connected to §a%s §7on %s.
+chat.resynced=Requested a re-sync.
+chat.unlinked=Successfully unlinked.
 chat.not_linked=§cYou are not linked with that platform.
