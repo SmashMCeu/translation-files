@@ -1,6 +1,6 @@
 chat.how_to_verify=Bitte joine unserem Discord oder Teamspeak-Server um dich zu verifizieren.
 chat.link.unknown=§cDieser Verifizierungscode ist abgelaufen oder ungültig.
-chat.linked=Du hast dich erfolgreich mit §a%s §7auf %s verknüpft.
+chat.linked=Du hast dich erfolgreich mit §a%s §7verknüpft.
 chat.resynced=Ein resync der Gruppen wurde angefordert.
 chat.unlinked=Du hast dich erfolgreich §centknüpft§7.
 chat.not_linked=§cDu bist nicht mit dieser Platform verknüpft.
