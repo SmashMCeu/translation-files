@@ -1,10 +1,6 @@
-info.prefix=join 
-info.sufix=§7and tip §a!link §7in §a#bot-commands§7 to link your acunt. 
-notLinked=ur account is not linket 
-unlinked=u hav sucesfuly unlinkt u accunt. 
-requestAccepted=§au r nw linkt. 
-requestDenied=§eu deniet teh link requesto. 
-unlink.unknownPlatform=unowon plattelforn pls use 1 of tis: %s.
-noOpenRequestFor=ther is nu open reqwuest frrom the platfrom %s
-groupsync.command.reload=realoding...
-groupsync.command.missingArgument=u better use /groupsync reload
+chat.how_to_verify=pls jon owour discort or teamspek serwer to verify.
+chat.link.unknown=§cThis veirification cod has expired or is is is is invalid.
+chat.linked=§e%s §ais now u on §c%s§a.
+chat.resynced=§areqquested re-sync.
+chat.unlinked=§esuccesswulie unlinkd :c
+chat.not_linked=§cu r not linkd wiht that.

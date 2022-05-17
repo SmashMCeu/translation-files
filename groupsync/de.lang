@@ -1,10 +1,6 @@
-info.prefix=Betrete unseren
-info.sufix=§7und gib §a!link §7in §a#bot-commands§7 ein um dich zu verlinken. 
-notLinked=Dein Account ist nicht verlinkt. 
-unlinked=Du hast die Verlinkung aufgehoben. 
-requestAccepted=§aDu bist jetzt verlinkt. 
-requestDenied=§eDu hast die Verlinkungsanfrage abgelehnt. 
-unlink.unknownPlatform=Unbekannte Plattform. Verfügbar: %s.
-noOpenRequestFor=Keine offene Verlinkunsanfrage mit der Plattform: %s
-groupsync.command.reload=§aGroupsync wurde neu geladen
-groupsync.command.missingArgument=§cBitte nutze §e/groupsync reload
+chat.how_to_verify=Bitte joine unserem Discord oder Teamspeak-Server um dich zu verifizieren.
+chat.link.unknown=§cDieser Verifizierungscode ist abgelaufen oder ungültig.
+chat.linked=§aDu hast dich erfolgreich mit §e%s §aauf %s verknüpft.
+chat.resynced=§aEin resync wurde angefordert.
+chat.unlinked=§eDu hast dich erfolgreich entknüpft.
+chat.not_linked=§cDu bist nicht mit dieser Platform verknüpft.

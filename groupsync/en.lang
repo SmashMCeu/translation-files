@@ -1,10 +1,6 @@
-info.prefix=Join our
-info.sufix=§7and type §a!link §7in §a#bot-commands§7 to link your account.
-notLinked=Your account is not linked. 
-unlinked=You have successfully unlinked your account.
-requestAccepted=§aYou are now linked.
-requestDenied=§eYou denied the link request. 
-unlink.unknownPlatform=Unknown platform please use one of these: %s.
-noOpenRequestFor=There is no open request from the platform %s
-groupsync.command.reload=You have triggered a reload.
-groupsync.command.missingArgument=Please use /groupsync reload
+chat.how_to_verify=Please join our discord or teamspeak server to verify.
+chat.link.unknown=§cThis veirification code has expired or is invalid.
+chat.linked=§aSuccessfully connected to §e%s §aon §c%s§a.
+chat.resynced=§aRequested a re-sync.
+chat.unlinked=§eSuccessfully unlinked.
+chat.not_linked=§cYou are not linked with that platform.
