@@ -4,3 +4,4 @@ chat.linked=Du hast dich erfolgreich mit §a%s §7verknüpft.
 chat.resynced=Ein resync der Gruppen wurde angefordert.
 chat.unlinked=Du hast dich erfolgreich §centknüpft§7.
 chat.not_linked=§cDu bist nicht mit dieser Platform verknüpft.
+chat.verify_info=Deine Verifikationen:
