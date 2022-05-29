@@ -36,7 +36,6 @@ chat.filter.werbung=§cis this a viruz link????
 chat.filter.capslock=§cpls dont shout :c
 chat.filter.symbole=§cthis character iz bad :o
 chat.joinme.wait=§7u ned to wait §e%s §7before u can perform joinmah.
-chat.cannot_punish=§cThis player cannot be punished.
 
 chat.stats.missing=§cPlayer §e%s §chas no play §e%s §cin the time.
 chat.stats.head=§7╔═ §c❤ §7════ §a%s §7════════╗
@@ -54,5 +53,3 @@ chat.stats.character= §8● §7waifu§8: §a%s
 chat.stats.map= §8● §b%s§8: §a%s §7gamez/dai §7(§e%s §7totl)
 chat.stats.invalid_position=§cno player has thizz rank :o
 chat.charstats= §8● §7%s§8: §a%s §7piccz §8| §a%s%% §7win probabilitie
-ban.reason.trolling=trolli
-ban.reason.targeting=target
