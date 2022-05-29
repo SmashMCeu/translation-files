@@ -1,5 +1,3 @@
-chat.giveaway=§6Win a §5§lNintendo Switch §6and §c§lmuch more!!!! §6More information at §9https://smashmc.eu/giveaway
-
 chat.server_not_found=§cServer couldn't be found!
 chat.cant_on_lobby=§cYou can't do this on the lobby!
 chat.already_on_server=§cYou're already on this server! Use §e/spawn §cto get to spawn!
@@ -13,82 +11,6 @@ chat.chatfilter.message= §8➥ §eMessage§8: §7%s
 chat.chatfilter.mute= §8➥ §eClick here to mute§8: 
 chat.chatfilter.recognized=§cDetected word: §e%s
 
-chat.mute.temporarily.cancel=§7You are §ctemporarily §7banned from the chat for §c%s
-chat.mute.permanently.cancel=§7You are §cpermanently §7banned from the chat
-chat.mute.remaining_time=§7Remaining time §8➥ §e%s
-
-chat.mute=§7Player §a%s §7was muted by §a%s §7for the reason §c%s
-chat.ban=§7Player §a%s §7was banned by §a%s §7for the reason §c%s
-chat.ban.remaining_time=§7Remaining time §8➥ §e%s
-chat.unmute=§7Player §a%s §7was unmuted by §a%s
-chat.unmute_notify=§7You were unmuted by §a%s
-chat.unban=§7Player §a%s §7was unbanned by §a%s
-
-chat.already_banned=§cThis player is already banned!
-chat.already_muted=§cThis player is already muted!
-
-chat.not_banned=§cThis player is currently not banned!
-chat.not_muted=§cThis player is currently not muted!
-
-chat.kick=§7Player §a%s §7was kicked by §a%s
-chat.kick.reason=§7Reason§8: §c%s
-chat.cannot_punish=§cThis player cannot be punished.
-
-chat.info=§7Information about §e%s §7(%s§7)
-chat.info.first_joined=§8➥ §a§lFirst joined§8: §e%s
-chat.info.last_seen=§8➥ §a§lLast seen§8: §e%s
-chat.info.ban_points=§8➥ §a§lBan points§8: §e%s
-chat.info.mute_points=§8➥ §a§lMute points§8: §e%s
-chat.info.bans=§8➥ §a§lBans§8:
-chat.info.mutes=§8➥ §a§lMutes§8:
-chat.info.server=§8➥ §a§lActive on §8: §e%s
-chat.info.playtime=§8➥ §a§lPlaytime: §e%s Hours und %s Minutes
-chat.info.sameIp=§8➥ §a§lSame IP: §e
-chat.info.active=§7(§aactive§7)
-
-chat.punishment_removed=§7Punishment §e%s §7has been §cremoved§7.
-chat.unknown_punishment=§cUnknown punishment ID!
-chat.punishinfo=§7Information about punishment §a%s
-chat.punishinfo.from=§8➥ §7From§8: §e%s
-chat.punishinfo.reason=§8➥ §7Reason§8: §e%s
-chat.punishinfo.comment=§8➥ §7Comment§8: §e%s
-chat.punishinfo.created_by=§8➥ §7Created by§8: §e%s
-chat.punishinfo.created_on=§8➥ §7Created on§8: §e%s
-chat.punishinfo.end_at=§8➥ §7Ends at§8: §e%s
-
-kick.title=§cYou were kicked from the server!
-kick.reason=§7Reason §8➥ §c%s
-
-ban.title=§cYou are %s banned from this server!
-ban.reason=§7Reason §8➥ §c%s
-ban.banned_by=§7Banned by §8➥ §c%s
-ban.remaining_time=§7Remaining time §8➥ §e%s
-ban.appeal_at=§7Appeal at §a§n%s
-
-ban.reason.altaccount=Alt account
-ban.reason.appearance=Appearance
-ban.reason.hacking=Hacking
-ban.reason.reportabuse=Report abuse
-ban.reason.teaming=Teaming
-ban.reason.vpn=VPN
-ban.reason.bugusing=Bug using
-ban.reason.houseban=Houseban
-ban.reason.name=Name
-ban.reason.farming=Farming
-ban.reason.buildings=Buildings
-ban.reason.trolling=Trolling
-ban.reason.targeting=Targeting
-
-mute.reason.advertising=Advertising
-mute.reason.offense=Offense
-mute.reason.spam=Spam
-mute.reason.threat=Threat
-mute.reason.provocation=Provocation
-
-punishment.type.perm=permanently
-punishment.type.temp=temporarily
-
-chat.button.click=§e§l[Click]
 chat.teamspeak=Talk with other players on our TeamSpeak: 
 chat.discord=Take a look at our Discord: 
 chat.apply=Here you can apply: 
