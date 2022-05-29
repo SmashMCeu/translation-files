@@ -69,7 +69,8 @@ chat.deathmatch_end=§eDas Deathmatch endet in §c%s Sekunden§e.
 chat.no_self_play=§cDu kannst nicht mit dir selbst spielen.
 chat.button.accept=§a§l[ANNEHMEN]
 chat.button.deny=§c§l[ABLEHNEN]
-chat.button.confirm=[BESTÄTIGEN]
+chat.button.confirm=§a§l[BESTÄTIGEN]
+chat.button.click=§e§l[KLICK]
 
 # Common kick messages
 kick.server_full=§cDer Server ist voll! Du kannst §3Pro §ckaufen, um trotzdem joinen zu können!
