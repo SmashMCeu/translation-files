@@ -21,12 +21,6 @@ chat.maintenance.off=§7maintenance mode has been turnd §coff
 maintenance.disconnect=§cwe r currently in maintenance mode!
 chat.donate=§acheck dis siet 4 moar informashun: §ehttps://shop.smashmc.eu/
 chat.chatclear=§athe chat has been cleard!
-chat.texture.invalid=§cinvalid texchur.
-chat.skin.already_banned=§cthis skin iz already bannd.
-chat.skin.banned.other=§7the skin ov §a%s §7was bannd by §a%s
-kick.reason.skin=plz change ur skin.
-chat.skin.not_banned=dis skin iz not bannd.
-chat.skin.unbanned=§7the skin ov §a%s §7was unbannd by §a%s
 
 chat.streamer.enabled=§7Streamz mode §aGOOOOOO
 chat.streamer.disabled=§7Streamz mode §cgone
