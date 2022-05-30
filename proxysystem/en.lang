@@ -30,14 +30,6 @@ maintenance.disconnect=§cWe are currently in maintenance mode!
 chat.donate=§aCheck this site for more information: §ehttps://shop.smashmc.eu/
 chat.chatclear=§aThe chat has been cleared!
 
-# SkinBan
-chat.texture.invalid=§cInvalid texture.
-chat.skin.already_banned=§cThis skin is already banned.
-chat.skin.banned.other=§7The skin of §a%s §7was banned by §a%s
-kick.reason.skin=Please change your skin.
-chat.skin.not_banned=This skin is not banned.
-chat.skin.unbanned=§7The skin of §a%s §7was unbanned by §a%s
-
 chat.streamer.enabled=§7Streamer mode §aenabled
 chat.streamer.disabled=§7Streamer mode §cdisabled
 chat.streamer.still_enabled=§7The streamer mode is still active. Please use §e/streamer §7to disable.

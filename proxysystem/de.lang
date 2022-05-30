@@ -30,14 +30,6 @@ maintenance.disconnect=§cWir sind grade im Wartungsmodus!
 chat.donate=§aBesuche diese Seite für mehr Informationen: §ehttps://shop.smashmc.eu/
 chat.chatclear=§aDer Chat wurde geleert!
 
-# SkinBan
-chat.texture.invalid=§cDieser Spieler hat einen ungültigen Skin..
-chat.skin.already_banned=§cDieser Skin ist bereits gebannt.
-chat.skin.banned.other=§7Der Skin von §a%s §7wurde von §a%s §7gebannt.
-kick.reason.skin=Bitte ändere deinen Skin.
-chat.skin.not_banned=Der Skin dieses Spielers ist nicht gebannt!
-chat.skin.unbanned=§7Der Skin von §a%s §7wurde von §a%s §7entbannt.
-
 chat.streamer.enabled=§7Streamer modus §aaktiviert
 chat.streamer.disabled=§7Streamer modus §cdeaktiviert
 chat.streamer.still_enabled=§7Der Streamermodus ist noch aktiv. Nutze §e/streamer §7zum deaktivieren.
@@ -69,4 +61,3 @@ chat.stats.character= §8● §7Meist gespielt§8: §a%s
 chat.stats.map= §8● §b%s§8: §a%s §7Spiele/§7Tag §7(§e%s §7Total)
 chat.stats.invalid_position=§cEs gibt keinen Spieler mit diesem Ranking.
 chat.charstats= §8● §a%s§8: §7%s Spiele §8| §a%s%% §7Winrate
-
