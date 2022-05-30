@@ -12,5 +12,5 @@ item.name.disabled=§8➤ §5§lНик §8▍ §7Правый клик
 inventory.title=§5§lНик
 inventory.item.off=§c§lНет ника
 inventory.item.default=§a§lНик игрока
-inventory.item.pro=§3§lПро ник
-inventory.item.proplus=§b§lПро+ ник
+inventory.item.pro=§3§lPro ник
+inventory.item.proplus=§b§lPro+ ник
