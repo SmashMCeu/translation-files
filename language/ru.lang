@@ -1,0 +1,3 @@
+# Language plugin
+inventory.name=§cПожалуйста выбери свой язык
+chat.language=§aТы выбрал §e%s§a. Ты всегда можешь его изменить прописав §e/language§a.
