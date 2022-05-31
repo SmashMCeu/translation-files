@@ -59,5 +59,5 @@ chat.stats.wins= §8● §7Победы§8: §a%s
 chat.stats.winprop= §8● §7Вероятность победы§8: §a%s%%
 chat.stats.character= §8● §7Самые популярные§8: §a%s
 chat.stats.map= §8● §b%s§8: §a%s §7игр/день §7(§e%s §7всего)
-chat.stats.invalid_position=§cНа этой позиции нет игроков.
+chat.stats.invalid_position=§cНа этой позиции нет игрока.
 chat.charstats= §8● §a%s§8: §7%s выборов §8| §a%s%% §7Вероятность победы
