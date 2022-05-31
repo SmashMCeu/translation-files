@@ -1,7 +1,7 @@
 item.lore.players=§8➥ §7Игроки §8» §a%s§8/§a%s
 item.lore.server_state=§8➥ §7Статус §8» %s
 item.name.create_server=§aСоздать приватный сервер
-item.lore.create_server=§7Создать приватный сервер.
+item.lore.create_server=§7Создаёт приватный сервер.
 item.name.edit_server=§eИзменить приватный сервер
 item.lore.edit_server=§7Изменяет твой приватный сервер.
 item.name.set_pin=§3Ввести ПИН сервера
@@ -16,7 +16,7 @@ inventory.create=§aСоздать сервер
 inventory.edit=§cИзменить сервер
 inventory.list=§a§lПриватные сервера
 inventory.enter_pin=§3Ввести новый пин
-inventory.enter_the_pin=§cВведи новый пин
+inventory.enter_the_pin=§cВведи пин
 chat.no_private_server=§cТы не имеешь приватные сервера!
 item.name.private_server=§aSmash %s
 item.name.private_server_pin=§e%s's §7Server (§c§lPin§7)
