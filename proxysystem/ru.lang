@@ -13,7 +13,7 @@ chat.chatfilter.recognized=§cОбнаружено слово: §e%s
 
 chat.teamspeak=Разговаривай с другими игроками в нашем TeamSpeak: 
 chat.discord=Загляни в наш Discord: 
-chat.apply=Здесь ты можешь подтвердить: 
+chat.apply=Здесь ты можешь подать заявку: 
 
 chat.joinme=§7Игрок §e%s §7сейчас играет на §6%s §7Server 
 chat.joinme.button=§a§l[ПРИСОЕДИНИТЬСЯ]
@@ -36,28 +36,28 @@ chat.streamer.still_enabled=§7В данный момент активирова
 chat.streamer.feature_disabled=§cДля начала пожалуйста выключи режим стримера.
 
 # Chat filter warnings
-chat.filter.blacklist=§cPlease stay calm and kind :)
-chat.filter.zeichenspam=§cPlease don't flood the chat with characters.
-chat.filter.wiederholung=§cPlease do not repeat chat messages.
-chat.filter.spam=§cPlease slow down in chat.
-chat.filter.werbung=§cPlease don't use domains in chat.
-chat.filter.capslock=§cPlease disable capslock.
-chat.filter.symbole=§cYou message contains illegal characters.
+chat.filter.blacklist=§cБыдло, пожалуйста успокойся :)
+chat.filter.zeichenspam=§cПожалуйста не засоряйте чат символами.
+chat.filter.wiederholung=§cПожалуйста не повторяй сообщения.
+chat.filter.spam=§cПожалуйста пиши помедленее, не будет быстрым.
+chat.filter.werbung=§cПожалуйста не используй домены в чате.
+chat.filter.capslock=§cПожалуйста выключи CAPSLOCK.
+chat.filter.symbole=§cТвоё сообщение содержит недопустимые символы.
 
 # StatsV2
-chat.stats.missing=§cPlayer §e%s §chasn't played §e%s §cin the given time frame.
+chat.stats.missing=§cИгрок §e%s §cне играл в §e%s §cв указанный период времени.
 chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
 chat.stats.tail= 
-chat.stats.about.all=§8» §a%s§8: §7All time statistics<br>
-chat.stats.about.monthly=§8» §a%s§8: §7Statistics of the last 30 days<br>
-chat.stats.rank= §8● §7Ranking§8: §a%s
-chat.stats.kills= §8● §7Kills§8: §a%s
-chat.stats.deaths= §8● §7Deaths§8: §a%s
+chat.stats.about.all=§8» §a%s§8: §7Статистика за всё время<br>
+chat.stats.about.monthly=§8» §a%s§8: §7Статистика за последние 30 дней<br>
+chat.stats.rank= §8● §7Рейтинг§8: §a%s
+chat.stats.kills= §8● §7Убийства§8: §a%s
+chat.stats.deaths= §8● §7Смерти§8: §a%s
 chat.stats.kd= §8● §7K/D§8: §a%s
-chat.stats.games= §8● §7Games§8: §a%s
-chat.stats.wins= §8● §7Wins§8: §a%s
-chat.stats.winprop= §8● §7Win propability§8: §a%s%%
-chat.stats.character= §8● §7Most played§8: §a%s
-chat.stats.map= §8● §b%s§8: §a%s §7games/day §7(§e%s §7total)
-chat.stats.invalid_position=§cThere is no player at this position.
-chat.charstats= §8● §a%s§8: §7%s picks §8| §a%s%% §7Win propability
+chat.stats.games= §8● §7Игры§8: §a%s
+chat.stats.wins= §8● §7Победы§8: §a%s
+chat.stats.winprop= §8● §7Вероятность победы§8: §a%s%%
+chat.stats.character= §8● §7Самые популярные§8: §a%s
+chat.stats.map= §8● §b%s§8: §a%s §7игр/день §7(§e%s §7всего)
+chat.stats.invalid_position=§cНа этой позиции нет игроков.
+chat.charstats= §8● §a%s§8: §7%s выборов §8| §a%s%% §7Вероятность победы
