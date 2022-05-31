@@ -1,0 +1,63 @@
+chat.server_not_found=§cСервер не найден!
+chat.cant_on_lobby=§cТы не можешь сделать это в лобби!
+chat.already_on_server=§cТы уже на этом сервере! Используй §e/spawn §cчто бы телепортироватся на спавн!
+chat.help=Список самых важных команд:
+
+chat.teamchat=§8● §eTeamChat §8| §6%s §8➥ §7%s
+
+chat.chatfilter.insult=§a%s §7пытался §cоскорбить
+chat.chatfilter.advertising=§a%s §7пытался §cпрорекламировать
+chat.chatfilter.message= §8➥ §eСообщение§8: §7%s
+chat.chatfilter.mute= §8➥ §eНажми сюда что бы замьютить§8: 
+chat.chatfilter.recognized=§cОбнаружено слово: §e%s
+
+chat.teamspeak=Разговаривай с другими игроками в нашем TeamSpeak: 
+chat.discord=Загляни в наш Discord: 
+chat.apply=Здесь ты можешь подтвердить: 
+
+chat.joinme=§7Игрок §e%s §7сейчас играет на §6%s §7Server 
+chat.joinme.button=§a§l[ПРИСОЕДИНИТЬСЯ]
+chat.joinme.wait=§7Тебе нужно подождать §e%s §7прежде чем присоединиться ко мне.
+
+chat.spy=§8● §3Spy §8➥ §7%s: %s
+chat.spy.added=§7Spy mode §aактивирован *TF2 Music*
+chat.spy.removed=§7Spy mode §cдеактивирован
+
+chat.maintenance.on=§7Режим технических работ изменён на §aon
+chat.maintenance.off=§7Режим технических работ изменён на §coff
+maintenance.disconnect=§cУ нас технические работы!
+
+chat.donate=§aЧекни наш сайт чтобы узнать больше информации: §ehttps://shop.smashmc.eu/
+chat.chatclear=§aЧат был очистен!
+
+chat.streamer.enabled=§7Режим стримера §aвключен
+chat.streamer.disabled=§7Режим стримера §cвыключен
+chat.streamer.still_enabled=§7В данный момент активирован режим стримера. Пожалуйста используй §e/streamer §7что бы выключить.
+chat.streamer.feature_disabled=§cДля начала пожалуйста выключи режим стримера.
+
+# Chat filter warnings
+chat.filter.blacklist=§cPlease stay calm and kind :)
+chat.filter.zeichenspam=§cPlease don't flood the chat with characters.
+chat.filter.wiederholung=§cPlease do not repeat chat messages.
+chat.filter.spam=§cPlease slow down in chat.
+chat.filter.werbung=§cPlease don't use domains in chat.
+chat.filter.capslock=§cPlease disable capslock.
+chat.filter.symbole=§cYou message contains illegal characters.
+
+# StatsV2
+chat.stats.missing=§cPlayer §e%s §chasn't played §e%s §cin the given time frame.
+chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
+chat.stats.tail= 
+chat.stats.about.all=§8» §a%s§8: §7All time statistics<br>
+chat.stats.about.monthly=§8» §a%s§8: §7Statistics of the last 30 days<br>
+chat.stats.rank= §8● §7Ranking§8: §a%s
+chat.stats.kills= §8● §7Kills§8: §a%s
+chat.stats.deaths= §8● §7Deaths§8: §a%s
+chat.stats.kd= §8● §7K/D§8: §a%s
+chat.stats.games= §8● §7Games§8: §a%s
+chat.stats.wins= §8● §7Wins§8: §a%s
+chat.stats.winprop= §8● §7Win propability§8: §a%s%%
+chat.stats.character= §8● §7Most played§8: §a%s
+chat.stats.map= §8● §b%s§8: §a%s §7games/day §7(§e%s §7total)
+chat.stats.invalid_position=§cThere is no player at this position.
+chat.charstats= §8● §a%s§8: §7%s picks §8| §a%s%% §7Win propability
