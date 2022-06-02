@@ -1,0 +1,75 @@
+prefix=§8● §eДрузья §8➥ §7
+
+chat.empty_page=§cЭто страница пустая
+chat.already_server=§cТы уже на этом сервере 
+chat.no_number=§cЭто не номер
+
+chat.reply_empty=§cНет сообщения на которое можно ответить
+
+chat.help=§aКоманды управления друзьями<br>%s
+
+chat.settings.friend_requests=§cЭтот игрок не принял заявку в друзья
+chat.settings.jumping=§cЭтот игрок выключил прыжки
+chat.settings.party_requests=§cЭтот игрок не будет принимать от тебя заявку в пати
+chat.settings.private_messages=§cЭтот игрок не будет принимать от тебя приватные сообщения 
+
+chat.friend.already=У тебя уже есть в друзьях §a%s
+chat.friend.add=Заявка в друзья отправлена §a%s
+chat.friend.remove=§7Дружба с §c%s §7была оборвана
+chat.friend.accept=§a%s §7теперь твой друг
+chat.friend.accept_all=Все заявки в друзья были §aприняты
+chat.friend.deny=Заявка в друзья от §c%s §7была отклонена
+chat.friend.deny_all=Все заявки в друзья были §cотклонены
+chat.friend.jump=§7Прыгаю к §a%s §7...
+chat.friend.request=§a%s §7хочет стать с тобой друзьями<br>     §7Нажми сюда: 
+chat.friend.request_already=§cЗаявка в друзья уже была отправлена 
+chat.friend.button.accept=§a§l[ПРИНЯТЬ]
+chat.friend.button.decline=§c§l[ОТКЛОНИТЬ]
+chat.friend.online=§a%s §7теперь онлайн.
+chat.friend.offline=§c%s §7теперь оффлайн.
+chat.friend.no_request=§cУ тебя нету заявок в друзья от §a%s
+chat.friend.no_friend=§cИгрока §a%s §cнету в твоём списке друзей
+chat.friend.list=Твои друзья §aСтраница %s
+chat.friend.list.online=§aОнлайн
+chat.friend.list.offline=§cОффлайн
+chat.friend.requests=Заявки в друзья §aСтраница %s
+chat.friend.toggle=§a%s §7обновлён к %s
+chat.friend.toggle_invalid=§cНастройка к имени §a%s §не найдена
+
+chat.toggle.enabled=§aвключен
+chat.toggle.disabled=§cвыключен
+
+inv.friends=§8§l➤ §e§lДрузья
+inv.friend_requests=§8§l➤ §e§lЗаявка в друзья
+inv.settings=§8§l➤ §e§lНастройки
+
+hotbar.friends=§8➤ §e§lДрузья §8▍ §7Правый клик
+
+item.name.friends=§7Друзья: §a%s
+item.name.friend_requests=§7Заявки в друзья: §e%s
+item.name.settings=§7Настройки
+
+item.lore.current_server=§7В данный момент на §e%s
+item.lore.online=§aОнлайн
+item.lore.offline=§cОффлайн
+
+item.name.enabled=§aВКЛЮЧЁН
+item.name.disabled=§cВЫКЛЮЧЕН
+
+item.name.all=§aВСЕ
+item.name.only_friends=§6ТОЛЬКО ДРУЗЬЯ 
+item.name.nobody=§CНИКТО
+
+item.name.private_messages=§6Приватные сообщения
+item.name.party_requests=§5Заявки в пати
+item.name.friend_request=§aЗаявки в друзья
+
+item.name.friend.accept=§a§lПРИНЯТЬ
+item.name.friend.decline=§c§lОТКЛОНИТЬ
+
+item.name.party_invite=§5Пригласить в пати
+item.name.party_invite.disabled=§5§mПригласить в пати
+item.name.jumping=§bПрыжок
+item.name.jumping.disabled=§b§mПрыжок
+
+empty=%s
