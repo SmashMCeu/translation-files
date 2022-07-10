@@ -127,7 +127,7 @@ item.name.lobby_connected=§a%s §7(§aТекущий§7)
 
 # Player hider
 item.name.players_shown=§8➤ §3§lИгроки §8▍ §aПоказываються
-item.name.players_hidden=§8➤ §3§lPlayers §8▍ §cСкрыты
+item.name.players_hidden=§8➤ §3§lИгроки §8▍ §cСкрыты
 
 # Achievements Item
 item.name.achievements=§8➤ §b§lДостижения
@@ -141,91 +141,91 @@ chat.dropper.area=§cПожалуйста, не покидайте террит�
 chat.dropper.fail=§cТы провалил дроппер!
 chat.dropper.finish=§aТы закончил дроппер уровня §e%s§a!
 chat.dropper.highscore=§aВысокий результат §7в дроппере §a%s §7у §a%s§7!
-chat.football.score_blue=Игрок §a%s §7scored for the §bblue team§7!
-chat.football.score_red=Player §a%s §7scored for the §cred team§7!
-chat.ttt.wait=§aWaiting for another player...
-chat.ttt.leave_queue=§eYou left the queue for TickTackToe!
-chat.ttt.start=§aThe game starts now!
-chat.ttt.tie=§eThis is a tie!
-chat.ttt.win=§aPlayer §e%s §awon!
-chat.follow_me=Hey! Follow me on social media :)
-chat.teleport_to=§7Teleporting you to §a%s§7...
-chat.highscore=§7The highscore is §a%s§7 by §a%s§7!
-entity.survival.playing=%s playing
-entity.play_dropper=§a§lMinigame: §9§lThe Dropper
-entity.play_football=§a§lMinigame: §b§lFootball
-entity.play_ttt=§a§lMinigame: §c§lTicTacToe
-entity.play_snake=§a§lMinigame: §2§lSnake
+chat.football.score_blue=Игрок §a%s §7забил за §bсинию команду§7!
+chat.football.score_red=Игрок §a%s §7забил за §cкрасную команду§7!
+chat.ttt.wait=§aОжидание остальных игроков...
+chat.ttt.leave_queue=§eВы вышли из очереди в Крестики-нолики!
+chat.ttt.start=§aИгра началась!
+chat.ttt.tie=§eНичья!
+chat.ttt.win=§aИгрок §e%s §aвыйграл!
+chat.follow_me=Хей! Следи за мной в соц. сетях :)
+chat.teleport_to=§7Телепортация к §a%s§7...
+chat.highscore=§7Лучший рекорд §a%s§7 от §a%s§7!
+entity.survival.playing=%s играет
+entity.play_dropper=§a§lМини-игра: §9§lДроппер
+entity.play_football=§a§lМини-игра: §b§lФутболл
+entity.play_ttt=§a§lМини-игра: §c§lКрестики-нолики
+entity.play_snake=§a§lМини-игра: §2§lЗмейка
 actionbar.global_spinner=Global spinner: %s
-chat.become_partner=§7You want to apply for a partnership with SmashMC? Please contact us on our Discord (§3/discord§7).
+chat.become_partner=§7Вы хотите начать партнёрство с SmashMC? Пожалуйста, обратитесь в наш Discord (§3/discord§7).
 
 # Osterevent
 eastern.title.collected= 
-eastern.title.collected_sub=§aYou found an easter egg!
-eastern.title.already_collected=§cYou've already found this egg!
-eastern.title.all_collected=§6§lCongratulations!
-eastern.title.all_collected_sub=§7You found all easter eggs!
-eastern.chat.giveaway_entered=§aYou found all §eeaster eggs §aand entered the giveaway.
-eastern.holo.line1=§e✪ §6SmashMC Easter Event §e✪
-eastern.holo.line2=§7For every easter egg you get §e200 Coins§7.
-eastern.holo.line3=§7Additionally there is a giveaway for those
-eastern.holo.line4=§7who found all easter eggs. (§b/discord§7)
-eastern.holo.your_eggs=§eYour easter eggs §8» §6§l%s§7/§e%s
-eastern.chat.all_collected=§7§lThe player §e§l%s §7§lfound all easter eggs.
+eastern.title.collected_sub=§aТы нашёл пасхальное яицо!
+eastern.title.already_collected=§cТы уже находил это яицо!
+eastern.title.all_collected=§6§lПоздравляем!
+eastern.title.all_collected_sub=§7Ты нашёл все яица!
+eastern.chat.giveaway_entered=§aТы нашёл все §eпасхальные яица §aи можешь присойденится к раздаче.
+eastern.holo.line1=§e✪ §6SmashMC Пасхальный ивент §e✪
+eastern.holo.line2=§7За каждое пасхальное яицо вы получаете §e200 Монет§7.
+eastern.holo.line3=§7Дополнительно проводится розыгрыш для тех,
+eastern.holo.line4=§7 кто нашел все пасхальные яица. (§b/discord§7)
+eastern.holo.your_eggs=§eТвои яица §8» §6§l%s§7/§e%s
+eastern.chat.all_collected=§7§lИгрок §e§l%s §7§l нашёл все пасхальные яица.
 # Halloween Event
 halloween.title.collected= 
-halloween.title.collected_sub=§eYou collected a sweet!
-halloween.title.already_collected=§cYou've already collected this sweet!
-halloween.title.all_collected=§c§lcongratulations!
-halloween.title.all_collected_sub=§eYou collected all sweets!
-halloween.chat.giveaway_entered=§eYou collected all sweets!
-halloween.holo.line1=§4✪ §c§lSmashMC Halloween 2021 §4✪
-halloween.holo.line2=§7For every sweet you get §c200 Coins§7.
-halloween.holo.line3=§7Additionally you are rewarded unique
-halloween.holo.line4=§7items for every 10th sweet.
-halloween.holo.your_eggs=§eYour sweets §8» §c§l%s§7/§c%s
-halloween.chat.all_collected=§7§lThe player §c§l%s §7§lcollected all sweets.
-chat.reward=§aYou recieved a new reward.
+halloween.title.collected_sub=§eТы нашёл конфету!
+halloween.title.already_collected=§cТы уже нашёл эту конфету!
+halloween.title.all_collected=§c§lПоздравляем!
+halloween.title.all_collected_sub=§eТы нашёл все конфеты!
+halloween.chat.giveaway_entered=§eТы нашёл все конфеты!
+halloween.holo.line1=§4✪ §c§lSmashMC Хеллоуин 2021 §4✪
+halloween.holo.line2=§7За каждую конфету (с солью) даётся §c200 Монет§7.
+halloween.holo.line3=§7Кроме того, ты получишь уникальные
+halloween.holo.line4=§7предметы за каждую 10-ую конфету.
+halloween.holo.your_eggs=§eТвои конфеты §8» §c§l%s§7/§c%s
+halloween.chat.all_collected=§7§lИгрок §c§l%s §7§lсобрал все конфеты.
+chat.reward=§aТы получил новую награду.
 
 # Claim Vote
-item.claimvote.name=§aClaim vote
-item.claimvote.lore1=§7Vote and claim your reward.
-item.claimvote.lore2=§eYou can vote every 24h
-chat.claimvote.success=§aYou claimed your reward! A key has been added to your keychain. You can now use it to open a chest at the chestopening.
-chat.claimvote.failure=§cYou can't claim your reward because you haven't voted yet or already claimed your reward! You can vote every 24h here: §ehttps://minecraft-server.eu/vote/index/1E504/%s
+item.claimvote.name=§aПроголосовать
+item.claimvote.lore1=§7Проголосуй и забери свою награду.
+item.claimvote.lore2=§eТы можешь голосовать каждые 24 часа
+chat.claimvote.success=§aТы забрал свою награду! Ключ был добавлен в твою связку ключей. Ты можешь его использовать для открытия сундуков.
+chat.claimvote.failure=§cТы не можешь забрать награду, потому что ты не проголосовал или уже проголосовал! Голосовать ты можешь здесь каждые 24 часа: §ehttps://minecraft-server.eu/vote/index/1E504/%s
 
 # Afk
-chat.afk.on=§aYou're now displayed as afk!
-chat.afk.off=§cYou're no longer displayed as afk.
-chat.target_afk=§7Hey! The player §e%s §7seems to be AFK.
+chat.afk.on=§aТы сейчас отоброжаешься как AFK.
+chat.afk.off=§cТы больше не отоброжаешься как AFK.
+chat.target_afk=§7Хей! Игрок §e%s §7кажется в AFK.
 
 # Minigames
-item.lore.football=§7Play FFA soccer with other players.
-item.lore.kotl=§7Are you the king of the ladder?
-item.lore.snake=§7Is your snake the biggest one?
-item.lore.the_dropper_1=§7Play the dropper with increasing
-item.lore.the_dropper_2=§7difficulty and set the highscore.
+item.lore.football=§7Играй в FFA soccer с другими игроками.
+item.lore.kotl=§7Ты царь горы?
+item.lore.snake=§7У тебя самая большая змея?
+item.lore.the_dropper_1=§7Играйте в дроппер с захватывающей
+item.lore.the_dropper_2=§7сложностью и ставьте рекорды
 
 # Jump and run
-chat.jumpandrun.level_finished=§7You reached jump and run level §a%s§7!
-chat.jumpandrun.beat_highscore=§aYou set the jump and run highscore to §e%s§a!
-chat.jumpandrun.highscore=§7The highscore for the jump and run is §a%s§7 by §a%s§7!
+chat.jumpandrun.level_finished=§7Ты достиг уровня "Беги и прыгай" §a%s§7!
+chat.jumpandrun.beat_highscore=§aТы поставил новый рекорд в "Беги и прыгай" §e%s§a!
+chat.jumpandrun.highscore=§7Высший рекорд в "Беги и прыгай" §a%s§7 у §a%s§7!
 
-chat.no_abuse.enabled=§aDon't disturb mode enabled.
-chat.no_abuse.disabled=§cDon't disturb mode disabled.
+chat.no_abuse.enabled=§aРежим "Не Беспокоить" ВКЛ.
+chat.no_abuse.disabled=§cРежим "Не Беспокоить" ВЫКЛ.
 
 # Christmas Event
-entity.name.santa=§c§lAdvent calendar
-christmas.chat.reward.in_future=§cYou can't open this door yet!
-christmas.chat.reward.in_past=§cYou can't open this door anymore!
-christmas.chat.reward.already_claimed=§cYou have already opened this door.
-christmas.chat.reward.claimed=§aYou opened the door §c§l%s.
-christmas.chat.reward.coins=§aYou were rewarded with §e%s Coins
-christmas.chat.reward.vipkeys=§aYou were rewarded §e%s VIP-Key(s)
-christmas.chat.reward.votekeys=§aYou were rewarded §e%s Vote-Key(s).
-christmas.chat.reward.rank=§aYou were rewarded with §e1 Day Pro Rank §a
-christmas.chat.reward.gadget=§aYou were rewarded with the §e%s-Gadget
-christmas.chat.reward.refund=§aYou were rewarded §e%s Coins§a.
-christmas.inventory.calendar=§8➤ §c§lAdvent calendar
-christmas.item.name=§c§lDoor %s
-christmas.item.lore=§7➥ Click to open
+entity.name.santa=§c§lАдвент-календарь
+christmas.chat.reward.in_future=§cПока-что ты не можешь открыть эту дверь!
+christmas.chat.reward.in_past=§cБольше ты не можешь открыть эту дверь!
+christmas.chat.reward.already_claimed=§cТы уже открыл эту дверь.
+christmas.chat.reward.claimed=§aТы открыл дверь §c§l%s.
+christmas.chat.reward.coins=§aТы получил награду ввиде §e%s Монет
+christmas.chat.reward.vipkeys=§aТы получил награду ввиде §e%s VIP-Ключ(ей)
+christmas.chat.reward.votekeys=§aТы получил награду ввиде §e%s Vote-Ключ(ей).
+christmas.chat.reward.rank=§aТы получил награду ввиде §e1-го дня Pro Ранга §a
+christmas.chat.reward.gadget=§aТы получил награду ввиде §e%s
+christmas.chat.reward.refund=§aТы получил награду ввиде §e%s Монет§a.
+christmas.inventory.calendar=§8➤ §c§lАдвент-календарь
+christmas.item.name=§c§lДверь %s
+christmas.item.lore=§7➥ Кликни чтобы открыть
