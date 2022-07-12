@@ -20,7 +20,7 @@ chat.unknown_character=§cНеизвестный персонаж.
 chat.force_map=§aКарта §e%s §aпринудительно выбрана!
 chat.deathmatch_started=§eДэзматчи начинается! Через §c60 секунд§e, игрок ближайший к огненному лучу, побеждает!
 kick.inactivity=§eТы был кикнут за неактив.
-chat.inactivity_warning=§cПожалуйста сразись, или ты будешь кикнут за неактив.
+chat.inactivity_warning=§cПожалуйста, сразись, или ты будешь кикнут за неактив.
 actionbar.leave_vehicle=§eНажми shift чтобы встать
 actionbar.playing_as=§7Играет как %s
 scoreboard.ingame.title=§a§lSmash §8| §cЖизни
@@ -41,7 +41,7 @@ inventory.teams=Выбор команды
 chat.still_respawning=§cТы не можешь это сделать прямо сейчас!
 
 item.apple=Яблоко
-item.bats=Мышинная бомба
+item.bats=Мышиная бомба
 item.bow1=Самонаводящийся лук
 item.bow2=Мини-ган
 item.bow3=Взрывной лук
