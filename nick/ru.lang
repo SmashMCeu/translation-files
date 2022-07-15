@@ -1,0 +1,16 @@
+prefix=§8● §5Nick §8➥ §7
+
+# Chat
+chat.nick=§7Теперь ты отображаешься как %s §7в мини-играх.
+chat.unnick=§7Теперь ты отображаешься как обычно.
+chat.lobby_only=§cЭту команду можно прописать только в лобби.
+chat.cutom_warning=§eВнимание: §cИспользование пользовательских никнеймов может превести к разным багам.
+
+# Inventory, Items
+item.name.enabled=§8➤ §5§lНик §8▍ §a%s
+item.name.disabled=§8➤ §5§lНик §8▍ §7Правый клик
+inventory.title=§5§lНик
+inventory.item.off=§c§lНет ника
+inventory.item.default=§a§lНик игрока
+inventory.item.pro=§3§lPro ник
+inventory.item.proplus=§b§lPro+ ник

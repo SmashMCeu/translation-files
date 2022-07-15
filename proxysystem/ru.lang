@@ -1,0 +1,63 @@
+chat.server_not_found=§cСервер не найден!
+chat.cant_on_lobby=§cТы не можешь сделать это в лобби!
+chat.already_on_server=§cТы уже на этом сервере! Используй §e/spawn §cчто бы телепортироватся на спавн!
+chat.help=Список самых важных команд:
+
+chat.teamchat=§8● §eTeamChat §8| §6%s §8➥ §7%s
+
+chat.chatfilter.insult=§a%s §7пытался §cоскорбить
+chat.chatfilter.advertising=§a%s §7пытался §cпрорекламировать
+chat.chatfilter.message= §8➥ §eСообщение§8: §7%s
+chat.chatfilter.mute= §8➥ §eНажми сюда что бы замьютить§8: 
+chat.chatfilter.recognized=§cОбнаружено слово: §e%s
+
+chat.teamspeak=Разговаривай с другими игроками в нашем TeamSpeak: 
+chat.discord=Загляни в наш Discord: 
+chat.apply=Здесь ты можешь подать заявку: 
+
+chat.joinme=§7Игрок §e%s §7сейчас играет на §6%s §7Server 
+chat.joinme.button=§a§l[ПРИСОЕДИНИТЬСЯ]
+chat.joinme.wait=§7Тебе нужно подождать §e%s §7прежде чем присоединиться ко мне.
+
+chat.spy=§8● §3Spy §8➥ §7%s: %s
+chat.spy.added=§7Spy mode §aактивирован *TF2 Music*
+chat.spy.removed=§7Spy mode §cдеактивирован
+
+chat.maintenance.on=§7Режим технических работ изменён на §aon
+chat.maintenance.off=§7Режим технических работ изменён на §coff
+maintenance.disconnect=§cУ нас технические работы!
+
+chat.donate=§aЧекни наш сайт чтобы узнать больше информации: §ehttps://shop.smashmc.eu/
+chat.chatclear=§aЧат был очистен!
+
+chat.streamer.enabled=§7Режим стримера §aвключен
+chat.streamer.disabled=§7Режим стримера §cвыключен
+chat.streamer.still_enabled=§7В данный момент активирован режим стримера. Пожалуйста используй §e/streamer §7что бы выключить.
+chat.streamer.feature_disabled=§cДля начала пожалуйста выключи режим стримера.
+
+# Chat filter warnings
+chat.filter.blacklist=§cБыдло, пожалуйста успокойся :)
+chat.filter.zeichenspam=§cПожалуйста не засоряйте чат символами.
+chat.filter.wiederholung=§cПожалуйста не повторяй сообщения.
+chat.filter.spam=§cПожалуйста пиши помедленее, не будет быстрым.
+chat.filter.werbung=§cПожалуйста не используй домены в чате.
+chat.filter.capslock=§cПожалуйста выключи CAPSLOCK.
+chat.filter.symbole=§cТвоё сообщение содержит недопустимые символы.
+
+# StatsV2
+chat.stats.missing=§cИгрок §e%s §cне играл в §e%s §cв указанный период времени.
+chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
+chat.stats.tail= 
+chat.stats.about.all=§8» §a%s§8: §7Статистика за всё время<br>
+chat.stats.about.monthly=§8» §a%s§8: §7Статистика за последние 30 дней<br>
+chat.stats.rank= §8● §7Рейтинг§8: §a%s
+chat.stats.kills= §8● §7Убийства§8: §a%s
+chat.stats.deaths= §8● §7Смерти§8: §a%s
+chat.stats.kd= §8● §7K/D§8: §a%s
+chat.stats.games= §8● §7Игры§8: §a%s
+chat.stats.wins= §8● §7Победы§8: §a%s
+chat.stats.winprop= §8● §7Вероятность победы§8: §a%s%%
+chat.stats.character= §8● §7Самые популярные§8: §a%s
+chat.stats.map= §8● §b%s§8: §a%s §7игр/день §7(§e%s §7всего)
+chat.stats.invalid_position=§cНа этой позиции нет игрока.
+chat.charstats= §8● §a%s§8: §7%s выборов §8| §a%s%% §7Вероятность победы

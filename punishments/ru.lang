@@ -1,0 +1,119 @@
+# Punishments
+
+# Reasons
+punishment.insult=Оскорблять
+punishment.behaviour=Поведение
+punishment.spam=Спам
+punishment.discrimination=Дискриминация
+punishment.advertising=Рекламирование
+punishment.cheating=Читерство
+punishment.teaming=Тиминг
+punishment.farming=Фарм
+punishment.trolling=Троллинг
+punishment.bugusing=Багоюз
+punishment.supportabuse=Злоупотребление поддержкой
+punishment.reportabuse=Злоупотребление репортами
+punishment.altaccount=Твинк
+punishment.threat=Угроза
+punishment.vpn=VPN или прокси
+
+# Command translations
+chat.scope.not_resolvable=§cНе удалось найти шаблон, соответствующий указанной причине. Укажи продолжительность и вид наказания или выбери другую причину.
+chat.reason.no_permission=§cЭту причину могут использовать только люди выше сотрудников.
+chat.not_found=§cНе могу найти это наказание.
+chat.same_reason_active=§cУ данного игрока уже есть наказание с данной причиной.
+chat.proof_added=§aПруф добавлен в наказание игрока §e%s §7(%s)§a.
+chat.comment_added=§aКоменнтарий добавлен в наказание игрока §e%s §7(%s)§a.
+chat.cannot_punish=§cДанного игрока нельзя наказать.
+chat.invalid_identifier=§cНеизвестный тип или id.
+chat.appeal.illegal_duration=§cЗаданная продолжительность увеличит текущию.
+chat.endpoint_timeout=§cПривышено время ожидания сервера.
+chat.edit.reason=§aПричина обновлена с §e%s §aна §e%s§a.
+chat.edit.proof=§aПруф обновлён с §e%s §aна §e%s§a.
+chat.edit.duration=§aДлительность обновлена с §e%s §aна §e%s§a.
+chat.edit.warn.appeal=§eВнимание: §cК наказанию прилагается апелляция, которая может помешать изменениям.
+chat.edit.comment=§aКоменнтарий обновлён с §e%s §aна §e%s§a.
+
+# Buttons
+chat.button.create_appeal=§c§l[СОЗДАТЬ]
+chat.button.falseban=§c§l[ЛЖЕБАН]
+chat.button.reduce=§b§l[УМЕНЬШИТЬ]
+
+# Notifications
+chat.notify.ban=Игрок §a%1$s §7был забанен %2$s §7за §c%3$s§7.
+chat.notify.mute=Игрок §a%1$s §7был замьючен %2$s §7за §c%3$s§7.
+chat.notify.kick=Игрок §a%1$s §7был кикнут %2$s§7.
+chat.appeal.reduced=§7Наказание §a%s §7на §c%s §7было уменьшино %s.
+chat.appeal.forgiven=§7Наказание §a%s §7на §c%s §7было помечено лжебаном %s.
+chat.notify.reason=Причина: §e%s
+chat.mute.active=§7Вы были замьючины §c%1$s§7.
+chat.duration=§7Время осталось: §e%s
+
+# Disconnect screen
+screen.header=§8● §aSmashMC §8●<br>
+screen.ban=§cТы был забанен на этом сервере.<br>
+screen.kick=§cТы был кикнут с этого сервера .<br>
+screen.reason=§cПричина: §e%s
+screen.duration=§cВремя осталось: §e%s
+screen.footer= <br>§7Ты можешь подать апелляцию<br>§7на §asmashmc.eu/appeal
+screen.footer.appealed= <br>§7Ты забанен, §cно не можешь §7подать апелляцию заново.
+
+# Info commands
+chat.appeal.select_punishment=§3Выберите наказание §e%s§3:
+chat.punish.info=§3Больше информации о наказании §e§l#%s §3игрока §e§l%s§7:
+chat.info=§3IБольше информации игрока §e§l%s§3:
+chat.info.role= §8● §7Роль§8: §a%s
+chat.info.ip= §8● §7IP§8: §a%s
+chat.info.active_on= §8● §7Играет сейчас§8: §a%s
+chat.info.last_seen= §8● §7Последний вход§8: §a%s
+chat.info.first_seen= §8● §7Первый вход§8: §a%s
+chat.info.playtime= §8● §7Игровое время§8: §a%s
+chat.info.language= §8● §7Язык§8: §a%s
+chat.info.links= §8● §7Верификации§8: 
+chat.info.violations= §8● §e§lНарушения§8:
+chat.info.punishments= §8● §e§lНаказания§8:
+chat.info.same_ip= §8● §e§lНа том же IP§8:
+info.active=§7(§aАктив§7)
+chat.info.type= §8● §7Тип§8: §a%s
+chat.info.reason= §8● §7Причина§8: §c%s
+chat.info.effective_duration= §8● §7Общая длительность§8: §a%s
+chat.info.time_left= §8● §7Времени осталось§8: §a%s
+chat.info.created_by= §8● §7Наказан кем§8: §a%s
+chat.info.created_at= §8● §7Наказан на§8: §a%s
+chat.info.comment= §8● §7Коменнтарий§8: §a%s
+chat.info.proof= §8● §7Пруф§8: §a%s
+chat.info.active= §8● §7Актив§8: §a%s
+chat.info.appeal= §8● §e§lАпелляция§8: §a
+chat.info.appeal.type=   §8➥ §a§7Тип§8: §e%s
+chat.info.appeal.by=   §8➥ §a§7От§8: §e%s
+chat.info.appeal.at=   §8➥ §a§7На§8: §e%s
+chat.info.appeal.original_duration=   §8➥ §a§7Изначальная длительность§8: §e%s
+chat.info.appeal.new_duration=   §8➥ §a§7Новая длительность§8: §e%s
+chat.info.appeal.comment=   §8➥ §a§7Причина§8: §e%s
+hover.active_on=§7Играет сейчас§8: §a%s
+hover.last_seen=§7Последний вход§8: §a%s
+hover.type=§7Тип: §e%s
+hover.reason=§7Причина: §e%s
+hover.effective_duration=§7Общая длительность: §e%s
+hover.by=§7От: §e%s
+hover.comment=§7Коменнтарий: §e%s
+hover.appeal.by=§7Апелляция от: §a%s
+hover.appeal.at=§7Aпелляция подана: §a%s
+hover.reduced.by=§7Уменьшин: §a%s
+hover.reduced.at=§7Уменьшин на: §a%s
+hover.appeal.reason=§7Причина: §a%s
+hover.active_ban=§7Активный бан: §c%s
+hover.shared_ip=§7Общий Ip: §a%s
+hover.name=§7Имя: §a%s
+
+# Time and duration
+time.day=день
+time.days=дни
+time.hour=час
+time.hours=часы
+time.minute=минута
+time.minutes=минуты
+time.and=и
+time.permanent=НАВСЕГДА
+time.none=ничего
+time.never=никогда

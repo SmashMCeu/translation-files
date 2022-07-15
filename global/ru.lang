@@ -1,0 +1,83 @@
+prefix=§8● §aSmashMC §8➥ §7
+
+# Scoreboard
+scoreboard.coins= §e§lМонеты
+scoreboard.role= §a§lРоль
+scoreboard.friends= §6§lДрузья
+
+# Common item display names
+item.name.accept=§aПринять
+item.name.deny=§cОтклонить
+item.name.confirm=§aПодтвердить
+item.name.cancel=§cОтмена
+item.name.remove=§cУдалить
+item.name.previous_page=§6« §7Предыдущяя страница
+item.name.next_page=§7Следующаяя страница §6»
+item.name.back=§c« §7Назад
+item.lore.page=§7Страница: §f%s§8/§7%s
+item.lore.price=§6Цена: §7%s Монет
+item.lore.propability=§6Шанс: §7%s
+item.lore.purchased=§aВо владении
+item.lore.not_purchased=§cНе во владении
+item.lore.not_purchasable=§cНе продаётся
+item.map_voting=§8➤ §b§lГолосование за карту §8▎ §7Правый клик
+item.hub=§8➤ §a§lНазад в лобби §8▎ §7Правый клик
+item.navigator=§8➤ §b§lТелепортатор §8▎ §7Правый клик
+item.lore.votes=§8➥ §7%s голосов
+item.lore.vote=§9Кликни что бы проголосовать!
+item.lore.join=§9Кликни что бы преисоиденится!
+holo.rightclick=§7(Правый клик)
+
+# Common inventory titles
+inventory.navigator=§bТелепортатор
+inventory.mapvoting=§b§lГолосование за карту
+
+# Common chat messages
+chat.error=§cПроизошла непредвиденная ошибка. Пожалуйста обратись к администратору.
+chat.cooldown=§cПожалуйста подожди немного, прежде чем сделать это снова!
+chat.pro=§cЭто функция доступна только с §3Pro рангом§c.<br>Больше информации ты сможешь найти на §ehttps://shop.smashmc.eu/
+chat.no_permission=§cУ тебя нет прав для выполнения данной команды!
+chat.invalid_arguments=§cНеверные или недостаточные аргументы!
+chat.invalid_arguments_use=§cПожалуйста используй: §e%s
+chat.player_offline=§cДанный игрок не в сети!
+chat.player_unknown=§cДанный игрок никогда не заходил на сервере!
+chat.command.players_only=§cДанная команда только для игроков!
+chat.command.fail=§cНе удалось выполнить команду: %s
+chat.command.not_a_number=§cНеизвестные аргументы! §e%s §cне число!
+chat.command.unknown_enum=§cНеизвестные аргументы: §e%s§c, доступный: §e%s
+chat.command.unknown_type=§cНеизвестные аргументы! §e%s §cэто не §e%s§c!
+chat.command_self=§cТы не можешь использовать данную команду на себе!
+chat.too_expensive=§cУ тебя недостаточно монет.
+chat.player_join=§7Игрок §a%s §7приесоединился к игре!
+chat.player_leave=§7Игрок §a%s §7вышел из игры!
+chat.start_countdown=§7Игра начнётся через §a%s секунд§7.
+chat.start_countdown_one=§7Игра начнётся через §a%s секунду§7.
+chat.wait_for_players=§cОжидание игроков...
+chat.restart_countdown=§cСервер перезагрузиться через §e%s секунд§c!
+chat.start_game=§aИгра начинается
+chat.already_started=§cИгра уже запущена
+chat.player_kill=§7Игрок §a%s §7убил §a%s§7!
+chat.player_die=§7Игрок §a%s §7умер!
+chat.player_win=§aИгрок §e%s §aвыйграл игру!
+chat.players_win=§aИгроки §e%s §aвыйграли игру!
+chat.players_remaining=§a%s §7игроков осталось.
+chat.map_vote_end=§7Карта §a%s §7выйграла с §a%s голосами§7!
+chat.map_vote=§aТы проголосовал за §e%s§a!
+chat.deathmatch=§7Дезматч начнётся через §c%s секунд§7.
+chat.deathmatch_min=§7Дезматч начнётся через §c%s минут§7.
+chat.deathmatch_end=§eДезматч закончиться через §c%s секунд§e.
+chat.no_self_play=§cТы не можешь играть сам с собой.
+chat.button.accept=§a§l[ПРИНЯТЬ]
+chat.button.deny=§c§l[ОТКЛОНИТЬ]
+chat.button.confirm=§a§l[ПОДТВЕРДИТЬ]
+chat.button.click=§e§l[КЛИК]
+
+# Common kick messages
+kick.server_full=§cЭтот сервер заполнен! Ты можешь купить §3Pro §cчто бы заходить на полные сервера!
+kick.server_too_full=§eЭтот сервер заполнен!
+kick.pro_joined=§cТы был кикнут чтобы §3Pro §cсмог зайти.<br>§cТы можешь купить §3Pro §cранг на §e§nhttp://purchase.smashmc.eu/
+kick.restart=§cДанный сервер перезагружается!
+
+# Common player titles
+title.player_win=§7выйграл игру!
+title.players_win=§7выйграли игру!

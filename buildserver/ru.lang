@@ -1,0 +1,9 @@
+chat.teleport.no_request=§cУ тебя нет запросов на телепортация.
+chat.teleport.accept.to=§aТы принял запрос на телепортацию.
+chat.teleport.accepted.to=§7Ты был телепортирован к §a%s.
+chat.teleport.accept.here=§aТы принял запрос на телепортацию.
+chat.teleport.accepted.here=§a%s §7был телепортирован к тебе.
+chat.teleport.ask.to=§7Ты отослал запрос телепортация к §a%s.
+chat.teleport.asked.to=§a%s §7хочет телепортироваться к тебе.
+chat.teleport.ask.here=§7Ты отослал запрос телепортации к §a%s.
+chat.teleport.asked.here=§a%s §7хочет телепортироватся к вам.

@@ -1,0 +1,27 @@
+# Smash Core
+chat.giftpro.confirm=§aТы собераешься подарить §31x Pro §aна §c24 часа §aдля §e%s §a.
+chat.giftpro.cooldown=§cТы можешь подарить Pro для §e%s §cснова.
+chat.giftpro.confirmed=§aТы подарил для §e%s §3Pro §aна §c24 часа§a.
+chat.giftpro.invalid_target=§cЭтот игрок уже имеет данный ранг.
+chat.giftpro.gift_recieved=§aИгрок §e%s §aподарил тебе §3Pro §aна §c24 часа§a.
+chat.coinflip=§7Подбрасываем монету...
+chat.coinflip.heads=§eОрёл§a!
+chat.coinflip.tails=§eРешка§a!
+chat.coinflip.already_requested=§cТы уже спросил §e%s §cдля игры §eОрёл или решка.
+chat.coinflip.requested=§aТы спросил §e%s §aдля игры на §e%s монеты§a.
+chat.coinflip.request=§a%s §7хочет поиграть с тобой на §c%s монет§7. (§eОрёл или решка§7)
+chat.coinflip.no_request=§cНет запроса от §e%s
+chat.coinflip.declined=§cИгрок §e%s §cотклонил твою заявку.
+chat.coinflip.you_declined=§cЗаявка от §e%s §cотклонена.
+chat.coinflip.start_heads=§aИдёт игра с §e%s §aна §e%s монет§a. Вы взяли §eОрла.
+chat.coinflip.start_tails=§aИдёт игра с §e%s §aна §e%s монет§a. Вы взяли §eРешку.
+chat.coinflip.invalid_coins=§cТы забыл деньги вести, на что ты будешь играть? На 0?
+title.coinflip.heads=§eОрёл
+title.coinflip.tails=§eРешка
+title.win=§aТы выйграл!
+title.lose=§cТы проиграл!
+chat.ignore.added=§eСейчас скрываются сообщения в глобальном чате от §c%s
+chat.ignore.removed=§aБольше не скрываются сообщения глобального чата от §e%s
+chat.ignore.none=§aНету игнорируемых игроков.
+chat.ignore.clear=§aСписок игнорируемых игроков очистен.
+

@@ -1,0 +1,7 @@
+chat.how_to_verify=Пожалуйста войди в наш Discord или Teamspeak, что бы подтвердить.
+chat.link.unknown=§cДанный код неправильный или истёк срок действия.
+chat.linked=Аккаунт §a%s успешно подключён §7к §e%s§7.
+chat.resynced=Запрошена повторная синхронизация группы.
+chat.unlinked=Успешно отсоединен.
+chat.not_linked=§cТы не подсоединён к данной платформе.
+chat.verify_info=Твои верификации:

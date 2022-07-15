@@ -1,0 +1,43 @@
+chat.event.broadcast=§7Рандомный ивент: §a%s
+chat.event.broadcast_forced=§7Принудительное событие: §a%s
+
+chat.countdown.players_teleported=§eВсе игроки были телепортированы на свои спавны
+chat.countdown.round_start=§7Раунд начнётся через §e%s секунды§7.
+chat.countdown.round_start_one=§7Раунд начнётся через §e%s секунду§7.
+
+chat.compass_height_difference=§7Разница в высоте: §a%s блоков§7.
+chat.player_nearby=§cИгрок рядом!
+chat.event_token_select=§7Ты выбрал §e%s
+chat.dirt_cleared=§7Вся земля была удалена из твоего инвентаря!
+
+inventory.token=§6§lТокены ивента
+
+item.name.event_token=§8➤ §6§lТокены ивента §8▍ §7Правый клик
+
+event.actionbar=-= Ивент =-
+event.actionbar_timer=-= Ивент через %s секунд =-
+
+event.anvil=§aНаковальня
+event.armor_upgrade=§aУлучшение брони
+event.black_magic=§aЧёрная магия
+event.blindness=§aОслепление
+event.chest_refill=§aОбновление сундука
+event.damage_dirt=§aУрон от грязи
+event.drill=§aБур
+event.dynamite_dirt=§aВзрывная грязь
+event.extra_chest=§aЭкстра сундук
+event.extra_health=§aЭкстра здоровье
+event.feed=§aВосстановление голода
+event.freeze=§aЗаморозка
+event.gps=§aGPS
+event.half_heart=§aПоловина сердца
+event.half_life=§aПол жизни
+event.hunger=§aГолод
+event.inventory_drop=§aДроп инвентаря
+event.lights=§aСвет?
+event.party=§aВечеринка!
+event.regeneration_dirt=§aРегенерируемая земля
+event.speed=§aСкорость
+event.switch=§aЗамена местами
+event.sword_upgrade=§aУлучшения меча
+event.warning_toxic=§aВнимание токсично!
