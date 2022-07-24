@@ -91,6 +91,9 @@ item.strong_grenade=Starke Granate
 item.kamikaze=Kamikaze
 item.sucker=Staubsauger
 item.star=Superstern
+item.magic_chest=Magische Kiste
+item.weakness=Schwächetrank
+item.knockback_multiplier=Rückstoßmultiplikator
 
 item.name.random=§7Zufällig
 item.lore.asuna=§7Sie schlägt schneller als das Licht!
