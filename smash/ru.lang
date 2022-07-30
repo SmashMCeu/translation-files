@@ -90,7 +90,10 @@ item.wall=Кирпичная стена
 item.strong_grenade=Сильная граната
 item.kamikaze=Камикадзе
 item.sucker=Пылесос
-item.star=Супер звезжа
+item.star=Супер звезда
+item.magic_chest=Магический сундук
+item.weakness=Зелье слабости
+item.knockback_multiplier=Множитель кнокбэка
 
 item.name.random=§7Случайный
 item.lore.asuna=§7Она может бить быстрее, чем кто-либо!
