@@ -1,5 +1,5 @@
 # Chat messages
-chat.play_to_use_chat=You need to play at least 15min smash to use the chat in the lobby.
+chat.play_to_use_chat=§cYou need to play at least §e15min §csmash to use the chat in the lobby.
 
 # Inventory names
 inventory.game_selector=§2§lGames

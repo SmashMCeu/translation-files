@@ -1,5 +1,5 @@
 # Chat messages
-chat.play_to_use_chat=Чтобы воспользоваться чатом, необходимо играть не менее 15 минут.
+chat.play_to_use_chat=§cЧтобы воспользоваться чатом, необходимо играть не менее §e15 минут§c.
 
 # Inventory names
 inventory.game_selector=§2§lИгры
