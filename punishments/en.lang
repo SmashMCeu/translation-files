@@ -20,6 +20,7 @@ punishment.vpn=VPN or proxy
 # Command translations
 chat.scope.not_resolvable=§cCould not find any matching template to the given reason. Please specify duration and type of punishment or choose another reason.
 chat.reason.no_permission=§cThis punishment reason is for higher staff only.
+chat.reason.not_provided=§cPlease specify a reason for the punishment.
 chat.not_found=§cCould not find a matching punishment.
 chat.same_reason_active=§cThis player is already punished for the same reason.
 chat.proof_added=§aProof was added to the punishment of §e%s §7(%s)§a.

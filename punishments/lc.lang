@@ -20,6 +20,7 @@ punishment.vpn=VeePeeEn
 # Command translations
 chat.scope.not_resolvable=§ccud not find any matching template to teh given reason. Please specify duraytion and type of puwnishmnt or choose another reason.
 chat.reason.no_permission=§ctis puwnishmnt resn is for higher staff only.
+chat.reason.not_provided=§cpls specifie a reasn for teh pewnishmnt
 chat.not_found=§ccud not find a matching puwnishmnt.
 chat.same_reason_active=§ctis pleyer is already punished for teh same reason.
 chat.proof_added=§aprof was added to the pewnishment of §e%s §7(%s)§a.

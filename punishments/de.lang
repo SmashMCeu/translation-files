@@ -20,6 +20,7 @@ punishment.vpn=VPN oder Proxy
 # Command translations
 chat.scope.not_resolvable=§cKonnte kein Template zum angegebenen Grund finden. Bitte gib Zeit sowie Typ der Bestrafung an oder wähle einen anderen Grund.
 chat.reason.no_permission=§cDieser Bestrafungsgrund ist nur für höhere Teammitglieder.
+chat.reason.not_provided=§cBitte gib einen Grund für die Bestrafung mit an.
 chat.not_found=§cKonnte keine passende Bestrafung zum bearbeiten finden.
 chat.same_reason_active=§cDer angegebene Spieler ist bereits für diesen Grund bestraft.
 chat.proof_added=§aBeweis wurde zu der Bestrafung von §e%s §7(%s) §ahinzugefügt.

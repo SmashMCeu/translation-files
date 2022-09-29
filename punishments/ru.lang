@@ -20,6 +20,7 @@ punishment.vpn=VPN или прокси
 # Command translations
 chat.scope.not_resolvable=§cНе удалось найти шаблон, соответствующий указанной причине. Укажи продолжительность и вид наказания или выбери другую причину.
 chat.reason.no_permission=§cЭту причину могут использовать только люди выше сотрудников.
+chat.reason.not_provided=§cПожалуйста, укажите причину.
 chat.not_found=§cНе могу найти это наказание.
 chat.same_reason_active=§cУ данного игрока уже есть наказание с данной причиной.
 chat.proof_added=§aПруф добавлен в наказание игрока §e%s §7(%s)§a.
