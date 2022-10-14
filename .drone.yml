@@ -37,3 +37,18 @@ steps:
         - main
       event:
         - push
+
+  # Notify Telegram that new translations were added
+  - name: Notify on Telegram
+    image: appleboy/drone-telegram
+    when:
+      status:
+        - success
+        - failure
+    settings:
+      token:
+        from_secret: telegram_token
+      to:
+        from_secret: telegram_chat_id
+      format: markdown
+      message: "✅ New translations were added to `{{repo.name}}`\n\n📝 Commit by {{commit.author}} on `{{commit.branch}}`\n\n🌐 [{{commit.message}}]({{commit.link}})"
