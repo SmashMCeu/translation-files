@@ -33,6 +33,7 @@ item.name.girl_head=§dДевочка
 item.name.cuddly_bear_head=§cПлюшевый медведь
 item.name.angel_wings=§fКрылья ангела
 item.name.devil_wings=§cКрылья демона
+item.name.rainbow_wings=§cРа§6ду§eжн§aые §3Кр§dыл§5ья
 item.name.emerald=§aИзумруд
 item.name.fire=§6Огонь
 item.name.water=§9Вода
@@ -80,6 +81,7 @@ item.name.christmas_tree=§cРождественская елка
 item.name.easterbow=§cПасхальный лук
 item.name.easter_boots=§dПасхальные ботинки
 item.name.rabbit_pet=§6Робозаяц
+item.name.hot_pumpkin=§5Горячая тыква
 
 chat.gadget_disabled=§cТвои гаджеты отключены.
 
@@ -233,3 +235,6 @@ christmas.chat.reward.refund=§aТы получил награду ввиде §
 christmas.inventory.calendar=§8➤ §c§lАдвент-календарь
 christmas.item.name=§c§lДверь %s
 christmas.item.lore=§7➥ Кликни чтобы открыть
+
+# Gadget Chat Messages
+chat.gadget.hot_pumpkin.receive=§cУ тебя горячая тыква. Отдай ее кому-нибудь, пока она не взорвалась
