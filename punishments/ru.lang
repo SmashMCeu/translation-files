@@ -62,7 +62,7 @@ screen.footer.appealed= <br>§7Ты забанен, §cно не можешь §
 # Info commands
 chat.appeal.select_punishment=§3Выберите наказание §e%s§3:
 chat.punish.info=§3Больше информации о наказании §e§l#%s §3игрока §e§l%s§7:
-chat.info=§3IБольше информации игрока §e§l%s§3:
+chat.info=§3Больше информации игрока §e§l%s§3:
 chat.info.role= §8● §7Роль§8: §a%s
 chat.info.ip= §8● §7IP§8: §a%s
 chat.info.active_on= §8● §7Играет сейчас§8: §a%s
