@@ -81,6 +81,7 @@ item.name.christmas_tree=§cWeihnachtsbaum
 item.name.easterbow=§cOsterbogen
 item.name.easter_boots=§dOsterschuhe
 item.name.rabbit_pet=§6Robohase
+item.name.hot_pumpkin=§5Heißer Kürbis
 
 chat.gadget_disabled=§cDein Gadget ist hier deaktiviert.
 
@@ -234,3 +235,6 @@ christmas.chat.reward.refund=§aDu kannst diese Belohnung nicht bekommen, da dir
 christmas.inventory.calendar=§8➤ §c§lAdventskalender
 christmas.item.name=§c§l%s. Türchen
 christmas.item.lore=§7➥ Klicke zum öffnen
+
+# Gadget Chat Messages
+chat.gadget.hot_pumpkin.receive=§cDu hast einen heißen Kürbis bekommen, gib ihn weiter bevor er explodiert!
