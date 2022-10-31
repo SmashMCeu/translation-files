@@ -81,6 +81,7 @@ item.name.christmas_tree=§cChristmas tree
 item.name.easterbow=§cEaster bow
 item.name.easter_boots=§dEaster boots
 item.name.rabbit_pet=§6Robo rabbit
+item.name.hot_pumpkin=§5Hot pumpkin
 
 chat.gadget_disabled=§cYou gadgets are now disabled.
 
@@ -234,3 +235,6 @@ christmas.chat.reward.refund=§aYou were rewarded §e%s Coins§a.
 christmas.inventory.calendar=§8➤ §c§lAdvent calendar
 christmas.item.name=§c§lDoor %s
 christmas.item.lore=§7➥ Click to open
+
+# Gadget Chat Messages
+chat.gadget.hot_pumpkin.receive=§cYou got a hot pumpkin. Give it to someone before it explodes
