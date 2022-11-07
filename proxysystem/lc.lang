@@ -53,6 +53,7 @@ chat.stats.character= §8● §7waifu§8: §a%s
 chat.stats.revives= §8● §7reviwd§8: §a%s
 chat.stats.entityWins= §8● §7spooky wint§8: §a%s
 chat.stats.scientistWins= §8● §7smart guy wins§8: §a%s
+chat.stats.taskSolved= §8● §7levr swuitchd§8: §a%s
 chat.stats.map= §8● §b%s§8: §a%s §7gamez/dai §7(§e%s §7totl)
 chat.stats.invalid_position=§cno player has thizz rank :o
 chat.charstats= §8● §7%s§8: §a%s §7piccz §8| §a%s%% §7win probabilitie
