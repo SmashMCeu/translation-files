@@ -124,6 +124,8 @@ item.lore.teamsmash_description2=§7more fun with your friends!
 item.lore.molecraft_description=§7Dig and fight in a gigantic
 item.lore.molecraft_description2=§7cube of dirt!
 item.lore.bedwars_description=§7Play classic bedwars.
+item.lore.backrooms_description=§7If you're not careful you might noclip
+item.lore.backrooms_description2=§7out of reality into the Backrooms...
 
 # Lobby selector
 item.name.lobby_switcher=§8➤ §6§lLobby §8▍ §7Right click
