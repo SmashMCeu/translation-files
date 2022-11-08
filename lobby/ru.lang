@@ -124,6 +124,8 @@ item.lore.teamsmash_description2=§7человек улучшать твоё в�
 item.lore.molecraft_description=§7Копай и сражайся в
 item.lore.molecraft_description2=§7огромном кубе грязи!
 item.lore.bedwars_description=§7Играй в классический бэдварс.
+item.lore.backrooms_description=§7Если ты не осторожен то ты глюканёшь
+item.lore.backrooms_description2=§7и попадёшь в подсобные помощения...
 
 # Lobby selector
 item.name.lobby_switcher=§8➤ §6§lЛобби §8▍ §7Правый клик
