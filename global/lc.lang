@@ -69,3 +69,5 @@ chat.button.confirm=§a§l[CONFIRM]
 chat.button.click=§e§l[KLICK]
 chat.too_expensive=§cno enough money
 chat.no_self_play=§cu should not play with urself
+chat.coins=§7+§a%s coinz
+chat.coins.boosted=§7+§a%s coinz §7(§6+%s§7)
