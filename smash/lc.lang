@@ -31,6 +31,7 @@ inventory.teams=team selecshun
 chat.still_respawning=§cyou cant do dat now!
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §ebum a plyr wiht §clevt-clicc §eto us tihs item u idiot
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §edu a §crigth-clicc §eto us tihs item u idiot
+chat.remind_public_lobby=§cOMG u serious? This is a public lobby, bro! Anyone can play here!<br>(Cross-)Teaming is not alloweed and will be puwnished.
 item.apple=aple
 item.bats=boom boom bats
 item.bow1=chase misile

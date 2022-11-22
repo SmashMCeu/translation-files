@@ -45,6 +45,7 @@ chat.still_respawning=§cDiese Aktion ist gerade gesperrt!
 
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §eSchlage einen Spieler mit §cLinksklick §eum dieses Item zu verwenden.
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §eVerwende §cRechtsklick §eum dieses Item zu verwenden.
+chat.remind_public_lobby=§cHey! Dies ist eine public lobby, in der es jedem Spieler jedezeit frei erlaubt ist mitzuspielen.<br>Jegliches Teaming wird als Regelverstoß gewertet und bestraft.
 
 item.apple=Apfel
 item.bats=Bomben Fledermäuse
