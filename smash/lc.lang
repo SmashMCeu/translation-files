@@ -1,3 +1,4 @@
+prefix=§8● §aSmahs §8➥ §7
 item.character_selection=§8➤ §9§lcharactr selecshun §8▎ §7right clicc
 inventory.character_selection=§9§lcharactr selecshun
 item.comming_soon=§7comin soon!
@@ -30,6 +31,7 @@ inventory.teams=team selecshun
 chat.still_respawning=§cyou cant do dat now!
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §ebum a plyr wiht §clevt-clicc §eto us tihs item u idiot
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §edu a §crigth-clicc §eto us tihs item u idiot
+chat.remind_public_lobby=§cOMG u serious? This is a public lobby, bro! Anyone can play here!<br>(Cross-)Teaming is not alloweed and will be puwnished.
 item.apple=aple
 item.bats=boom boom bats
 item.bow1=chase misile
