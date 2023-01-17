@@ -58,6 +58,7 @@ chat.stats.games= §8● §7Spiele§8: §a%s
 chat.stats.wins= §8● §7Siege§8: §a%s
 chat.stats.winprop= §8● §7Gewinnchance§8: §a%s%%
 chat.stats.character= §8● §7Meist gespielt§8: §a%s
+chat.stats.mined= §8● §7Blöcke abgebaut§8: §a%s
 chat.stats.revives= §8● §7Wiederbelebt§8: §a%s
 chat.stats.entityWins= §8● §7Entity Siege§8: §a%s
 chat.stats.scientistWins= §8● §7Scientist Siege§8: §a%s
