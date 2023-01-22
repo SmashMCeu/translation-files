@@ -16,6 +16,7 @@ punishment.reportabuse=reports spam
 punishment.altaccount=nononononono
 punishment.threat=thrat
 punishment.vpn=VeePeeEn
+punishment.appearance=lookz (name or skin)
 
 # Command translations
 chat.scope.not_resolvable=§ccud not find any matching template to teh given reason. Please specify duraytion and type of puwnishmnt or choose another reason.
