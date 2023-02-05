@@ -8,7 +8,7 @@ chat.reply_empty=§cThere is no message to reply to
 
 chat.help=§aFriend management commands<br>%s
 
-chat.settings.friend_requests=§cThis player don't accepts friend requests
+chat.settings.friend_requests=§cThis player doesn't accept friend requests
 chat.settings.jumping=§cThis player disabled jumping
 chat.settings.party_requests=§cThis player won't accept party invites from you
 chat.settings.private_messages=§cThis player won't accept private messages from you
