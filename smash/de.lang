@@ -261,5 +261,5 @@ chat.respawn_box.disabled=§cRespawn Box immer deaktiviert.
 chat.respawn_box.respawn=§eRespawn Box nur beim respawn.
 chat.nightmode.enabled=§aNachtmodus aktiviert.
 chat.nightmode.disabled=§cNachtmodus deaktiviert.
-chat.classic_skins.enabled=§aKlassische Skins aktiviert.
-chat.classic_skins.disabled=§cKlassische Skins deaktiviert.
+chat.classic_skins.enabled=§eKlassische Skins aktiviert.
+chat.classic_skins.disabled=§aModerne Skins aktiviert.
