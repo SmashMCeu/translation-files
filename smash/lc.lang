@@ -248,3 +248,5 @@ item.lucky_potion=good or not
 item.cage=prison
 item.wall=Bricc wall
 item.strong_grenade=stronk boom
+chat.classic_skins.enabled=§aclassicc skinz enabld
+chat.classic_skins.enabled=§cclassicc skinz disabld
