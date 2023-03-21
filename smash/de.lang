@@ -240,6 +240,7 @@ item.name.settings.items.all=§eItems §8➥ §aAlle
 item.name.settings.items.default=§eItems §8➥ §eStandard
 item.name.settings.items.none=§eItems §8➥ §cKeine
 chat.forcemap_disabled=§cForcemap ist in privaten Runden deaktiviert.
+chat.map_already_loaded=§cDie Map steht bereits fest.
 
 chat.settings.overview=§eSpieleinstellungen der Runde:
 chat.settings.deathmatch.true= §8● §7Deathmatch: §aAktiviert
