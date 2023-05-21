@@ -202,7 +202,7 @@ chat.reward=§aYou recieved a new reward.
 item.claimvote.name=§aClaim vote
 item.claimvote.lore1=§7Vote and claim your reward.
 item.claimvote.lore2=§eYou can vote every 24h
-chat.claimvote.success=§aYou claimed your reward! §e%s key(s) §ahas been added to your keychain. You can now use it to open a chest at the chestopening.
+chat.claimvote.success=§aYou claimed your reward! You got §e%s key(s). You can now use it to open a chest at the chestopening.
 chat.claimvote.failure=§cYou can't claim your reward because you haven't voted yet or already claimed your reward! You can vote every 24h here: §ehttps://minecraft-server.eu/vote/index/1E504/%s
 
 # Afk
