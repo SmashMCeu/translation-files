@@ -202,7 +202,7 @@ chat.reward=§aDu hast eine neue Belohnung erhalten.
 item.claimvote.name=§aBelohnung abholen
 item.claimvote.lore1=§7Vote und hole deine Belohnung ab.
 item.claimvote.lore2=§eDu kannst alle 24h voten.
-chat.claimvote.success=§aDu hast deine Belohnung abgeholt! §e%s Schlüssel §awurde deinem Schlüsselbund hinzugefügt. Du kannst ihn verwenden, um eine Kiste beim Chestopening zu öffnen
+chat.claimvote.success=§aDu hast deine Belohnung abgeholt! §e%s Schlüssel §awurde(n) deinem Schlüsselbund hinzugefügt. Du kannst ihn verwenden, um eine Kiste beim Chestopening zu öffnen
 chat.claimvote.failure=§cDu kannst deine Belohnung nicht abholen, da du noch nicht gevotet hast oder schon deine Belohnung abgeholt hast! Du kannst alle 24h hier voten: §ehttps://minecraft-server.eu/vote/index/1E504/%s
 
 # Afk
