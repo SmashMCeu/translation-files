@@ -103,6 +103,7 @@ item.weakness=Weakness Potion
 item.knockback_multiplier=Knockback Multiplier
 item.snowball=Snowball
 item.boxing_glove=Boxing glove
+item.nyan_boots=Nyan Boots
 
 item.name.random=§7Random
 item.lore.asuna=§7She can hit faster than anyone!
