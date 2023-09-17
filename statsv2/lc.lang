@@ -2,8 +2,8 @@
 chat.stats.missing=§cPlayer §e%s §chas no play §e%s §cin the time.
 chat.stats.head=§7╔═ §c❤ §7════ §a%s §7════════╗
 chat.stats.tail= 
-chat.stats.about.all=§8» §a%s§8: §7all statisticz<br>
-chat.stats.about.monthly=§8» §a%s§8: §730 dayz<br>
+chat.stats.about.all=§8» §a%s§8: §7all statisticz<br>§r
+chat.stats.about.monthly=§8» §a%s§8: §730 dayz<br>§r
 chat.stats.rank= §8● §7ranking§8: §a%s
 chat.stats.kills= §8● §7ez claps§8: §a%s
 chat.stats.deaths= §8● §7rip§8: §a%s
