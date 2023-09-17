@@ -2,8 +2,8 @@
 chat.stats.missing=§cPlayer §e%s §chasn't played §e%s §cin the given time frame.
 chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
 chat.stats.tail= 
-chat.stats.about.all=§8» §a%s§8: §7All time statistics<br>§r
-chat.stats.about.monthly=§8» §a%s§8: §7Statistics of the last 30 days<br>§r
+chat.stats.about.all=§8» §a%s§8: §7All time statistics<br> 
+chat.stats.about.monthly=§8» §a%s§8: §7Statistics of the last 30 days<br> 
 chat.stats.rank= §8● §7Ranking§8: §a%s
 chat.stats.kills= §8● §7Kills§8: §a%s
 chat.stats.deaths= §8● §7Deaths§8: §a%s
