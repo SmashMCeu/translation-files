@@ -1,0 +1,21 @@
+# StatsV2
+chat.stats.missing=§cИгрок §e%s §cне играл в §e%s §cв указанный период времени.
+chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
+chat.stats.tail= 
+chat.stats.about.all=§8» §a%s§8: §7Статистика за всё время<br>
+chat.stats.about.monthly=§8» §a%s§8: §7Статистика за последние 30 дней<br>
+chat.stats.rank= §8● §7Рейтинг§8: §a%s
+chat.stats.kills= §8● §7Убийства§8: §a%s
+chat.stats.deaths= §8● §7Смерти§8: §a%s
+chat.stats.kd= §8● §7K/D§8: §a%s
+chat.stats.games= §8● §7Игры§8: §a%s
+chat.stats.wins= §8● §7Победы§8: §a%s
+chat.stats.winprop= §8● §7Вероятность победы§8: §a%s%%
+chat.stats.character= §8● §7Самые популярные§8: §a%s
+chat.stats.revives= §8● §7Поднято§8: §a%s
+chat.stats.entityWins= §8● §7Победы Энтити§8: §a%s
+chat.stats.scientistWins= §8● §7Победы учёного§8: §a%s
+chat.stats.taskSolved= §8● §7Заданий выполнено§8: §a%s
+chat.stats.map= §8● §b%s§8: §a%s §7игр/день §7(§e%s §7всего)
+chat.stats.invalid_position=§cНа этой позиции нет игрока.
+chat.charstats= §8● §a%s§8: §7%s выборов §8| §a%s%% §7Вероятность победы
