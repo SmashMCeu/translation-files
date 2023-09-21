@@ -200,6 +200,7 @@ item.name.hot_pumpkin=§5Hawt pumpkin
 chat.jumpandrun.level_finished=§7you reachd jump an run level §a%s§7!
 chat.jumpandrun.beat_highscore=§ayou set teh jump an run highscore 2 §e%s§a!
 chat.jumpandrun.highscore=§7the highscore 4 da jump an run iz §a%s§7 by §a%s§7!
+chat.jumpandrun.personal_best=§7ur peersonell bescht iz §a%s§7.
 item.name.schnitzel=§6snitzsel
 item.name.egg_ballon_pet=§deastr egg ballon
 

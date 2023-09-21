@@ -222,6 +222,7 @@ item.lore.the_dropper_2=§7difficulty and set the highscore.
 chat.jumpandrun.level_finished=§7You reached jump and run level §a%s§7!
 chat.jumpandrun.beat_highscore=§aYou set the jump and run highscore to §e%s§a!
 chat.jumpandrun.highscore=§7The highscore for the jump and run is §a%s§7 by §a%s§7!
+chat.jumpandrun.personal_best=§7Your personal best is §a%s§7.
 
 chat.no_abuse.enabled=§aDon't disturb mode enabled.
 chat.no_abuse.disabled=§cDon't disturb mode disabled.
