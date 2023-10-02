@@ -254,3 +254,5 @@ ware.holo.second_left=§c%s Sekunde...
 ware.holo.round=§7Runde %s/%s
 ware.holo.round_winners=§7Runde %s/%s §8- §7Gewinner
 ware.holo.congratulations=§6§lHerzlichen Glückwunsch!
+lang:ware.holo.hint_1=§7Tipp: Das verwenden von Gadgets ist erlaubt.
+lang:ware.holo.hint_2=§7Tipp: Du kannst mit /ware schneller beitreten!
