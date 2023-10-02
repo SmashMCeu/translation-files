@@ -45,7 +45,7 @@ chat.still_respawning=§cYou can't do that right now!
 
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §eHit a player using §cleft-click §eto use this item.
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §eDo a §cright-click §eto use this item.
-chat.remind_public_lobby=§cHey! This is a public lobby and open to all players.<br>(Cross-)Teaming in any form will result in your account being restricted.
+chat.remind_public_lobby=§eHey! §cThis is a public lobby and open to all players.<br>§c(Cross-)Teaming in any form will result in your account being restricted.
 
 item.apple=Apple
 item.bats=Bomber Bats
