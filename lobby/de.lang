@@ -247,12 +247,11 @@ christmas.item.lore=§7➥ Klicke zum öffnen
 chat.gadget.hot_pumpkin.receive=§cDu hast einen heißen Kürbis bekommen, gib ihn weiter bevor er explodiert!
 
 # SmashWare
-ware.holo.round_countdown=§7%s...
-ware.holo.round_countdown_one=§7%s...
+ware.holo.round_countdown=§eNächste Runde in %s
+ware.holo.round_countdown_one=§eNächste Runde in %s
 ware.holo.seconds_left=§c%s Sekunden...
 ware.holo.second_left=§c%s Sekunde...
-ware.holo.round=§7Runde %s/%s
-ware.holo.round_winners=§7Runde %s/%s §8- §7Gewinner
+ware.holo.round=§8● §7Runde %s/%s §8●
 ware.holo.congratulations=§6§lHerzlichen Glückwunsch!
 ware.holo.hint_1=§7Tipp: Das verwenden von Gadgets ist erlaubt.
 ware.holo.hint_2=§7Tipp: Du kannst mit /ware schneller beitreten!
