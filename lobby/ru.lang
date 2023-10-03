@@ -84,7 +84,7 @@ item.name.rabbit_pet=§6Робозаяц
 item.name.hot_pumpkin=§5Горячая тыква
 item.name.snowball=Снежок
 
-chat.gadget_disabled=§cТвои гаджеты отключены.
+chat.gadget_disabled=§cТвои гаджеты отключены. §e%s
 
 # Chest opening
 item.name.use_key=§a§lИспользовать ключ

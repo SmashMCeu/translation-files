@@ -86,7 +86,7 @@ item.name.snowball=Schneeball
 item.name.schnitzel=§6Schnitzel
 item.name.egg_ballon_pet=§dOsterei-Ballon
 
-chat.gadget_disabled=§cDein Gadget ist hier deaktiviert.
+chat.gadget_disabled=§cDein Gadget §e%s §cist hier deaktiviert.
 
 # Chest opening
 item.name.use_key=§a§lBenutze einen Schlüssel

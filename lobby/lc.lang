@@ -145,7 +145,7 @@ item.name.achievements=§8➤ §b§larchivments
 
 chat.no_abuse.enabled=§afuck off mode enabld
 chat.no_abuse.disabled=§cfuck off mode disabld
-chat.gadget_disabled=§cnoh dagkets hire!!
+chat.gadget_disabled=§cnoh §e%s §cdagkets hire!!
 item.name.night_vision=§9always bright gogles
 item.name.ender_boots=§5endii bootz
 item.name.flower_boots=§2flovver bootz
