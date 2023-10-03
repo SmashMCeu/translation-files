@@ -254,5 +254,5 @@ ware.holo.second_left=§c%s...
 ware.holo.round=§7Round %s/%s
 ware.holo.round_winners=§7Round %s/%s §8- §7Winners
 ware.holo.congratulations=§6§lCongratulations!
-lang:ware.holo.hint_1=§7Hint: You can use gadgets!
-lang:ware.holo.hint_2=§7Tipp: Use /ware to join quickly join the game.
+ware.holo.hint_1=§7Hint: You can use gadgets!
+ware.holo.hint_2=§7Tipp: Use /ware to join quickly join the game.
