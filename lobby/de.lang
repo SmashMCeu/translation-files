@@ -217,6 +217,7 @@ item.lore.kotl=§7Bist du der Leiterkönig?
 item.lore.snake=§7Hast du die längste Schlange?
 item.lore.the_dropper_1=§7Spiele The Droppper mit steigender
 item.lore.the_dropper_2=§7Schwierigkeit und setze den Highscore.
+item.lore.smash_ware=§7Party Minigame mit deinen Freunden.
 
 # Jump and run
 chat.jumpandrun.level_finished=§7Du hast das Jump and Run-Level §a%s §7erreicht!

@@ -217,6 +217,7 @@ item.lore.kotl=§7Are you the king of the ladder?
 item.lore.snake=§7Is your snake the biggest one?
 item.lore.the_dropper_1=§7Play the dropper with increasing
 item.lore.the_dropper_2=§7difficulty and set the highscore.
+item.lore.smash_ware=§7Party minigame with your friends.
 
 # Jump and run
 chat.jumpandrun.level_finished=§7You reached jump and run level §a%s§7!
