@@ -248,7 +248,6 @@ chat.gadget.hot_pumpkin.receive=§cDu hast einen heißen Kürbis bekommen, gib i
 
 # SmashWare
 ware.holo.round_countdown=§eNächste Runde in %s
-ware.holo.round_countdown_one=§eNächste Runde in %s
 ware.holo.seconds_left=§c%s Sekunden...
 ware.holo.second_left=§c%s Sekunde...
 ware.holo.round=§8● §7Runde %s/%s §8●
