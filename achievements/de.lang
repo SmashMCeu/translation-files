@@ -41,6 +41,8 @@ name.verified=Verifiziert
 name.million=Millionär
 name.cokejoke=Cola Witz
 name.pro=Profi
+name.ware_pro=Minigame Spezialist
+
 lore.not_a_bug=§7Lass einen Gegner mit Pumeluff<br>§7nach oben fliegen!
 lore.inception=§7Ziehe eine Item Kiste aus einer Item Kiste,<br>§7die du aus einer Item Kiste gezogen hast.
 lore.lucky_knockback_reset=§7Finde einen Knockback Reset<br>§7mit über 200 Rückstoßpunkten.
@@ -77,3 +79,4 @@ lore.verified=§7Verifiziere dich mit Discord<br>§7oder Teamspeak.
 lore.million=§7Erreiche einen Kontostand von 1 Millionen.
 lore.cokejoke=§7Töte CokeJokeYT in einer Runde Smash.
 lore.pro=§7Gewinne eine Runde Smash mit<br>§7einem schwierigen Charakter.
+lore.ware_pro=§7Erreiche die maximale<br>§7Punktzahl in Smash Ware.

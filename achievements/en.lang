@@ -41,6 +41,8 @@ name.verified=Verified
 name.million=Million
 name.cokejoke=A coke joke
 name.pro=Pro
+name.ware_pro=Minigame master
+
 lore.not_a_bug=§7Use pummelluf to sky rocket an enemy!
 lore.inception=§7Find an item chest in an item chest,<br>§7inside of an item chest.
 lore.lucky_knockback_reset=§7Find a knockback reset<br>§7with over 200 knockback.
@@ -77,3 +79,4 @@ lore.verified=§7Link your Account with Teamspeak or Discord.
 lore.million=§7Reach a balance of 1 Million coins.
 lore.cokejoke=§7Kill CokeJokeYT in Smash.
 lore.pro=§7Win Smash with a hard character.
+lore.ware_pro=§7Reach the highest possible<br>§7score in Smash Ware.
