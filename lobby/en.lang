@@ -85,6 +85,8 @@ item.name.hot_pumpkin=§5Hot pumpkin
 item.name.snowball=Snowball
 item.name.schnitzel=§6German schnitzel
 item.name.egg_ballon_pet=§dEaster egg balloon
+item.name.sweet_grenate=§aSweet Gun
+item.name.spider_head=§4Spiderhead
 
 chat.gadget_disabled=§cYou gadget §e%s §cis now disabled.
 
@@ -197,6 +199,8 @@ halloween.holo.line4=§7items for every 10th sweet.
 halloween.holo.your_eggs=§eYour sweets §8» §c§l%s§7/§c%s
 halloween.chat.all_collected=§7§lThe player §c§l%s §7§lcollected all sweets.
 chat.reward=§aYou recieved a new reward.
+chat.halloween.won_gadget=§7You won the §a%s-Gadget§7!
+chat.halloween.killed_entity=§7Congratulations! You found an §aevent-zombie§7!
 
 # Claim Vote
 item.claimvote.name=§aClaim vote

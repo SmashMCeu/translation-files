@@ -85,6 +85,8 @@ item.name.hot_pumpkin=§5Heißer Kürbis
 item.name.snowball=Schneeball
 item.name.schnitzel=§6Schnitzel
 item.name.egg_ballon_pet=§dOsterei-Ballon
+item.name.sweet_grenate=§aSüßigkeiten Granate
+item.name.spider_head=§4Spinnenkopf
 
 chat.gadget_disabled=§cDein Gadget §e%s §cist hier deaktiviert.
 
@@ -197,6 +199,8 @@ halloween.holo.line4=§7finden von Süßigkeiten freigeschaltet.
 halloween.holo.your_eggs=§eDeine Süßigkeiten §8» §c§l%s§7/§c%s
 halloween.chat.all_collected=§7§lDer Spieler §c§l%s §7§lhat alle Süßigkeiten gefunden.
 chat.reward=§aDu hast eine neue Belohnung erhalten.
+chat.halloween.won_gadget=§7Du hast das Gadget §a%s §7gewonnen!
+chat.halloween.killed_entity=§7Du hast einen §aEvent-Zombie §7gefunden! Herzlichen Glückwunsch
 
 # Claim Vote
 item.claimvote.name=§aBelohnung abholen

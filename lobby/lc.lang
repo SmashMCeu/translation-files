@@ -204,6 +204,10 @@ chat.jumpandrun.highscore=§7the highscore 4 da jump an run iz §a%s§7 by §a%s
 chat.jumpandrun.personal_best=§7ur peersonell bescht iz §a%s§7.
 item.name.schnitzel=§6snitzsel
 item.name.egg_ballon_pet=§deastr egg ballon
+chat.halloween.won_gadget=§7U won teh §a%s-Gadget§7!
+chat.halloween.killed_entity=§7Congratulashuns! U faund an §aevent-zombie§7!
+item.name.sweet_grenate=§aSweez Gun
+item.name.spider_head=§4Spiderhed
 
 # Gadget Chat Messages
 chat.gadget.hot_pumpkin.receive=§cYou got hawt pumpkin. Giv it 2 someone before it explodez
