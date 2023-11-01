@@ -200,7 +200,7 @@ halloween.holo.your_eggs=§eYour sweets §8» §c§l%s§7/§c%s
 halloween.chat.all_collected=§7§lThe player §c§l%s §7§lcollected all sweets.
 chat.reward=§aYou recieved a new reward.
 chat.halloween.won_gadget=§7You won the §a%s-Gadget§7!
-chat.halloween.killed_entity=§7Congratulations! You found an §aevent-zombie§7!
+chat.halloween.killed_entity=§7Congratulations! You found an §aevent-zombie§7! Your score is now §a%s§7.
 
 # Claim Vote
 item.claimvote.name=§aClaim vote
