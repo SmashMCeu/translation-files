@@ -205,7 +205,7 @@ chat.jumpandrun.personal_best=§7ur peersonell bescht iz §a%s§7.
 item.name.schnitzel=§6snitzsel
 item.name.egg_ballon_pet=§deastr egg ballon
 chat.halloween.won_gadget=§7U won teh §a%s-Gadget§7!
-chat.halloween.killed_entity=§7Congratulashuns! U faund an §aevent-zombie§7!
+chat.halloween.killed_entity=§7Congratulashuns! U faund an §aevent-zombie§7! Ur scor is naw §a%s§7.
 item.name.sweet_grenate=§aSweez Gun
 item.name.spider_head=§4Spiderhed
 
