@@ -1,5 +1,6 @@
 # Chat messages
 chat.play_to_use_chat=§cYou need to play at least §e15min §csmash to use the chat in the lobby.
+chat.cooldown.gadgets=§cPlease wait §e%s seconds§c before doing this again!
 
 # Inventory names
 inventory.game_selector=§2§lGames

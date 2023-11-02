@@ -1,5 +1,6 @@
 # Chat messages
 chat.play_to_use_chat=§cDu musst mindestens §e15 Minuten §cspielen, um den Chat in der Lobby zu nutzen.
+chat.cooldown.gadgets=§cBitte warte §e%s Sekunden§c, bevor du das erneut tust!
 
 # Inventory names
 inventory.game_selector=§2§lNavigation
