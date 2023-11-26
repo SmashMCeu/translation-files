@@ -12,6 +12,7 @@ chat.force_map=§amap §e%s §aforcd!
 chat.deathmatch_started=§ethe deathmatch begins! in §c60 secondz§e, teh playr closest 2 teh fire beam wins!
 kick.inactivity=§eyou wuz kickd due 2 inactivity.
 chat.inactivity_warning=§cplease fight, or u mite git kickd 4 inactivity.
+chat.lag_warning=§cbro fix your internet.
 actionbar.leave_vehicle=§epres shift 2 dismount
 actionbar.playing_as=§7playin as %s
 scoreboard.ingame.title=§a§lsmash §8| §clivez

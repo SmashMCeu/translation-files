@@ -24,6 +24,7 @@ chat.not_your_game=§cThis private round is not yours!
 chat.deathmatch_already_running=§cThe deathmatch is already running.
 kick.inactivity=§eYou were kicked due to inactivity.
 chat.inactivity_warning=§cPlease fight, or you might get kicked for inactivity.
+chat.lag_warning=§cIt seems like you're lagging. Please check your internet connection. 
 actionbar.leave_vehicle=§ePress shift to dismount
 actionbar.playing_as=§7Playing as %s
 scoreboard.ingame.title=§a§lSmash §8| §cLives
