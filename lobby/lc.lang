@@ -209,6 +209,7 @@ chat.halloween.killed_entity=§7Congratulashuns! U faund an §aevent-zombie§7! 
 item.name.sweet_grenate=§aSweez Gun
 item.name.spider_head=§4Spiderhed
 chat.cooldown.gadgets=§cpls wait §e%s secondz§c before doin dis again :3
+item.name.present_head=§cPresenz Hed
 
 # Gadget Chat Messages
 chat.gadget.hot_pumpkin.receive=§cYou got hawt pumpkin. Giv it 2 someone before it explodez
