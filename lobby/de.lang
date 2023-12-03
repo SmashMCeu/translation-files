@@ -88,6 +88,7 @@ item.name.schnitzel=§6Schnitzel
 item.name.egg_ballon_pet=§dOsterei-Ballon
 item.name.sweet_grenate=§aSüßigkeiten Granate
 item.name.spider_head=§4Spinnenkopf
+item.name.present_head=§cGeschenkkopf
 
 chat.gadget_disabled=§cDein Gadget §e%s §cist hier deaktiviert.
 
@@ -248,6 +249,7 @@ christmas.chat.reward.refund=§aDu kannst diese Belohnung nicht bekommen, da dir
 christmas.inventory.calendar=§8➤ §c§lAdventskalender
 christmas.item.name=§c§l%s. Türchen
 christmas.item.lore=§7➥ Klicke zum öffnen
+christmas.item.lore_claimed=§7➥ Bereits geöffnet
 
 # Gadget Chat Messages
 chat.gadget.hot_pumpkin.receive=§cDu hast einen heißen Kürbis bekommen, gib ihn weiter bevor er explodiert!

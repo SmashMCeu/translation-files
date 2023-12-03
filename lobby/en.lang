@@ -88,6 +88,7 @@ item.name.schnitzel=§6German schnitzel
 item.name.egg_ballon_pet=§dEaster egg balloon
 item.name.sweet_grenate=§aSweet Gun
 item.name.spider_head=§4Spiderhead
+item.name.present_head=§cPresent Head
 
 chat.gadget_disabled=§cYou gadget §e%s §cis now disabled.
 
@@ -248,6 +249,7 @@ christmas.chat.reward.refund=§aYou were rewarded §e%s Coins§a.
 christmas.inventory.calendar=§8➤ §c§lAdvent calendar
 christmas.item.name=§c§lDoor %s
 christmas.item.lore=§7➥ Click to open
+christmas.item.lore_claimed=§7➥ Already claimed
 
 # Gadget Chat Messages
 chat.gadget.hot_pumpkin.receive=§cYou got a hot pumpkin. Give it to someone before it explodes
