@@ -249,6 +249,7 @@ christmas.chat.reward.refund=§aYou were rewarded §e%s Coins§a.
 christmas.inventory.calendar=§8➤ §c§lAdvent calendar
 christmas.item.name=§c§lDoor %s
 christmas.item.lore=§7➥ Click to open
+christmas.item.lore_claimed=§7➥ Already claimed
 
 # Gadget Chat Messages
 chat.gadget.hot_pumpkin.receive=§cYou got a hot pumpkin. Give it to someone before it explodes
