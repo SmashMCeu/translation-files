@@ -192,6 +192,7 @@ christmas.chat.reward.refund=§au were rewarded §e%s Coins§a.
 christmas.inventory.calendar=§8➤ §c§ladvent calendarr
 christmas.item.name=§c§lDoor %s
 christmas.item.lore=§7➥ clicc to opn
+christmas.item.lore_claimed=§7➥ already claimdz
 chat.become_partner=§7u want to apli foa a patnership with SmashMC? pls contact us on our Discord (§3/discord§7).
 item.name.santa_head=§csantah
 item.name.ice_boots=§dise bootz
