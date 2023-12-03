@@ -249,6 +249,7 @@ christmas.chat.reward.refund=§aDu kannst diese Belohnung nicht bekommen, da dir
 christmas.inventory.calendar=§8➤ §c§lAdventskalender
 christmas.item.name=§c§l%s. Türchen
 christmas.item.lore=§7➥ Klicke zum öffnen
+christmas.item.lore_claimed=§7➥ Bereits geöffnet
 
 # Gadget Chat Messages
 chat.gadget.hot_pumpkin.receive=§cDu hast einen heißen Kürbis bekommen, gib ihn weiter bevor er explodiert!
