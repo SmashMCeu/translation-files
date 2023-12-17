@@ -212,6 +212,7 @@ item.name.spider_head=§4Spiderhed
 chat.cooldown.gadgets=§cpls wait §e%s secondz§c before doin dis again :3
 item.name.present_head=§cPresenz Hed
 item.name.present_pet=§9Chazing Presenz
+item.name.santa_painter=§3Santa Paintr
 
 # Gadget Chat Messages
 chat.gadget.hot_pumpkin.receive=§cYou got hawt pumpkin. Giv it 2 someone before it explodez
