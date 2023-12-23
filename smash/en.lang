@@ -14,6 +14,10 @@ difficulty.easy=§a✯§8✯✯ §7(easy)
 difficulty.normal=§e✯✯§8✯ §7(normal)
 difficulty.hard=§c✯✯✯ §7(hard)
 
+inventory.skin_selection=§2§lSkins: %s
+item.lore.shift_click_skins=§8(Shift + Click): §aSkins
+chat.skin_selected=§aYou selected §7%s §aas your skin.
+
 chat.character_selected=§aYou selected %s§a!
 chat.command_not_for_spectators=§cThis command is not for spectators!
 chat.unknown_map=§cMap §e%s §cnot found!
