@@ -31,6 +31,7 @@ holo.rightclick=§7(Правый клик)
 # Common inventory titles
 inventory.navigator=§bТелепортатор
 inventory.mapvoting=§b§lГолосование за карту
+inventory.purchase_confirm=§8➤ §c§lПодтверждение оплаты
 
 # Common chat messages
 chat.error=§cПроизошла непредвиденная ошибка. Пожалуйста обратись к администратору.

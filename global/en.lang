@@ -31,6 +31,7 @@ holo.rightclick=§7(Right click)
 # Common inventory titles
 inventory.navigator=§bTeleporter
 inventory.mapvoting=§b§lMapvoting
+inventory.purchase_confirm=§8➤ §c§lPurchase confirmation
 
 # Common chat messages
 chat.error=§cAn unexpected error occurred. Please report this to an administrator.

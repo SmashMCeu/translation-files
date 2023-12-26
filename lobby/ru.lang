@@ -4,7 +4,6 @@ chat.play_to_use_chat=§cЧтобы воспользоваться чатом, �
 # Inventory names
 inventory.game_selector=§2§lИгры
 inventory.gadget_inventory=§8➤ §c§lИнвентарь
-inventory.purchase_confirm=§8➤ §c§lПодтверждение оплаты
 inventory.chest_opening=§8➤ §b§lОткрытие сундуков
 inventory.claim_vote=§8➤ §e§lЗабрать награды
 inventory.social=§c%s

@@ -9,7 +9,6 @@ chat.afk.on=naw afk!
 inventory.claim_vote=§aclaim vot!
 inventory.game_selector=§2§lfun
 inventory.gadget_inventory=§8➤ §c§linventorii
-inventory.purchase_confirm=§8➤ §c§lpurchaze confirmashun
 inventory.chest_opening=§8➤ §b§lchezzt openin
 inventory.social=§c%s
 item.name.request_friend=§cfriendz?

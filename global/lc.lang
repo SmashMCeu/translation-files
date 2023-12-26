@@ -25,6 +25,7 @@ item.lore.join=§9click 2 join!
 holo.rightclick=§7(Right clicc)
 inventory.navigator=§bteleportr
 inventory.mapvoting=§b§lmapvotin :3
+inventory.purchase_confirm=§8➤ §c§lpurchaze confirmashun
 chat.error=§cunexpectd eror ocured. pls report to admin
 chat.cooldown=§cpls wait a bit before doin dis again :3
 chat.pro=§cthis feachur iz only available if u purchase §3pro rank§c.<br>u can find moar informashun at §ehttps://shop.smashmc.eu/
