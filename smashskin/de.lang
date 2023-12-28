@@ -1,0 +1,4 @@
+chat.player.skins=§7Skins von §a%s§7: §8%s
+chat.player.skin.added=§7Der Skin §e%s §7wurde dem Spieler §a%s §7hinzugefügt.
+chat.player.skin.removed=§7Der Skin §e%s §7wurde vom Spieler §a%s §7entfernt.
+chat.skin.not.found=§7Der Skin wurde nicht gefunden.
