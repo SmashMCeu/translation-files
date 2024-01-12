@@ -210,6 +210,7 @@ item.name.settings.mapdamage=§3map damag
 item.name.settings.deathmatch=§9match of the death
 chat.not_your_game=§ctis priwte mathc is nut urs
 chat.deathmatch_already_running=§cteh deathmahct is alrdy runngng
+chat.game_not_running=§cther is noa gam runin.
 item.lore.true=§8➥ §ayes
 item.lore.false=§8➥ §7nonono
 item.name.settings.velocity=§5nokbacc multipli

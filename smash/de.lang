@@ -26,6 +26,7 @@ chat.force_map=§aDie Map §e%s §awird jetzt erzwungen!
 chat.deathmatch_started=§eDas Deathmatch hat begonnen! Wer in §c60 Sekunden §eam dichtesten beim Feuerstrahl ist gewinnt!
 chat.not_your_game=§cDie private Runde gehört dir nicht.
 chat.deathmatch_already_running=§cDas Deathmatch hat bereits begonnen!
+chat.game_not_running=§cDas Spiel läuft nicht.
 kick.inactivity=§eDu wurdest aufgrund von Inaktivität gekickt.
 chat.inactivity_warning=§cBitte kämpfe, um nicht wegen Inaktivität gekickt zu werden.
 chat.lag_warning=§cDu scheinst zu laggen. Bitte überprüfe deine Internetverbindung.

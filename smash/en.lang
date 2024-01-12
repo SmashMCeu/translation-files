@@ -26,6 +26,7 @@ chat.force_map=§aMap §e%s §aforced!
 chat.deathmatch_started=§eThe deathmatch begins! In §c60 seconds§e, the player closest to the fire beam wins!
 chat.not_your_game=§cThis private round is not yours!
 chat.deathmatch_already_running=§cThe deathmatch is already running.
+chat.game_not_running=§cThere is no game running.
 kick.inactivity=§eYou were kicked due to inactivity.
 chat.inactivity_warning=§cPlease fight, or you might get kicked for inactivity.
 chat.lag_warning=§cIt seems like you're lagging. Please check your internet connection. 
