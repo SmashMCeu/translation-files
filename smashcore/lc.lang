@@ -24,3 +24,5 @@ chat.ignore.added=§eshut the fuck up §c%s
 chat.ignore.removed=§ai think i can now hear your again, §e%s
 chat.ignore.none=§aNo ignored playrs.
 chat.ignore.clear=§aLisht of ignured playrs cleard.
+chat.rank=§au auwn teh rank: §7%s
+chat.rank.expire=§aur rank will expire in §7%s
