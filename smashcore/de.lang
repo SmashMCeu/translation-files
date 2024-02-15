@@ -24,3 +24,5 @@ chat.ignore.added=§eChatnachrichten von §c%s §ewerden nun für dich §cverste
 chat.ignore.removed=§aChatnachrichten von §e%s §awerden nicht länger versteckt.
 chat.ignore.none=§aKeine ignorierten Spieler.
 chat.ignore.clear=§aListe ignorierter Spieler wurde gelöscht.
+chat.rank=§aDu hast den Rang: §7%s
+chat.rank.expire=§aDein Rang läuft ab in: §7%s
