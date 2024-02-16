@@ -81,6 +81,18 @@ kick.server_too_full=§eЭтот сервер заполнен!
 kick.pro_joined=§cТы был кикнут чтобы §3Pro §cсмог зайти.<br>§cТы можешь купить §3Pro §cранг на §e§nhttp://purchase.smashmc.eu/
 kick.restart=§cДанный сервер перезагружается!
 
+# Time and duration
+time.day=день
+time.days=дни
+time.hour=час
+time.hours=часы
+time.minute=минута
+time.minutes=минуты
+time.and=и
+time.permanent=НАВСЕГДА
+time.none=ничего
+time.never=никогда
+
 # Common player titles
 title.player_win=§7выйграл игру!
 title.players_win=§7выйграли игру!
