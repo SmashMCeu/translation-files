@@ -72,3 +72,15 @@ chat.too_expensive=§cno enough money
 chat.no_self_play=§cu should not play with urself
 chat.coins=§7+§a%s coinz
 chat.coins.boosted=§7+§a%s coinz §7(§6+%s§7)
+
+# Time and duration
+time.day=* 24 hourz
+time.days=* 24 hourz
+time.hour=* 60 minutz
+time.hours=* 60 minutz
+time.minute=* 60 secondz
+time.minutes=* 60 secondz
+time.and=plus
+time.permanent=UNTIL UNIVERSE COLLAPSES
+time.none=nowne
+time.never=never

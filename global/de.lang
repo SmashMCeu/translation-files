@@ -81,6 +81,18 @@ kick.server_too_full=§eDer Server ist voll!
 kick.pro_joined=§cDu wurdest gekickt, um einem §3Pro §cplatz zu machen.<br>§cDu kannst den §3Pro §cRang hier erwerben: §e§nhttps://shop.smashmc.eu/
 kick.restart=§cDer Server startet neu!
 
+# Time and duration
+time.day=Tag
+time.days=Tage
+time.hour=Stunde
+time.hours=Stunden
+time.minute=Minute
+time.minutes=Minuten
+time.and=und
+time.permanent=PERMANENT
+time.none=Keine
+time.never=Nie
+
 # Common player titles
 title.player_win=§7hat gewonnen!
 title.players_win=§7haben gewonnen!

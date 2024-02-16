@@ -84,3 +84,15 @@ kick.restart=§cThe server is restarting!
 # Common player titles
 title.player_win=§7won the game!
 title.players_win=§7won the game!
+
+# Time and duration
+time.day=day
+time.days=days
+time.hour=hour
+time.hours=hours
+time.minute=minute
+time.minutes=minutes
+time.and=and
+time.permanent=PERMANENT
+time.none=none
+time.never=never
