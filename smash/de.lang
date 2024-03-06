@@ -201,7 +201,7 @@ item.lore.katara_2=§7so Gegner wegschubsen. (Sneak)
 item.lore.one_punch_man_1=§7Sein unglaublicher Punch haut
 item.lore.one_punch_man_2=§7sogar Items aus der Hand.
 
-item.lore.voteinfo1=§7Du kannst zwischen §b4 zufällig §7ausgewählten
+item.lore.voteinfo1=§7Du kannst zwischen §b%s zufällig §7ausgewählten
 item.lore.voteinfo2=§7Maps §bvoten§7. Die zur Auswahl stehenden
 item.lore.voteinfo3=§7Maps ändern sich nach §bjeder Runde§7.
 chat.forcemap_only=§cDu kannst nur diese Maps erzwingen: §e%s

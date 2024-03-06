@@ -174,7 +174,7 @@ item.lore.katara_2=§7her enemiz to africa (snek)
 item.lore.one_punch_man_1=§7hiz insane puwnch even remowes
 item.lore.one_punch_man_2=§7itemz from others handz
 
-item.lore.voteinfo1=§7you can §bvote §7betwen §b4 randomli §7selectdd
+item.lore.voteinfo1=§7you can §bvote §7betwen §b%s randomli §7selectdd
 item.lore.voteinfo2=§7maps. thes maps change §bevery round§7.
 item.lore.voteinfo3=§7the entire map-pool iz still teh same.
 chat.forcemap_only=§cyou can only force thees maps: §e%s

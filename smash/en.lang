@@ -201,7 +201,7 @@ item.lore.katara_2=§7her enemies to space. (Sneak)
 item.lore.one_punch_man_1=§7His insane punch even removes
 item.lore.one_punch_man_2=§7items from others hands.
 
-item.lore.voteinfo1=§7You can §bvote §7between §b4 randomly §7selected
+item.lore.voteinfo1=§7You can §bvote §7between §b%s randomly §7selected
 item.lore.voteinfo2=§7maps. These maps change §bevery round§7.
 item.lore.voteinfo3=§7The entire Map-Pool is still the same.
 chat.forcemap_only=§cYou can only force these maps: §e%s
