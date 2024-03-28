@@ -273,3 +273,6 @@ chat.nightmode.enabled=§aNight mode enabled.
 chat.nightmode.disabled=§cNight mode disabled.
 chat.classic_skins.enabled=§eClassic skins enabled.
 chat.classic_skins.disabled=§aModern skins enabled.
+
+# Character specific translations
+inventory.name.treasure=§6Treasure chest
