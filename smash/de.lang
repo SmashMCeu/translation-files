@@ -275,4 +275,4 @@ chat.classic_skins.enabled=§eKlassische Skins aktiviert.
 chat.classic_skins.disabled=§aModerne Skins aktiviert.
 
 # Character specific translations
-inventory.name.treasure=§6Schatzkiste
+ inventory.name.treasure=§6§lSchatzkiste
