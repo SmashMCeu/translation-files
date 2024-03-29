@@ -186,8 +186,8 @@ eastern.title.all_collected_sub=§7Du hast alle Ostereier gefunden!
 eastern.chat.giveaway_entered=§aDu hast alle §eOstereier §agefunden und bist jetzt beim Gewinnspiel mit dabei!
 eastern.holo.line1=§e✪ §6SmashMC Osterevent §e✪
 eastern.holo.line2=§7Für jedes gefundene Ei erhälst du §e200 Coins§7.
-eastern.holo.line3=§7Zudem gibt es eine besondere Belohnung für Spieler,
-eastern.holo.line4=§7die alle Ostereier gefunden haben. (§b/discord§7)
+eastern.holo.line3=§7Zudem gibt es alle 10 gefundenen Eier
+eastern.holo.line4=§7eine besondere Belohnung. (§b/discord§7)
 eastern.holo.your_eggs=§eDeine Ostereier §8» §6§l%s§7/§e%s
 eastern.chat.all_collected=§7§lDer Spieler §e§l%s §7§lhat alle Ostereier gefunden.
 # Halloween Event

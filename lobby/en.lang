@@ -187,8 +187,8 @@ eastern.title.all_collected_sub=§7You found all easter eggs!
 eastern.chat.giveaway_entered=§aYou found all §eeaster eggs §aand entered the giveaway.
 eastern.holo.line1=§e✪ §6SmashMC Easter Event §e✪
 eastern.holo.line2=§7For every easter egg you get §e200 Coins§7.
-eastern.holo.line3=§7Additionally there is a special reward for those
-eastern.holo.line4=§7who found all easter eggs. (§b/discord§7)
+eastern.holo.line3=§7Additionally you get a special reward for
+eastern.holo.line4=§7finding every 10th egg. (§b/discord§7)
 eastern.holo.your_eggs=§eYour easter eggs §8» §6§l%s§7/§e%s
 eastern.chat.all_collected=§7§lThe player §e§l%s §7§lfound all easter eggs.
 # Halloween Event
