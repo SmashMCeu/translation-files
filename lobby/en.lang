@@ -13,6 +13,7 @@ inventory.social=§c%s
 item.name.request_friend=§cAdd friend
 item.name.invite_party=§eParty invite
 
+
 # Hotbar items
 item.name.game_selector=§8➤ §a§lGames §8▍ §7Right click
 item.name.back_to_spawn=§8➤ §6§lSpawn §8▍ §7Right click
@@ -101,6 +102,7 @@ item.lore.rewards=§7You can win all Gadgets and
 item.name.keys=§e§lKeys
 chat.won_coins=§7You've won a total amount of §6%s Coins§7!
 chat.won_gadget=§7You've won the %s §7gadget!
+chat.halloween.won_skin=§7You won the skin %s §7for §a%s§7!
 chat.won_purchased_gadget=§7You've won the %s §7gadget because you already have it you get the full purchase price in coins!
 chat.won_gadget_broadcast=§a%s §7won the %s §7gadget!
 reward.relic=RELIC

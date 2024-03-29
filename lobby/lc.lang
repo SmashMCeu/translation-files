@@ -58,6 +58,7 @@ item.name.thug_life_head=§bsucc liv (§3Minecraft 1.13+§b)
 item.name.color_boots=§ecolr butz
 chat.won_coins=§7youve won total amount ov §6%s coins§7!
 chat.won_gadget=§7youve won teh %s §7gadget!
+chat.halloween.won_skin=§7youve von teh skin %s §7for §a%s
 chat.won_gadget_broadcast=§a%s §7won teh %s §7gadget!
 reward.relic=RELICC
 reward.legendary=LEJENDARII

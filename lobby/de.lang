@@ -101,6 +101,7 @@ item.lore.rewards=§7Du kannst alle Gadgets gewinnen und
 item.name.keys=§e§lSchlüssel
 chat.won_coins=§7Du hast insgesamt §6%s Coins §7gewonnen!
 chat.won_gadget=§7Du hast das %s §7Gadget gewonnen!
+chat.halloween.won_skin=§7Du hast den Skin %s §7für §a%s §7gewonnen!
 chat.won_purchased_gadget=§7Du hast das %s §7Gadget gewonnen. Da du es schon hast, bekommst du den vollen Kaufpreis in Coins!
 chat.won_gadget_broadcast=§a%s §7hat %s §7Gadget gewonnen!
 reward.relic=RELIKTE
