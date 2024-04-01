@@ -48,6 +48,7 @@ chat.team_full=§cDieses Team ist voll!
 item.name.team_selector=§8➤ §c§lTeamauswahl §8▎ §7Rechtsklick
 inventory.teams=Teamauswahl
 chat.still_respawning=§cDiese Aktion ist gerade gesperrt!
+chat.fixing=§eFix wird angewendet, bitte stehe still...
 
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §eSchlage einen Spieler mit §cLinksklick §eum dieses Item zu verwenden.
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §eVerwende §cRechtsklick §eum dieses Item zu verwenden.
