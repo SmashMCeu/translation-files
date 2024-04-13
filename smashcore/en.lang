@@ -24,3 +24,5 @@ chat.ignore.added=§eNow hiding global chat messages from §c%s
 chat.ignore.removed=§aNo longer hiding global chat messages from §e%s
 chat.ignore.none=§aNo ignored players.
 chat.ignore.clear=§aList of ignored players cleared.
+chat.rank=§aYou own the rank: §7%s
+chat.rank.expire=§aYour rank will expire in §7%s

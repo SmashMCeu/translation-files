@@ -26,6 +26,7 @@ chat.force_map=§aMap §e%s §aforced!
 chat.deathmatch_started=§eThe deathmatch begins! In §c60 seconds§e, the player closest to the fire beam wins!
 chat.not_your_game=§cThis private round is not yours!
 chat.deathmatch_already_running=§cThe deathmatch is already running.
+chat.game_not_running=§cThere is no game running.
 kick.inactivity=§eYou were kicked due to inactivity.
 chat.inactivity_warning=§cPlease fight, or you might get kicked for inactivity.
 chat.lag_warning=§cIt seems like you're lagging. Please check your internet connection. 
@@ -47,6 +48,7 @@ chat.team_full=§cThis team is full!
 item.name.team_selector=§8➤ §c§lTeam selection §8▎ §7Right click
 inventory.teams=Team selection
 chat.still_respawning=§cYou can't do that right now!
+chat.fixing=§eTrying to fix you, please stand still...
 
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §eHit a player using §cleft-click §eto use this item.
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §eDo a §cright-click §eto use this item.
@@ -137,7 +139,7 @@ item.lore.pummeluff=§7Can put it's enemies to sleep! (Hit)
 item.lore.scotty=§7He teleports his enimies away from him! (Hit)
 item.lore.toad=§7He can throw poisonous mushrooms at his enemies. (Sneak)
 item.lore.wario=§7Deals more damage with his fist!
-item.lore.yoda=§7He uses the force to attack multiple enemies at once!
+item.lore.yoda=§7He uses the force to attack enemies far aways!
 item.lore.dreggman=§7He picks explosive items out of his sleeve.
 item.lore.relaxo=§7It is heavy and gets less knockback.
 item.lore.kingkrool=§7He can summon little helpers to attack his enemies.
@@ -161,7 +163,7 @@ item.lore.joy=§7For reason she always has some healing item. (Hit)
 item.lore.katara=§7She bends water to push her enemies to space. (Sneak)
 item.lore.one_punch_man=§7His insane punch even removes items from others hands.
 
-item.lore.voteinfo1=§7You can §bvote §7between §b4 randomly §7selected
+item.lore.voteinfo1=§7You can §bvote §7between §b%s randomly §7selected
 item.lore.voteinfo2=§7maps. These maps change §bevery round§7.
 item.lore.voteinfo3=§7The entire Map-Pool is still the same.
 chat.forcemap_only=§cYou can only force these maps: §e%s
@@ -233,3 +235,6 @@ chat.nightmode.enabled=§aNight mode enabled.
 chat.nightmode.disabled=§cNight mode disabled.
 chat.classic_skins.enabled=§eClassic skins enabled.
 chat.classic_skins.disabled=§aModern skins enabled.
+
+# Character specific translations
+inventory.name.treasure=§6§lTreasure chest
