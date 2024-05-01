@@ -17,6 +17,7 @@ punishment.altaccount=Bannumgehung
 punishment.threat=Drohung
 punishment.vpn=VPN oder Proxy
 punishment.appearance=Erscheinungsbild (Name oder Skin)
+punishment.hightcps=Hohe CPS
 
 # Command translations
 chat.scope.not_resolvable=§cKonnte kein Template zum angegebenen Grund finden. Bitte gib Zeit sowie Typ der Bestrafung an oder wähle einen anderen Grund.
