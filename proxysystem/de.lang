@@ -4,8 +4,8 @@ chat.already_on_server=§cDu bist bereits auf dem Server!
 chat.help=Liste der wichtigsten Befehle:
 
 chat.teamchat=§8● §eTeamChat §8| §6%s §8➥ §7%s
-chat.teamchat.toggle_enabled=§a Du hast den TeamChat-Toggle aktiviert.
-chat.teamchat.toggle_disabled=§c Du hast den TeamChat-Toggle deaktiviert.
+chat.teamchat.toggle_enabled=§aDu hast den TeamChat-Toggle aktiviert.
+chat.teamchat.toggle_disabled=§cDu hast den TeamChat-Toggle deaktiviert.
 
 chat.chatfilter.insult=§a%s §7hat versucht zu §cbeleidigen
 chat.chatfilter.advertising=§a%s §7hat versucht §cwerbung §7zu machen
