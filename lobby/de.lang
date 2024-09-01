@@ -91,6 +91,7 @@ item.name.present_head=§cGeschenkkopf
 item.name.present_pet=§9Verfolgungsgeschenk
 item.name.santa_painter=§3Weihnachtspinsel
 item.name.easter_bomb=§6Osterbombe
+item.name.firework_rocket=§dFeuerwerksrakete
 
 chat.gadget_disabled=§cDein Gadget §e%s §cist hier deaktiviert.
 
