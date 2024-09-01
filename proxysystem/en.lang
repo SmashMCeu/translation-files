@@ -4,6 +4,8 @@ chat.already_on_server=§cYou're already on this server! Use §e/spawn §cto get
 chat.help=List of most important commands:
 
 chat.teamchat=§8● §eTeamChat §8| §6%s §8➥ §7%s
+chat.teamchat.toggle_enabled=§aYou enabled the TeamChat-Toggle.
+chat.teamchat.toggle_disabled=§cYou disabled the TeamChat-Toggle.
 
 chat.chatfilter.insult=§a%s §7tried to §cinsult
 chat.chatfilter.advertising=§a%s §7is trying to §cadvertise
