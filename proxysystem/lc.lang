@@ -22,6 +22,9 @@ maintenance.disconnect=§cwe r currently in maintenance mode!
 chat.donate=§acheck dis siet 4 moar informashun: §ehttps://shop.smashmc.eu/
 chat.chatclear=§athe chat has been cleard!
 
+chat.teamchat.toggle_enabled=§aYou enablez teh TeamChat-Toggle.
+chat.teamchat.toggle_disabled=§cYou disablez teh TeamChat-Toggle.
+
 chat.streamer.enabled=§7Streamz mode §aGOOOOOO
 chat.streamer.disabled=§7Streamz mode §cgone
 chat.streamer.still_enabled=§7U still streaming? Please usu §e/streamer §7when not :)
