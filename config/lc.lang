@@ -13,6 +13,7 @@ chat.reward.message.target=u has ben rewardd by %s 4 builin map
 cmd.map.name.not.valid=teh map naym iz not valid
 cmd.map.delete.success=teh map %s wuz deletd
 cmd.map.delete.fail=teh map %s wuz not deletd
+cmd.teleport.success=u were teleportez to teh map §a%s§7.
 validate.item.notEnoght=a map must has %s item spawns
 validate.middle.notEnoght=a map must has %s middle spawn
 validate.player.notEnoght=a map must has %s playr spawns
