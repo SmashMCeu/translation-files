@@ -13,6 +13,7 @@ chat.reward.message.target=§aDu wurdest von %s für das bauen einer Map belohnt
 cmd.map.name.not.valid=§cDer Mapname ist ungültig.
 cmd.map.delete.success=§aDie Map %s wurde gelöscht!
 cmd.map.delete.fail=§cDie Map %s konnte nicht gelöscht werden.
+cmd.teleport.success=Du wurdest zur Map §a%s §7teleportiert.
 validate.item.notEnoght=§cEine map muss mindestends %s §citems spawns haben
 validate.middle.notEnoght=§cEine map muss mindestends §e%s §cmiddle spawns haben
 validate.player.notEnoght=§cEine map muss mindestends §e%s §cplayer spawns haben
