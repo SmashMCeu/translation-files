@@ -13,6 +13,7 @@ chat.reward.message.target=§aYou have ben rewarded by §e%s §afor builing a Ma
 cmd.map.name.not.valid=§cThe map name is not valid
 cmd.map.delete.success=§aThe map §e%s §awas deleted
 cmd.map.delete.fail=§cThe map §e%s §cwas not deleted
+cmd.teleport.success=You've been teleported to the Map §a%s§7.
 validate.item.notEnoght=§cA Map must have §e%s §citem spawns
 validate.middle.notEnoght=§cA Map must have §e%s §cmiddle spawn
 validate.player.notEnoght=§cA Map must have §e%s §cplayer spawns
