@@ -219,6 +219,9 @@ item.strong_grenade=stronk boom
 chat.classic_skins.enabled=§aclassicc skinz enabld
 chat.classic_skins.disabled=§cclassicc skinz disabld
 chat.map_already_loaded=§cteh map hs alredi ben sewlektet
+chat.damage_indicator.full=§admg indicator shawn.
+chat.damage_indicator.number=§edmg iwndikator shawntewned.
+chat.damage_indicator.none=§cdmg iwndikator disawbled.
 
 # Character specific translations
 inventory.name.treasure=§6§ltrejur bôx
