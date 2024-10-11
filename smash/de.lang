@@ -111,6 +111,7 @@ item.knockback_multiplier=Rückstoßmultiplikator
 item.snowball=Schneeball
 item.boxing_glove=Boxhandschuh
 item.nyan_boots=Nyan Schuhe
+item.sniper=Scharfschützengewehr
 
 item.name.random=§7Zufällig
 item.lore.asuna=§7Sie schlägt schneller als das Licht!

@@ -111,6 +111,7 @@ item.knockback_multiplier=Knockback Multiplier
 item.snowball=Snowball
 item.boxing_glove=Boxing glove
 item.nyan_boots=Nyan Boots
+item.sniper=Sniper
 
 item.name.random=§7Random
 item.lore.asuna=§7She can hit faster than anyone!
