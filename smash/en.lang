@@ -109,9 +109,10 @@ item.magic_chest=Magic Chest
 item.weakness=Weakness Potion
 item.knockback_multiplier=Knockback Multiplier
 item.snowball=Snowball
-item.boxing_glove=Boxing glove
+item.boxing_glove=Boxing Glove
 item.nyan_boots=Nyan Boots
 item.sniper=Sniper
+item.bouncy_arrow=Bouncy Arrow
 
 item.name.random=§7Random
 item.lore.asuna=§7She can hit faster than anyone!
