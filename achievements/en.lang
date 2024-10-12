@@ -42,6 +42,7 @@ name.million=Million
 name.cokejoke=A coke joke
 name.pro=Pro
 name.ware_pro=Minigame master
+name.kill_admin=Please no ban
 
 lore.not_a_bug=§7Use pummelluf to sky rocket an enemy!
 lore.inception=§7Find an item chest in an item chest,<br>§7inside of an item chest.
@@ -80,3 +81,4 @@ lore.million=§7Reach a balance of 1 Million coins.
 lore.cokejoke=§7Kill CokeJokeYT in Smash.
 lore.pro=§7Win Smash with a hard character.
 lore.ware_pro=§7Reach the highest possible<br>§7score in Smash Ware.
+lore.kill_admin=§7Kill one admin in smash.
