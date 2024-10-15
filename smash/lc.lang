@@ -224,6 +224,9 @@ chat.map_already_loaded=§cteh map hs alredi ben sewlektet
 chat.damage_indicator.full=§admg indicator shawn.
 chat.damage_indicator.number=§edmg iwndikator shawntewned.
 chat.damage_indicator.none=§cdmg iwndikator disawbled.
+chat.skins.all=§achawracta skiwns enawbld
+chat.skins.others=§echawracta skiwns onli 4 ohta playiers
+chat.skins.none=§cchawracta skiwns disawbld
 
 # Character specific translations
 inventory.name.treasure=§6§ltrejur bôx

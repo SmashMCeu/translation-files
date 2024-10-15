@@ -240,6 +240,9 @@ chat.classic_skins.disabled=§aModern skins enabled.
 chat.damage_indicator.full=§aDamage indicator shown.
 chat.damage_indicator.number=§eDamage indicator shortened.
 chat.damage_indicator.none=§cDamage indicator disabled.
+chat.skins.all=§aCharacter skins enabled.
+chat.skins.others=§eCharacter skins only for other players.
+chat.skins.none=§cCharacter skins disabled.
 
 # Character specific translations
 inventory.name.treasure=§6§lTreasure chest
