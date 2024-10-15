@@ -70,6 +70,9 @@ chat.deathmatch_end=§eDas Deathmatch endet in §c%s Sekunden§e.
 chat.no_self_play=§cDu kannst nicht mit dir selbst spielen.
 chat.coins=§7+§a%s Geld
 chat.coins.boosted=§7+§a%s Geld §7(§6+%s§7)
+chat.rejoin_to_apply=§cBitte joine neu, damit die Änderungen wirksam werden.
+
+# Buttons
 chat.button.accept=§a§l[ANNEHMEN]
 chat.button.deny=§c§l[ABLEHNEN]
 chat.button.confirm=§a§l[BESTÄTIGEN]

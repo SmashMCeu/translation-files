@@ -70,6 +70,9 @@ chat.deathmatch_end=§eThe deathmatch ends in §c%s seconds§e.
 chat.no_self_play=§cYou can't play with yourself.
 chat.coins=§7+§a%s Coins
 chat.coins.boosted=§7+§a%s Coins §7(§6+%s§7)
+chat.rejoin_to_apply=§cPlease rejoin to apply the changes.
+
+# Buttons
 chat.button.accept=§a§l[ACCEPT]
 chat.button.deny=§c§l[DENY]
 chat.button.confirm=§a§l[CONFIRM]

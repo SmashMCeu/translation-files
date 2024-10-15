@@ -64,6 +64,9 @@ kick.pro_joined=§cyou wuz kickd 2 allow §3pro §cto join.<br>§cu can buy §3p
 kick.restart=§cthe servr iz restartin!
 title.player_win=§7won teh game!
 title.players_win=§7won teh game!
+chat.rejoin_to_apply=§cpls rejoin to apli teh chawnges
+
+# Buttons
 chat.button.accept=§a§l[ACCEPT]
 chat.button.deny=§c§l[DENY]
 chat.button.confirm=§a§l[CONFIRM]
