@@ -86,6 +86,7 @@ chat.info.created_at= §8● §7Punished at§8: §a%s
 chat.info.comment= §8● §7Comment§8: §a%s
 chat.info.proof= §8● §7No Innocent cauze§8: §a%s
 chat.info.active= §8● §7Active§8: §a%s
+chat.info.sonkei= §8● §7Karma§8: §a%s
 chat.info.appeal= §8● §e§lAppeal§8: §a
 chat.info.appeal.type=   §8➥ §a§7Type§8: §e%s
 chat.info.appeal.by=   §8➥ §a§7By§8: §e%s

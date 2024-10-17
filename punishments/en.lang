@@ -93,6 +93,7 @@ chat.info.appeal.at=   §8➥ §a§7At§8: §e%s
 chat.info.appeal.original_duration=   §8➥ §a§7Original duration§8: §e%s
 chat.info.appeal.new_duration=   §8➥ §a§7New duration§8: §e%s
 chat.info.appeal.comment=   §8➥ §a§7Reason§8: §e%s
+chat.info.sonkei= §8● §7Karma§8: §a%s
 hover.active_on=§7Playing on§8: §a%s
 hover.last_seen=§7Last seen§8: §a%s
 hover.type=§7Type: §e%s
