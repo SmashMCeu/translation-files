@@ -26,3 +26,4 @@ chat.ignore.none=§aNo ignored players.
 chat.ignore.clear=§aList of ignored players cleared.
 chat.rank=§aYou own the rank: §7%s
 chat.rank.expire=§aYour rank will expire in §7%s
+chat.rules=Click here to see our §arules§7: §a%s
