@@ -203,6 +203,9 @@ chat.nightmode.enabled=§aNight mod enabld.
 chat.nightmode.disabled=§cNight mod disabld.
 chat.settings.double_jump.false= §8● §7doublu jumbu: §cno
 chat.settings.double_jump.true= §8● §7doublu jumbu: §ayes
+chat.autoforward.enabled=§aforwart on serwa restart enabld
+chat.autoforward.disabled=§cforwart on serwa restart disabld
+
 item.name.settings.double_jump=§bdouble jumbo
 item.laser=§cpzzzzz
 item.lore.use_key=§ause a §51x Pro Key§a.

@@ -243,6 +243,8 @@ chat.damage_indicator.none=§cSchadensindikator wird nicht angezeigt.
 chat.skins.all=§aCharacter Skins werden anzeigen.
 chat.skins.others=§eCharacter Skins werden nur bei anderen Spielern angezeigt.
 chat.skins.none=§cCharacter Skins werden nicht angezeigt.
+chat.autoforward.enabled=§aAutomatisches Verschieben bei Serverneustart deaktiviert.
+chat.autoforward.disabled=§cAutomatisches Verschieben bei Serverneustart aktiviert.
 
 # Character specific translations
 inventory.name.treasure=§6§lSchatzkiste

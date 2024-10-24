@@ -243,6 +243,8 @@ chat.damage_indicator.none=§cDamage indicator disabled.
 chat.skins.all=§aCharacter skins enabled.
 chat.skins.others=§eCharacter skins only for other players.
 chat.skins.none=§cCharacter skins disabled.
+chat.autoforward.enabled=§aAuto forward on server restart enabled.
+chat.autoforward.disabled=§cAuto forward on server restart disabled. 
 
 # Character specific translations
 inventory.name.treasure=§6§lTreasure chest
