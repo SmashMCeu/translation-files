@@ -26,4 +26,4 @@ chat.ignore.none=§aKeine ignorierten Spieler.
 chat.ignore.clear=§aListe ignorierter Spieler wurde gelöscht.
 chat.rank=§aDu hast den Rang: §7%s
 chat.rank.expire=§aDein Rang läuft ab in: §7%s
-chat.rules=Klicke um unsere §aRegeln §7zu sehen: §a%s
+chat.rules=Klicke um unsere Regeln §7zu sehen: §a
