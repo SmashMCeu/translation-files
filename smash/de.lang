@@ -252,3 +252,5 @@ inventory.name.treasure=§6§lSchatzkiste
 # Map voting
 chat.mapvote.cannot_vote=§cDu kannst für diese Map derzeit nicht abstimmen.
 chat.mapvote.voted=§aVielen dank für dein Feedback!
+chat.mapvote.votefor=§7Wie hat dir die Map §e%s §7gefallen?
+chat.mapvote.votenow=&7Stimme jetzt ab:

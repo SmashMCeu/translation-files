@@ -237,3 +237,5 @@ inventory.name.treasure=§6§ltrejur bôx
 # Map voting
 chat.mapvote.cannot_vote=§cu cwnt vut 4 dis mapp
 chat.mapvote.voted=§atank u 4 teh fewwdbacc <3 <3 <3 #nohomo
+chat.mapvote.votefor=§7how did u lika teh mapp §e%s§7?
+chat.mapvote.votenow=&7voot nuw:
