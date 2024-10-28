@@ -253,4 +253,4 @@ inventory.name.treasure=§6§lTreasure chest
 chat.mapvote.cannot_vote=§cYou cannot vote for this map.
 chat.mapvote.voted=§aThank you for the feedback <3
 chat.mapvote.votefor=§7How did you like the map §e%s§7?
-chat.mapvote.votenow=&7Vote now:
+chat.mapvote.votenow=§7Vote now:
