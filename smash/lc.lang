@@ -233,3 +233,7 @@ chat.skins.none=§cchawracta skiwns disawbld
 
 # Character specific translations
 inventory.name.treasure=§6§ltrejur bôx
+
+# Map voting
+chat.mapvote.cannot_vote=§cu cwnt vut 4 dis mapp
+chat.mapvote.voted=§atank u 4 teh fewwdbacc <3 <3 <3 #nohomo

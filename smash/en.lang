@@ -248,3 +248,7 @@ chat.autoforward.disabled=§cAuto forward on server restart disabled.
 
 # Character specific translations
 inventory.name.treasure=§6§lTreasure chest
+
+# Map voting
+chat.mapvote.cannot_vote=§cYou cannot vote for this map.
+chat.mapvote.voted=§aThank you for the feedback <3
