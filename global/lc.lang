@@ -71,6 +71,9 @@ chat.button.accept=§a§l[ACCEPT]
 chat.button.deny=§c§l[DENY]
 chat.button.confirm=§a§l[CONFIRM]
 chat.button.click=§e§l[KLICK]
+chat.button.good=§a§l[gud]
+chat.button.bad=§c§l[bad]
+
 chat.too_expensive=§cno enough money
 chat.no_self_play=§cu should not play with urself
 chat.coins=§7+§a%s coinz

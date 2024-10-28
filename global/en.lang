@@ -77,6 +77,8 @@ chat.button.accept=§a§l[ACCEPT]
 chat.button.deny=§c§l[DENY]
 chat.button.confirm=§a§l[CONFIRM]
 chat.button.click=§e§l[KLICK]
+chat.button.good=§a§l[GOOD]
+chat.button.bad=§c§l[BAD]
 
 # Common kick messages
 kick.server_full=§cThis server is full! You can buy §3Pro §cto join full servers!
