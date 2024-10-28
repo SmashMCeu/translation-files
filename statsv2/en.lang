@@ -17,6 +17,6 @@ chat.stats.revives= §8● §7Revived§8: §a%s
 chat.stats.entityWins= §8● §7Entity wins§8: §a%s
 chat.stats.scientistWins= §8● §7Scientist wins§8: §a%s
 chat.stats.taskSolved= §8● §7Tasks Solved§8: §a%s
-chat.stats.map= §8● §a%s§8: §e%s §7games/day §7(%s §7total) §7[%s§7]
+chat.stats.map= §8● §a%s§8: §e%s §7games/day §7(%s §7total)
 chat.stats.invalid_position=§cThere is no player at this position.
 chat.charstats= §8● §a%s§8: §7%s picks §8| §a%s%% §7Win propability

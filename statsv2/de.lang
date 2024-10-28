@@ -17,6 +17,6 @@ chat.stats.revives= §8● §7Wiederbelebt§8: §a%s
 chat.stats.entityWins= §8● §7Entity Siege§8: §a%s
 chat.stats.scientistWins= §8● §7Scientist Siege§8: §a%s
 chat.stats.taskSolved= §8● §7Aufgaben Gelöst§8: §a%s
-chat.stats.map= §8● §a%s§8: §e%s §7Spiele/§7Tag §7(%s §7Total) §7[%s§7]
+chat.stats.map= §8● §a%s§8: §e%s §7Spiele/§7Tag §7(%s §7Total)
 chat.stats.invalid_position=§cEs gibt keinen Spieler mit diesem Ranking.
 chat.charstats= §8● §a%s§8: §7%s Spiele §8| §a%s%% §7Winrate
