@@ -251,8 +251,8 @@ inventory.name.treasure=§6§lTreasure chest
 
 # Map voting
 chat.maprating.cannot_vote=§cYou cannot vote for this map.
-chat.maprating.voted_positive=§7You have previously down-voted this map. Click this message to change that.
-chat.maprating.voted_negative=§7You have previously up-voted this map. Click this message to change that.
-chat.maprating.voted=§aThank you for the feedback <3
-chat.maprating.votefor=§7How did you like the map §e%s§7?
-chat.maprating.votenow=§7Vote now:
+chat.maprating.rated_positive=§7You have previously down-voted this map. Click this message to change that.
+chat.maprating.rated_negative=§7You have previously up-voted this map. Click this message to change that.
+chat.maprating.rated=§aThank you for the feedback <3
+chat.maprating.ratefor=§7How did you like the map §e%s§7?
+chat.maprating.ratenow=§7Vote now:

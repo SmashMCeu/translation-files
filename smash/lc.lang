@@ -235,9 +235,9 @@ chat.skins.none=§cchawracta skiwns disawbld
 inventory.name.treasure=§6§ltrejur bôx
 
 # Map voting
-chat.maprating.cannot_vote=§cu cwnt vut 4 dis mapp
-chat.maprating.voted_positive=§7u have prewiusli down-votedd tis mapp. clicc tihs message to chanwge dat
-chat.maprating.voted_negative=§7u hav prewiusli up-voteddd tis mapp. clicc tihs message to chanwge dat
-chat.maprating.voted=§atank u 4 teh fewwdbacc <3 <3 <3 #nohomo
-chat.maprating.votefor=§7how did u lika teh mapp §e%s§7?
-chat.maprating.votenow=§7voot nuw:
+chat.maprating.cannot_rate=§cu cwnt vut 4 dis mapp
+chat.maprating.rated_positive=§7u have prewiusli down-votedd tis mapp. clicc tihs message to chanwge dat
+chat.maprating.rated_negative=§7u hav prewiusli up-voteddd tis mapp. clicc tihs message to chanwge dat
+chat.maprating.rated=§atank u 4 teh fewwdbacc <3 <3 <3 #nohomo
+chat.maprating.ratedfor=§7how did u lika teh mapp §e%s§7?
+chat.maprating.ratenow=§7voot nuw:
