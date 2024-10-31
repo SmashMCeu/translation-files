@@ -250,7 +250,7 @@ chat.autoforward.disabled=§cAuto forward on server restart disabled.
 inventory.name.treasure=§6§lTreasure chest
 
 # Map voting
-chat.maprating.cannot_vote=§cYou cannot vote for this map.
+chat.maprating.cannot_rate=§cYou cannot vote for this map.
 chat.maprating.rated_positive=§7You have previously down-voted this map. Click this message to change that.
 chat.maprating.rated_negative=§7You have previously up-voted this map. Click this message to change that.
 chat.maprating.rated=§aThank you for the feedback <3
