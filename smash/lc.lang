@@ -236,8 +236,8 @@ inventory.name.treasure=§6§ltrejur bôx
 
 # Map voting
 chat.maprating.cannot_rate=§cu cwnt vut 4 dis mapp
-chat.maprating.rated_positive=§7u have prewiusli down-votedd tis mapp. clicc tihs message to chanwge dat
-chat.maprating.rated_negative=§7u hav prewiusli up-voteddd tis mapp. clicc tihs message to chanwge dat
+chat.maprating.rated_positive=§7u have prewiusli down-votedd ti mapp %s. clicc tihs message to chanwge dat
+chat.maprating.rated_negative=§7u hav prewiusli up-voteddd ti mapp %s. clicc tihs message to chanwge dat
 chat.maprating.rated=§atank u 4 teh fewwdbacc <3 <3 <3 #nohomo
 chat.maprating.ratedfor=§7how did u lika teh mapp §e%s§7?
 chat.maprating.ratenow=§7voot nuw:
