@@ -1,5 +1,5 @@
 # StatsV2
-chat.stats.missing=§cDer Spieler §e%s §chat diesen Monat noch kein §e%s §cgespielt. Nutze §e/stats smash all§c, um die Gesamtstatistiken einzusehen.
+chat.stats.missing=§cDer Spieler §e%s §chat in diesem Zeitraum noch kein §e%s §cgespielt.
 chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
 chat.stats.tail= 
 chat.stats.about.all=§8» §a%s§8: §7Gesamtstatistiken<br> 
