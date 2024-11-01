@@ -251,7 +251,6 @@ inventory.name.treasure=§6§lSchatzkiste
 
 # Map voting
 chat.maprating.cannot_rate=§cDu kannst für diese Map nicht mehr abstimmen.
-chat.maprating.already_rated=§cDu hast diese Map bereits bewertet.
 chat.maprating.already_rated_positive=§cDu hast diese Map bereits positiv bewertet.
 chat.maprating.already_rated_negative=§cDu hast diese Map bereits negativ bewertet.
 chat.maprating.rated_positive=§7Du hast die Map %s in der Vergangenheit positiv bewertet. Klicke diese Nachricht, um das zu ändern.
