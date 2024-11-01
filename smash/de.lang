@@ -255,6 +255,6 @@ chat.maprating.already_rated_positive=§cDu hast diese Map bereits positiv bewer
 chat.maprating.already_rated_negative=§cDu hast diese Map bereits negativ bewertet.
 chat.maprating.rated_positive=§7Du hast die Map %s in der Vergangenheit positiv bewertet. Klicke diese Nachricht, um das zu ändern.
 chat.maprating.rated_negative=§7Du hast die Map %s in der Vergangenheit negativ bewertet. Klicke diese Nachricht, um das zu ändern.
-chat.maprating.rated=§aVielen dank für dein Feedback!
+chat.maprating.rated=§aVielen Dank für dein Feedback!
 chat.maprating.ratefor=§7Wie hat dir die Map §e%s §7gefallen?
 chat.maprating.ratenow=§7Stimme jetzt ab:
