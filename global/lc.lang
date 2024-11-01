@@ -71,8 +71,8 @@ chat.button.accept=§a§l[ACCEPT]
 chat.button.deny=§c§l[DENY]
 chat.button.confirm=§a§l[CONFIRM]
 chat.button.click=§e§l[KLICK]
-chat.button.good=§a§l[gud]
-chat.button.bad=§c§l[bad]
+chat.button.like=§a§l[100 nike air]
+chat.button.dislike=§c§l[100 likes mehr]
 
 chat.too_expensive=§cno enough money
 chat.no_self_play=§cu should not play with urself
