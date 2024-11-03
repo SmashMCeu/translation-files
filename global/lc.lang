@@ -8,6 +8,7 @@ item.name.accept=§aacept
 item.name.deny=§cdeny
 item.name.cancel=§ccancel
 item.name.remove=§cremoov
+item.name.equipped=§aeqipt
 item.name.previous_page=§6« §7previous paeg
 item.name.next_page=§7next paeg §6»
 item.name.back=§2« §cbacc

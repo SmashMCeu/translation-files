@@ -11,6 +11,7 @@ item.name.deny=§cAblehnen
 item.name.confirm=§aBestätigen
 item.name.cancel=§cAbbrechen
 item.name.remove=§cEntfernen
+item.name.equipped=§aAusgewählt
 item.name.previous_page=§6« §7Vorherige Seite
 item.name.next_page=§7Nächste Seite §6»
 item.name.back=§c« §7Zurück
