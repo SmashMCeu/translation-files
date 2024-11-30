@@ -1,0 +1,27 @@
+chat.stats=Du hast §a%s%% §7Schaden und §a%s Kills§7 gemacht. 
+chat.game_end.no_winner=§cNiemand hat gewonnen!
+chat.startMelting.seconds=Die Map beginnt in §a%s Sekunden §7zu schmelzen.
+chat.startMelting=Die Map beginnt §ajetzt §7zu schmelzen.
+chat.no_respawn=§cDeathmatch! Jeder hat nur noch ein Leben!
+
+item.snowball=§3Schneeball
+item.tnt_snowball=§4TNT Schneeball
+item.freeze=§bFreeze
+item.speed=§aSchnelligkeitseffekt
+item.jump_boost=§cSprungeffekt
+item.cookie=§cP§fl§aä§ft§cz§fc§ch§fe§cn
+title.died=§cDu bist gestorben!
+title.lost=§7Du hast verloren!
+title.go=§aSTART!
+
+score.players=§e§lSpieler
+score.title=§e§lSnow Fight §7| §cLeben
+
+inv.settings=§8➤ §c§lEinstellungen
+inv.settings.title=§cZeige Warn-Titel
+inv.settings.title.description=§7Aktiviere ob du ein Warn-Zeichen als Titel bekommen möchtest, wenn die Map schmilzt
+inv.settings.weather=§cSchneefall
+inv.settings.weather.description=§7Aktiviere ob du Schneefall haben möchtest
+inv.settings.values.enabled=§aAktiviert
+inv.settings.values.disabled=§cDeaktiviert
+
