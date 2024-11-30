@@ -1,7 +1,6 @@
 # Giveaway
-chat.giveaway.requirements=§cТы должен принять следующие условия/требования: §ehttps://smashmc.eu/giveaway<br>§7Чтобы принять участие в розыгрыше, введи команду еще раз.
+chat.giveaway.requirements=§cТы должен принять следующие условия/требования: §ehttps://smashmc.eu/faq/giveaway<br>§7Чтобы принять участие в розыгрыше, введи команду еще раз.
 chat.giveaway.invalid_contact=§cПожалуйста, укажи свой адрес электронной почты или тег Discord.
 chat.giveaway.already_entered=§aТы уже участвуешь в розыгрыше.
 chat.giveaway.condition_fail=§7Что бы участвовать в розыграше то должен для начала поиграть в Smash (НЕ SMASH BROS).
 chat.giveaway.not_running=§cЭто не постоянная раздача.
-chat.giveaway.entered=§a§lТы присоединился к розыгрышу. §c(Nintendo Switch)<br>§7Больше информации найдёшь в Discord (§3/discord§7).<br>§aУдачи!

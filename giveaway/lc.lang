@@ -1,7 +1,15 @@
 # Giveaway
-chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/giveaway<br>§7To accept and join the giveaway, please enter the command again.
-chat.giveaway.invalid_contact=§chow tf are we supposed to find u?
+chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/faq/giveaway<br>§7To accept and join the giveaway, please enter the command §e/giveaway join <email/discord> §7again.
+chat.giveaway.invalid_contact=§chow tf are we supposed to find u? use §e/giveaway join <email/discord> §7!1
 chat.giveaway.already_entered=§ano cheatin!
 chat.giveaway.condition_fail=§7play smash first pls!
 chat.giveaway.not_running=§c404 - no giveaway found :c
-chat.giveaway.entered=§au joind teh giveaway and moa information on our discort §7(/discordn)§a. best lucc!!!112
+chat.giveaway.entered=§a§lyou can now get in teh giveaway by finding n destroyin teh §6§lgiveaway blox §a§lin smash round!<br>§7moar info on our discort (§3/discord§7).<br>§abest of lucc!!1122
+chat.giveaway.qualified=§a§l%s §6§lqualified fo teh giveaway!
+chat.giveaway.staff_not_allowed=§astaff memba, friendz and vet can't participate in teh giveaway.
+chat.giveaway.not_entered=§cYou neeed to join teh giveaway before u can §equalify §cfor it.<br>§eUse: §e/giveaway join <email/discord>
+chat.giveaway.already_qualified=§au r already qualified.
+chat.giveaway.network_join=§7join our christmas giveaway and qualify by finding and §cdestroying §7the §6§lGiveaway block §7in a Smash round!<br>§7use: §e/giveaway join <email/discord>
+armorstand.giveaway.top=§a(slap me to qualify)
+armorstand.giveaway.base=§6§lGiveaway
+chat.giveaway.spawned=§7a §6§lgiveaway block §7has spwned on teh map.
