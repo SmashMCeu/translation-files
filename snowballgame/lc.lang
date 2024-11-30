@@ -1,0 +1,26 @@
+chat.stats=U did §a%s%% §7damaj an killed §a%s playerz§7.  
+chat.game_end.no_winner=§cNOBODY WINS, HOOOMANZ!  
+chat.startMelting.seconds=Tha map starts meltin in §a%s sekundz§7.  
+chat.startMelting=Tha map stars meltin §anowz§7!  
+chat.no_respawn=§cDETHMATCH! All kittehz haz 1 life nao!
+
+item.snowball=§3Snowbalz  
+item.tnt_snowball=§4BOOM Snowbalz  
+item.freeze=§bFREZZZZE  
+item.speed=§aZOOM ZOOM Effect  
+item.jump_boost=§cHOPPY Effect  
+item.cookie=§cC§fh§cr§fi§cs§ft§cm§fa§cs §fC§co§fo§ck§fi§ce  
+title.died=§cU DED!  
+title.lost=§7U LOOOOOOSE!  
+title.go=§aGOOOOOOOOO!
+
+score.players=§e§lPlayerz  
+score.title=§e§lSnow Fight §7| §cLivz
+
+inv.settings=§8➤ §c§lSettin'z  
+inv.settings.title=§cShow DANGUR Title  
+inv.settings.title.description=§7Toggl dis if u wanna see title dat sez "Map iz meltin"  
+inv.settings.weather=§cSnofal!  
+inv.settings.weather.description=§7Toggl if u wanz snowflakes  
+inv.settings.values.enabled=§aYESPLZ  
+inv.settings.values.disabled=§cNOPE

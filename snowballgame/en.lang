@@ -1,0 +1,27 @@
+chat.stats=You dealt §a%s%% §7damage and killed §a%s player§7. 
+chat.game_end.no_winner=§cNobody has won!
+chat.startMelting.seconds=The map starts melting in §a%s seconds§7.
+chat.startMelting=The map stars melting §anow§7.
+chat.no_respawn=§cDeathmatch! Everyone has one live now!
+
+item.snowball=§3Snowball
+item.tnt_snowball=§4TNT Snowball
+item.freeze=§bFreeze
+item.speed=§aSpeed Effect
+item.jump_boost=§cJump Boost Effect
+item.cookie=§cC§fh§cr§fi§cs§ft§cm§fa§cs §fC§co§fo§ck§fi§ce
+title.died=§cYou died!
+title.lost=§7You lost!
+title.go=§aGOO!
+
+score.players=§e§lPlayers
+score.title=§e§lSnow Fight §7| §cLives
+
+inv.settings=§8➤ §c§lSettings
+inv.settings.title=§cShow Danger Title
+inv.settings.title.description=§7Toggle if you want to get a title to notify you about map melting
+inv.settings.weather=§cSnowfall
+inv.settings.weather.description=§7Toggle if you want to have snowfall
+inv.settings.values.enabled=§aEnabled
+inv.settings.values.disabled=§cDisabled
+
