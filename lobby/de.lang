@@ -92,6 +92,8 @@ item.name.present_pet=§9Verfolgungsgeschenk
 item.name.santa_painter=§3Weihnachtspinsel
 item.name.easter_bomb=§6Osterbombe
 item.name.firework_rocket=§dFeuerwerksrakete
+item.name.gingerbread=§6Lebkuchen Klicker
+item.name.letitsnow=§fLass es schneien
 
 chat.gadget_disabled=§cDein Gadget §e%s §cist hier deaktiviert.
 
@@ -120,6 +122,9 @@ entity.halloftoday.line1=§6§lHall of Today
 entity.halloftoday.line2=§7Hier hängen die Köpfe aller Spieler,
 entity.halloftoday.line3=§7die heute den Server betreten haben.
 entity.halloftoday.line4=§bFindest du deinen eigenen?
+entity.gingerbread.try_again=§cVersuchs nochmal!
+entity.gingerbread.clicks=%s §7Klicks
+entity.gingerbread.second_left=%s §7Sekunden verbleibend
 
 # Server from the game selector
 item.lore.server_state=§8➥ §7Status §8» %s

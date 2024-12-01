@@ -93,6 +93,8 @@ item.name.present_pet=§9Chasing Present
 item.name.santa_painter=§3Santa Painter
 item.name.easter_bomb=§6Easter bomb
 item.name.firework_rocket=§dFirework Rocket
+item.name.gingerbread=§6Gingerbread Clicker
+item.name.letitsnow=§fLet it snow
 
 chat.gadget_disabled=§cYou gadget §e%s §cis now disabled.
 
@@ -121,6 +123,9 @@ entity.halloftoday.line1=§6§lHall of Today
 entity.halloftoday.line2=§7Here you can find the heads
 entity.halloftoday.line3=§7of all players from today.
 entity.halloftoday.line4=§bCan you find your own one?
+entity.gingerbread.try_again=§cTry again!
+entity.gingerbread.clicks=%s §7Clicks
+entity.gingerbread.second_left=%s §7Seconds left
 
 # Server from the game selector
 item.lore.server_state=§8➥ §7Status §8» %s
