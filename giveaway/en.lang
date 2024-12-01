@@ -1,5 +1,5 @@
 # Giveaway
-chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/faq/giveaway<br>§7To accept and join the giveaway, please enter the command §e/giveaway join <email/discord> §7again.
+chat.giveaway.requirements=§cYou need to accept the following terms/requirements: §ehttps://smashmc.eu/faq/giveaway<br>§7To accept and join the giveaway, please enter the command §e/giveaway join <ur email or ur discord tag> §7again.
 chat.giveaway.invalid_contact=§cPlease specify your email address or discord tag with §e/giveaway join <email/discord>§7.
 chat.giveaway.already_entered=§aYou are already participating in the giveaway.
 chat.giveaway.condition_fail=§7To join the giveaway you need to play Smash first.
@@ -7,10 +7,11 @@ chat.giveaway.not_running=§cThe is no ongoing giveaway.
 chat.giveaway.entered=§a§lYou can now qualify for the giveaway by finding and destroying the §6§lGiveaway block §a§lin a Smash round.<br>§7You can find more information on our discord (§3/discord§7).<br>§aBest luck!
 chat.giveaway.qualified=§a§l%s §6§lqualified for the giveaway!
 chat.giveaway.staff_not_allowed=§aStaff members, Friends and Veteran can't participate in the giveaway.
-chat.giveaway.not_entered=§cYou must first join the giveaway before you can §equalify §cfor it.<br>§eUse: §e/giveaway join <email/discord>
+chat.giveaway.not_entered=§cYou must first join the giveaway before you can §equalify §cfor it.<br>§eUse: §e/giveaway join <ur email or ur discord tag>
 chat.giveaway.already_qualified=§au r already qualified.
 chat.giveaway.already_qualified=§aYou are already qualified.
-chat.giveaway.network_join=§7Join our Christmas giveaway and qualify by finding and §cdestroying §7the §6§lGiveaway block §7in a Smash round!<br>§7Use: §e/giveaway join <email/discord>
+chat.giveaway.network_join=§7Join our Christmas giveaway and qualify by finding and §cdestroying §7the §6§lGiveaway block §7in a Smash round!<br>§7Use: §e/giveaway join <ur email or ur discord tag>
 armorstand.giveaway.top=§a(Hit me to qualify)
 armorstand.giveaway.base=§6§lGiveaway
 chat.giveaway.spawned=§7A §6§lGiveaway block §7has spawned on the map.
+chat.giveaway.idiots=§cPlease enter §eyour §cown §eemail address §cor §eyour Discord tag §cso we can contact you.

@@ -1,5 +1,5 @@
 # Giveaway
-chat.giveaway.requirements=§cMit der Teilnahme am Gewinnspiel, stimmst du folgenden Bedingungen zu: §ehttps://smashmc.eu/faq/giveaway<br>§7Wenn du einverstanden bist, gib den Befehl §e/giveaway join <email/discord> §7erneut ein.
+chat.giveaway.requirements=§cMit der Teilnahme am Gewinnspiel, stimmst du folgenden Bedingungen zu: §ehttps://smashmc.eu/faq/giveaway<br>§7Wenn du einverstanden bist, gib den Befehl §e/giveaway join <Deine E-Mail oder dein Discord-Tag> §7erneut ein.
 chat.giveaway.invalid_contact=§cBitte gib deine E-Mail Adresse oder Discord-Tag an mit §e/giveaway join <email/discord>§7.
 chat.giveaway.already_entered=§aDu nimmst bereits am Gewinnspiel teil.
 chat.giveaway.condition_fail=§7Um am Gewinnspiel teilnehmen zu können, musst du mindestens eine Runde Smash in den letzten 30 Tagen gespielt haben.<br>§cBitte spiele erst eine Runde Smash und gib dann diesen Befehl erneut ein.
@@ -7,9 +7,10 @@ chat.giveaway.not_running=§cEs gibt derzeit kein aktives Gewinnspiel oder es is
 chat.giveaway.entered=§a§lDu kannst dich nun für das Gewinnspiel qualifizieren indem du in einer Smash-Runde den §6§lGiveaway-Block §a§lfindest und §c§lzerstörst.<br>§7Mehr Informationen findest du auf unserem Discord (§3/discord§7).<br>§aViel Glück!
 chat.giveaway.qualified=§a§l%s §6§lhat sich für das Gewinnspiel qualifiziert.
 chat.giveaway.staff_not_allowed=§aTeammitglieder, Freunde und Veteran können leider nicht am Gewinnspiel teilnehmen.
-chat.giveaway.not_entered=§cDu musst zuerst dem Gewinnspiel beitreten bevor du dich qualifizieren kannst.<br>§cNutze zuerst zum beitreten: §e/giveaway join <email/discord>
+chat.giveaway.not_entered=§cDu musst zuerst dem Gewinnspiel beitreten bevor du dich qualifizieren kannst.<br>§cNutze zuerst zum beitreten: §e/giveaway join <Deine E-Mail oder dein Discord-Tag>
 chat.giveaway.already_qualified=§aDu hast dich bereits qualifiziert.
-chat.giveaway.network_join=§7Trete unserem Weihnachtsgewinnspiel bei und qualifiziere dich indem du den §6§lGiveaway-Block §7in einer Smash-Runde findest und §czerstörst§7!<br>§7Nutze zuerst zum beitreten: §e/giveaway join <email/discord>
+chat.giveaway.network_join=§7Trete unserem Weihnachtsgewinnspiel bei und qualifiziere dich indem du den §6§lGiveaway-Block §7in einer Smash-Runde findest und §czerstörst§7!<br>§7Nutze zuerst zum beitreten: §e/giveaway join <Deine E-Mail oder dein Discord-Tag>
 armorstand.giveaway.top=§a(Schlag mich zum qualifizieren)
 armorstand.giveaway.base=§6§lGewinnspiel
 chat.giveaway.spawned=§7Ein §6§lGiveaway-Block §7ist auf der Map gespawnt.
+chat.giveaway.idiots=§cBitte gebe §edeine §ceigene §eE-Mail Adresse §coder §edeinen Discord-Tag §cein damit wir dich kontaktieren können.
