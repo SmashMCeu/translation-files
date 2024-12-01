@@ -237,8 +237,8 @@ item.lore.smash_ware=§7Party Minigame mit deinen Freunden.
 # Jump and run
 chat.jumpandrun.level_finished=§7Du hast das Jump and Run-Level §a%s §7erreicht!
 chat.jumpandrun.beat_highscore=§aDu hast den neuen Jump and Run Rekord auf §e%s §agesetzt!
-chat.jumpandrun.highscore=§7Der Jump and Run Rekord ist §a%s§7 von §a%s§7!
-chat.jumpandrun.personal_best=§7Dein persönlicher Rekord ist §a%s§7.
+chat.jumpandrun.highscore=§7Der tägliche Jump and Run Rekord ist §a%s§7 von §a%s§7!
+chat.jumpandrun.personal_best=§7Dein persönlicher all-time Rekord ist §a%s§7.
 
 chat.no_abuse.enabled=§aNicht stören Modus aktiviert.
 chat.no_abuse.disabled=§cNicht stören Modus deaktiviert.
