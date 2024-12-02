@@ -96,7 +96,7 @@ item.name.firework_rocket=§dFirework Rocket
 item.name.gingerbread=§6Gingerbread Clicker
 item.name.letitsnow=§fLet it snow
 
-chat.gadget_disabled=§cYou gadget §e%s §cis now disabled.
+chat.gadget_disabled=§cYour gadget §e%s §cis now disabled.
 
 # Chest opening
 item.name.use_key=§a§lUse a key
