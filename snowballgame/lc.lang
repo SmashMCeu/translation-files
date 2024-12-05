@@ -3,6 +3,7 @@ chat.game_end.no_winner=§cNOBODY WINS, HOOOMANZ!
 chat.startMelting.seconds=Tha map starts meltin in §a%s sekundz§7.  
 chat.startMelting=Tha map stars meltin §anowz§7!  
 chat.no_respawn=§cDETHMATCH! All kittehz haz 1 life nao!
+chat.restart_countdown=§cteh game restartz in §e%s §csecondz.
 
 item.snowball=§3Snowbalz  
 item.tnt_snowball=§4BOOM Snowbalz  
@@ -15,8 +16,10 @@ title.lost=§7U LOOOOOOSE!
 title.go=§aGOOOOOOOOO!
 
 score.players=§e§lPlayerz  
-score.title=§e§lSnow Fight §7| §cLivz
+score.title=§b§lSnowFight §7| §cLivz
 
+inv.leave=§8➤ §a§lLeave noob!
+inv.help=§8➤ §e§lHow to not noob?
 inv.settings=§8➤ §c§lSettin'z  
 inv.settings.title=§cShow DANGUR Title  
 inv.settings.title.description=§7Toggl dis if u wanna see title dat sez "Map iz meltin"  
@@ -24,3 +27,7 @@ inv.settings.weather=§cSnofal!
 inv.settings.weather.description=§7Toggl if u wanz snowflakes  
 inv.settings.values.enabled=§aYESPLZ  
 inv.settings.values.disabled=§cNOPE
+
+book.help.title=§b§l  SnowFight Game
+book.help.how_to_play.title=§lHow to not noob?
+book.help.how_to_play.content=Pick up snow from teh ground and get snowballz and special itemz to knock other kitteh down. Every kitteh has 2 livez and map startz melting after some time. No nap!

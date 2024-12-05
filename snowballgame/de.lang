@@ -3,20 +3,23 @@ chat.game_end.no_winner=§cNiemand hat gewonnen!
 chat.startMelting.seconds=Die Map beginnt in §a%s Sekunden §7zu schmelzen.
 chat.startMelting=Die Map beginnt §ajetzt §7zu schmelzen.
 chat.no_respawn=§cDeathmatch! Jeder hat nur noch ein Leben!
+chat.restart_countdown=§cDas Spiel startet in §e%s §cSekunde(n) neu.
 
 item.snowball=§3Schneeball
 item.tnt_snowball=§4TNT Schneeball
 item.freeze=§bFreeze
 item.speed=§aSchnelligkeitseffekt
-item.jump_boost=§cSprungeffekt
-item.cookie=§cP§fl§aä§ft§cz§fc§ch§fe§cn
+item.jump_boost=§cSprungeffect
+item.cookie=§cP§fl§cä§ft§cz§fc§ch§fe§cn
 title.died=§cDu bist gestorben!
 title.lost=§7Du hast verloren!
 title.go=§aSTART!
 
 score.players=§e§lSpieler
-score.title=§e§lSnow Fight §7| §cLeben
+score.title=§b§lSnowFight §7| §cLeben
 
+inv.leave=§8➤ §a§lZurück zur Lobby
+inv.help=§8➤ §e§lWie spielt man?
 inv.settings=§8➤ §c§lEinstellungen
 inv.settings.title=§cZeige Warn-Titel
 inv.settings.title.description=§7Aktiviere ob du ein Warn-Zeichen als Titel bekommen möchtest, wenn die Map schmilzt
@@ -25,3 +28,6 @@ inv.settings.weather.description=§7Aktiviere ob du Schneefall haben möchtest
 inv.settings.values.enabled=§aAktiviert
 inv.settings.values.disabled=§cDeaktiviert
 
+book.help.title=§b§l  SnowFight Spiel
+book.help.how_to_play.title=§lWie spiel man dieses Spiel?
+book.help.how_to_play.content=Hebe Schnee vom Boden auf um mit Hilfe von Schneebällen und speziellen Items die Gegner von der Plattform zu stoßen. Jeder hat 2 Leben und beeile dich, bevor die Map dir wegschmilzt!
