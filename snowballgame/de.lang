@@ -10,6 +10,7 @@ item.tnt_snowball=§4TNT Schneeball
 item.freeze=§bFreeze
 item.speed=§aSchnelligkeitseffekt
 item.jump_boost=§cSprungeffekt
+item.feather=§fBoost
 item.cookie=§cP§fl§cä§ft§cz§fc§ch§fe§cn
 title.died=§cDu bist gestorben!
 title.lost=§7Du hast verloren!
@@ -20,6 +21,7 @@ score.title=§b§lSnowFight §7| §cLeben
 
 inv.leave=§8➤ §a§lZurück zur Lobby
 inv.help=§8➤ §e§lWie spielt man?
+inv.teleporter=§8➤ §b§lTeleporter
 inv.settings=§8➤ §c§lEinstellungen
 inv.settings.title=§cZeige Warn-Titel
 inv.settings.title.description=§7Aktiviere ob du ein Warn-Zeichen als Titel bekommen möchtest, wenn die Map schmilzt
