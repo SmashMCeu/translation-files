@@ -7,7 +7,8 @@ chat.restart_countdown=§cteh game restartz in §e%s §csecondz.
 
 item.snowball=§3Snowbalz  
 item.tnt_snowball=§4BOOM Snowbalz  
-item.freeze=§bFREZZZZE  
+item.freeze=§bFREZZZZE
+item.feather=§fWUUUSSSCCCHHH
 item.speed=§aZOOM ZOOM Effect  
 item.jump_boost=§cHOPPY Effect  
 item.cookie=§cC§fh§cr§fi§cs§ft§cm§fa§cs §fC§co§fo§ck§fi§ce  
@@ -20,6 +21,7 @@ score.title=§b§lSnowFight §7| §cLivz
 
 inv.leave=§8➤ §a§lLeave noob!
 inv.help=§8➤ §e§lHow to not noob?
+inv.teleporter=§8➤ §b§lteleportez
 inv.settings=§8➤ §c§lSettin'z  
 inv.settings.title=§cShow DANGUR Title  
 inv.settings.title.description=§7Toggl dis if u wanna see title dat sez "Map iz meltin"  

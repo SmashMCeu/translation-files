@@ -8,6 +8,7 @@ chat.respawn_countdown=§cThe game is restarting in §e%s §csecond(s).
 item.snowball=§3Snowball
 item.tnt_snowball=§4TNT Snowball
 item.freeze=§bFreeze
+item.feather=§fBoost
 item.speed=§aSpeed Effect
 item.jump_boost=§cJump Boost Effect
 item.cookie=§cC§fh§cr§fi§cs§ft§cm§fa§cs §fC§co§fo§ck§fi§ce
@@ -20,6 +21,7 @@ score.title=§b§lSnowFight §7| §cLives
 
 inv.leave=§8➤ §a§lBack to lobby
 inv.help=§8➤ §e§lHow to play?
+inv.teleporter=§8➤ §b§lteleporter
 inv.settings=§8➤ §c§lSettings
 inv.settings.title=§cShow Danger Title
 inv.settings.title.description=§7Toggle this to receive map melting notifications
