@@ -110,6 +110,15 @@ hover.active_ban=§7Aktiver Bann: §c%s
 hover.shared_ip=§7Geteilte Ip: §a%s
 hover.name=§7Name: §a%s
 
+# GeoInfo commands
+chat.ip.country=§8● §7Land§8: §a%s
+chat.ip.region=§8● §7Region§8: §a%s
+chat.ip.city=§8● §7Stadt§8: §a%s
+chat.ip.isp=§8● §7ISP§8: §a%s
+chat.ip.mobile=§8● §7Mobil§8: §a%s
+chat.ip.proxy=§8● §7Proxy§8: §a%s
+chat.ip.hosting=§8● §7Hosting§8: §a%s
+
 # Time and duration
 time.day=Tag
 time.days=Tage

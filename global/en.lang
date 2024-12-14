@@ -72,6 +72,9 @@ chat.no_self_play=§cYou can't play with yourself.
 chat.coins=§7+§a%s Coins
 chat.coins.boosted=§7+§a%s Coins §7(§6+%s§7)
 chat.rejoin_to_apply=§cPlease rejoin to apply the changes.
+chat.404=No results were found.
+chat.yes=§aYes
+chat.no=§cNo
 
 # Buttons
 chat.button.accept=§a§l[ACCEPT]

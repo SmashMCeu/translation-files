@@ -110,6 +110,15 @@ hover.active_ban=§7aktiv pun: §c%s
 hover.shared_ip=§7Busted ip: §a%s
 hover.name=§7nam: §a%s
 
+# GeoInfo commands
+chat.ip.country=§8● §7Cuntry§8: §a%s
+chat.ip.region=§8● §7Regyun§8: §a%s
+chat.ip.city=§8● §7City§8: §a%s
+chat.ip.isp=§8● §7ISP§8: §a%s
+chat.ip.mobile=§8● §7Moobile§8: §a%s
+chat.ip.proxy=§8● §7Proxee§8: §a%s
+chat.ip.hosting=§8● §7Hostin§8: §a%s
+
 # Time and duration
 time.day=* 24 hourz
 time.days=* 24 hourz

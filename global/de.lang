@@ -72,6 +72,9 @@ chat.no_self_play=§cDu kannst nicht mit dir selbst spielen.
 chat.coins=§7+§a%s Geld
 chat.coins.boosted=§7+§a%s Geld §7(§6+%s§7)
 chat.rejoin_to_apply=§cBitte joine neu, damit die Änderungen wirksam werden.
+chat.404=Leider konnten keine Ergebnisse gefunden werden.
+chat.yes=§aJa
+chat.no=§cNein
 
 # Buttons
 chat.button.accept=§a§l[ANNEHMEN]

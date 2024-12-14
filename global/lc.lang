@@ -66,6 +66,9 @@ kick.restart=§cthe servr iz restartin!
 title.player_win=§7won teh game!
 title.players_win=§7won teh game!
 chat.rejoin_to_apply=§cpls rejoin to apli teh chawnges
+chat.404=§cno resulz wuz foundz!
+chat.yes=§aYe
+chat.no=§cNa
 
 # Buttons
 chat.button.accept=§a§l[ACCEPT]
