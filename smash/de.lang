@@ -245,6 +245,8 @@ chat.skins.others=§eCharacter Skins werden nur bei anderen Spielern angezeigt.
 chat.skins.none=§cCharacter Skins werden nicht angezeigt.
 chat.autoforward.enabled=§aAutomatisches Verschieben bei Serverneustart aktiviert.
 chat.autoforward.disabled=§cAutomatisches Verschieben bei Serverneustart deaktiviert.
+chat.blockbreak.enabled=§aBlock-break Partikel aktiviert.
+chat.blockbreak.disabled=§cBlock-break Partikel deaktiviert.
 
 # Character specific translations
 inventory.name.treasure=§6§lSchatzkiste

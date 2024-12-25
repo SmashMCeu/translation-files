@@ -205,6 +205,8 @@ chat.settings.double_jump.false= §8● §7doublu jumbu: §cno
 chat.settings.double_jump.true= §8● §7doublu jumbu: §ayes
 chat.autoforward.enabled=§aforwart on serwa restart enabld
 chat.autoforward.disabled=§cforwart on serwa restart disabld
+chat.blockbreak.enabled=§ablocc-brek partikles enablwd
+chat.blockbreak.disabled=§cblocc-brek partikles disablwd
 
 item.name.settings.double_jump=§bdouble jumbo
 item.laser=§cpzzzzz
