@@ -20,3 +20,7 @@ chat.stats.taskSolved= §8● §7Tasks Solved§8: §a%s
 chat.stats.map= §8● §a%s§8: §e%s §7games/day §7(%s §7total)
 chat.stats.invalid_position=§cThere is no player at this position.
 chat.charstats= §8● §a%s§8: §7%s picks §8| §a%s%% §7Win propability
+chat.stats.playstyle= §8● §7Playstyle: §a%s
+chat.stats.playstyle.defensive=defensive
+chat.stats.playstyle.aggressive=aggressive
+chat.stats.playstyle.balanced=balanced
