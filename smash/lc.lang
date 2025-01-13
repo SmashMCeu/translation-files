@@ -154,6 +154,7 @@ chat.stats.overview=§aGame statisticz:
 chat.stats.kills= §8● §7eleminated: §a%s
 chat.stats.damage_dealt= §8● §7Dmg dealt: §a%s
 chat.stats.damage_taken= §8● §7Dmg taken: §a%s
+chat.stats.items_used= §8● §7Itemz usd: §a%s
 chat.stats.coins= §8● §7cash: §a%s
 chat.stats.duration= §8● §7longiness: §a%s
 inventory.settings=§c§lgame zettingz

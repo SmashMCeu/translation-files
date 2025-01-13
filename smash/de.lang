@@ -172,8 +172,9 @@ chat.forcemap_only=§cDu kannst nur diese Maps erzwingen: §e%s
 
 chat.stats.overview=§aStatistiken der Runde:
 chat.stats.kills= §8● §7Kills: §a%s
-chat.stats.damage_dealt= §8● §7Verteilte Prozente: §a%s
-chat.stats.damage_taken= §8● §7Erhaltene Prozente: §a%s
+chat.stats.damage_dealt= §8● §7Prozente verteilt: §a%s
+chat.stats.damage_taken= §8● §7Prozente erhalten: §a%s
+chat.stats.items_used= §8● §7Items verwendet: §a%s
 chat.stats.coins= §8● §7Coins: §a%s
 chat.stats.duration= §8● §7Spieldauer: §a%s
 
