@@ -18,6 +18,10 @@ inventory.skin_selection=§2§lSkins: %s
 item.lore.shift_click_skins=§8(Shift + Click): §aSkins
 chat.skin_selected=§aYou selected §7%s §aas your skin.
 
+item.lab.whitelist=§8➤ §c§lToggle Whitelist 
+chat.whitelist.enabled=§aYou enabled the whitelist.
+chat.whitelist.disabled=§cYou disabled the whitelist.
+
 chat.character_selected=§aYou selected %s§a!
 chat.command_not_for_spectators=§cThis command is not for spectators!
 chat.unknown_map=§cMap §e%s §cnot found!
