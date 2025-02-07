@@ -9,6 +9,10 @@ item.lore.use_key=§aSpielbar für §51x Pro Key§a.
 item.lore.no_keys=§cDu bist kein §3Pro§c.
 chat.key_used=§aDu hast einen §5Pro Key §aeingelöst.
 
+item.lab.whitelist=§8➤ §c§lWhitelist umschalten
+chat.whitelist.enabled=§aDu hast die Whitelist aktiviert.
+chat.whitelist.disabled=§cDu hast die Whitelist deaktiviert.
+
 item.lore.difficulty=§3Schwierigkeit§8: %s
 difficulty.easy=§a✯§8✯✯ §7(Einfach)
 difficulty.normal=§e✯✯§8✯ §7(Normal)

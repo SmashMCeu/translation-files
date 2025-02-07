@@ -246,3 +246,7 @@ chat.maprating.rated_negative=§7u hav prewiusli dawn-voteddd ti mapp %s. clicc 
 chat.maprating.rated=§atank u 4 teh fewwdbacc <3 <3 <3 #nohomo
 chat.maprating.ratedfor=§7how did u lika teh mapp §e%s§7?
 chat.maprating.ratenow=§7voot nuw:
+
+item.lab.whitelist=§8➤ §c§lTogglez whitelisz
+chat.whitelist.enabled=§awhitelisz on.
+chat.whitelist.disabled=§cwhitelisz off.
