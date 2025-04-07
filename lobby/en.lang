@@ -95,6 +95,10 @@ item.name.easter_bomb=§6Easter bomb
 item.name.firework_rocket=§dFirework Rocket
 item.name.gingerbread=§6Gingerbread Clicker
 item.name.letitsnow=§fLet it snow
+item.name.pixel_painter=§cP§ai§bx§6e§bl §aP§ea§ci§dn§bt§ae§er
+
+item.chat.pixel_painter.fail=§cYou can only use this item on the outer barrier around the spawn.
+item.lore.pixel_painter=§7Use this item on the outer barrier around spawn.<br><br>§cAbuse leads to account suspension!
 
 chat.gadget_disabled=§cYour gadget §e%s §cis now disabled.
 

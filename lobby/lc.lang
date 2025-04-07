@@ -60,6 +60,11 @@ chat.won_coins=§7youve won total amount ov §6%s coins§7!
 chat.won_gadget=§7youve won teh %s §7gadget!
 chat.halloween.won_skin=§7youve von teh skin %s §7for §a%s
 chat.won_gadget_broadcast=§a%s §7won teh %s §7gadget!
+item.name.pixel_painter=§cP§ai§bx§6e§bl §aP§ea§ci§dn§bt§ae§er
+
+item.chat.pixel_painter.fail=§cu cann onli uzz tihs item on the owuter barrir around the spawwn.
+item.lore.pixel_painter=§7Uwsee tihs item on the owuter barrir around spawwn.<br><br>§cAbuse leads to account suspension!
+
 reward.relic=RELICC
 reward.legendary=LEJENDARII
 reward.epic=EPICC
