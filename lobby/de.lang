@@ -97,7 +97,7 @@ item.name.letitsnow=§fLass es schneien
 item.name.pixel_painter=§cP§ai§bx§6e§bl §aP§ea§ci§dn§bt§ae§er
 
 item.chat.pixel_painter.fail=§cDieses Item kann nur an der Außenwand vom Spawn genutzt werden.
-chat.pixel_painter=§7Nutze dieses Item an der Außenwand des Spawns.<br>§cMissbrauch führt zum Ausschluss deines Accounts sowie einer permanenten Sperre des Items für dich!
+chat.pixel_painter=§7Nutze dieses Item an der Außenwand des Spawns.<br>§e⚠ §cMissbrauch führt zum Ausschluss deines Accounts sowie einer permanenten Sperre des Items für dich!
 
 chat.gadget_disabled=§cDein Gadget §e%s §cist hier deaktiviert.
 
