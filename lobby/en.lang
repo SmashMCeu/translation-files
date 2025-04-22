@@ -100,7 +100,7 @@ item.name.rolling_egg_pet=§6Rolling Egg
 
 item.chat.pixel_painter.fail=§cYou can only use this item on the outer barrier around the spawn.
 chat.pixel_painter=§7Use this item on the outer barrier around spawn.<br>§e⚠ §cAbuse leads to account suspension and a permanent ban from using this item!
-chat.pixel_painter.info=§7This pixel was last modified by §a%s§7.
+chat.pixel_painter.info=§7This pixel was last modified by §a%s §e%s §7ago.
 
 chat.gadget_disabled=§cYour gadget §e%s §cis now disabled.
 

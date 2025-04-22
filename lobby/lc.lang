@@ -65,7 +65,7 @@ item.name.rolling_egg_pet=§6rowlin ekk
 
 item.chat.pixel_painter.fail=§cu cann onli uzz tihs item on the owuter barrir around the spawwn.
 chat.pixel_painter=§7Uwsee tihs item on the owuter barrir around spawwn.<br>§e⚠ §cAbuse leads to account suspension and you will be banned from using the item ever again!
-chat.pixel_painter.info=§7this picksle was last mowdified bai §a%s§7.
+chat.pixel_painter.info=§7this picksle was last mowdified bai §a%s §e%s §7aggo.
 
 reward.relic=RELICC
 reward.legendary=LEJENDARII
