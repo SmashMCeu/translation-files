@@ -2,8 +2,6 @@ prefix=§8● §aSmash §8➥ §7
 item.character_selection=§8➤ §9§lCharakterauswahl §8▎ §7Rechtsklick
 inventory.character_selection=§9§lCharakterauswahl
 item.comming_soon=§7Kommt bald!
-item.lore.click_spectate=§7Rechtsklick zum §aZuschauen
-item.lore.click_teleport=§7Linksklick zum §aTeleportieren
 
 item.lore.use_key=§aSpielbar für §51x Pro Key§a.
 item.lore.no_keys=§cDu bist kein §3Pro§c.

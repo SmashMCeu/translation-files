@@ -26,6 +26,8 @@ item.navigator=§8➤ §b§lТелепортатор §8▎ §7Правый кл
 item.lore.votes=§8➥ §7%s голосов
 item.lore.vote=§9Кликни что бы проголосовать!
 item.lore.join=§9Кликни что бы преисоиденится!
+item.lore.right_click_spectate=§7Правый клик чтобы §aнаблюдать
+item.lore.left_click_teleport=§7Левый клик чтобы §aтелепортироваться
 holo.rightclick=§7(Правый клик)
 
 # Common inventory titles
