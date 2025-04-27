@@ -62,6 +62,7 @@ chat.start_game=§aThe game starts now!
 chat.already_started=§cThe game already started!
 chat.player_kill=§7Player §a%s §7was killed by §a%s§7!
 chat.player_die=§7Player §a%s §7died!
+chat.killer_health_left=§7Health of §a%s
 chat.player_win=§aThe player §e%s §awon the game!
 chat.players_win=§aThe players §e%s §awon the game!
 chat.players_remaining=§a%s §7players remaining.
