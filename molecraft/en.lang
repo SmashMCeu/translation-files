@@ -24,6 +24,7 @@ event.armor_upgrade=§aArmor upgrade
 event.black_magic=§aBlack magic
 event.blindness=§aBlindness
 event.chest_refill=§aChest refill
+event.chickenjockey=§aChicken Jockey
 event.damage_dirt=§aDamage dirt
 event.drill=§aDrill
 event.dynamite_dirt=§aDynamite dirt
