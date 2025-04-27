@@ -1,3 +1,5 @@
+prefix=§8● §cMolecraft §8➥ §7
+
 chat.event.broadcast=§7random event: §a%s
 chat.event.broadcast_forced=§7forcd event: §a%s
 chat.countdown.players_teleported=§eall players wuz teleportd 2 their spawns

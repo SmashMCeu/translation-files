@@ -1,3 +1,5 @@
+prefix=§8● §cMolecraft §8➥ §7
+
 chat.event.broadcast=§7Рандомный ивент: §a%s
 chat.event.broadcast_forced=§7Принудительное событие: §a%s
 
