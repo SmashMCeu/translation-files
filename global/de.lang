@@ -72,6 +72,7 @@ chat.deathmatch=§7Das Deathmatch startet in §c%s Sekunden§7.
 chat.deathmatch_min=§7Das Deathmatch startet in §c%s Minuten§7.
 chat.deathmatch_end=§eDas Deathmatch endet in §c%s Sekunden§e.
 chat.no_self_play=§cDu kannst nicht mit dir selbst spielen.
+chat.not_for_spectators=§cDiese Funktion ist nicht für Zuschauer.
 chat.coins=§7+§a%s Geld
 chat.coins.boosted=§7+§a%s Geld §7(§6+%s§7)
 chat.rejoin_to_apply=§cBitte joine neu, damit die Änderungen wirksam werden.

@@ -83,6 +83,7 @@ chat.button.dislike=§c§l[100 likes mehr]
 
 chat.too_expensive=§cno enough money
 chat.no_self_play=§cu should not play with urself
+chat.not_for_spectators=§cthhis cawnot be usd as a spwtator
 chat.coins=§7+§a%s coinz
 chat.coins.boosted=§7+§a%s coinz §7(§6+%s§7)
 
