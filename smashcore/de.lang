@@ -29,4 +29,4 @@ chat.rank.expire=§aDein Rang läuft ab in: §7%s
 chat.rules=Klicke um unsere Regeln zu sehen: §a
 chat.vanish.spec_enabled=Du bist nun im §9Zuschauermodus§7.
 chat.vanish.spec_disabled=Du bist nicht mehr im Zuschauermodus.
-hotbar.vanish.spec=§7[§9SZuschauermodus§7]
+hotbar.vanish.spec=§7[§9Zuschauermodus§7]
