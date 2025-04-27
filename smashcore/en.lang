@@ -27,3 +27,6 @@ chat.ignore.clear=§aList of ignored players cleared.
 chat.rank=§aYou own the rank: §7%s
 chat.rank.expire=§aYour rank will expire in §7%s
 chat.rules=Click here to see our rules: §a
+chat.vanish.spec_enabled=You are now in §9spectator mode§7.
+chat.vanish.spec_disabled=You are no longer in spectator mode.
+hotbar.vanish.spec=§7[§9Spectator mode§7]
