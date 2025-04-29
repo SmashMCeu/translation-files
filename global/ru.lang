@@ -39,6 +39,7 @@ inventory.purchase_confirm=§8➤ §c§lПодтверждение оплаты
 chat.error=§cПроизошла непредвиденная ошибка. Пожалуйста обратись к администратору.
 chat.cooldown=§cПожалуйста подожди немного, прежде чем сделать это снова!
 chat.pro=§cЭто функция доступна только с §3Pro рангом§c.<br>Больше информации ты сможешь найти на §ehttps://shop.smashmc.eu/
+chat.proplus=§cЭто функция доступна только с §bPro+ рангом§c.<br>Больше информации ты сможешь найти на §ehttps://shop.smashmc.eu/
 chat.no_permission=§cУ тебя нет прав для выполнения данной команды!
 chat.invalid_arguments=§cНеверные или недостаточные аргументы!
 chat.invalid_arguments_use=§cПожалуйста используй: §e%s
