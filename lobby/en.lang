@@ -283,3 +283,7 @@ chat.ware.winner=§7Congratulations §e§l%s §7for winning §e§lSmashWare§7!
 # Gift-Block
 chat.giftblock.found=§a%s §7found a gift!
 
+# Status
+chat.status.set=§7Your status is now §a%s
+chat.status.cleared=§7Your status was deleted.
+chat.status.too_long=§cThe given status is too long

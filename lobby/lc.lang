@@ -241,3 +241,8 @@ chat.ware.winner=§7kongrathulaisions §e§l%s §7vor winin §e§lSmashWare§7!
 
 # Gift-Block
 chat.giftblock.found=§a%s §7faund a gift !!11
+
+# Status
+chat.status.set=§7ur stawtus is now §a%s
+chat.status.cleared=§7Yur stawtus was dewleted
+chat.status.too_long=§cteh giwen stawtus is too lonk

@@ -282,3 +282,8 @@ chat.ware.winner=§7Herzlichen Glückwunsch §e§l%s §7für das Gewinnen von §
 # Gift-Block
 chat.giftblock.found=§a%s §7hat ein Geschenk gefunden!
 
+# Status
+chat.status.set=§7Dein Status ist jetzt §a%s
+chat.status.cleared=§7Dein Status wurde gelöscht.
+chat.status.too_long=§cDer Status ist zu lang.
+
