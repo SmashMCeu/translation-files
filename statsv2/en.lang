@@ -24,3 +24,6 @@ chat.stats.playstyle= §8● §7Playstyle: §a%s
 chat.stats.playstyle.defensive=defensive
 chat.stats.playstyle.aggressive=aggressive
 chat.stats.playstyle.balanced=balanced
+chat.stats.items_used= §8● §7Items used§8: §a%s
+chat.stats.damage_dealt= §8● §7Damage dealt§8: §a%s
+chat.stats.damage_received= §8● §7Damage received§8: §a%s

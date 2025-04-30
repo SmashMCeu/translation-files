@@ -24,3 +24,6 @@ chat.stats.playstyle= §8● §7Spielstil: §a%s
 chat.stats.playstyle.defensive=Defensiv
 chat.stats.playstyle.aggressive=Aggressiv
 chat.stats.playstyle.balanced=Ausgeglichen
+chat.stats.items_used= §8● §7Items verwendet§8: §a%s
+chat.stats.damage_dealt= §8● §7Prozente verteilt§8: §a%s
+chat.stats.damage_received= §8● §7Prozente erhalten§8: §a%s
