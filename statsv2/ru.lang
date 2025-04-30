@@ -2,8 +2,8 @@
 chat.stats.missing=§cИгрок §e%s §cне играл в §e%s §cв указанный период времени.
 chat.stats.head=§7§m|一一一一一一一一一一一§a %s §7§m一一一一一一一一一一一|
 chat.stats.tail= 
-chat.stats.about.all=§8» §a%s§8: §7Статистика за всё время<br> 
-chat.stats.about.monthly=§8» §a%s§8: §7Статистика за последние 30 дней<br> 
+chat.stats.about.all=§8» §a%s§8: §7%sСтатистика за всё время<br> 
+chat.stats.about.monthly=§8» §a%s§8: §7%sСтатистика за последние 30 дней<br> 
 chat.stats.rank= §8● §7Рейтинг§8: §a%s
 chat.stats.kills= §8● §7Убийства§8: §a%s
 chat.stats.deaths= §8● §7Смерти§8: §a%s
