@@ -275,3 +275,5 @@ chat.button.bet_against.hover=§7Sayin §c%s §7gonna losez. (§e%s Coinz§7)
 chat.bet_not_completed=§cNo can do da bet, no opposin betz. No funz :(
 chat.bet.won=§2✔ §aYu winned da bet on %s! YAY!
 chat.bet.lose=§4❌ §cYu losted da bet on %s. Sadz.
+bet.won=§2✔ §abet wonn
+bet.lose=§4❌ §cbet lostt

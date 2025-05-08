@@ -290,3 +290,5 @@ chat.button.bet_against.hover=§7Bet that §c%s §7will lose. (§e%s Coins§7)
 chat.bet_not_completed=§cThe bet could not be evaluated because no one bet against it.
 chat.bet.won=§2✔ §aYou won the bet on %s.
 chat.bet.lose=§4❌ §cYou lost the bet on %s.
+bet.won=§2✔ §aBet won
+bet.lose=§4❌ §cBet lost
