@@ -273,5 +273,5 @@ chat.bet.announce_bet_self=Kitteh §a%s §7bets §e%s Coins §7on demself! So br
 chat.button.bet_against=§c§l[BET AGINZ]
 chat.button.bet_against.hover=§7Sayin §c%s §7gonna losez. (§e%s Coinz§7)
 chat.bet_not_completed=§cNo can do da bet, no opposin betz. No funz :(
-chat.bet.won=§aYu winned da bet on %s! YAY!
-chat.bet.lose=§cYu losted da bet on %s. Sadz.
+chat.bet.won=§2✔ §aYu winned da bet on %s! YAY!
+chat.bet.lose=§4❌ §cYu losted da bet on %s. Sadz.

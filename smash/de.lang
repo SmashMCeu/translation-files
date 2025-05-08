@@ -288,5 +288,5 @@ chat.bet.announce_bet_self=Spieler §a%s §7wettet §e%s Coins §7darauf, dass e
 chat.button.bet_against=§c§l[DAGEGEN WETTEN]
 chat.button.bet_against.hover=§7Wetten, dass §c%s 7verliert. §7(§e%s Coins§7)
 chat.bet_not_completed=§cDie Wette konnte nicht ausgewertet werden, da niemand dagegen gewettet hat.
-chat.bet.won=§aDu hast die Wette um %s gewonnen.
-chat.bet.lose=§cDu hast die Wette um %s verloren.
+chat.bet.won=§2✔ §aDu hast die Wette um %s gewonnen.
+chat.bet.lose=§4❌ §cDu hast die Wette um %s verloren.
