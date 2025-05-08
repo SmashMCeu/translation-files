@@ -266,13 +266,13 @@ chat.maprating.ratefor=§7Wie hat dir die Map §e%s §7gefallen?
 chat.maprating.ratenow=§7Stimme jetzt ab:
 
 # Smash bets
-bet.on=§7Gewettet auf §e%s
+bet.on=§7Gewettet auf §a%s
 bet.against=§7Gewettet gegen §c%s
 chat.bet.not_enough_players=§cEs sind zu wenig Spieler für eine Wette online.
 chat.bet.cannot_bet_on_yourself=§cDu kannst nicht gegen dich selber Wetten.
 chat.bet.other_only_for_spectators=§cDu kannst nur als Zuschauer auf andere Spieler setzen.
 chat.bet.not_ingame=§cDieser Spieler ist nicht im Spiel."
-chat.bet.already_betting=§cDu nimmst bereits an einer Wette teil."
+chat.bet.already_betting=§cDu nimmst bereits an einer Wette teil.
 chat.bet.player_already_in_bet=§cFür diesen Spieler wird bereits ein anderer Betrag gewettet.
 chat.bet.no_bet=§cNiemand wettet auf diesen Spieler.
 chat.bet.min_bet=§cDer Mindesteinsatz beträgt %s Coins!

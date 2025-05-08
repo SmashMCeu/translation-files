@@ -251,7 +251,7 @@ chat.whitelist.enabled=§awhitelisz on.
 chat.whitelist.disabled=§cwhitelisz off.
 
 # Smash bets
-bet.on=§7Yu betted on §e%s
+bet.on=§7Yu betted on §a%s
 bet.against=§7Yu betted aginst §c%s
 chat.bet.not_enough_players=§cNot enuff kittehs online to betz.
 chat.bet.cannot_bet_on_yourself=§cYu can't bet aginst urself, silly hooman.

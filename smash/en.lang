@@ -266,7 +266,7 @@ chat.maprating.ratefor=§7How did you like the map §e%s§7?
 chat.maprating.ratenow=§7Vote now:
 
 # Smash bets
-bet.on=§7Bet on §e%s
+bet.on=§7Bet on §a%s
 bet.against=§7Bet against §c%s
 chat.bet.not_enough_players=§cNot enough players online to place a bet.
 chat.bet.cannot_bet_on_yourself=§cYou cannot bet against yourself.
