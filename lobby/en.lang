@@ -280,6 +280,9 @@ ware.holo.round=§8● §7Round %s/%s §8●
 ware.holo.congratulations=§7● §e§lCongratulations! §7●
 chat.ware.winner=§7Congratulations §e§l%s §7for winning §e§lSmashWare§7!
 
+# Simon
+chat.simon_won=§7You reached Simon level §a%s§7!
+
 # Gift-Block
 chat.giftblock.found=§a%s §7found a gift!
 

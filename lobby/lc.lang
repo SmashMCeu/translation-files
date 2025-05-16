@@ -239,6 +239,9 @@ ware.holo.round=§8● §7rount %s/%s §8●
 ware.holo.congratulations=§7● §e§lkongrathulaisions! §7●
 chat.ware.winner=§7kongrathulaisions §e§l%s §7vor winin §e§lSmashWare§7!
 
+# Simon
+chat.simon_won=§7U veri smawt. U reawchd Lewl §a%s§7!
+
 # Gift-Block
 chat.giftblock.found=§a%s §7faund a gift !!11
 
