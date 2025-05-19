@@ -59,13 +59,11 @@ item.overview.lore.created=§8➥ §7Created: §3%s
 item.overview.lore.updated=§8➥ §7Updated: §3%s
 item.overview.lore.block.highest=§8➥ §7Highest block: §3%s
 item.overview.lore.block.lowest=§8➥ §7Lowest block: §3%s
-
 item.positions.name=§5§lPositions
 item.positions.lore.center=§8➥ §7Center: §d%s
 item.positions.lore.spawn=§8➥ §7Spawns: §d%s
 item.positions.lore.item=§8➥ §7Items: §d%s
 item.positions.lore=§9Click to show all
-
 item.contributors.name=§6§lContributors
 item.contributors.lore.creator=§8➥ §7Creator: §e%s
 item.contributors.lore.contributors=§8➥ §7Contributors:
@@ -78,6 +76,18 @@ item.position.lore.facing=§8➥ §7Facing: §9%s
 item.positions.lore=§9Click to teleport
 positions.place.title=§9Place position
 positions.place.lore=§7Place a new %s §7at your current location.
+
+# Settings menu
+settings.title=§e§lMap settings
+item.icon.set.name=§eMap icon
+item.icon.set.lore=§7Change the Maps icon.
+chat.icon.select=§7Drop the item you wish to use as the maps icon.
+chat.icon.select.title=§7Drop item
+chat.icon.invalid=§cThis item is invalid.
+chat.icon.set=§7The icon was updated.
+item.visibility.set=§5Change visibility
+item.visibility.set.lore=§8➥ §d%s
+chat.visibility.set=Visibility was set to §9%s§7.
 
 # Viewer tools
 item.name.map.info=§e§lMap info §8| §7Right click
