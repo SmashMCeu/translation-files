@@ -41,7 +41,7 @@ chat.poi.already=§cThere is already a position here!
 chat.poi.no.types=§cThere are no positions for this map type.
 
 # Create menu
-create.title=§a§lCreate map
+create.title=§3§lCreate map
 create.title.name=§a%s map name
 chat.map.name.invalid=§cThe name is too long or too short.
 chat.map.name.invalid.length=§cThe name is too long or too short.
