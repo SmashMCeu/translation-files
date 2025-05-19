@@ -1,0 +1,105 @@
+prefix=§8● §9Maps §8➥ §7
+
+chat.approve=§7The map §9%s §7is now approved.
+chat.approve.revoked=§7The map §9%s §7is no longer approved.
+chat.approve.already=§cThis map is already approved.
+chat.approve.not=§cThis map is not approved and will be available in public games.
+chat.approve.invalid=§cThis map has warnings or is not valid.
+chat.approve.editing=§cThis map is currently being edited.
+chat.approve.private=§cThis map is set to private.
+chat.map.member.added=§7You added §9%s §7as a member.
+chat.map.member.removed=§7You removed §9%s §7as a member.
+chat.map.member.already=§cThis player is already a member.
+chat.map.member.not=§cThis player is not a member.
+chat.map.member.owner=§cYou cannot add or remove the owner.
+chat.map.members.list=§7List of all members:
+chat.map.not.editing=§cYou are not in edit mode. Use §9/edit §cfirst to start editing the map.
+chat.map.no.view.permission=§cYou are not allowed to view this map.
+chat.map.no.edit.permission=§cYou are not allowed to edit this map. Ask the creator §9%s §cto add you as a member.
+chat.map.contribute.no.member=§e⚠ §cYou are not a member of this map. You can still edit it but you will not be shown as a contributor.
+chat.map.not.editable=§cThe world you are on cannot be edited.
+chat.map.not.editable.approved=§cThis map has been approved and can therefore no longer be edited.
+chat.map.access.revoked=§cYour access to the map was revoked.
+chat.map.teleported=Teleported you to §9%s§7.
+chat.map.teleported.by=Teleported you to §9%s §7by §9%s §7.
+chat.map.created=Created new map §9%s §7for §9%s§7.
+chat.map.no.changes=§cThis map has no pending changes.
+chat.map.owner.only=§cOnly the creator do this!
+chat.map.deleted=§Map §9%s §7was deleted.
+chat.map.not.found=§cThe specified map was not found.
+
+# Edit mode
+chat.edit.enabled=You entered §9edit mode§7. You can now place and break blocks. <br>To see if your map is playable, use §9/save§7.
+title.edit.enabled=§7You can now build.
+chat.edit.disabled=You are no longer in edit mode.
+chat.max.height=§cThe maximum building height is §e%s blocks§c.
+chat.max.pois=§cMaximum number of positions of that type reached.
+chat.poi.removed=Removed §c%s §7position.
+chat.poi.added=Placed §c%s §7position.
+chat.poi.added.facing=Placed §c%s §7position looking §9%s§7
+chat.poi.already=§cThere is already a position here!
+chat.poi.no.types=§cThere are no positions for this map type.
+
+# Create menu
+create.title=§a§lCreate map
+create.title.name=§a%s map name
+chat.map.name.invalid=§cThe name is too long or too short.
+chat.map.name.invalid.length=§cThe name is too long or too short.
+chat.map.name.used=§cYou already have a map with that name.
+item.create.lore=§7Create a new map for %s
+
+# Info menu
+info.title=§3§lMap information
+item.overview.name=§b§lMap overview
+item.overview.lore.name=§8➥ §7Name: §3%s
+item.overview.lore.type=§8➥ §7Type: §3%s
+item.overview.lore.visibility=§8➥ §7Visibility: §3%s
+item.overview.lore.games=§8➥ §7Games: §3%s
+item.overview.lore.created=§8➥ §7Created: §3%s
+item.overview.lore.updated=§8➥ §7Updated: §3%s
+item.overview.lore.block.highest=§8➥ §7Highest block: §3%s
+item.overview.lore.block.lowest=§8➥ §7Lowest block: §3%s
+
+item.positions.name=§5§lPositions
+item.positions.lore.center=§8➥ §7Center: §d%s
+item.positions.lore.spawn=§8➥ §7Spawns: §d%s
+item.positions.lore.item=§8➥ §7Items: §d%s
+item.positions.lore=§9Click to show all
+
+item.contributors.name=§6§lContributors
+item.contributors.lore.creator=§8➥ §7Creator: §e%s
+item.contributors.lore.contributors=§8➥ §7Contributors:
+item.contributors.lore.contributor=  §8- §e%s
+
+# Positions menu
+positions.title=§5§lPositions
+item.position.lore.at=§8➥ §7At: §9%s
+item.position.lore.facing=§8➥ §7Facing: §9%s
+item.positions.lore=§9Click to teleport
+positions.place.title=§9Place position
+positions.place.lore=§7Place a new %s §7at your current location.
+
+# Viewer tools
+item.name.map.info=§e§lMap info §8| §7Right click
+item.name.map.edit=§e§lEdit map §8| §7Right click
+item.name.mode.edit=§9§lEdit mode §8| §7Right click
+item.name.map.browser=§c§lAll maps §8| §7Right click
+item.name.create=§b§lCreate map §8| §7Right click
+item.name.pois.show=§5§lShow positions §8| §7Right click
+item.name.pois.hide=§5§lHide positions §8| §7Right click
+item.name.map.leave=§c§lLeave map §8| §7Right click
+
+# Editor items
+item.name.edit.stop=§c§lStop editing §8| §7Right click
+item.name.edit.settings=§e§lMap settings §8| §7Right click
+item.name.edit.poi=§9§lPlace position §8| §7Right click
+
+# Facing
+facing.north=North
+facing.east=East
+facing.south=South
+facing.west=West
+facing.northeast=North-East
+facing.southeast=South-East
+facing.southwest=South-West
+facing.northwest=North-West
