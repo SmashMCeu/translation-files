@@ -9,12 +9,10 @@ chat.enter=§7Please enter %s §7in chat...
 chat.enter.title=§7Please enter in your chat
 
 # Map voting
-voting.inventory.title=§3§lMapvoting
 voting.button.name=§a%s
 voting.button.lore_1=§7by %s
 voting.button.lore_2=§8➥ §7%s votes
 voting.button.lore_2_singular=§8➥ §7%s vote
-voting.item.name=§8➤ §b§lMapvoting §8▎ §7Right click
 
 # Map selector
 selector.title=§e§lSelect map
