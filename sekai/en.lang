@@ -55,3 +55,20 @@ chat.failed.poi.min=§4❌ §cThe map must have §e%2$s §cpositions of type §e
 chat.failed.poi.max=§4❌ §cThe map must not have more than §e%2$s §cpositions of type §e%1$s §c(currently has §e%3$s§c)
 chat.failed.poi.target=§e⚠ §7The map should have around §9%2$s §7positions of type §9%1$s§7.
 chat.failed.world.not.uploaded=§4❌ §cThe map has not been uploaded.
+
+# Scoreboard sidebar
+sidebar.created=Created
+sidebar.total=Total
+
+sidebar.owner=Owner
+sidebar.status=Status
+sidebar.approved=Approved
+sidebar.approved.yes=§a✔ Yes
+sidebar.approved.not_yet=§c❌ Not yet
+sidebar.visibility=Visibility
+
+sidebar.positions=Positions
+sidebar.saved=Saved
+
+sidebar.editing=Editing
+sidebar.viewing=Viewing
