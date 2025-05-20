@@ -25,7 +25,7 @@ chat.map.teleported.by=Teleported you to §9%s §7by §9%s §7.
 chat.map.created=Created new map §9%s §7for §9%s§7.
 chat.map.no.changes=§cThis map has no pending changes.
 chat.map.owner.only=§cOnly the creator do this!
-chat.map.deleted=§Map §9%s §7was deleted.
+chat.map.deleted=§7Map §9%s §7was deleted.
 chat.map.not.found=§cThe specified map was not found.
 
 # Edit mode
