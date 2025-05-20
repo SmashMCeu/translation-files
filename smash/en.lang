@@ -2,6 +2,7 @@ prefix=§8● §aSmash §8➥ §7
 item.character_selection=§8➤ §9§lCharacter selection §8▎ §7Right click
 inventory.character_selection=§9§lCharacter selection
 item.comming_soon=§7Coming soon!
+item.map_selection=§8➤ §3§lSelect map §8▎ §7Right click
 
 item.lore.use_key=§aPlay with §51x Pro Key§a.
 item.lore.no_keys=§cYou are not a §3Pro§c.

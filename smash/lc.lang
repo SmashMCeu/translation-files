@@ -3,6 +3,7 @@ item.character_selection=§8➤ §9§lcharactr selecshun §8▎ §7right clicc
 inventory.character_selection=§9§lcharactr selecshun
 item.comming_soon=§7comin soon!
 chat.character_selected=§ayou selectd %s§a!
+item.map_selection=§8➤ §3§lselecwt map §8▎ §7right clicc
 chat.command_not_for_spectators=§cthis command iz not 4 spectators!
 chat.unknown_map=§cmap §e%s §cnot findz!
 chat.unknown_character=§cu stupid?
