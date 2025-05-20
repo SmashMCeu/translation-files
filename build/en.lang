@@ -113,3 +113,7 @@ facing.northeast=North-East
 facing.southeast=South-East
 facing.southwest=South-West
 facing.northwest=North-West
+
+# Npcs
+npc.create=§b§lCreate map
+npc.browse=§c§lBrowse maps
