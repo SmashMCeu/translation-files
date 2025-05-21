@@ -23,7 +23,7 @@ selector.title=§e§lKarte auswählen
 # Map browser
 browser.title=§c§lAlle Karten
 browser.title.member=§9§lKarten von %s
-browser.search=§3🔍 §7§lSuchee
+browser.search=§3🔍 §7§lSuche
 browser.search.reset=§7🔍 §7§l"§e§l%s§7§l"
 browser.search.reset.lore=§cKlicken zum Zurücksetzen
 browser.show=§b👁 §7§lFilter
