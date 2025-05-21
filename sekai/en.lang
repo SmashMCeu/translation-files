@@ -7,6 +7,11 @@ chat.map.forced=The map §a%s §7is now being forced.
 chat.map.not.voting=§cThere is no voting going on right now.
 chat.enter=§7Please enter %s §7in chat...
 chat.enter.title=§7Please enter in your chat
+status.approved=§6§lApproved §e✭
+status.valid=§7Valid §2✔
+status.invalid=§cInvalid §4❌
+visibility.public=§aPublic
+visibility.private=§cPrivate
 
 # Map voting
 voting.button.name=§a%s

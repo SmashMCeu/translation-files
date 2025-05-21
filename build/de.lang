@@ -1,9 +1,9 @@
 prefix=§8● §9Maps §8➥ §7
 
-chat.approve=§7Die Karte §9%s §7ist jetzt genehmigt und wird in öffentlichen Spielen verfügbar sein.
-chat.approve.revoked=§7Die Karte §9%s §7ist nicht mehr genehmigt.
-chat.approve.already=§cDiese Karte ist bereits genehmigt.
-chat.approve.not=§cDiese Karte ist nicht genehmigt.
+chat.approve=§7Die Karte §9%s §7ist jetzt approved und wird in öffentlichen Spielen verfügbar sein.
+chat.approve.revoked=§7Die Karte §9%s §7ist nicht mehr approved.
+chat.approve.already=§cDiese Karte ist bereits approved.
+chat.approve.not=§cDiese Karte ist nicht approved.
 chat.approve.invalid=§cDiese Karte hat Warnungen oder ist ungültig.
 chat.approve.editing=§cDiese Karte wird derzeit bearbeitet.
 chat.approve.private=§cDiese Karte ist auf privat gestellt.
@@ -18,10 +18,10 @@ chat.map.no.view.permission=§cDu darfst diese Karte nicht ansehen.
 chat.map.no.edit.permission=§cDu darfst diese Karte nicht bearbeiten. Bitte den Ersteller §9%s §cdich als Mitglied hinzuzufügen.
 chat.map.contribute.no.member=§e⚠ §cDu bist kein Mitglied dieser Karte. Du kannst sie dennoch bearbeiten, wirst aber nicht als Mitwirkender angezeigt.
 chat.map.not.editable=§cDie Welt, auf der du bist, kann nicht bearbeitet werden.
-chat.map.not.editable.approved=§cDiese Karte wurde genehmigt und kann daher nicht mehr bearbeitet werden.
+chat.map.not.editable.approved=§cDiese Karte wurde approved und kann daher nicht mehr bearbeitet werden.
 chat.map.access.revoked=§cDein Zugriff auf die Karte wurde entzogen.
 chat.map.teleported=Du wurdest zu §9%s§7 teleportiert.
-chat.map.teleported.by=Du wurdest von §9%s §7zu §9%s §7 teleportiert.
+chat.map.teleported.by=Du wurdest zu §9%s §7von §9%s §7teleportiert.
 chat.map.created=Neue Karte §9%s §7für §9%s§7 erstellt.
 chat.map.no.changes=§cDiese Karte hat keine ausstehenden Änderungen.
 chat.map.owner.only=§cNur der Ersteller kann das tun!
@@ -133,7 +133,7 @@ sidebar.total=Insgesamt
 
 sidebar.owner=Ersteller
 sidebar.status=Status
-sidebar.approved=Genehmigt
+sidebar.approved=Approved
 sidebar.approved.yes=§a✔ Ja
 sidebar.approved.not_yet=§c❌ Noch nicht
 sidebar.visibility=Sichtbarkeit

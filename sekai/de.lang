@@ -7,6 +7,11 @@ chat.map.forced=Die Karte §a%s §7wird nun erzwungen.
 chat.map.not.voting=§cDerzeit findet keine Abstimmung statt.
 chat.enter=§7Bitte gib %s §7im Chat ein...
 chat.enter.title=§7Bitte im Chat eingeben
+status.approved=§6§lApproved §e✭
+status.valid=§7Gültig §2✔
+status.invalid=§cUngültig §4❌
+visibility.public=§aÖffentlich
+visibility.private=§cPrivat
 
 # Map voting
 voting.button.name=§a%s
@@ -18,13 +23,13 @@ selector.title=§e§lKarte auswählen
 # Map browser
 browser.title=§c§lAlle Karten
 browser.title.member=§9§lKarten von %s
-browser.search=§3🔍 §7§lSuche
+browser.search=§3🔍 §7§lSuchee
 browser.search.reset=§7🔍 §7§l"§e§l%s§7§l"
 browser.search.reset.lore=§cKlicken zum Zurücksetzen
 browser.show=§b👁 §7§lFilter
 browser.show.all=§2🌐 §a§lAlle
 browser.show.own=§d👁 §5§lMeine Karten
-browser.show.approved=§e✭ §6§lGenehmigt
+browser.show.approved=§e✭ §6§lApproved
 browser.sort=§6⇵ §7§lSortieren
 browser.sort.name=§7⇵ §5§lName
 browser.sort.author=§7⇵ §c§lAutor
