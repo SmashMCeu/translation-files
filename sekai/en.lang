@@ -36,13 +36,13 @@ browser.sort.author=§7⇵ §c§lAuthor
 browser.sort.popularity=§7⇵ §b§lPopularity
 browser.sort.newest=§7⇵ §a§lNewest
 
-# Items
+# Items 
 item.map.title.public=§a%s
 item.map.title.private=§9%s §7(private)
 item.map.title.approved=§6§l%s §e✭
 item.map.title.invalid=§c§l%s §7(§4❌§7)
 item.lore.by=§7by %s
-item.lore.by.more=§7by %s (and %s more)
+item.lore.by.more=§7by %s (+%s other)
 item.lore.games=§8➥ §7Total games: §9%s
 item.lore.last.update=§8➥ §7Updated: §9%s
 item.lore.type=§8➥ §7Type: §9%s
