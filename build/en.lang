@@ -27,6 +27,7 @@ chat.map.no.changes=§cThis map has no pending changes.
 chat.map.owner.only=§cOnly the creator can do this!
 chat.map.deleted=§7Map §9%s §7was deleted.
 chat.map.not.found=§cThe specified map was not found.
+chat.map.renamed=§7You renamed the map §9%s §7to §9%s§7.
 
 # Edit mode
 chat.edit.enabled=You entered §9edit mode§7. You can now place and break blocks. <br>To see if your map is playable, use §9/save§7.
