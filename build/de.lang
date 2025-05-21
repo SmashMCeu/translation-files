@@ -1,0 +1,145 @@
+prefix=§8● §9Maps §8➥ §7
+
+chat.approve=§7Die Karte §9%s §7ist jetzt genehmigt und wird in öffentlichen Spielen verfügbar sein.
+chat.approve.revoked=§7Die Karte §9%s §7ist nicht mehr genehmigt.
+chat.approve.already=§cDiese Karte ist bereits genehmigt.
+chat.approve.not=§cDiese Karte ist nicht genehmigt.
+chat.approve.invalid=§cDiese Karte hat Warnungen oder ist ungültig.
+chat.approve.editing=§cDiese Karte wird derzeit bearbeitet.
+chat.approve.private=§cDiese Karte ist auf privat gestellt.
+chat.map.member.added=§7Du hast §9%s §7als Mitglied hinzugefügt.
+chat.map.member.removed=§7Du hast §9%s §7als Mitglied entfernt.
+chat.map.member.already=§cDieser Spieler ist bereits ein Mitglied.
+chat.map.member.not=§cDieser Spieler ist kein Mitglied.
+chat.map.member.owner=§cDu kannst den Besitzer nicht hinzufügen oder entfernen.
+chat.map.members.list=§7Liste aller Mitglieder:
+chat.map.not.editing=§cDu bist nicht im Bearbeitungsmodus. Verwende zuerst §9/edit§c, um die Karte zu bearbeiten.
+chat.map.no.view.permission=§cDu darfst diese Karte nicht ansehen.
+chat.map.no.edit.permission=§cDu darfst diese Karte nicht bearbeiten. Bitte den Ersteller §9%s §cdich als Mitglied hinzuzufügen.
+chat.map.contribute.no.member=§e⚠ §cDu bist kein Mitglied dieser Karte. Du kannst sie dennoch bearbeiten, wirst aber nicht als Mitwirkender angezeigt.
+chat.map.not.editable=§cDie Welt, auf der du bist, kann nicht bearbeitet werden.
+chat.map.not.editable.approved=§cDiese Karte wurde genehmigt und kann daher nicht mehr bearbeitet werden.
+chat.map.access.revoked=§cDein Zugriff auf die Karte wurde entzogen.
+chat.map.teleported=Du wurdest zu §9%s§7 teleportiert.
+chat.map.teleported.by=Du wurdest von §9%s §7zu §9%s §7 teleportiert.
+chat.map.created=Neue Karte §9%s §7für §9%s§7 erstellt.
+chat.map.no.changes=§cDiese Karte hat keine ausstehenden Änderungen.
+chat.map.owner.only=§cNur der Ersteller kann das tun!
+chat.map.deleted=§7Karte §9%s §7wurde gelöscht.
+chat.map.not.found=§cDie angegebene Karte wurde nicht gefunden.
+chat.map.renamed=§7Du hast die Karte §9%s §7in §9%s§7 umbenannt.
+chat.map.cloned=§7Du hast die Karte §9%s §7von §9%s §7nach §9%s§7 kopiert.
+
+# Titles
+title.unsaved=§e⚠ §cUngespeicherte Änderungen §e⚠
+title.loading=§7Lädt...
+title.creating=§7Wird erstellt...
+title.deleting=§7Wird gelöscht...
+title.cloning=§7Wird kopiert...
+
+# Edit mode
+chat.edit.enabled=Du bist jetzt im §9Bearbeitungsmodus§7. Du kannst nun Blöcke platzieren und zerstören. <br>Nutze §9/save§7, um zu prüfen, ob deine Karte spielbar ist.
+title.edit.enabled=§7Du kannst jetzt bauen.
+chat.edit.disabled=Du bist nicht mehr im Bearbeitungsmodus.
+chat.max.height=§cDie maximale Bauhöhe beträgt §e%s Blöcke§c.
+chat.max.pois=§cMaximale Anzahl an Positionen dieses Typs erreicht.
+chat.poi.removed=Position §c%s §7entfernt.
+chat.poi.added=Position §c%s §7gesetzt.
+chat.poi.added.facing=Position §c%s §7gesetzt, Blickrichtung §9%s§7
+chat.poi.already=§cHier ist bereits eine Position!
+chat.poi.no.types=§cFür diesen Kartentyp gibt es keine Positionen.
+
+# Create menu
+create.title=§3§lKarte erstellen
+create.title.name=§a%s Kartenname
+chat.map.name.invalid=§cDer Name ist zu lang oder zu kurz.
+chat.map.name.invalid.length=§cDer Name darf keine Sonderzeichen enthalten.
+chat.map.name.used=§cDu hast bereits eine Karte mit diesem Namen.
+item.create.lore=§7Erstelle eine neue Karte für %s
+
+# Info menu
+info.title=§3§lKarteninformationen
+item.overview.name=§b§lKartenübersicht
+item.overview.lore.name=§8➥ §7Name: §3%s
+item.overview.lore.type=§8➥ §7Typ: §3%s
+item.overview.lore.visibility=§8➥ §7Sichtbarkeit: §3%s
+item.overview.lore.games=§8➥ §7Spiele: §3%s
+item.overview.lore.created=§8➥ §7Erstellt: §3%s
+item.overview.lore.updated=§8➥ §7Aktualisiert: §3%s
+item.overview.lore.block.highest=§8➥ §7Höchster Block: §3%s
+item.overview.lore.block.lowest=§8➥ §7Tiefster Block: §3%s
+item.positions.name=§5§lPositionen
+item.positions.lore.center=§8➥ §7Zentrum: §d%s
+item.positions.lore.spawn=§8➥ §7Spawns: §d%s
+item.positions.lore.item=§8➥ §7Items: §d%s
+item.positions.lore=§9Klicken, um alle anzuzeigen
+item.contributors.name=§6§lMitwirkende
+item.contributors.lore.creator=§8➥ §7Ersteller: §e%s
+item.contributors.lore.contributors=§8➥ §7Mitwirkende:
+item.contributors.lore.contributor=  §8- §e%s
+
+# Positions menu
+positions.title=§5§lPositionen
+item.position.lore.at=§8➥ §7Bei: §9%s
+item.position.lore.facing=§8➥ §7Blickrichtung: §9%s
+item.positions.lore=§9Klicken, um zu teleportieren
+positions.place.title=§9Position setzen
+positions.place.lore=§7Setze eine neue %s §7an deiner aktuellen Position.
+
+# Settings menu
+settings.title=§e§lKarteneinstellungen
+item.icon.set.name=§eKarten-Icon
+item.icon.set.lore=§7Ändere das Icon der Karte.
+chat.icon.select=§7Wirf das Item, das du als Icon verwenden möchtest.
+chat.icon.select.title=§7Item werfen
+chat.icon.invalid=§cDieses Item ist ungültig.
+chat.icon.set=§7Das Icon wurde aktualisiert.
+item.visibility.set=§5Sichtbarkeit ändern
+item.visibility.set.lore=§8➥ §d%s
+chat.visibility.set=Die Sichtbarkeit wurde auf §9%s§7 gesetzt.
+
+# Viewer tools
+item.name.map.info=§e§lKarteninfo §8| §7Rechtsklick
+item.name.map.edit=§e§lKarte bearbeiten §8| §7Rechtsklick
+item.name.mode.edit=§9§lBearbeitungsmodus §8| §7Rechtsklick
+item.name.map.browser=§c§lAlle Karten §8| §7Rechtsklick
+item.name.create=§b§lKarte erstellen §8| §7Rechtsklick
+item.name.pois.show=§5§lPositionen anzeigen §8| §7Rechtsklick
+item.name.pois.hide=§5§lPositionen ausblenden §8| §7Rechtsklick
+item.name.map.leave=§c§lKarte verlassen §8| §7Rechtsklick
+
+# Editor items
+item.name.edit.stop=§c§lBearbeitung beenden §8| §7Rechtsklick
+item.name.edit.settings=§e§lKarteneinstellungen §8| §7Rechtsklick
+item.name.edit.poi=§9§lPosition setzen §8| §7Rechtsklick
+
+# Facing
+facing.north=Nord
+facing.east=Ost
+facing.south=Süd
+facing.west=West
+facing.northeast=Nordost
+facing.southeast=Südost
+facing.southwest=Südwest
+facing.northwest=Nordwest
+
+# Npcs
+npc.create=§b§lKarte erstellen
+npc.browse=§9§lMeine Karten
+
+# Scoreboard sidebar
+sidebar.created=Erstellt
+sidebar.total=Insgesamt
+
+sidebar.owner=Ersteller
+sidebar.status=Status
+sidebar.approved=Genehmigt
+sidebar.approved.yes=§a✔ Ja
+sidebar.approved.not_yet=§c❌ Noch nicht
+sidebar.visibility=Sichtbarkeit
+
+sidebar.positions=Positionen
+sidebar.saved=Gespeichert
+
+sidebar.editing=Bearbeitung
+sidebar.viewing=Anzeige

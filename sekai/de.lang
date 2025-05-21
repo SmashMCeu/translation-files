@@ -1,0 +1,53 @@
+prefix=§8● §9Karten §8➥ §7
+
+# Common chat messages
+chat.map.not.found=§cDie Karte §e%s §cwurde nicht gefunden.
+chat.map.already.forced=§cDie Karte §e%s §cwurde erzwungen und kann nicht geändert werden.
+chat.map.forced=Die Karte §a%s §7wird nun erzwungen.
+chat.map.not.voting=§cDerzeit findet keine Abstimmung statt.
+chat.enter=§7Bitte gib %s §7im Chat ein...
+chat.enter.title=§7Bitte im Chat eingeben
+
+# Map voting
+voting.button.name=§a%s
+voting.button.lore_1=§7von %s
+
+# Map selector
+selector.title=§e§lKarte auswählen
+
+# Map browser
+browser.title=§c§lAlle Karten
+browser.title.member=§9§lKarten von %s
+browser.search=§3🔍 §7§lSuche
+browser.search.reset=§7🔍 §7§l"§e§l%s§7§l"
+browser.search.reset.lore=§cKlicken zum Zurücksetzen
+browser.show=§b👁 §7§lFilter
+browser.show.all=§2🌐 §a§lAlle
+browser.show.own=§d👁 §5§lMeine Karten
+browser.show.approved=§e✭ §6§lGenehmigt
+browser.sort=§6⇵ §7§lSortieren
+browser.sort.name=§7⇵ §5§lName
+browser.sort.author=§7⇵ §c§lAutor
+browser.sort.popularity=§7⇵ §b§lBeliebtheit
+browser.sort.newest=§7⇵ §a§lNeueste
+
+# Items
+item.map.title.public=§a%s
+item.map.title.private=§9%s §7(privat)
+item.map.title.approved=§6§l%s §e✭
+item.map.title.invalid=§c§l%s §7(§4❌§7)
+item.lore.by=§7von %s
+item.lore.by.more=§7von %s (und %s weitere)
+item.lore.games=§8➥ §7Gesamtspiele: §9%s
+item.lore.last.update=§8➥ §7Aktualisiert: §9%s
+item.lore.type=§8➥ §7Typ: §9%s
+item.lore.visibility=§8➥ §7Sichtbarkeit: §9%s
+item.lore.teleport=§7Klicke zum Teleportieren!
+item.lore.select=§9Klicke zum Auswählen!
+item.lore.info=§7Klicke für mehr Infos!
+
+# Poi issues
+chat.failed.poi.min=§4❌ §cDie Karte muss §e%2$s §cPositionen vom Typ §e%1$s §chaben (derzeit: §e%3$s§c)
+chat.failed.poi.max=§4❌ §cDie Karte darf nicht mehr als §e%2$s §cPositionen vom Typ §e%1$s §chaben (derzeit: §e%3$s§c)
+chat.failed.poi.target=§e⚠ §7Die Karte sollte etwa §9%2$s §7Positionen vom Typ §9%1$s§7 haben.
+chat.failed.world.not.uploaded=§4❌ §cDie Karte wurde nicht hochgeladen.
