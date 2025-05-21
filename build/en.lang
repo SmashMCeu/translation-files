@@ -1,9 +1,9 @@
 prefix=§8● §9Maps §8➥ §7
 
-chat.approve=§7The map §9%s §7is now approved.
+chat.approve=§7The map §9%s §7is now approved and will be available in public games.
 chat.approve.revoked=§7The map §9%s §7is no longer approved.
 chat.approve.already=§cThis map is already approved.
-chat.approve.not=§cThis map is not approved and will be available in public games.
+chat.approve.not=§cThis map is not approved.
 chat.approve.invalid=§cThis map has warnings or is not valid.
 chat.approve.editing=§cThis map is currently being edited.
 chat.approve.private=§cThis map is set to private.
