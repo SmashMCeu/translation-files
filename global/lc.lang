@@ -23,6 +23,7 @@ item.map_voting=§8➤ §b§lmapvotin §8▎ §7right clicc
 item.hub=§8➤ §a§lback 2 lobby §8▎ §7right clicc
 item.navigator=§8➤ §b§lteleportr §8▎ §7right clicc
 item.lore.votes=§8➥ §7%s votez
+item.lore.votes_singular=§8➥ §7%s vot
 item.lore.vote=§9click 2 vote!
 item.lore.join=§9click 2 join!
 holo.rightclick=§7(Right clicc)

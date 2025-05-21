@@ -25,6 +25,7 @@ item.map_voting=§8➤ §b§lMapvoting §8▎ §7Rechtsklick
 item.hub=§8➤ §a§lZurück zur Lobby §8▎ §7Rechtsklick
 item.navigator=§8➤ §b§lTeleporter §8▎ §7Rechtsklick
 item.lore.votes=§8➥ §7%s Stimmen
+item.lore.votes_singular=§8➥ §7%s Stimme
 item.lore.vote=§9Klicke um abzustimmen!
 item.lore.join=§9Klicke um beizutreten!
 item.lore.right_click_spectate=§7Rechtsklick zum §aZuschauen
