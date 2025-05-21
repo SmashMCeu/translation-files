@@ -11,7 +11,6 @@ chat.enter.title=§7Please enter in your chat
 # Map voting
 voting.button.name=§a%s
 voting.button.lore_1=§7by %s
-voting.item.name=§8➤ §b§lMapvoting §8▎ §7Right click
 
 # Map selector
 selector.title=§e§lSelect map
