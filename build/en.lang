@@ -28,12 +28,14 @@ chat.map.owner.only=§cOnly the creator can do this!
 chat.map.deleted=§7Map §9%s §7was deleted.
 chat.map.not.found=§cThe specified map was not found.
 chat.map.renamed=§7You renamed the map §9%s §7to §9%s§7.
+chat.map.cloned=§7You cloned the map §9%s §7by §9%s §7to §9%s§7.
 
 # Titles
 title.unsaved=§e⚠ §cUnsaved changes §e⚠
 title.loading=§7Loading...
 title.creating=§7Creating...
 title.deleting=§7Deleting...
+title.cloning=§7Cloning...
 
 # Edit mode
 chat.edit.enabled=You entered §9edit mode§7. You can now place and break blocks. <br>To see if your map is playable, use §9/save§7.
