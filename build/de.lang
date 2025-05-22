@@ -100,6 +100,9 @@ chat.visibility.set=Die Sichtbarkeit wurde auf §9%s§7 gesetzt.
 chat.biome.set=§7Das Biome ist jetzt §9%s§7.
 item.biome.set=§2Biom ändern
 biome.title=§2§lBiom ändern
+item.time.set=§3Tageszeit ändern
+time.title=§3§lTageszeit ändern
+chat.time.set=§7Die Tageszeit wurde auf §9%s §7geändert.
 
 # Viewer tools
 item.name.map.info=§e§lKarteninfo §8| §7Rechtsklick
@@ -125,6 +128,15 @@ facing.northeast=Nordost
 facing.southeast=Südost
 facing.southwest=Südwest
 facing.northwest=Nordwest
+
+# Time
+time.sunrise=§eSonnenaufgang
+time.day=§aMorgens
+time.noon=§bMittag
+time.evening=§cAbends
+time.sunset=§6Sonnenuntergang
+time.night=§9Nacht
+time.midnight=§8Mitternacht
 
 # Npcs
 npc.create=§b§lKarte erstellen
