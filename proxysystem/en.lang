@@ -45,3 +45,4 @@ chat.filter.spam=§cPlease slow down in chat.
 chat.filter.werbung=§cPlease don't use domains in chat.
 chat.filter.capslock=§cPlease disable capslock.
 chat.filter.symbole=§cYou message contains illegal characters.
+chat.filter.commandblacklist=§cThis command is disabled.

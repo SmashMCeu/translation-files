@@ -45,3 +45,4 @@ chat.filter.spam=§cBitte schreibe etwas langsamer.
 chat.filter.werbung=§cBitte benutze keine fremden Domains im Chat.
 chat.filter.capslock=§cBitte deaktiviere deine Feststelltaste.
 chat.filter.symbole=§cDeine Nachricht enthält verbotene Symbole.
+chat.filter.commandblacklist=§cDieser Befehl ist nicht verfügbar.
