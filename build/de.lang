@@ -16,6 +16,7 @@ chat.map.members.list=§7Liste aller Mitglieder:
 chat.map.not.editing=§cDu bist nicht im Bearbeitungsmodus. Verwende zuerst §9/edit§c, um die Karte zu bearbeiten.
 chat.map.no.view.permission=§cDu darfst diese Karte nicht ansehen.
 chat.map.no.edit.permission=§cDu darfst diese Karte nicht bearbeiten. Bitte den Ersteller §9%s §cdich als Mitglied hinzuzufügen.
+chat.map.no.publish.permission=§cDu hast keine Rechte Karten zu veröffentlichen.
 chat.map.contribute.no.member=§e⚠ §cDu bist kein Mitglied dieser Karte. Du kannst sie dennoch bearbeiten, wirst aber nicht als Mitwirkender angezeigt.
 chat.map.not.editable=§cDie Welt, auf der du bist, kann nicht bearbeitet werden.
 chat.map.not.editable.approved=§cDiese Karte wurde approved und kann daher nicht mehr bearbeitet werden.
