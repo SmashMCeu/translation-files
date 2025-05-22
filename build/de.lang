@@ -84,7 +84,8 @@ item.position.lore.at=§8➥ §7Bei: §9%s
 item.position.lore.facing=§8➥ §7Blickrichtung: §9%s
 item.positions.lore=§9Klicken, um zu teleportieren
 positions.place.title=§9Position setzen
-positions.place.lore=§7Setze eine neue %s §7an deiner aktuellen Position.
+positions.place.lore_1=§7Setze eine neue Position vom Typ %s
+positions.place.lore_2=§7an deiner aktuellen Position.
 
 # Settings menu
 settings.title=§e§lKarteneinstellungen
@@ -98,9 +99,11 @@ item.visibility.set=§5Sichtbarkeit ändern
 item.visibility.set.lore=§8➥ §d%s
 chat.visibility.set=Die Sichtbarkeit wurde auf §9%s§7 gesetzt.
 chat.biome.set=§7Das Biome ist jetzt §9%s§7.
-item.biome.set=§2Biom ändern
+item.biome.set=§2Biom
+item.biome.set.lore=§7Ändere das Biom der Karte.
 biome.title=§2§lBiom ändern
-item.time.set=§3Tageszeit ändern
+item.time.set=§3Tageszeit
+item.time.set.lore=§7Ändere die Sonnenposition der Karte.
 time.title=§3§lTageszeit ändern
 chat.time.set=§7Die Tageszeit wurde auf §9%s §7geändert.
 

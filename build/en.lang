@@ -85,6 +85,8 @@ item.position.lore.facing=§8➥ §7Facing: §9%s
 item.positions.lore=§9Click to teleport
 positions.place.title=§9Place position
 positions.place.lore=§7Place a new %s §7at your current location.
+positions.place.lore_1=§7Place a new position of type %s
+positions.place.lore_2=§7at your current location.
 
 # Settings menu
 settings.title=§e§lMap settings
@@ -98,9 +100,11 @@ item.visibility.set=§5Change visibility
 item.visibility.set.lore=§8➥ §d%s
 chat.visibility.set=Visibility was set to §9%s§7.
 chat.biome.set=§7The biome was set to §9%s§7.
-item.biome.set=§2Change biome
+item.biome.set=§2Biome
+item.biome.set.lore=§7Change the biome of the map.
 biome.title=§2§lChange biome
-item.time.set=§3Change time of day
+item.time.set=§3Time of day
+item.time.set.lore=§7Change the time of day of the map.
 time.title=§3§lTime of day
 chat.time.set=§7Set the time of day to §9%s§7.
 
