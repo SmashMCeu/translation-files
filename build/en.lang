@@ -14,6 +14,7 @@ chat.map.member.not=§cThis player is not a member.
 chat.map.member.owner=§cYou cannot add or remove the owner.
 chat.map.members.list=§7List of all members:
 chat.map.not.editing=§cYou are not in edit mode. Use §9/edit §cfirst to start editing the map.
+chat.map.no.create.permission=§cYou are not allowed to create a map of type §9%s§7.
 chat.map.no.view.permission=§cYou are not allowed to view this map.
 chat.map.no.edit.permission=§cYou are not allowed to edit this map. Ask the creator §9%s §cto add you as a member.
 chat.map.no.publish.permission=§cYou are not allowed to publish a map.

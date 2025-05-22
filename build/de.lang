@@ -14,6 +14,7 @@ chat.map.member.not=§cDieser Spieler ist kein Mitglied.
 chat.map.member.owner=§cDu kannst den Besitzer nicht hinzufügen oder entfernen.
 chat.map.members.list=§7Liste aller Mitglieder:
 chat.map.not.editing=§cDu bist nicht im Bearbeitungsmodus. Verwende zuerst §9/edit§c, um die Karte zu bearbeiten.
+chat.map.no.create.permission=§cDu darfst keine Karte vom Typ §9%s §7erstellen.
 chat.map.no.view.permission=§cDu darfst diese Karte nicht ansehen.
 chat.map.no.edit.permission=§cDu darfst diese Karte nicht bearbeiten. Bitte den Ersteller §9%s §cdich als Mitglied hinzuzufügen.
 chat.map.no.publish.permission=§cDu hast keine Rechte Karten zu veröffentlichen.
