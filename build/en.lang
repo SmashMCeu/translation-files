@@ -97,6 +97,9 @@ chat.icon.set=§7The icon was updated.
 item.visibility.set=§5Change visibility
 item.visibility.set.lore=§8➥ §d%s
 chat.visibility.set=Visibility was set to §9%s§7.
+chat.biome.set=§7The biome was set to §9%s§7.
+item.biome.set=§2Change biome
+biome.title=§2§lChange biome
 
 # Viewer tools
 item.name.map.info=§e§lMap info §8| §7Right click
