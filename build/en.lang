@@ -31,6 +31,7 @@ chat.map.deleted=§7Map §9%s §7was deleted.
 chat.map.not.found=§cThe specified map was not found.
 chat.map.renamed=§7You renamed the map §9%s §7to §9%s§7.
 chat.map.cloned=§7You cloned the map §9%s §7by §9%s §7to §9%s§7.
+chat.map.limit.reached=§cYou have reached the maximum number of maps.<br>§cYou can increase your limit by submitting one of your maps or by purchasing a §3higher rank §cin our shop.
 
 # Titles
 title.unsaved=§e⚠ §cUnsaved changes §e⚠
