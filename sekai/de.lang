@@ -52,7 +52,7 @@ item.lore.select=§9Klicke zum Auswählen!
 item.lore.info=§7Klicke für mehr Infos!
 
 # Poi issues
-chat.failed.poi.min=§4✖ §cDie Karte muss §e%2$s §cPositionen vom Typ §e%1$s §chaben (derzeit: §e%3$s§c)
+chat.failed.poi.min=§4✖ §cDie Karte muss mindestens §e%2$s §cPositionen vom Typ §e%1$s §chaben (derzeit: §e%3$s§c)
 chat.failed.poi.max=§4✖ §cDie Karte darf nicht mehr als §e%2$s §cPositionen vom Typ §e%1$s §chaben (derzeit: §e%3$s§c)
 chat.failed.poi.target=§e⚠ §7Die Karte sollte etwa §9%2$s §7Positionen vom Typ §9%1$s§7 haben.
 chat.failed.world.not.uploaded=§4✖ §cDie Karte wurde nicht hochgeladen.
