@@ -87,8 +87,8 @@ item.position.lore.at=§8➥ §7Bei: §9%s
 item.position.lore.facing=§8➥ §7Blickrichtung: §9%s
 item.positions.lore=§9Klicken, um zu teleportieren
 positions.place.title=§9Position setzen
-positions.place.lore_1=§7Setze eine neue Position vom Typ %s
-positions.place.lore_2=§7an deiner aktuellen Position.
+positions.place.lore1=§7Setze eine neue Position vom Typ %s
+positions.place.lore2=§7an deiner aktuellen Position.
 
 # Settings menu
 settings.title=§e§lKarteneinstellungen

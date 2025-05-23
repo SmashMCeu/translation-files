@@ -88,8 +88,8 @@ item.position.lore.facing=§8➥ §7Facing: §9%s
 item.positions.lore=§9Click to teleport
 positions.place.title=§9Place position
 positions.place.lore=§7Place a new %s §7at your current location.
-positions.place.lore_1=§7Place a new position of type %s
-positions.place.lore_2=§7at your current location.
+positions.place.lore1=§7Place a new position of type %s
+positions.place.lore2=§7at your current location.
 
 # Settings menu
 settings.title=§e§lMap settings
