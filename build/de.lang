@@ -161,6 +161,8 @@ sidebar.visibility=Sichtbarkeit
 
 sidebar.positions=Positionen
 sidebar.saved=Gespeichert
+sidebar.duration.ago=vor %s
+sidebar.duration.moments_ago=gerade eben
 
 sidebar.editing=Bearbeitung
 sidebar.viewing=Anzeige
