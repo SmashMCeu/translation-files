@@ -9,7 +9,7 @@ chat.enter=§7Please enter %s §7in chat...
 chat.enter.title=§7Please enter in your chat
 status.approved=§6§lApproved §e✭
 status.valid=§7Valid §2✔
-status.invalid=§cInvalid §4❌
+status.invalid=§cInvalid §4✖
 visibility.public=§aPublic
 visibility.private=§cPrivate
 
@@ -28,7 +28,7 @@ browser.search.reset=§7🔍 §7§l"§e§l%s§7§l"
 browser.search.reset.lore=§cClick to reset
 browser.show=§b👁 §7§lFilter
 browser.show.all=§2🌐 §a§lAll
-browser.show.own=§d👁 §5§lMy maps
+browser.show.own=§d◎ §5§lMy maps
 browser.show.approved=§e✭ §6§lApproved
 browser.sort=§6⇵ §7§lSort
 browser.sort.name=§7⇵ §5§lName
@@ -40,7 +40,7 @@ browser.sort.newest=§7⇵ §a§lNewest
 item.map.title.public=§a%s
 item.map.title.private=§9%s §7(private)
 item.map.title.approved=§6§l%s §e✭
-item.map.title.invalid=§c§l%s §7(§4❌§7)
+item.map.title.invalid=§c§l%s §7(§4✖§7)
 item.lore.by=§7by %s
 item.lore.by.more=§7by %s (+%s other)
 item.lore.games=§8➥ §7Total games: §9%s
@@ -52,7 +52,7 @@ item.lore.select=§9Click to select!
 item.lore.info=§7Click for more info!
 
 # Poi issues
-chat.failed.poi.min=§4❌ §cThe map must have §e%2$s §cpositions of type §e%1$s §c(currently has §e%3$s§c)
-chat.failed.poi.max=§4❌ §cThe map must not have more than §e%2$s §cpositions of type §e%1$s §c(currently has §e%3$s§c)
+chat.failed.poi.min=§4✖ §cThe map must have §e%2$s §cpositions of type §e%1$s §c(currently has §e%3$s§c)
+chat.failed.poi.max=§4✖ §cThe map must not have more than §e%2$s §cpositions of type §e%1$s §c(currently has §e%3$s§c)
 chat.failed.poi.target=§e⚠ §7The map should have around §9%2$s §7positions of type §9%1$s§7.
-chat.failed.world.not.uploaded=§4❌ §cThe map has not been uploaded.
+chat.failed.world.not.uploaded=§4✖ §cThe map has not been uploaded.
