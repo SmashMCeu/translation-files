@@ -31,7 +31,7 @@ chat.map.deleted=§7Karte §9%s §7wurde gelöscht.
 chat.map.not.found=§cDie angegebene Karte wurde nicht gefunden.
 chat.map.renamed=§7Du hast die Karte §9%s §7in §9%s§7 umbenannt.
 chat.map.cloned=§7Du hast die Karte §9%s §7von §9%s §7nach §9%s§7 kopiert.
-chat.map.limit.reached=§cDu hast die maximale Anzahl an Maps erreicht.<br>§cDu kannst dein Limit erhöhen, indem du eine deiner Maps einreichst oder dir in unserem Shop einen §3höheren Rang §7kaufst.
+chat.map.limit.reached=§cDu hast die maximale Anzahl an Maps erreicht.<br>§cDu kannst dein Limit erhöhen, indem du eine deiner Maps einreichst oder dir in unserem Shop einen §3höheren Rang §ckaufst.
 
 # Titles
 title.unsaved=§e⚠ §cUngespeicherte Änderungen §e⚠
