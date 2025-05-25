@@ -196,6 +196,9 @@ chat.settings.item_drop_delay.slow= §8● §7item drop speed: §cfuckin' long
 chat.settings.velocity_multiplier= §8● §7knockback buff: %s
 chat.settings.start_lives= §8● §7liv: §a%s
 chat.settings.items= §8● §7itemz: §a%s
+chat.settings.slot.invalid=§ctis slot is inwalid. (1-3)
+chat.settings.slot.loaded=sewtingz wer loded from slowt §a%s
+chat.settings.slot.saved=sewtingz sawed to slowt §a%s
 
 chat.respawn_box.enabled=§arespawm boccs alwis enabld.
 chat.respawn_box.disabled=§crespawm boccs alwis disabld.

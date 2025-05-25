@@ -219,6 +219,9 @@ item.name.settings.items.default=§eItems §8➥ §eDefault
 item.name.settings.items.none=§eItems §8➥ §cNone
 chat.forcemap_disabled=§cForcemap is disabled in private rounds.
 chat.map_already_loaded=§cThe map has already been selected.
+chat.settings.slot.invalid=§cThis slot is invalid. (1-3)
+chat.settings.slot.loaded=Settings were loaded from slot §a%s§7.
+chat.settings.slot.saved=Settings saved to slot §a%s§7.
 
 chat.settings.overview=§aGame settings:
 chat.settings.deathmatch.true= §8● §7Apocalypseh: §aEnabled
