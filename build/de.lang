@@ -137,8 +137,8 @@ facing.northwest=Nordwest
 
 # Time
 time.sunrise=§eSonnenaufgang
-time.day=§aMorgens
-time.noon=§bMittag
+time.day=§aTag
+time.noon=§bZenit
 time.evening=§cAbends
 time.sunset=§6Sonnenuntergang
 time.night=§9Nacht
