@@ -65,6 +65,9 @@ item.teleporter=Teleporter
 item.tornado=Tornado
 item.grabber=Grabber
 item.rescue_platform=Rescue Platform
+item.switcher=Switcher
+item.crate=Item Chest
+
 
 item.name.random=§e§lRandom Character
 item.lore.asuna=§7She can hit faster than anyone!
