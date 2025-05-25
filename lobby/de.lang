@@ -150,6 +150,8 @@ item.lore.backrooms_description=§7Sei Vorsichtig, oder du glitchst
 item.lore.backrooms_description2=§7aus der Realität in die Backrooms.
 item.lore.snowfight_description=§7Erlebe die ultimative Schneeballschlacht
 item.lore.snowfight_description2=§7mit besonderen Items!
+item.lore.classic_description=§7Block auf Retro-Feeling?
+item.lore.classic_description2=§7Smash genau so wie damals!
 
 # Lobby selector
 item.name.lobby_switcher=§8➤ §6§lLobby §8▍ §7Rechtsklick
