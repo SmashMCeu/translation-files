@@ -27,6 +27,7 @@ chat.team_joined=You joined §cTeam %s§7.
 chat.team_full=§cThis team is full!
 item.name.team_selector=§8➤ §c§lTeam selection §8▎ §7Right click
 inventory.teams=Team selection
+actionbar.leave_vehicle=§ePress shift to dismount
 
 item.apple=Apple
 item.bats=Bomber Bats
