@@ -65,6 +65,8 @@ item.teleporter=Teleporter
 item.tornado=Tornado
 item.grabber=Grabber
 item.rescue_platform=Rettungsplattform
+item.switcher=Tauscher
+item.crate=Item Kiste
 
 item.lore.asuna=§7Sie schlägt schneller als das Licht!
 item.lore.boo=§7Er wird 5 Sekunden unsichtbar, wenn er sneakt!
