@@ -52,8 +52,8 @@ item.lore.select=§9Klicke zum Auswählen!
 item.lore.info=§7Klicke für mehr Infos!
 
 # Poi issues
-chat.failed.poi.min=§c✖ §eDie Karte muss mindestens §c%2$s §ePositionen vom Typ §c%1$s §ehaben (derzeit: §c%3$s§e)
-chat.failed.poi.max=§c✖ §eDie Karte darf nicht mehr als §c%2$s §ePositionen vom Typ §c%1$s §ehaben (derzeit: §c%3$s§e)
-chat.failed.poi.target.min=§e⚠ §7Die Karte sollte mindestens §9%2$s §7Positionen vom Typ §9%1$s§7 haben.
-chat.failed.poi.target.max=§e⚠ §7Die Karte sollte nicht mehr als §9%2$s §7Positionen vom Typ §9%1$s§7 haben.
+chat.failed.poi.min=§c✖ §eDie Karte muss mindestens §c%2$s %1$s §ePositionen haben. (derzeit: §c%3$s§e)
+chat.failed.poi.max=§c✖ §eDie Karte darf nicht mehr als §c%2$s %1$s §ePositionen haben. (derzeit: §c%3$s§e)
+chat.failed.poi.target.min=§e⚠ §7Die Karte sollte mindestens §9%2$s %1$s §7Positionen haben.
+chat.failed.poi.target.max=§e⚠ §7Die Karte sollte nicht mehr als §9%2$s %1$s §7Positionen haben.
 chat.failed.world.not.uploaded=§4✖ §cDie Karte wurde nicht hochgeladen.
