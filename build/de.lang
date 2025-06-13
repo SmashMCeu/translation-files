@@ -28,6 +28,8 @@ chat.map.created=Neue Karte §9%s §7für §9%s§7 erstellt.
 chat.map.no.changes=§cDiese Karte hat keine ausstehenden Änderungen.
 chat.map.owner.only=§cNur der Ersteller kann das tun!
 chat.map.deleted=§7Karte §9%s §7wurde gelöscht.
+chat.map.delete.confirm=§7Bist du sicher, dass du die Map §9%s §7von §9%s §7PERMANENT löschen möchtest?
+
 chat.map.not.found=§cDie angegebene Karte wurde nicht gefunden.
 chat.map.renamed=§7Du hast die Karte §9%s §7in §9%s§7 umbenannt.
 chat.map.cloned=§7Du hast die Karte §9%s §7von §9%s §7nach §9%s§7 kopiert.
