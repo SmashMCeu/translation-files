@@ -61,8 +61,8 @@ chat.poi.no.types=§cFür diesen Kartentyp gibt es keine Positionen.
 # Create menu
 create.title=§3§lKarte erstellen
 create.title.name=§a%s Kartenname
-chat.map.name.invalid=§cDer Name ist zu lang oder zu kurz.
-chat.map.name.invalid.length=§cDer Name darf keine Sonderzeichen enthalten.
+chat.map.name.invalid=§cDer Name darf keine Sonderzeichen enthalten.
+chat.map.name.invalid.length=§cDer Name ist zu lang oder zu kurz.
 chat.map.name.used=§cDu hast bereits eine Karte mit diesem Namen.
 item.create.lore=§7Erstelle eine neue Karte für %s
 
