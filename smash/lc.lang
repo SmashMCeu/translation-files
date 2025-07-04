@@ -109,7 +109,7 @@ item.lore.mario=§7he can do teh legendary stomp attack! (sneak)
 item.lore.nameless=§7he gets strongr wif evry kill!
 item.lore.flash=§7he can run fastr than anyone else.
 item.lore.pacman=§7he can collect golden blockz droppd by othr players 2 git strongr 4 10 secondz.
-item.lore.peach=§7her beauty attracts othr players which they cant hit her wif teh fist. she gains no knockback points frum punchez.
+item.lore.old_peach=§7her beauty attracts othr players which they cant hit her wif teh fist. she gains no knockback points frum punchez.
 item.lore.pikachu=§7pikachu can throw lightnin strike on players within a 15 block radius!
 item.lore.pummeluff=§7can put iz enemiez 2 sleep! (hit)
 item.lore.scotty=§7he teleports his enimiez 2 random posishun! (hit)
@@ -138,6 +138,7 @@ item.lore.elsa=§7she frostily freezes frozthen her frozehten froze froze (snek)
 item.lore.joy=§7idk but she alwys haz some of teh gud stuf (hit)
 item.lore.katara=§7shii bents wadda to puhs her enemiz to africa (snek)
 item.lore.one_punch_man=§7hiz insane puwnch even remowes itemz from others handz
+item.lore.peach=§7he beawwty tuwrns her enemis headz. (hit)
 
 item.lore.voteinfo1=§7you can §bvote §7betwen §b%s randomli §7selectdd
 item.lore.voteinfo2=§7maps. thes maps change §bevery round§7.

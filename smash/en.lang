@@ -140,7 +140,7 @@ item.lore.mario=§7He can do the legendary stomp attack! (Sneak)
 item.lore.nameless=§7He gets stronger with every kill!
 item.lore.flash=§7He can run faster than anyone else.
 item.lore.pacman=§7He can collect golden blocks dropped by other players to get stronger for 10 seconds.
-item.lore.peach=§7Her beauty attracts other players which they can't hit her with the fist. She gains no knockback points from punches.
+item.lore.old_peach=§7Her beauty attracts other players which they can't hit her with the fist. She gains no knockback points from punches.
 item.lore.pikachu=§7Pikachu can throw a lightning strike on players within a 15 block radius!
 item.lore.pummeluff=§7Can put it's enemies to sleep! (Hit)
 item.lore.scotty=§7He teleports his enimies away from him! (Hit)
@@ -169,6 +169,7 @@ item.lore.elsa=§7She frostily freezes her firing enemies. (Sneak)
 item.lore.joy=§7For reason she always has some healing item. (Hit)
 item.lore.katara=§7She bends water to push her enemies to space. (Sneak)
 item.lore.one_punch_man=§7His insane punch even removes items from others hands.
+item.lore.peach=§7Her beauty turns her enemies' heads. (Hit)
 
 item.lore.voteinfo1=§7You can §bvote §7between §b%s randomly §7selected
 item.lore.voteinfo2=§7maps. These maps change §bevery round§7.

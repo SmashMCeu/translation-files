@@ -140,7 +140,7 @@ item.lore.mario=§7Er verfügt über die legendäre Stampfattacke. (Sneak)
 item.lore.nameless=§7Er wird mit jedem Kill stärker!
 item.lore.flash=§7Er rennt schneller als alle anderen.
 item.lore.pacman=§7Er kann goldene Blöcke aufsammeln, die von anderen Spielern fallen gelassen werden, um 10 Sekunden super stark zu sein.
-item.lore.peach=§7Ihre Schönheit verwirrt ihre Gegner, welche dann mit der Faust keinen Schaden machen. Sie erhält keine Rückstoß-Punkte von Fäusten.
+item.lore.old_peach=§7Ihre Schönheit verwirrt ihre Gegner, welche dann mit der Faust keinen Schaden machen. Sie erhält keine Rückstoß-Punkte von Fäusten.
 item.lore.pikachu=§7Pikachu verbrutzelt in einem 15 Blöcke Radius seine Gegner mit Blitzen.
 item.lore.pummeluff=§7Es lässt seine Gegner einschlafen. (Schlagen)
 item.lore.scotty=§7Er Teleportiert seine Gegner von sich weg! (Schlagen)
@@ -169,6 +169,7 @@ item.lore.elsa=§7Sie friert frostig ihre frierenden Gegner ein. (Sneak)
 item.lore.joy=§7Aus irgend einem Grund gehen ihr die Heilitems niemals aus.
 item.lore.katara=§7Sie kann Wasser bändigen und so Gegner wegschubsen. (Sneak)
 item.lore.one_punch_man=§7Sein unglaublicher Punch haut sogar Items aus der Hand.
+item.lore.peach=§7Ihre Schönheit dreht ihren Gegnern den Kopf um. (Schlagen)
 
 item.lore.voteinfo1=§7Du kannst zwischen §b%s zufällig §7ausgewählten
 item.lore.voteinfo2=§7Maps §bvoten§7. Die zur Auswahl stehenden
