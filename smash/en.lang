@@ -119,6 +119,7 @@ item.bouncy_arrow=Bouncy Arrow
 item.armageddon=Armageddon
 item.poisoned_cake=Poisoned cake
 item.frag_grenade=Frag grenade
+item.cookie=Cookie
 
 item.name.random=§7Random
 item.lore.asuna=§7She can hit faster than anyone!
@@ -172,7 +173,7 @@ item.lore.katara=§7She bends water to push her enemies to space. (Sneak)
 item.lore.one_punch_man=§7His insane punch even removes items from others hands.
 item.lore.peach=§7Her beauty turns her enemies' heads. (Hit)
 item.lore.jack_sparrow=§7As a great treasure hunter, he often finds chests with valuable items.
-item.lore.aang=Bends the air and whirls enemies and items around.
+item.lore.aang=§7Bends the air and whirls enemies and items around.
 
 item.lore.voteinfo1=§7You can §bvote §7between §b%s randomly §7selected
 item.lore.voteinfo2=§7maps. These maps change §bevery round§7.
