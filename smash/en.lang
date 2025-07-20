@@ -120,6 +120,7 @@ item.armageddon=Armageddon
 item.poisoned_cake=Poisoned cake
 item.frag_grenade=Frag grenade
 item.cookie=Cookie
+item.repair_tool=Repair tool
 
 item.name.random=§7Random
 item.lore.asuna=§7She can hit faster than anyone!
