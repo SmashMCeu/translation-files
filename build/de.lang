@@ -21,6 +21,7 @@ chat.map.no.publish.permission=§cDas Veröffentlichen von Karten steht momentan
 chat.map.contribute.no.member=§e⚠ §cDu bist kein Mitglied dieser Karte. Du kannst sie dennoch bearbeiten, wirst aber nicht als Mitwirkender angezeigt.
 chat.map.not.editable=§cDie Welt, auf der du bist, kann nicht bearbeitet werden.
 chat.map.not.editable.approved=§cDiese Karte wurde approved und kann daher nicht mehr bearbeitet werden.
+chat.map.edit.approved=§eDiese Karte ist approved. Alle Änderungen werden in öffentliche Runden übernommen.
 chat.map.access.revoked=§cDein Zugriff auf die Karte wurde entzogen.
 chat.map.teleported=Du wurdest zu §9%s§7 teleportiert.
 chat.map.teleported.by=Du wurdest zu §9%s §7von §9%s §7teleportiert.

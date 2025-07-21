@@ -21,6 +21,7 @@ chat.map.no.publish.permission=§cPublishing a map is currently a §bPro+ §conl
 chat.map.contribute.no.member=§e⚠ §cYou are not a member of this map. You can still edit it but you will not be shown as a contributor.
 chat.map.not.editable=§cThe world you are on cannot be edited.
 chat.map.not.editable.approved=§cThis map has been approved and can therefore no longer be edited.
+chat.map.edit.approved=§eThis map has been approved. All changes will also be applied to public rounds.
 chat.map.access.revoked=§cYour access to the map was revoked.
 chat.map.teleported=Teleported you to §9%s§7.
 chat.map.teleported.by=Teleported you to §9%s §7by §9%s §7.
