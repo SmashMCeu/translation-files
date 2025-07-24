@@ -81,6 +81,7 @@ item.positions.name=§5§lPositions
 item.positions.lore.center=§8➥ §7Center: §d%s
 item.positions.lore.spawn=§8➥ §7Spawns: §d%s
 item.positions.lore.item=§8➥ §7Items: §d%s
+item.positions.lore.teleporter=§5➥ §7Teleporter: §d%s
 item.positions.lore=§9Click to show all
 item.contributors.name=§6§lContributors
 item.contributors.lore.creator=§8➥ §7Creator: §e%s
