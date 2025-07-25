@@ -162,9 +162,6 @@ sidebar.total=Total
 
 sidebar.owner=Owner
 sidebar.status=Status
-sidebar.approved=Approved
-sidebar.approved.yes=§a✔ Yes
-sidebar.approved.not_yet=§c✖ Not yet
 sidebar.visibility=Visibility
 
 sidebar.positions=Positions
