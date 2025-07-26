@@ -30,11 +30,12 @@ chat.map.no.changes=§cDiese Karte hat keine ausstehenden Änderungen.
 chat.map.owner.only=§cNur der Ersteller kann das tun!
 chat.map.deleted=§7Karte §9%s §7wurde gelöscht.
 chat.map.delete.confirm=§7Bist du sicher, dass du die Map §9%s §7von §9%s §7PERMANENT löschen möchtest?
-
 chat.map.not.found=§cDie angegebene Karte wurde nicht gefunden.
 chat.map.renamed=§7Du hast die Karte §9%s §7in §9%s§7 umbenannt.
 chat.map.cloned=§7Du hast die Karte §9%s §7von §9%s §7nach §9%s§7 kopiert.
 chat.map.limit.reached=§cDu hast die maximale Anzahl an Maps erreicht.<br>§cDu kannst dein Limit erhöhen, indem du eine deiner Maps einreichst oder dir in unserem Shop einen §3höheren Rang §ckaufst.
+chat.teleport.private=§cDieser Spieler befindet sich gerade auf einer Map, auf der du keinen Zugriff hast.
+chat.teleport.target_not_found=§cEs wurde kein Spieler oder Map mit diesem Namen gefunden.
 
 # Titles
 title.unsaved=§e⚠ §cUngespeicherte Änderungen §e⚠
