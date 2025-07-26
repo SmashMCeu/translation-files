@@ -36,6 +36,7 @@ chat.map.cloned=§7Du hast die Karte §9%s §7von §9%s §7nach §9%s§7 kopiert
 chat.map.limit.reached=§cDu hast die maximale Anzahl an Maps erreicht.<br>§cDu kannst dein Limit erhöhen, indem du eine deiner Maps einreichst oder dir in unserem Shop einen §3höheren Rang §ckaufst.
 chat.teleport.private=§cDieser Spieler befindet sich gerade auf einer Map, auf der du keinen Zugriff hast.
 chat.teleport.target_not_found=§cEs wurde kein Spieler oder Map mit diesem Namen gefunden.
+chat.teleport.self=§cDu kannst dich nicht zu dir selber teleportieren.
 
 # Titles
 title.unsaved=§e⚠ §cUngespeicherte Änderungen §e⚠
