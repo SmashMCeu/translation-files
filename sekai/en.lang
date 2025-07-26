@@ -52,8 +52,8 @@ item.lore.select=§9Click to select!
 item.lore.info=§7Click for more info!
 
 # Poi issues
-chat.failed.poi.min=§c✖ §eThe map must have §c%2$s §epositions of type §c%1$s §e(currently has §c%3$s§e)
-chat.failed.poi.max=§c✖ §eThe map must not have more than §c%2$s §epositions of type §c%1$s §e(currently has §c%3$s§e)
+chat.failed.poi.min=§c✖ §eThe map must have §c%2$s §epositions of type §c%1$s§e.
+chat.failed.poi.max=§c✖ §eThe map must not have more than §c%2$s §epositions of type §c%1$s§e.
 chat.failed.poi.target.min=§e⚠ §7The map should have at least §9%2$s %1$s §7positions.
 chat.failed.poi.target.max=§e⚠ §7The map should not have more than §9%2$s %1$s §7positions.
 chat.failed.world.not.uploaded=§4✖ §cThe map has not been uploaded.
