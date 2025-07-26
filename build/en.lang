@@ -80,6 +80,7 @@ item.overview.lore.created=§8➥ §7Created: §3%s
 item.overview.lore.updated=§8➥ §7Updated: §3%s
 item.overview.lore.block.highest=§8➥ §7Highest block: §3%s
 item.overview.lore.block.lowest=§8➥ §7Lowest block: §3%s
+build.item.overview.lore.fork_of=§8➥ §7Clone of: §3%s
 item.positions.name=§5§lPositions
 item.positions.lore.center=§8➥ §7Center: §d%s
 item.positions.lore.spawn=§8➥ §7Spawns: §d%s
