@@ -35,6 +35,8 @@ chat.friend.list.offline=§cOffline
 chat.friend.requests=Friend requests §aPage %s
 chat.friend.toggle=§a%s §7updated to %s
 chat.friend.toggle_invalid=§cNo setting with the name §a%s §cfound
+chat.friend.joined=§a%s §7is now online.
+chat.friend.quit=§c%s §7is now offline.
 
 chat.toggle.enabled=§aenabled
 chat.toggle.disabled=§cdisabled
@@ -62,7 +64,8 @@ item.name.nobody=§CNOBODY
 
 item.name.private_messages=§6Private messages
 item.name.party_requests=§5Party requests
-item.name.friend_request=§aFriend requests
+item.name.friend_request=§eFriend requests
+item.name.join_quit_messages=§aJoin notifications
 
 item.name.friend.accept=§a§lACCEPT
 item.name.friend.decline=§c§lDECLINE

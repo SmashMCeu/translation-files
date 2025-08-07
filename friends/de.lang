@@ -35,6 +35,8 @@ chat.friend.list.offline=§cOffline
 chat.friend.requests=Freundschaftsanfragen §aSeite %s
 chat.friend.toggle=§a%s §7geupdated zu %s
 chat.friend.toggle_invalid=§cKeine Einstellung namens §a%s §cgefunden
+chat.friend.joined=§a%s §7ist nun online.
+chat.friend.quit=§c%s §7ist nun offline.
 
 chat.toggle.enabled=§aan
 chat.toggle.disabled=§caus
@@ -53,16 +55,17 @@ item.lore.current_server=§7Gerade auf §e%s
 item.lore.online=§aOnline
 item.lore.offline=§cOffline
 
-item.name.enabled=§aAN
-item.name.disabled=§cAUS
+item.name.enabled=§aAn
+item.name.disabled=§cAus
 
-item.name.all=§aALLE
-item.name.only_friends=§6NUR FREUNDE
-item.name.nobody=§CKEINER
+item.name.all=§aAlle
+item.name.only_friends=§6Nur Freunde
+item.name.nobody=§CKeiner
 
 item.name.private_messages=§6Private Nachrichten
 item.name.party_requests=§5Partyanfragen
-item.name.friend_request=§aFreundschaftsanfragen
+item.name.friend_request=§eFreundschaftsanfragen
+item.name.join_quit_messages=§aJoin Benachrichtigungen
 
 item.name.friend.accept=§a§lANNEHMEN
 item.name.friend.decline=§c§lABLEHNEN
