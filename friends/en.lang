@@ -55,12 +55,12 @@ item.lore.current_server=§7Currently on §e%s
 item.lore.online=§aOnline
 item.lore.offline=§cOffline
 
-item.name.enabled=§aENABLED
-item.name.disabled=§cDISABLED
+item.name.enabled=§aOn
+item.name.disabled=§cOff
 
-item.name.all=§aALL
-item.name.only_friends=§6ONLY FRIENDS
-item.name.nobody=§CNOBODY
+item.name.all=§aAll
+item.name.only_friends=§6Only friends
+item.name.nobody=§cNoboy
 
 item.name.private_messages=§6Private messages
 item.name.party_requests=§5Party requests
