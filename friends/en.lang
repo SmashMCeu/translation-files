@@ -60,7 +60,7 @@ item.name.disabled=§cOff
 
 item.name.all=§aAll
 item.name.only_friends=§6Only friends
-item.name.nobody=§cNoboy
+item.name.nobody=§cNobody
 
 item.name.private_messages=§6Private messages
 item.name.party_requests=§5Party requests
