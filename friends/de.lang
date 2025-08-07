@@ -35,8 +35,8 @@ chat.friend.list.offline=§cOffline
 chat.friend.requests=Freundschaftsanfragen §aSeite %s
 chat.friend.toggle=§a%s §7geupdated zu %s
 chat.friend.toggle_invalid=§cKeine Einstellung namens §a%s §cgefunden
-chat.friend.joined=§a%s §7ist nun online.
-chat.friend.quit=§c%s §7ist nun offline.
+chat.friend.joined=§a%s §7ist nun online
+chat.friend.quit=§c%s §7ist nun offline
 
 chat.toggle.enabled=§aan
 chat.toggle.disabled=§caus
