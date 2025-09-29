@@ -33,6 +33,7 @@ steps:
         - rm -rf /home/minecraft/file/translation-files
         - mkdir /home/minecraft/file/translation-files
         - mv /tmp/cicd/language/* /home/minecraft/file/translation-files
+        - mkdir /tmp/langrl/
         - touch /tmp/langrl/all
     when:
       branch:
