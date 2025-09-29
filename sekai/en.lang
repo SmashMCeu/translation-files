@@ -30,6 +30,7 @@ browser.show=§b👁 §7§lFilter
 browser.show.all=§2🌐 §a§lAll
 browser.show.own=§d◎ §5§lMy maps
 browser.show.approved=§e✭ §6§lApproved
+browser.show.playable=§2✔ §a§lPlayable
 browser.sort=§6⇵ §7§lSort
 browser.sort.name=§7⇵ §5§lName
 browser.sort.author=§7⇵ §c§lAuthor
