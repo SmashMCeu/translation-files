@@ -263,6 +263,8 @@ chat.autoforward.enabled=§aAuto forward on server restart enabled.
 chat.autoforward.disabled=§cAuto forward on server restart disabled. 
 chat.blockbreak.enabled=§aBlock-break particles enabled.
 chat.blockbreak.disabled=§cBlock-break particles disabled.
+chat.environments.enabled=§aEnvironmental effects enabled.
+chat.environments.disabled=§cEnvironmental effects disabled.
 
 # Character specific translations
 inventory.name.treasure=§6§lTreasure chest

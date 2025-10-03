@@ -263,6 +263,8 @@ chat.autoforward.enabled=§aAutomatisches Verschieben bei Serverneustart aktivie
 chat.autoforward.disabled=§cAutomatisches Verschieben bei Serverneustart deaktiviert.
 chat.blockbreak.enabled=§aBlock-break Partikel aktiviert.
 chat.blockbreak.disabled=§cBlock-break Partikel deaktiviert.
+chat.environments.enabled=§aUmgebungseffekte aktiviert.
+chat.environments.disabled=§cUmgebungseffekte deaktiviert.
 
 # Character specific translations
 inventory.name.treasure=§6§lSchatzkiste
