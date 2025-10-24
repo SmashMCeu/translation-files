@@ -97,6 +97,8 @@ item.name.gingerbread=§6Gingerbread Clicker
 item.name.letitsnow=§fLet it snow
 item.name.pixel_painter=§cP§ai§bx§6e§bl §aP§ea§ci§dn§bt§ae§er
 item.name.rolling_egg_pet=§6Rolling Egg
+item.name.ghostface=§f§lGhostface
+item.name.phantom_boots=§7Phantom Boots
 
 item.chat.pixel_painter.fail=§cYou can only use this item on the outer barrier around the spawn.
 chat.pixel_painter=§7Use this item on the outer barrier around spawn.<br>§e⚠ §cAbuse leads to account suspension and a permanent ban from using this item!
