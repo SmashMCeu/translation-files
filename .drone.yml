@@ -35,6 +35,7 @@ steps:
         - mv /tmp/cicd/language/* /home/minecraft/file/translation-files
         - mkdir /tmp/langrl/
         - touch /tmp/langrl/all
+        - chmod 777 -R /tmp/langrl/
     when:
       branch:
         - main
