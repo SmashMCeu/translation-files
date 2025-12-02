@@ -21,3 +21,6 @@ chat.quest.progressed=§eFortschritt: §b%s §7(§3%s§7/§3%s§7)
 chat.quest.completed=§aDu hast die Quest §e%s §aabgeschlossen! Hole deine Belohnung im Quest-Menü ab (§b/quest§a) oder klicken auf den Button.
 chat.quest.claim_button= §8➥ §e[Klicken zum Abholen der Belohnung]
 chat.quest.claim_button.hover=§bQuest-Belohnung abholen, ein klick genügt!
+
+christmas_2025.1.name=Ehrenkill
+christmas_2025.1.description=Töte einen Spieler in Smash, ohne ein ein Item zu benutzen.
