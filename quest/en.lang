@@ -22,5 +22,5 @@ chat.quest.completed=§aYou completed the quest §e%s§a! Claim your reward in t
 chat.quest.claim_button= §8➥ §e[Click to claim reward]
 chat.quest.claim_button.hover=§bClaim quest reward, just one click!
 
-christmas_2025.1.name=Honor Kill
-christmas_2025.1.description=Kill a player in Smash without using an item.
+christmas_2025.1.name=Clean Finisher
+christmas_2025.1.description=Defeat a player in Smash without landing the final hit with an item melee attack. (Projectiles such as arrows are allowed.)
