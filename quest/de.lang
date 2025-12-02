@@ -1,0 +1,23 @@
+prefix=§8● §3Quest §8➥ §7
+
+inventory.quests.title=§3§lQuests
+lore.quest.available=§7Diese Quest ist erst ab dem §b%s §7verfügbar.
+lore.quest.difficulty=§8➥ §7Schwierigkeit: %s§l%s
+lore.quest.difficulty.easy=§aEinfach
+lore.quest.difficulty.medium=§eMittel
+lore.quest.difficulty.hard=§cSchwer
+lore.quest.progress=§8➥ §7Fortschritt:
+lore.quest.unclaimed=§a§lHole deine Belohnung mit einem Klick ab!
+lore.quest.completed=§a§lERLEDIGT §7✔
+lore.quest.progress.overall=§7Gesamtfortschritt: §b%s %%
+
+chat.reward.quest_not_found=§cQuest konnte nicht gefunden werden.
+chat.reward.already_claimed=§cDu hast diese Belohnung bereits abgeholt.
+chat.reward.quest_not_completed=§cDu hast die Quest noch nicht abgeschlossen. Schließe sie zuerst ab, um die Belohnung zu erhalten.
+chat.reward.coins=§aDir wurden §6%s Coins §afür das Abschließen der Quest gutgeschrieben!
+chat.reward.command=§aDu hast §e%s §aals Belohnung für das Abschließen der Quest erhalten!
+
+chat.quest.progressed=§eFortschritt: §b%s §7(§3%s§7/§3%s§7)
+chat.quest.completed=§aDu hast die Quest §e%s §aabgeschlossen! Hole deine Belohnung im Quest-Menü ab (§b/quest§a) oder klicken auf den Button.
+chat.quest.claim_button= §8➥ §e[Klicken zum Abholen der Belohnung]
+chat.quest.claim_button.hover=§bQuest-Belohnung abholen, ein klick genügt!

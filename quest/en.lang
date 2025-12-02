@@ -1,0 +1,23 @@
+prefix=§8● §3Quest §8➥ §7
+
+inventory.quests.title=§3§lQuests
+lore.quest.available=§7This quest is only available from §b%s§7.
+lore.quest.difficulty=§8➥ §7Difficulty: %s§l%s
+lore.quest.difficulty.easy=§aEasy
+lore.quest.difficulty.medium=§eMedium
+lore.quest.difficulty.hard=§cHard
+lore.quest.progress=§8➥ §7Progress:
+lore.quest.unclaimed=§a§lClick to claim your reward!
+lore.quest.completed=§a§lCOMPLETED §7✔
+lore.quest.progress.overall=§7Overall progress: §b%s %%
+
+chat.reward.quest_not_found=§cQuest not found.
+chat.reward.already_claimed=§cYou have already claimed this reward.
+chat.reward.quest_not_completed=§cYou have not completed the quest yet. Complete it first to claim the reward.
+chat.reward.coins=§aYou received §6%s Coins §afor completing the quest!
+chat.reward.command=§aYou received §e%s §aas a reward for completing the quest!
+
+chat.quest.progressed=§eProgress: §b%s §7(§3%s§7/§3%s§7)
+chat.quest.completed=§aYou completed the quest §e%s§a! Claim your reward in the quest menu (§b/quest§a) or click the button.
+chat.quest.claim_button= §8➥ §e[Click to claim reward]
+chat.quest.claim_button.hover=§bClaim quest reward, just one click!
