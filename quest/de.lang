@@ -4,7 +4,7 @@ inventory.quests.title=§3§lQuests
 lore.quest.available=§7Diese Quest ist erst ab dem §b%s §7verfügbar.
 lore.quest.difficulty=§8➥ §7Schwierigkeit: %s§l%s
 lore.quest.difficulty.easy=§aEinfach
-lore.quest.difficulty.medium=§eMittel
+lore.quest.difficulty.normal=§eMittel
 lore.quest.difficulty.hard=§cSchwer
 lore.quest.progress=§8➥ §7Fortschritt:
 lore.quest.unclaimed=§a§lHole deine Belohnung mit einem Klick ab!
@@ -24,3 +24,6 @@ chat.quest.claim_button.hover=§bQuest-Belohnung abholen, ein klick genügt!
 
 christmas_2025.1.name=Sauberer Finisher
 christmas_2025.1.description=Besiege einen Spieler in Smash, ohne den finalen Treffer mit einem Item-Nahkampfangriff zu landen. (Projektile wie Pfeile sind erlaubt.)
+
+christmas_2025.2.name=Da geht noch mehr Prozent!
+christmas_2025.2.description=Verursache insgesamt 1.500% Rückstoß über beliebig viele Smash Runden. Der Fortschritt wird beim Ausscheiden oder am Ende der Runde hinzugefügt.

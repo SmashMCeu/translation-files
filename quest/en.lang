@@ -4,7 +4,7 @@ inventory.quests.title=§3§lQuests
 lore.quest.available=§7This quest is only available from §b%s§7.
 lore.quest.difficulty=§8➥ §7Difficulty: %s§l%s
 lore.quest.difficulty.easy=§aEasy
-lore.quest.difficulty.medium=§eMedium
+lore.quest.difficulty.normal=§eNormal
 lore.quest.difficulty.hard=§cHard
 lore.quest.progress=§8➥ §7Progress:
 lore.quest.unclaimed=§a§lClick to claim your reward!
@@ -24,3 +24,6 @@ chat.quest.claim_button.hover=§bClaim quest reward, just one click!
 
 christmas_2025.1.name=Clean Finisher
 christmas_2025.1.description=Defeat a player in Smash without landing the final hit with an item melee attack. (Projectiles such as arrows are allowed.)
+
+christmas_2025.2.name=There’s Still More Percent in You!
+christmas_2025.2.description=Deal a total of 1,500% knockback across any number of Smash rounds. Progress is added upon elimination or at the end of the round.
