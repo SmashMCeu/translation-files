@@ -16,6 +16,7 @@ chat.reward.already_claimed=§cYou have already claimed this reward.
 chat.reward.quest_not_completed=§cYou have not completed the quest yet. Complete it first to claim the reward.
 chat.reward.coins=§aYou received §6%s Coins §afor completing the quest!
 chat.reward.command=§aYou received §e%s §aas a reward for completing the quest!
+chat.reward.vipkeys=§aYou received §e%s VIP-Key(s) §afor completing the quest. Use them in Smash to try out Pro Characters.
 
 chat.quest.progressed=§eProgress: §b%s §7(§3%s§7/§3%s§7)
 chat.quest.completed=§aYou completed the quest §e%s§a! Claim your reward in the quest menu (§b/quest§a) or click the button.
@@ -27,3 +28,6 @@ christmas_2025.1.description=Defeat a player in Smash without landing the final 
 
 christmas_2025.2.name=There’s Still More Percent in You!
 christmas_2025.2.description=Deal a total of 1,500%% knockback across any number of Smash rounds. Progress is added upon elimination or at the end of the round.
+
+christmas_2025.3.name=Memory Champ
+christmas_2025.3.description=Find and play the "Simon" color memory game in the lobby and reach Level 10!
