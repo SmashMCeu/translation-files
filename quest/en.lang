@@ -2,11 +2,11 @@ prefix=§8● §3Quest §8➥ §7
 
 inventory.quests.title=§3§lQuests
 lore.quest.available=§7This quest is only available from §b%s§7.
-lore.quest.difficulty=§8➥ §7Difficulty: %s§l%s
-lore.quest.difficulty.easy=§aEasy
-lore.quest.difficulty.normal=§eNormal
-lore.quest.difficulty.hard=§cHard
-lore.quest.progress=§8➥ §7Progress:
+lore.quest.difficulty=§8➥ §7Difficulty: %s
+lore.quest.difficulty.easy=§a§lEasy
+lore.quest.difficulty.normal=§e§lNormal
+lore.quest.difficulty.hard=§c§lHard
+lore.quest.progress=§8➥ §7Progress: %s
 lore.quest.unclaimed=§a§lClick to claim your reward!
 lore.quest.completed=§a§lCOMPLETED §7✔
 lore.quest.progress.overall=§7Overall progress: §b%s %%

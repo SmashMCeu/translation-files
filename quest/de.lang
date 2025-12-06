@@ -2,11 +2,11 @@ prefix=§8● §3Quest §8➥ §7
 
 inventory.quests.title=§3§lQuests
 lore.quest.available=§7Diese Quest ist erst ab dem §b%s §7verfügbar.
-lore.quest.difficulty=§8➥ §7Schwierigkeit: %s§l%s
-lore.quest.difficulty.easy=§aEinfach
-lore.quest.difficulty.normal=§eMittel
-lore.quest.difficulty.hard=§cSchwer
-lore.quest.progress=§8➥ §7Fortschritt:
+lore.quest.difficulty=§8➥ §7Schwierigkeit: %s
+lore.quest.difficulty.easy=§a§lEinfach
+lore.quest.difficulty.normal=§e§lMittel
+lore.quest.difficulty.hard=§c§lSchwer
+lore.quest.progress=§8➥ §7Fortschritt: %s
 lore.quest.unclaimed=§a§lHole deine Belohnung mit einem Klick ab!
 lore.quest.completed=§a§lERLEDIGT §7✔
 lore.quest.progress.overall=§7Gesamtfortschritt: §b%s %%
