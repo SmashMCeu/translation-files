@@ -17,6 +17,7 @@ chat.reward.quest_not_completed=§cYou have not completed the quest yet. Complet
 chat.reward.coins=§aYou received §6%s Coins §afor completing the quest!
 chat.reward.command=§aYou received §e%s §aas a reward for completing the quest!
 chat.reward.vipkeys=§aYou received §e%s VIP-Key(s) §afor completing the quest. Use them in Smash to try out Pro Characters.
+chat.reward.only_on_lobby=§cThis reward can only be claimed in the lobby.
 
 chat.quest.progressed=§eProgress: §b%s §7(§3%s§7/§3%s§7)
 chat.quest.completed=§aYou completed the quest §e%s§a! Claim your reward in the quest menu (§b/quest§a) or click the button.

@@ -17,6 +17,7 @@ chat.reward.quest_not_completed=§cDu hast die Quest noch nicht abgeschlossen. S
 chat.reward.coins=§aDir wurden §6%s Coins §afür das Abschließen der Quest gutgeschrieben!
 chat.reward.command=§aDu hast §e%s §aals Belohnung für das Abschließen der Quest erhalten!
 chat.reward.vipkeys=§aDu hast §e%s VIP-Key(s) §afür das Abschließen der Quest erhalten. Nutze diese in Smash, um Pro-Charaktere auszuprobieren.
+chat.reward.only_on_lobby=§cDiese Belohnung kann nur in der Lobby abgeholt werden.
 
 chat.quest.progressed=§eFortschritt: §b%s §7(§3%s§7/§3%s§7)
 chat.quest.completed=§aDu hast die Quest §e%s §aabgeschlossen! Hole deine Belohnung im Quest-Menü ab (§b/quest§a) oder klicken auf den Button.
