@@ -18,6 +18,7 @@ chat.reward.coins=§aYou received §6%s Coins §afor completing the quest!
 chat.reward.command=§aYou received §e%s §aas a reward for completing the quest!
 chat.reward.vipkeys=§aYou received §e%s VIP-Key(s) §afor completing the quest. Use them in Smash to try out Pro Characters.
 chat.reward.only_on_lobby=§cThis reward can only be claimed in the lobby.
+chat.reward.rank_upgrade=§aDu hast ein §eRangupgrade §afür §e%s Tag(e) §aerhalten.
 
 chat.quest.progressed=§eProgress: §b%s §7(§3%s§7/§3%s§7)
 chat.quest.completed=§aYou completed the quest §e%s§a! Claim your reward in the quest menu (§b/quest§a) or click the button.
@@ -47,3 +48,6 @@ christmas_2025.7.description=Reach at least 10 points in SmashWare in the lobby.
 
 christmas_2025.8.name=Arrow Specialist
 christmas_2025.8.description=Deal damage 20 times with an arrow hit in Smash.
+
+christmas_2025.9.name_en=Mining Ace
+christmas_2025.9.description_en=Break a total of 2,345 blocks in Smash. Use a shovel, pickaxe, or play with Digda.
