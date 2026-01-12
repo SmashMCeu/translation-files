@@ -162,7 +162,7 @@ npc.create=§b§lKarte erstellen
 npc.browse=§9§lMeine Karten
 
 # Scoreboard sidebar
-sidebar.created=Erstellt
+sidebar.created=Deine Maps
 sidebar.total=Insgesamt
 
 sidebar.owner=Ersteller

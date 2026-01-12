@@ -163,7 +163,7 @@ npc.create=§b§lCreate map
 npc.browse=§9§lMy maps
 
 # Scoreboard sidebar
-sidebar.created=Created
+sidebar.created=Your maps
 sidebar.total=Total
 
 sidebar.owner=Owner
