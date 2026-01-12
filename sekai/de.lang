@@ -35,7 +35,7 @@ browser.sort=§6⇵ §7§lSortieren
 browser.sort.name=§7⇵ §5§lName
 browser.sort.author=§7⇵ §c§lAutor
 browser.sort.popularity=§7⇵ §b§lBeliebtheit
-browser.sort.last_updated=§7⇵ §9§lZuletzt bearbeitet
+browser.sort.last_updated=§7⇵ §9§lZuletzt aktualisiert
 
 # Items
 item.map.title.public=§a%s
