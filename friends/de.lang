@@ -48,7 +48,7 @@ inv.settings=§8§l➤ §e§lEinstellungen
 hotbar.friends=§8➤ §e§lFreunde §8▍ §7Rechtsklick
 
 item.name.friends=§7Freunde: §a%s
-item.name.friend_requests=§7Freunschaftsanfragen: §e%s
+item.name.friend_requests=§7Freundschaftsanfragen: §e%s
 item.name.settings=§7Einstellungen
 
 item.lore.current_server=§7Gerade auf §e%s
