@@ -36,6 +36,7 @@ browser.sort.name=§7⇵ §5§lName
 browser.sort.popularity=§7⇵ §b§lBeliebtheit
 browser.sort.last_updated=§7⇵ §9§lZuletzt aktualisiert
 browser.sort.newest=§7⇵ §a§lNeueste
+title.sign.enter=§7Bitte eingeben
 
 # Items
 item.map.title.public=§a%s
