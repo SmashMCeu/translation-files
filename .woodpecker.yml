@@ -15,7 +15,9 @@ steps:
         from_secret: mario_key
       port: 22334
       target: /tmp/cicd/language
-      source: ./*
+      source:
+        - "*"
+        - "!.git"
 
   - name: Copy to template
     image: appleboy/drone-ssh
@@ -27,9 +29,9 @@ steps:
         from_secret: mario_key
       port: 22334
       script:
-        - rm -rf /home/minecraft/file/translation-files-2
-        - mkdir /home/minecraft/file/translation-files-2
-        - mv /tmp/cicd/language/* /home/minecraft/file/translation-files-2
+        - rm -rf /home/minecraft/file/translation-files
+        - mkdir /home/minecraft/file/translation-files
+        - mv /tmp/cicd/language/* /home/minecraft/file/translation-files
         - mkdir /tmp/langrl/
         - touch /tmp/langrl/all
         - chmod 777 -R /tmp/langrl/
