@@ -1,0 +1,35 @@
+when:
+  branch:
+    - main
+  event:
+    - push
+
+steps:
+  - name: Upload to mario
+    image: appleboy/drone-scp
+    settings:
+      host: mario.smashmc.eu
+      username:
+        from_secret: mario_username
+      key:
+        from_secret: mario_key
+      port: 22334
+      target: /tmp/cicd/language
+      source: ./*
+
+  - name: Copy to template
+    image: appleboy/drone-ssh
+    settings:
+      host: mario.smashmc.eu
+      username:
+        from_secret: mario_username
+      key:
+        from_secret: mario_key
+      port: 22334
+      script:
+        - rm -rf /home/minecraft/file/translation-files-2
+        - mkdir /home/minecraft/file/translation-files-2
+        - mv /tmp/cicd/language/* /home/minecraft/file/translation-files-2
+        - mkdir /tmp/langrl/
+        - touch /tmp/langrl/all
+        - chmod 777 -R /tmp/langrl/
