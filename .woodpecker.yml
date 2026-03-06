@@ -16,7 +16,7 @@ steps:
         from_secret: mario_key
       port: 22334
       target: /tmp/cicd/language
-      source: ./*
+      source: ./*.lang
 
   - name: Copy to template
     image: appleboy/drone-ssh
