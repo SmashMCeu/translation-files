@@ -5,7 +5,6 @@ chat.approve.revoked=§7Die Karte §9%s §7ist nicht mehr approved.
 chat.approve.already=§cDiese Karte ist bereits approved.
 chat.approve.not=§cDiese Karte ist nicht approved.
 chat.approve.invalid=§cDiese Karte hat Warnungen oder ist ungültig.
-chat.approve.editing=§cDiese Karte wird derzeit bearbeitet.
 chat.approve.private=§cDiese Karte ist auf privat gestellt.
 chat.approve.reward.rank=§aDer Ersteller der Karte wurde mit einem Rang belohnt.
 chat.approve.reward.failed=§eDer Ersteller der Karte wurde nicht belohnt, da er einen höheren Rang hat.
@@ -39,6 +38,7 @@ chat.map.limit.reached=§cDu hast die maximale Anzahl an Maps erreicht.<br>§cDu
 chat.teleport.private=§cDieser Spieler befindet sich gerade auf einer Map, auf der du keinen Zugriff hast.
 chat.teleport.target_not_found=§cEs wurde kein Spieler oder Map mit diesem Namen gefunden.
 chat.teleport.self=§cDu kannst dich nicht zu dir selber teleportieren.
+chat.map.editing=§cDiese Karte wird derzeit bearbeitet.
 
 # Titles
 title.unsaved=§e⚠ §cUngespeicherte Änderungen §e⚠

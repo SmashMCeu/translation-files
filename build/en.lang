@@ -5,7 +5,6 @@ chat.approve.revoked=§7The map §9%s §7is no longer approved.
 chat.approve.already=§cThis map is already approved.
 chat.approve.not=§cThis map is not approved.
 chat.approve.invalid=§cThis map has warnings or is not valid.
-chat.approve.editing=§cThis map is currently being edited.
 chat.approve.private=§cThis map is set to private.
 chat.approve.reward.rank=§aThe map creator was rewarded with a rank.
 chat.approve.reward.failed=§eThe map creator was not rewarded, as they have a higher rank.
@@ -39,6 +38,7 @@ chat.map.limit.reached=§cYou have reached the maximum number of maps.<br>§cYou
 chat.teleport.private=§cThe specified play is on a map that is not accessible to you.
 chat.teleport.target_not_found=§cNo player or map with the given name found.
 chat.teleport.self=§cYou can't teleport to yourself.
+chat.map.editing=§cThis map is currently being edited.
 
 # Titles
 title.unsaved=§e⚠ §cUnsaved changes §e⚠
