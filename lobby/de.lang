@@ -329,6 +329,7 @@ ware.task.stand_on=Stehe auf %s
 ware.task.survive_fall=Überlebe den Fall!
 ware.task.tame_horse=Zähme ein Pferd!
 ware.task.type_heart=Schreibe ein Herz in den Chat!
+ware.task.kill_zombies=Töte die meisten Zombies!
 
 # Simon
 chat.simon_won=§7Du hast das Simon Level §a%s §7erreicht!
