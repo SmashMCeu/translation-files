@@ -330,6 +330,7 @@ ware.task.survive_fall=Überlebe den Fall!
 ware.task.tame_horse=Zähme ein Pferd!
 ware.task.type_heart=Schreibe ein Herz in den Chat!
 ware.task.kill_zombies=Töte die meisten Zombies!
+ware.task.count_the_pigs=Zähle die Schweine!
 
 # Simon
 chat.simon_won=§7Du hast das Simon Level §a%s §7erreicht!
@@ -341,4 +342,3 @@ chat.giftblock.found=§a%s §7hat ein Geschenk gefunden!
 chat.status.set=§7Dein Status ist jetzt §a%s
 chat.status.cleared=§7Dein Status wurde gelöscht.
 chat.status.too_long=§cDer Status ist zu lang.
-

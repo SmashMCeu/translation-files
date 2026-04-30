@@ -331,6 +331,7 @@ ware.task.survive_fall=Survive the fall!
 ware.task.tame_horse=Tame a horse!
 ware.task.type_heart=Type a heart in the chat!
 ware.task.kill_zombies=Kill the most zombies!
+ware.task.count_the_pigs=Count the pigs!
 
 # Simon
 chat.simon_won=§7You reached Simon level §a%s§7!
