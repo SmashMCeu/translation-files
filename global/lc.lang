@@ -76,6 +76,12 @@ chat.rejoin_to_apply=§cpls rejoin to apli teh chawnges
 chat.404=§cno resulz wuz foundz!
 chat.yes=§aYe
 chat.no=§cNa
+chat.too_expensive=§cno enough money
+chat.no_self_play=§cu should not play with urself
+chat.not_for_spectators=§cthhis cawnot be usd as a spwtator
+chat.invalid_number=§cGitt eng gülteg Zuel an.
+chat.coins=§7+§a%s coinz
+chat.coins.boosted=§7+§a%s coinz §7(§6+%s§7)
 
 # Buttons
 chat.button.accept=§a§l[ACCEPT]
@@ -84,12 +90,6 @@ chat.button.confirm=§a§l[CONFIRM]
 chat.button.click=§e§l[KLICK]
 chat.button.like=§a§l[100 nike air]
 chat.button.dislike=§c§l[100 likes mehr]
-
-chat.too_expensive=§cno enough money
-chat.no_self_play=§cu should not play with urself
-chat.not_for_spectators=§cthhis cawnot be usd as a spwtator
-chat.coins=§7+§a%s coinz
-chat.coins.boosted=§7+§a%s coinz §7(§6+%s§7)
 
 # Time and duration
 time.day=* 24 hourz

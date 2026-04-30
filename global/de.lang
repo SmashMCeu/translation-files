@@ -77,6 +77,7 @@ deathmatch.title=§cDie Apokalypse
 deathmatch.subtitle=§7hat begonnen.
 chat.no_self_play=§cDu kannst nicht mit dir selbst spielen.
 chat.not_for_spectators=§cDiese Funktion ist nicht für Zuschauer.
+chat.invalid_number=§cBitte gib eine gültige Zahl ein.
 chat.coins=§7+§a%s Geld
 chat.coins.boosted=§7+§a%s Geld §7(§6+%s§7)
 chat.rejoin_to_apply=§cBitte joine neu, damit die Änderungen wirksam werden.
