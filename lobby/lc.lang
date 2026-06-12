@@ -292,6 +292,9 @@ ware.task.type_heart=Typez a heart in da chat, <3!
 ware.task.kill_zombies=kil da sombwiee!
 ware.task.count_the_pigs=cont teh pig!
 
+holo.quick_play=§a§lqwicc plai
+holo.private_play=§c§lprivad plai
+
 # Simon
 chat.simon_won=§7U veri smawt. U reawchd Lewl §a%s§7!
 

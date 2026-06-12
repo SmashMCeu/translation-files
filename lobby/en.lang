@@ -137,6 +137,8 @@ entity.halloftoday.line4=§bCan you find your own one?
 entity.gingerbread.try_again=§cTry again!
 entity.gingerbread.clicks=%s §7Clicks
 entity.gingerbread.second_left=%s §7Seconds left
+holo.quick_play=§a§lQuick play
+holo.private_play=§c§lPrivate play
 
 # Server from the game selector
 item.lore.server_state=§8➥ §7Status §8» %s
