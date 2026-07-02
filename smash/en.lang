@@ -57,7 +57,7 @@ chat.map.info=You are playing on §a%s §7by §a%s§7.
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §eHit a player using §cleft-click §eto use this item.
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §eDo a §cright-click §eto use this item.
 chat.remind_public_lobby=§eHey! §cThis is a public lobby and open to all players.<br>§c(Cross-)Teaming in any form will result in your account being restricted.
-chat.teaming_warning=§c§lWARNUNG: §cTeaming with other players is not allowed and will lead to a ban.
+chat.teaming_warning=§e§lWARNING: §cTeaming with other players is not allowed and will lead to a ban.
 
 item.apple=Apple
 item.bats=Bomber Bats
