@@ -57,6 +57,7 @@ chat.map.info=Du spielst auf §a%s §7von §a%s§7.
 chat.help.hit_to_use=§c§l[§e§l!§c§l] §eSchlage einen Spieler mit §cLinksklick §eum dieses Item zu verwenden.
 chat.help.right_click_to_use=§c§l[§e§l!§c§l] §eVerwende §cRechtsklick §eum dieses Item zu verwenden.
 chat.remind_public_lobby=§aHey! §cDies ist eine public lobby, in der es jedem Spieler jedezeit frei erlaubt ist mitzuspielen.<br>§cJegliches Teaming wird als Regelverstoß gewertet und bestraft.
+chat.teaming_warning=§c§lWARNUNG: §cTeaming mit anderen Spielern ist nicht erlaubt und führt zu einer Sperre.
 
 item.apple=Apfel
 item.bats=Bomben Fledermäuse
