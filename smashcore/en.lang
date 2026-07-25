@@ -31,3 +31,5 @@ chat.vanish.spec_enabled=You are now in §9spectator mode§7.
 chat.vanish.spec_disabled=You are no longer in spectator mode.
 hotbar.vanish.spec=§7[§9Spectator mode§7]
 chat.bugreport.created=Bugreport was created. Thank you.
+chat.emoticon.header=§aAvailable emoticons:
+chat.emoticon.header.pages=§aAvailable emoticons §8(Page %s/%s):

@@ -24,4 +24,6 @@ chat.ignore.added=§eСейчас скрываются сообщения в г�
 chat.ignore.removed=§aБольше не скрываются сообщения глобального чата от §e%s
 chat.ignore.none=§aНету игнорируемых игроков.
 chat.ignore.clear=§aСписок игнорируемых игроков очистен.
+chat.emoticon.header=§aДоступные эмотиконы:
+chat.emoticon.header.pages=§aДоступные эмотиконы §8(Страница %s/%s):
 
