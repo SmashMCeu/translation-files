@@ -32,4 +32,4 @@ chat.vanish.spec_disabled=Du bist nicht mehr im Zuschauermodus.
 hotbar.vanish.spec=§7[§9Zuschauermodus§7]
 chat.bugreport.created=Bugreport wurde erstellt. Vielen Dank!
 chat.emoticon.header=§aVerfügbare Emoticons:
-chat.emoticon.header.pages=§aVerfügbare Emoticons §8(Seite %s/%s):
+chat.emoticon.header.pages=§aVerfügbare Emoticons §7(Seite %s/%s):
