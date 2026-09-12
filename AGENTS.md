@@ -24,6 +24,8 @@ tooling** (no package manager, Gradle, etc.). Do not go looking for a "build com
     - `<br>` — line break
 - Keys must be unique per file; duplicates silently override (last wins). Existing duplicates: `build/{en,de}.lang` (
   `item.positions.lore`) and `giveaway/en.lang` (`chat.giveaway.already_qualified`). Don't add more.
+- When adding a missing key to a locale, insert it at the same position as in `en.lang` (mirror its neighbors); never
+  append at the end.
 - Encoding is UTF-8 without BOM. The working tree is CRLF while the git index stores LF (`core.autocrlf=true`, no
   `.gitattributes`). Do not normalize line endings, reformat files, or add `.gitattributes` — it would produce an
   enormous diff.
