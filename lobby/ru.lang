@@ -84,6 +84,35 @@ item.name.hot_pumpkin=§5Горячая тыква
 item.name.snowball=Снежок
 item.name.firework_rocket=§dфейерверк ракета
 
+item.name.trick_or_treat=§6Сладость или гадость
+item.name.trick_or_treat_candy=§6Метательная конфета §7(ПКМ)
+item.name.shadow_echo=§8Теневое эхо
+item.name.bat_storm=§8Рой летучих мышей
+item.name.phantom_mask=§5Маска фантома
+item.name.summoning_circle=§5Круг призыва
+item.name.flying_eye_pet=§5Летающий глаз
+
+# Halloween gadget messages
+item.phantom_mask.vanish=§c§lИсчезновение!
+item.phantom_mask.reveal_hint=§7Shift: §eПоявиться раньше
+item.phantom_mask.timer=§8➤ §5Невидимость: §e%s§7с §8▍ §7Shift: §cЗавершить
+item.phantom_mask.cooldown=§8➤ §7Снова доступно через §e%s§7с
+item.phantom_mask.boo=§c§lБУ!
+item.phantom_mask.success=§aНапугано игроков: %s!
+item.phantom_mask.missed=§cНикого рядом нет.
+chat.trick_or_treat_full=§6[Сладость или гадость] §cИнвентарь полон. Часть конфет потеряна.
+item.trick_or_treat.choose=§6Выбери тыкву!
+item.trick_or_treat.collected=§6Поймано: §f%s §7из 9 сладостей
+item.trick_or_treat.catch=§7Лови конфеты и бросай их в игроков правой кнопкой!
+item.trick_or_treat.hit=§6Сахарный заряд!
+item.trick_or_treat.chain_first=§eПопадание 1/2 §7– попади в того же игрока ещё раз за 6 секунд!
+item.trick_or_treat.chain_complete=§6Серия попаданий! §eДождь из конфет!
+item.trick_or_treat.chain_target=§6Дождь из конфет!
+item.trick_or_treat.reward=§eПолучено конфет: %s
+item.trick_or_treat.treat=§6Угощение!
+item.trick_or_treat.trick=§5Проделка!
+item.trick_or_treat.escaped=§aУвернулся!
+
 chat.gadget_disabled=§cТвои гаджеты отключены. §e%s
 
 # Chest opening
