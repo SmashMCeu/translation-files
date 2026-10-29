@@ -104,8 +104,6 @@ item.name.egg_boots=§dEierschlappen
 
 item.name.trick_or_treat=§6Süßes oder Saures
 item.name.trick_or_treat_candy=§6Wurfbonbon §7(Rechtsklick)
-item.name.shadow_echo=§8Schattenecho
-item.name.bat_storm=§8Fledermausschwarm
 item.name.phantom_mask=§5Phantommaske
 item.name.summoning_circle=§5Beschwörungskreis
 item.name.flying_eye_pet=§5Fliegendes Auge
@@ -123,8 +121,6 @@ item.trick_or_treat.choose=§6Wähle einen Kürbis!
 item.trick_or_treat.collected=§6Gefangen: §f%s §7von 9 Süßigkeiten
 item.trick_or_treat.catch=§7Fange Bonbons und schieß sie per Rechtsklick auf Spieler!
 item.trick_or_treat.hit=§6Zuckerrausch!
-item.trick_or_treat.chain_first=§eTreffer 1/2 §7– triff denselben Spieler in 6 Sekunden noch mal!
-item.trick_or_treat.chain_complete=§6Trefferkette! §eBonbonregen!
 item.trick_or_treat.chain_target=§6Bonbonregen!
 item.trick_or_treat.reward=§e%s Wurfbonbons erhalten
 item.trick_or_treat.treat=§6Süßes!

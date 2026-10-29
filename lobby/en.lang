@@ -105,8 +105,6 @@ item.name.egg_boots=§dEgg boots
 
 item.name.trick_or_treat=§6Trick or Treat
 item.name.trick_or_treat_candy=§6Throwing Candy §7(Right-click)
-item.name.shadow_echo=§8Shadow Echo
-item.name.bat_storm=§8Bat Swarm
 item.name.phantom_mask=§5Phantom Mask
 item.name.summoning_circle=§5Summoning Circle
 item.name.flying_eye_pet=§5Flying Eye
@@ -124,8 +122,6 @@ item.trick_or_treat.choose=§6Pick a pumpkin!
 item.trick_or_treat.collected=§6Caught: §f%s §7of 9 candies
 item.trick_or_treat.catch=§7Catch candy, then right-click to throw it at players!
 item.trick_or_treat.hit=§6Sugar rush!
-item.trick_or_treat.chain_first=§eHit 1/2 §7– hit the same player again within 6 seconds!
-item.trick_or_treat.chain_complete=§6Hit streak! §eCandy rain!
 item.trick_or_treat.chain_target=§6Candy rain!
 item.trick_or_treat.reward=§e%s throwing candies received
 item.trick_or_treat.treat=§6Treat!
