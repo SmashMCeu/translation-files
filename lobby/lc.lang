@@ -67,6 +67,31 @@ item.name.phantom_boots=§7Fantom Bootz
 item.name.cuckoo_egg=§ekuccu ekk
 item.name.egg_boots=§deg butz
 
+item.name.trick_or_treat=§6Trik or treet, kitteh!
+item.name.trick_or_treat_candy=§6Throwin candeez §7(right clicc)
+item.name.phantom_mask=§5Spooki fantom mask
+item.name.summoning_circle=§5Zombi summunin
+item.name.flying_eye_pet=§5Flyin eyeball pet
+
+# Halloween gadget messages
+item.phantom_mask.vanish=§c§lPoof! U iz gon!
+item.phantom_mask.reveal_hint=§7Shift: §ecom bacc erly
+item.phantom_mask.timer=§8➤ §5Spooki hiddin: §e%s§7s §8▍ §7Shift: §ccom bacc
+item.phantom_mask.cooldown=§8➤ §7Spooki powr bacc in §e%s§7s
+item.phantom_mask.boo=§c§lBOO, hooman!
+item.phantom_mask.success=§aU spookd %s kittehs!
+item.phantom_mask.missed=§cNo kittehs 2 spook :c
+chat.trick_or_treat_full=§6[Trik or treet] §cUr inventorii iz full! Sum candeez went poof :c
+item.trick_or_treat.choose=§6Pick ur pumkin, kitteh!
+item.trick_or_treat.collected=§6Cawt: §f%s §7ov 9 candeez
+item.trick_or_treat.catch=§7Cawt candeez, then right clicc 2 yeet at othr kittehs!
+item.trick_or_treat.hit=§6Suga rush, meow!
+item.trick_or_treat.chain_target=§6Candeez rain, meow!
+item.trick_or_treat.reward=§e%s throwin candeez fur u!
+item.trick_or_treat.treat=§6Treetz! Nom nom!
+item.trick_or_treat.trick=§5Trikz! O noes!
+item.trick_or_treat.escaped=§aU escapd, sneeki kitteh!
+
 item.chat.pixel_painter.fail=§cu cann onli uzz tihs item on the owuter barrir around the spawwn.
 chat.pixel_painter=§7Uwsee tihs item on the owuter barrir around spawwn.<br>§e⚠ §cAbuse leads to account suspension and you will be banned from using the item ever again!
 chat.pixel_painter.info=§7this picksle was last mowdified bai §a%s §e%s §7aggo.
