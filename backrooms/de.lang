@@ -1,8 +1,6 @@
 # Backrooms
 
 prefix=§8● §eBackrooms §8➥ §7
-chat.commands=§eBefehle:
-command.usage=§e/%s %s §7- %s
 command.generate.description=Generiere eine Backrooms-Map
 command.scan.description=Scanne Räume in der Vorlagenwelt
 command.clear.description=Entferne alle Backrooms-Maps
