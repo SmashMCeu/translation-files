@@ -110,7 +110,6 @@ actionbar.ability.cooldown=§cFähigkeit lädt noch §8» §7%s Sekunden
 actionbar.sanity.panic=§4§lSANITY %s%% §8| §cPanik!
 actionbar.sanity.search_light=§c§lSANITY %s%% §8| §7Licht suchen
 actionbar.sanity.panic_shout=§4§lSIE SIND HIER
-actionbar.sanity.reason.entity=Entity
 actionbar.sanity.reason.light=Licht
 actionbar.sanity.reason.dark=dunkel
 actionbar.sanity.whisper.1=Hinter dir.
@@ -128,7 +127,7 @@ item.locked_slot.name=§8Gesperrter Platz
 item.locked_slot.lore=§7Du kannst zwei Gegenstände tragen.
 
 item.almond_water.name=§aMandelwasser
-item.almond_water.lore=§7Heilt beim Trinken §a5 Herzen§7.|§eRechtsklick zum Trinken.
+item.almond_water.lore=§7Heilt beim Trinken §a5 Herzen§7 und stellt §a5 Sanity§7 wieder her.|§eRechtsklick zum Trinken.
 item.adrenaline.name=§eAdrenalin
 item.adrenaline.lore=§7Tempo II für §a8 Sekunden§7.|§eRechtsklick zum Aktivieren.
 item.flashlight.name=§bTaschenlampe

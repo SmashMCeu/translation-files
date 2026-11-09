@@ -110,7 +110,6 @@ actionbar.ability.cooldown=§cAbility recharging §8» §7%s seconds
 actionbar.sanity.panic=§4§lSANITY %s%% §8| §cPanic!
 actionbar.sanity.search_light=§c§lSANITY %s%% §8| §7Find light
 actionbar.sanity.panic_shout=§4§lTHEY ARE HERE
-actionbar.sanity.reason.entity=Entity
 actionbar.sanity.reason.light=Light
 actionbar.sanity.reason.dark=dark
 actionbar.sanity.whisper.1=Behind you.
@@ -128,7 +127,7 @@ item.locked_slot.name=§8Locked slot
 item.locked_slot.lore=§7You can carry two items.
 
 item.almond_water.name=§aAlmond Water
-item.almond_water.lore=§7Drink to heal §a5 hearts§7.|§eRight-click to drink.
+item.almond_water.lore=§7Drink to heal §a5 hearts§7 and restore §a5 sanity§7.|§eRight-click to drink.
 item.adrenaline.name=§eAdrenaline
 item.adrenaline.lore=§7Speed II for §a8 seconds§7.|§eRight-click to activate.
 item.flashlight.name=§bFlashlight
