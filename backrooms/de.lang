@@ -120,6 +120,8 @@ actionbar.sanity.whisper.4=Atme ruhig.
 actionbar.sanity.whisper.5=Sie sehen dich.
 chat.sanity.tip.dark=§7Sanity sinkt in der Dunkelheit und in Entity-Nähe – je näher, desto schneller.
 chat.sanity.tip.light=§7Bleib im hellen Licht, um sie zu regenerieren.
+holo.knocked.time=§7Zeit: %s
+holo.knocked.revive=§7Halte §eShift §7gedrückt zum Wiederbeleben
 chat.pounce.stunned=§cDu kannst während der Betäubung nicht springen.
 
 item.locked_slot.name=§8Gesperrter Platz

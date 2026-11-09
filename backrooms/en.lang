@@ -120,6 +120,8 @@ actionbar.sanity.whisper.4=Breathe calmly.
 actionbar.sanity.whisper.5=They can see you.
 chat.sanity.tip.dark=§7Sanity drops in darkness and near an Entity – the closer, the faster.
 chat.sanity.tip.light=§7Stay in bright light to regenerate it.
+holo.knocked.time=§7Time: %s
+holo.knocked.revive=§7Hold §eshift §7to revive
 chat.pounce.stunned=§cYou cannot pounce while stunned.
 
 item.locked_slot.name=§8Locked slot

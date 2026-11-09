@@ -120,6 +120,8 @@ actionbar.sanity.whisper.4=breathe calm.
 actionbar.sanity.whisper.5=they can see u.
 chat.sanity.tip.dark=§7sanity dropz in darknez n near an Entity – teh closr, teh fastr.
 chat.sanity.tip.light=§7stay in bright light 2 regen it.
+holo.knocked.time=§7time: %s
+holo.knocked.revive=§7hold §eshift §72 revive
 chat.pounce.stunned=§cu cannot pounce while stunnd.
 
 item.locked_slot.name=§8lockd slot
