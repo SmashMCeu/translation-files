@@ -112,6 +112,7 @@ actionbar.sanity.search_light=§c§lSANITY %s%% §8| §7find light
 actionbar.sanity.panic_shout=§4§lTHEY R HERE
 actionbar.sanity.reason.light=light
 actionbar.sanity.reason.dark=dark
+actionbar.sanity.reason.dim=dim
 actionbar.sanity.whisper.1=behind u.
 actionbar.sanity.whisper.2=u r not alon.
 actionbar.sanity.whisper.3=footstepz in teh hall.
