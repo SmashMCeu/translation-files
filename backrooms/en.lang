@@ -1,6 +1,7 @@
 # Backrooms
 
 prefix=§8● §eBackrooms §8➥ §7
+
 command.generate.description=Generate a Backrooms map
 command.scan.description=Scan rooms in the template world
 command.clear.description=Clear all Backrooms maps
@@ -14,6 +15,9 @@ command.forcestart.description=Force the game to start
 command.info.description=Show information about your current game
 command.item.description=Get a game item
 command.darkrooms.description=Set the chance for dark rooms
+command.build.description=Toggle unrestricted creative build mode
+command.debug.description=Show task targets of the current round (OP)
+
 chat.entity.enforced=§7You have been set as an §aEntity§7.
 chat.game.not_in_game=§cYou are not in a game.
 chat.game.not_found=§cNo available game was found.
@@ -24,10 +28,15 @@ chat.darkrooms.set=§7Dark room chance set to §e%s%%§7 for new maps.
 chat.darkrooms.invalid=§cEnter a percentage from 0 to 100.
 chat.countdown.end.one=§7The game ends in §c1 second§7.
 chat.countdown.end=§7The game ends in §c%s seconds§7.
-chat.countdown.stopped=§7The countdown was §cstopped§7.
 chat.countdown.reduced=§7The countdown was §ashortened§7.
+chat.server.starting=§cPlease wait until the server has fully started.
+chat.resourcepack.required=§cAccept the resource pack in your server list settings to play.
+chat.resourcepack.failed=§cThe resource pack could not be downloaded. Reconnect and try again.
+chat.hint.client=§eFor the full horror experience (VHS filter, film grain, bodycam), join with §6Minecraft 26.3§e.<br>§7For enhanced textures (PBR): use Iris/OptiFine + Complementary and enable "RP Support: labPBR" in its shader options.
+
 title.spectating=§7Now spectating §e%s
 chat.spectating.switch=§7Compass: choose a player. §eShift§7: leave camera.
+
 role.entity=§4§lEntity
 role.entity.goal.1=§7Your goal is to eliminate all §eScientists§7.
 role.entity.goal.2=§7Stop them before they escape.
@@ -37,12 +46,16 @@ role.scientist.goal.1=§7Complete §a%s tasks§7 to open the exit.
 role.scientist.goal.2=§7Tasks are scattered across the map.
 role.scientist.goal.3=§7Each completed task opens §d2 gates§7.
 role.scientist.goal.4=§7Escape the Backrooms to win.
+role.scientist.level_one.goal.2=§7Find filtration systems and balance their §bwater pressure§7.
+role.scientist.level_one.goal.3=§7Each running pump brings you closer to the exit.
+
 title.task.solved.entity=§cTask completed
 title.task.solved.scientist=§aTask completed
 title.threshold=§eExit
 subtitle.threshold=§7is now open
 title.died=§cYou died
 title.revived=§7You have been §arevived
+
 chat.player.knocked=§e%s §7has been knocked down.
 chat.player.killed_by_entity=§e%s §7was eliminated by an §4Entity§7.
 chat.player.escaped=§e%s §7escaped. §8[§e%s/§e%s§8]
@@ -51,6 +64,13 @@ chat.round.entities.won.title=§4§lEntities
 chat.round.scientists.won.title=§e§lScientists
 chat.round.won=§7win this round.
 chat.round.scientists.escaped=§e%s §7of §e%s Scientists §7escaped.
+chat.stats.overview=§aRound statistics:
+chat.stats.tasks= §8● §7Tasks: §a%s
+chat.stats.kills= §8● §7Kills: §a%s
+chat.stats.revives= §8● §7Revives: §a%s
+chat.stats.coins= §8● §7Coins: §a%s
+chat.stats.duration= §8● §7Duration: §a%s
+
 chat.generation.started=§7Generating the Backrooms...
 chat.generation.id=§7Game ID: §a%s
 chat.generation.scientist_spawns=§7Scientist spawns: §a%s
@@ -73,6 +93,7 @@ chat.info.entity_spawns=§7Entity spawns: §a%s
 chat.info.portal_blocks=§7Portal blocks: §a%s
 chat.info.placed_rooms=§7Placed rooms: §a%s
 chat.info.enforced_rooms=§7Forced rooms: §a%s
+
 chat.item.received=§7You received §a%s§7.
 chat.items.header=§eAvailable items:
 chat.items.entry=  §8- §a%s
@@ -83,11 +104,11 @@ actionbar.attack.cooldown=§cAttack recharging
 chat.medkit.no_target=§cThere is no one nearby to revive.
 chat.inventory.full=§cYou can only carry two items at a time.
 actionbar.ability.cooldown=§cAbility recharging §8» §7%s seconds
+chat.pounce.stunned=§cYou cannot pounce while stunned.
+
 item.locked_slot.name=§8Locked slot
 item.locked_slot.lore=§7You can carry two items.
-chat.resourcepack.required=§cAccept the resource pack in your server list settings to play.
-chat.resourcepack.failed=§cThe resource pack could not be downloaded. Reconnect and try again.
-chat.server.starting=§cPlease wait until the server has fully started.
+
 item.almond_water.name=§aAlmond Water
 item.almond_water.lore=§7Drink to heal §a5 hearts§7.|§eRight-click to drink.
 item.adrenaline.name=§eAdrenaline
@@ -99,16 +120,25 @@ item.medkit.lore=§7Instantly revives a knocked-down|§7Scientist within §a3 bl
 item.reveal.name=§cReveal
 item.reveal.lore=§7Shows the way to the nearest|§7Scientist for §a15 seconds§7.|§eRight-click to activate.|§8Cooldown: 25 seconds.
 item.leave.lore=§7Leave the Backrooms.|§eRight-click: return to the lobby.
+item.pounce.name=§8➤ §4§lBlood Pounce §8▎ §7Right click
+item.pounce.lore=§7Leap powerfully forward.|§7Your next hit deals §c9 damage|§7and slows the target.|§eRight-click to activate.|§8Cooldown: 16 seconds.
+item.troll_glove.name=§6Troll Glove
+item.troll_glove.lore=§7Right-click: swaps positions with the target.|§8Cheat menu only.
+item.rubber_chicken.name=§eRubber Chicken
+item.rubber_chicken.lore=§7Right-click: bonk with knockback and nausea.|§8Cheat menu only.
+
 scoreboard.title=§e§lBackrooms
-scoreboard.game=Game
 scoreboard.players=Players
 scoreboard.map=Map
 scoreboard.lives=§7Lives
 scoreboard.tasks=§7Tasks
 scoreboard.scientists=§7Scientists
 scoreboard.entities=§7Entities
+scoreboard.voting=Voting
+scoreboard.time=§7Time
+
 item.guide.name=§8§l➤ §e§lHow to Play §8§l│ §7Right-click
-item.guide.lore=§7Learn how the round works.|§eRight-click: guide in chat.
+item.guide.lore=§7Learn how the round works.|§eRight-click: view guide.
 chat.guide.title=§8§m─────────§r §e§lBACKROOMS §8§m─────────
 chat.guide.roles=§7One team escapes. The other hunts.
 chat.guide.scientists=§8│ §7Complete the tasks of the selected level.
@@ -119,34 +149,62 @@ chat.guide.items=§8│ §7Chests hold supplies. Use items with §eright-click§
 chat.guide.scientists.header=§8│ §e§lSCIENTISTS
 chat.guide.entities.header=§8│ §4§lENTITIES
 chat.guide.items.header=§8│ §a§lITEMS
-level.zero=Level 0
-level.one=Level 1
-scoreboard.voting=Voting
-inventory.level_vote=§3§lLevelvoting
-item.vote.name=§8➤ §b§lLevelvoting §8▎ §7Right click
-item.vote.lore=§7Vote for the next level.|§eRight-click: choose a level.
-item.vote.count=§8➥ §7%s votes
-item.vote.selected=§aYour vote
-item.vote.click=§9Click to vote!
-item.vote.info.1=§7Vote for §bLevel 0 §7or §bLevel 1§7.
-item.vote.info.2=§7Voting closes shortly before the round.
-chat.vote.spectator=§cSpectators cannot vote.
-chat.vote.cast=§aYou voted for §e%s§a!
-chat.vote.winner=§a%s §7won with §a%s votes§7!
-role.scientist.level_one.goal.2=§7Find filtration systems and balance their §bwater pressure§7.
-role.scientist.level_one.goal.3=§7Each running pump brings you closer to the exit.
 chat.guide.levels.header=§8│ §e§lLEVELS
 chat.guide.levels.zero=§8│ §7Level 0: Activate levers and escape.
 chat.guide.levels.one=§8│ §7Level 1: Stabilize the Poolrooms filtration pumps.
-chat.pounce.stunned=§cYou cannot pounce while stunned.
-item.pounce.name=§8➤ §4§lBlood Pounce §8▎ §7Right click
-item.pounce.lore=§7Leap powerfully forward.|§7Your next hit deals §c9 damage|§7and slows the target.|§eRight-click to activate.|§8Cooldown: 16 seconds.
-command.build.description=Toggle unrestricted creative build mode
+item.guidepage.name=§e§lGuide
+item.guidepage.lore=Right-click: next|Sneak + click: back
+item.guidepage.page=§7Page %s/%s
+guide.page0.title=§6BACKROOMS
+guide.page0.line0=§fSurvive.
+guide.page0.line1=§fSolve tasks.
+guide.page0.line2=§fFind the exit.
+guide.page0.line3=§fTrust nothing.
+guide.page1.title=§6ROLES
+guide.page1.line0=§fScientists:
+guide.page1.line1=§fsolve tasks,
+guide.page1.line2=§fthen escape.
+guide.page1.line3=§fEntity hunts you.
+guide.page2.title=§6LEVELS
+guide.page2.line0=§fLevel 0: yellow,
+guide.page2.line1=§fBacteria lurks.
+guide.page2.line2=§fLevel 1: Poolrooms,
+guide.page2.line3=§fHound tracks trails.
+guide.page3.title=§6TASKS
+guide.page3.line0=§fFlip levers.
+guide.page3.line1=§fFix pumps.
+guide.page3.line2=§fPortal opens.
+guide.page3.line3=§fThen run!
+guide.page4.title=§6ITEMS
+guide.page4.line0=§fAlmond water heals.
+guide.page4.line1=§fMedkit revives.
+guide.page4.line2=§fFlash blinds entity.
+guide.page4.line3=§fSprint: adrenaline.
+
+level.zero=Level 0
+level.one=Level 1
+inventory.level_vote=§3§lLevelvoting
+item.vote.name=§8➤ §b§lLevelvoting §8▎ §7Right click
+item.vote.lore=§7Vote for the next level.|§eRight-click: choose a level.
+item.vote.selected=§aYour vote
+item.vote.info.1=§7Vote for §bLevel 0 §7or §bLevel 1§7.
+item.vote.info.2=§7Voting closes shortly before the round.
+chat.vote.spectator=§cSpectators cannot vote.
+chat.vote.winner=§a%s §7won with §a%s votes§7!
+chat.level.fallback=§eLevel 1 is not built yet, continuing on Level 0.
+chat.level.switched=§fLevel switched: §e%s
+chat.level.load_failed=§cThe selected level could not be loaded.
+
 inventory.pump=§1§lFiltration Control
 item.pump.line.name=§8➤ §bCircuit %s §8▎ §7%s/2 bar
 item.pump.line.lore=§7Raises this circuit and its neighbors.
 chat.pump.open=§7Balance every circuit at §b2 bar§7.
 chat.pump.solved=§aFiltration pump stabilized. The system is running again.
 chat.pump.already_balanced=§7This filtration pump is already stable.
-
 chat.pump.hint=§eHint: §7Test the controls one at a time: left changes the left and center gauges, right changes the center and right. The middle control changes all three.
+
+chat.troll.swap=§f%s §7swapped positions with §f%s§7.
+chat.troll.bonk=§f%s §7bonked §f%s §7with the rubber chicken.
+
+chat.fix.fixing=§7Looking for a fix …
+chat.fix.done=§aYou have been unstuck.
