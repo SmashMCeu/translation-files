@@ -172,7 +172,6 @@ chat.guide.levels.zero=§8│ §7Level 0: Activate levers and escape.
 chat.guide.levels.one=§8│ §7Level 1: Stabilize the Poolrooms filtration pumps.
 item.guidepage.name=§e§lGuide
 item.guidepage.lore=Right-click: next|Sneak + click: back
-item.guidepage.page=§7Page %s/%s
 guide.page0.title=§6BACKROOMS
 guide.page0.line0=§fSurvive.
 guide.page0.line1=§fSolve tasks.

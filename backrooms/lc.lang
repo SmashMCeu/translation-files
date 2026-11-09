@@ -172,7 +172,6 @@ chat.guide.levels.zero=§8│ §7Level 0: activate levrz n escape.
 chat.guide.levels.one=§8│ §7Level 1: stabilize teh Poolrooms filtrashun pumpz.
 item.guidepage.name=§e§lGuide
 item.guidepage.lore=right-clicc: next|sneak + clicc: bacc
-item.guidepage.page=§7page %s/%s
 guide.page0.title=§6BACKROOMS
 guide.page0.line0=§fsurvive.
 guide.page0.line1=§fsolve taskz.
