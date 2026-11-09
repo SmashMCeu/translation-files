@@ -16,7 +16,7 @@ command.info.description=Show information about your current game
 command.item.description=Get a game item
 command.darkrooms.description=Set the chance for dark rooms
 command.build.description=Toggle unrestricted creative build mode
-command.debug.description=Show task targets of the current round (OP)
+command.debug.description=Show task targets or the light at your position (OP)
 
 chat.entity.enforced=§7You have been set as an §aEntity§7.
 chat.game.not_in_game=§cYou are not in a game.

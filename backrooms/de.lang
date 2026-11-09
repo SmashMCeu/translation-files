@@ -16,7 +16,7 @@ command.info.description=Zeige Informationen zu deiner aktuellen Runde
 command.item.description=Erhalte ein Spiel-Item
 command.darkrooms.description=Stelle die Chance für dunkle Räume ein
 command.build.description=Schalte den freien Baumodus um
-command.debug.description=Zeigt Aufgabenziele der laufenden Runde (OP)
+command.debug.description=Zeigt Aufgabenziele oder das Licht an deiner Position (OP)
 
 chat.entity.enforced=§7Du spielst in der nächsten Runde als §aEntität§7.
 chat.game.not_in_game=§cDu bist in keiner Runde.

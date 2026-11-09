@@ -16,7 +16,7 @@ command.info.description=show informashun bout ur current game
 command.item.description=git a game item
 command.darkrooms.description=set teh chance 4 dark roomz
 command.build.description=toggl unrestrictd creativ build mode
-command.debug.description=show task targetz of teh current round (OP)
+command.debug.description=show task targetz or teh light at ur posishun (OP)
 
 chat.entity.enforced=§7u has been set as an §aEntity§7.
 chat.game.not_in_game=§cu r not in a game.
