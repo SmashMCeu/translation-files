@@ -145,6 +145,7 @@ chat.publish.limit_reached=§cLimit für öffentliche Replays erreicht (%s)!<br>
 chat.publish.no_recording=§cEs läuft keine Aufnahme, die veröffentlicht werden kann!
 chat.publish.pending=§aDiese Runde wird nach dem Spielende veröffentlicht.
 chat.publish.ready=§7Dein Replay ist jetzt öffentlich: §d#%s§7. §aKlicke zum Ansehen.
+chat.publish.ready.plain=§7Dein Replay ist jetzt öffentlich: §d#%s§7.
 
 # Speichern
 
