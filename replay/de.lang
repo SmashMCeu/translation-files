@@ -1,0 +1,205 @@
+# Prefix
+prefix=§8● §5Replay §8➥ §7
+
+# Hotbar
+
+item.watch_player.name=§8➤ §5§lTeleporter §8▎ §7Rechtsklick
+item.watch_player.lore=§7Öffne die Spielerliste des Replays
+item.watch_player.lore.watching=§8➥ §7Zuschauer: §d%s
+item.watch_player.lore.click=§7Klicke zum Auswählen
+item.seek_back.name=§8➤ §b§lZurück §8▎ §7%ss
+item.seek_forward.name=§8➤ §b§lVorwärts §8▎ §7%ss
+item.seek.lore.right=§8➥ §7Rechtsklick: §d%ss
+item.seek.lore.left=§8➥ §7Linksklick: §d%ss
+item.seek.lore.sneak=§8➥ §7Sneak + Klick: §d%ss
+item.seek.lore.back=§7Klicke zum Zurückspulen
+item.seek.lore.forward=§7Klicke zum Vorspulen
+item.play.name=§8➤ §a§lPlay §8▎ §7Rechtsklick
+item.pause.name=§8➤ §c§lPause §8▎ §7Rechtsklick
+item.ready.name=§8➤ §a§lBereit §8▎ §7Rechtsklick
+item.watch.lore=§7Startet oder pausiert die Wiedergabe
+item.watch.lore.click=§7Klicke zum Umschalten
+item.speed.name=§8➤ §e§lTempo §8▎ §a%sx
+item.speed.lore.current=§8➥ §7Aktuell: §d%sx
+item.speed.lore.click=§7Klicke zum Auswählen
+item.restart.name=§8➤ §c§lNeustart §8▎ §7Rechtsklick
+item.restart.lore=§7Starte von vorne
+item.restart.lore.click=§7Klicke zum Neustarten
+item.browse.name=§8➤ §b§lReplays §8▎ §7Rechtsklick
+item.browse.lore=§7Öffne den Replay-Browser
+item.browse.lore.click=§7Klicke zum Öffnen
+
+# Menus
+
+menu.players.title=§5§lTeleporter
+menu.players.teleport=§8➥ §7Linksklick zum §dTeleportieren
+menu.players.follow=§8➥ §7Rechtsklick zum §dZuschauen
+menu.players.not_spawned=§cNoch nicht gespawnt
+menu.speed.title=§5§lTempo
+menu.speed.entry=§7%sx
+menu.speed.entry.selected=§a● §5%sx
+menu.speed.current=§8➥ §7Aktuelles Tempo
+menu.speed.select=§7Klicke zum Auswählen
+
+# Actionbar
+
+actionbar.playing=§5▶ §7%s §8/ §7%s
+actionbar.paused=§5❚❚ §7%s §8/ §7%s
+actionbar.ready=§5■ §7Bereit
+actionbar.ended=§5■ §7Beendet §8» §7%s §8/ §7%s
+actionbar.speed= §8(§d%sx§8)
+
+# Titles
+
+title.join=§5§lReplay #%s
+title.join.subtitle=§7%s §8· §7%s
+title.join.subtitle.nomap=§7%s
+title.loading=§7Lädt...
+title.end=§5§lReplay beendet
+title.end.subtitle=§d%s
+
+# Commands
+
+chat.host.only=§cNur der Replay-Host kann die Wiedergabe steuern!
+chat.archive.done=§aReplay §5#%s§a archiviert.
+chat.unarchive.done=§aReplay §5#%s§a aus dem Archiv geholt.
+chat.archive.failed=§cReplay §e#%s§c konnte nicht archiviert werden!
+chat.unarchive.failed=§cReplay §e#%s§c konnte nicht aus dem Archiv geholt werden!
+chat.start.started=§aAufnahme gestartet.
+chat.start.already=§cEs läuft bereits eine Aufnahme!
+chat.start.no_gamemode=§cNichts gestartet (kein Gamemode: gib einen an oder setze default-gamemode)!
+chat.start.too_few=§cNichts gestartet: §5%s§c Spieler in der Aufnahmewelt (§5%s§c erforderlich)!
+chat.start.too_few.one=§cNichts gestartet: §5%s§c Spieler in der Aufnahmewelt (§5%s§c erforderlich)!
+chat.stop.done=§eDie aktive Aufnahme wurde gestoppt.
+chat.stop.none=§cEs läuft keine Aufnahme!
+chat.status.idle=§7Keine Aufnahme aktiv.
+chat.status.header=§5Aufnahme
+chat.status.duration=  §8● §7Dauer: §d%s §7(%s Ticks)
+chat.status.events=  §8● §7Events: §d%s §7(%s/Tick)
+chat.status.size=  §8● §7Größe: §d%s §7(gemessen)
+chat.status.size.measuring=  §8● §7Größe: §dMessung läuft...
+chat.status.size.unavailable=  §8● §7Größe: §cnicht verfügbar
+chat.map=  §8● §7Map: §d%s
+chat.map.hover.scope=§7Welt: §f%s<br>§7Spielmodus: §f%s
+chat.map.hover.version=§7Version-ID: §f%s
+chat.map.none=Unbekannt
+chat.stats.loading=§7Lade Backend-Statistiken...
+chat.stats.failed=§cReplay-Statistiken konnten nicht geladen werden!
+chat.stats.header=§5Backend-Statistiken:
+chat.stats.total=  §8● §7Replays gesamt: §d%s
+chat.stats.status.ready=  §8● §7Bereit: §d%s
+chat.stats.status.uploading=  §8● §7Im Upload: §d%s
+chat.stats.status.failed=  §8● §7Fehlgeschlagen: §d%s
+chat.stats.archived=  §8● §7Archiviert: §d%s
+chat.stats.pinned=  §8● §7Angepinnt: §d%s
+chat.stats.storage=  §8● §7Belegter Speicher: §d%s
+chat.info.none=§7Kein Replay geladen.
+chat.info.header=§5Replay
+chat.info.header.handle=§5Replay §d#%s
+chat.info.state=  §8● §7Status: %s
+chat.info.state.loading=§7Lädt...
+chat.info.state.playing=§aLäuft
+chat.info.state.paused=§ePausiert
+chat.info.state.ended=§7Beendet
+chat.info.state.ready=§aBereit
+chat.info.speed=  §8● §7Tempo: §d%sx
+chat.info.tick=  §8● §7Tick: §d%s§8/§d%s
+chat.info.size=  §8● §7Größe: §d%s
+chat.info.keyframes=  §8● §7Keyframes: %s
+chat.info.host=  §8● §7Host: §d%s
+chat.info.viewers=  §8● §7Zuschauer: §d%s
+
+# Playback
+
+chat.replay.already_loaded=§cEs ist bereits ein Replay geladen!
+chat.replay.already_loading=§cEs wird bereits ein Replay geladen!
+chat.play.loading=§7Lade Replay §5#%s§7...
+chat.play.ended=§eDas Replay ist beendet. Nutze /replay seek 0, um es erneut anzusehen.
+chat.play.started=§aWiedergabe gestartet.
+chat.play.cannot=§cWiedergabe nicht möglich: kein Replay geladen oder bereits aktiv!
+chat.play.not_allowed=§cDu kannst nur Replays ansehen, in denen du mitgespielt hast.
+chat.pause.done=§eWiedergabe pausiert.
+chat.pause.no_replay=§cEs wird kein Replay abgespielt!
+chat.pause.already=§eDie Wiedergabe ist bereits pausiert.
+chat.pause.ended=§eDas Replay ist beendet.
+chat.pause.not_started=§eDie Wiedergabe wurde noch nicht gestartet.
+chat.pause.cannot=§cDie Wiedergabe kann nicht pausiert werden!
+chat.leave.done=§eDu hast das Replay verlassen.
+chat.no_replay=§cEs ist kein Replay geladen!
+chat.leave.not_watching=§cDu siehst dir kein Replay an!
+chat.seek.no_replay=§cKein Replay geladen oder die Zeit ist ungültig!
+chat.seek.done=§7Zu §5%s§7 gesprungen.
+chat.seek.already_ended=§eDas Replay ist bereits am Ende. Nutze /replay seek 0, um es erneut anzusehen.
+chat.speed.done=§7Tempo auf §5%sx§7 gesetzt.
+chat.speed.invalid=§cKein Replay geladen oder das Tempo liegt außerhalb von §e%s§c!
+
+# Pins
+
+chat.pin.cannot=§cDu kannst keine Replays anpinnen!
+chat.pin.already=§eBereits angepinnt.
+chat.pin.not_pinned=§eNicht angepinnt.
+chat.pin.failed=§cDas Replay konnte nicht angepinnt werden!
+chat.pin.unpin_failed=§cDer Pin konnte nicht entfernt werden!
+chat.pin.pinned=§aReplay §5#%s§a angepinnt.
+chat.pin.unpinned=§aReplay §5#%s§a nicht mehr angepinnt.
+chat.pin.limit_reached=§cPin-Limit erreicht (%s)!
+
+# Hand-off
+
+chat.load.busy=§eDieser Replay-Server ist beschäftigt. Bitte versuche es erneut oder nutze /lobby.
+chat.load.busy.active=§eDieser Replay-Server ist mit §5#%s§e beschäftigt (Host §d%s§e, §d%s§e Zuschauer). Bitte versuche es erneut oder nutze /lobby.
+chat.load.failed=§cReplay #%s konnte nicht geladen werden.
+chat.handoff.already_preparing=§eDein Replay wird bereits vorbereitet.
+chat.handoff.preparing=§7Replay §5#%s§7 wird vorbereitet...
+chat.handoff.not_found=§cReplay §e#%s§c wurde nicht gefunden!
+chat.handoff.no_server=§cDerzeit ist kein Replay-Server verfügbar!
+chat.handoff.timeout=§cDer Replay-Server konnte nicht rechtzeitig starten. Bitte versuche es erneut!
+chat.handoff.failed=§cDas Replay konnte nicht vorbereitet werden! Bitte versuche es erneut.
+chat.switch.failed=§cWechsel zu Replay §e#%s§c fehlgeschlagen!
+chat.request.none=§eEs wurde kein Replay angefragt.
+
+# Chat
+
+chat.watch.none_available=§cIn diesem Replay sind keine Spieler verfügbar!
+chat.watch.following=§aDu folgst jetzt §d%s§a.
+chat.watch.teleported=§aDu wurdest zu §d%s§a teleportiert.
+chat.watch.target_unavailable=§cDieser Spieler ist nicht verfügbar!
+chat.move.failed=§cDu konntest nicht ins Replay gebracht werden!
+
+# Browser
+
+browser.item=§5Replay §d%s
+browser.item.pinned=§7(Angepinnt)
+browser.lore.map=§8➥ §7Map: §d%s
+browser.lore.date=§8➥ §7Datum: §d%s
+browser.lore.duration=§8➥ §7Dauer: §d%s
+browser.lore.players=§8➥ §7Spieler: §d%s
+browser.lore.gamemode=§8➥ §7Spielmodus: §d%s
+browser.value.unknown=§7unbekannt
+browser.value.none=§7-
+browser.click.watch=§7Klicke zum Ansehen
+browser.click.pin=§7Shift-Klick zum Anpinnen
+browser.click.unpin=§7Shift-Klick entfernt den Pin
+browser.title.own=Deine Replays
+browser.title.all=Alle Replays
+browser.title.player=Replays von %s
+browser.sort.newest=Neueste zuerst
+browser.sort.oldest=Älteste zuerst
+browser.sort.map_name=Mapname
+browser.filter=§5§lFilter §8▎ §7%s
+browser.sort=§5§lSortierung §8▎ §7%s
+browser.search=§5§lSuche §8▎ §7%s
+browser.search.all=Alle Maps
+browser.search.reason=§5Mapname
+browser.search.prompt=§7Gib einen Mapnamen ein
+browser.loading=§7Lade Replays...
+browser.failed=§cReplays konnten nicht geladen werden
+browser.failed.hint=§8➥ §7Klicke, um es erneut zu versuchen
+browser.empty=§7Keine Replays gefunden
+browser.empty.own=§7Du hast noch keine Replays.
+browser.empty.hint=§8➥ §7Versuche einen anderen Filter oder eine andere Suche
+
+# Recorded
+
+chat.recording_stopped_early=§cDie Aufnahme wurde vorzeitig beendet, weil alle anderen Spieler das Spiel verlassen haben.
+chat.map.fallback=§cDie Replay-Map konnte nicht geladen werden! Du spielst in einer Ersatzwelt.

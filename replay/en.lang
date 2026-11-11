@@ -1,0 +1,205 @@
+# Prefix
+prefix=§8● §5Replay §8➥ §7
+
+# Hotbar
+
+item.watch_player.name=§8➤ §5§lTeleporter §8▎ §7Right click
+item.watch_player.lore=§7Open the recorded player list
+item.watch_player.lore.watching=§8➥ §7Spectating: §d%s
+item.watch_player.lore.click=§7Click to choose
+item.seek_back.name=§8➤ §b§lBack §8▎ §7%ss
+item.seek_forward.name=§8➤ §b§lForward §8▎ §7%ss
+item.seek.lore.right=§8➥ §7Right click: §d%ss
+item.seek.lore.left=§8➥ §7Left click: §d%ss
+item.seek.lore.sneak=§8➥ §7Sneak + click: §d%ss
+item.seek.lore.back=§7Click to jump back
+item.seek.lore.forward=§7Click to jump forward
+item.play.name=§8➤ §a§lPlay §8▎ §7Right click
+item.pause.name=§8➤ §c§lPause §8▎ §7Right click
+item.ready.name=§8➤ §a§lReady §8▎ §7Right click
+item.watch.lore=§7Start or pause playback
+item.watch.lore.click=§7Click to toggle
+item.speed.name=§8➤ §e§lSpeed §8▎ §a%sx
+item.speed.lore.current=§8➥ §7Current: §d%sx
+item.speed.lore.click=§7Click to choose
+item.restart.name=§8➤ §c§lRestart §8▎ §7Right click
+item.restart.lore=§7Start over from the beginning
+item.restart.lore.click=§7Click to restart
+item.browse.name=§8➤ §b§lReplays §8▎ §7Right click
+item.browse.lore=§7Open the replay browser
+item.browse.lore.click=§7Click to open
+
+# Menus
+
+menu.players.title=§5§lTeleporter
+menu.players.teleport=§8➥ §7Left click to §dteleport
+menu.players.follow=§8➥ §7Right click to §dspectate
+menu.players.not_spawned=§cNot spawned yet
+menu.speed.title=§5§lSpeed
+menu.speed.entry=§7%sx
+menu.speed.entry.selected=§a● §5%sx
+menu.speed.current=§8➥ §7Current speed
+menu.speed.select=§7Click to select
+
+# Actionbar
+
+actionbar.playing=§5▶ §7%s §8/ §7%s
+actionbar.paused=§5❚❚ §7%s §8/ §7%s
+actionbar.ready=§5■ §7Ready
+actionbar.ended=§5■ §7Ended §8» §7%s §8/ §7%s
+actionbar.speed= §8(§d%sx§8)
+
+# Titles
+
+title.join=§5§lReplay #%s
+title.join.subtitle=§7%s §8· §7%s
+title.join.subtitle.nomap=§7%s
+title.loading=§7Loading...
+title.end=§5§lReplay ended
+title.end.subtitle=§d%s
+
+# Commands
+
+chat.host.only=§cOnly the replay host can control playback!
+chat.archive.done=§aReplay §5#%s§a archived.
+chat.unarchive.done=§aReplay §5#%s§a unarchived.
+chat.archive.failed=§cCould not archive replay §e#%s§c!
+chat.unarchive.failed=§cCould not unarchive replay §e#%s§c!
+chat.start.started=§aRecording started.
+chat.start.already=§cA recording is already active!
+chat.start.no_gamemode=§cNothing was started (no gamemode: pass one or set default-gamemode)!
+chat.start.too_few=§cNothing was started: §5%s§c players in the capture world (§5%s§c required)!
+chat.start.too_few.one=§cNothing was started: §5%s§c player in the capture world (§5%s§c required)!
+chat.stop.done=§eStopped the active recording.
+chat.stop.none=§cNothing is recording!
+chat.status.idle=§7No recording is active.
+chat.status.header=§5Recording
+chat.status.duration=  §8● §7Duration: §d%s §7(%s ticks)
+chat.status.events=  §8● §7Events: §d%s §7(%s/tick)
+chat.status.size=  §8● §7Size: §d%s §7(measured)
+chat.status.size.measuring=  §8● §7Size: §dmeasuring...
+chat.status.size.unavailable=  §8● §7Size: §cunavailable
+chat.map=  §8● §7Map: §d%s
+chat.map.hover.scope=§7World: §f%s<br>§7Gamemode: §f%s
+chat.map.hover.version=§7Version ID: §f%s
+chat.map.none=None
+chat.stats.loading=§7Loading backend statistics...
+chat.stats.failed=§cCould not load replay statistics!
+chat.stats.header=§5Backend statistics:
+chat.stats.total=  §8● §7Total replays: §d%s
+chat.stats.status.ready=  §8● §7Ready: §d%s
+chat.stats.status.uploading=  §8● §7Uploading: §d%s
+chat.stats.status.failed=  §8● §7Failed: §d%s
+chat.stats.archived=  §8● §7Archived: §d%s
+chat.stats.pinned=  §8● §7Pinned: §d%s
+chat.stats.storage=  §8● §7Storage used: §d%s
+chat.info.none=§7No replay is loaded.
+chat.info.header=§5Replay
+chat.info.header.handle=§5Replay §d#%s
+chat.info.state=  §8● §7State: %s
+chat.info.state.loading=§7Loading...
+chat.info.state.playing=§aPlaying
+chat.info.state.paused=§ePaused
+chat.info.state.ended=§7Ended
+chat.info.state.ready=§aReady
+chat.info.speed=  §8● §7Speed: §d%sx
+chat.info.tick=  §8● §7Tick: §d%s§8/§d%s
+chat.info.size=  §8● §7Size: §d%s
+chat.info.keyframes=  §8● §7Keyframes: %s
+chat.info.host=  §8● §7Host: §d%s
+chat.info.viewers=  §8● §7Viewers: §d%s
+
+# Playback
+
+chat.replay.already_loaded=§cA replay is already loaded!
+chat.replay.already_loading=§cA replay is already loading!
+chat.play.loading=§7Loading replay §5#%s§7...
+chat.play.ended=§eThe replay has ended. Use /replay seek 0 to watch it again.
+chat.play.started=§aPlayback started.
+chat.play.cannot=§cCannot play: no replay is loaded or playback is already running!
+chat.play.not_allowed=§cYou can only watch replays you played in.
+chat.pause.done=§ePlayback paused.
+chat.pause.no_replay=§cNo replay is playing!
+chat.pause.already=§ePlayback is already paused.
+chat.pause.ended=§eThe replay has ended.
+chat.pause.not_started=§ePlayback has not started yet.
+chat.pause.cannot=§cCannot pause playback!
+chat.leave.done=§eLeft the replay.
+chat.no_replay=§cNo replay is loaded!
+chat.leave.not_watching=§cYou are not watching a replay!
+chat.seek.no_replay=§cNo replay is loaded or the time is invalid!
+chat.seek.done=§7Seeked to §5%s§7.
+chat.seek.already_ended=§eThe replay is already at the end. Use /replay seek 0 to watch it again.
+chat.speed.done=§7Speed set to §5%sx§7.
+chat.speed.invalid=§cNo replay is loaded or the speed is outside §e%s§c!
+
+# Pins
+
+chat.pin.cannot=§cYou cannot pin replays!
+chat.pin.already=§eAlready pinned.
+chat.pin.not_pinned=§eNot pinned.
+chat.pin.failed=§cCould not pin the replay!
+chat.pin.unpin_failed=§cCould not unpin the replay!
+chat.pin.pinned=§aReplay §5#%s§a pinned.
+chat.pin.unpinned=§aReplay §5#%s§a unpinned.
+chat.pin.limit_reached=§cPin limit reached (%s)!
+
+# Hand-off
+
+chat.load.busy=§eThis replay server is busy. Please try again or use /lobby.
+chat.load.busy.active=§eThis replay server is busy with §5#%s§e (host §d%s§e, §d%s§e watching). Please try again or use /lobby.
+chat.load.failed=§cCouldn't load replay #%s.
+chat.handoff.already_preparing=§eYour replay is already being prepared.
+chat.handoff.preparing=§7Preparing replay §5#%s§7...
+chat.handoff.not_found=§cReplay §e#%s§c was not found!
+chat.handoff.no_server=§cNo replay server is available right now!
+chat.handoff.timeout=§cThe replay server did not start in time. Please try again!
+chat.handoff.failed=§cCould not prepare the replay! Please try again.
+chat.switch.failed=§cCould not switch replay §e#%s§c!
+chat.request.none=§eNo replay was requested.
+
+# Chat
+
+chat.watch.none_available=§cNo players are available in this replay!
+chat.watch.following=§aNow following §d%s§a.
+chat.watch.teleported=§aTeleported to §d%s§a.
+chat.watch.target_unavailable=§cThat player is not available!
+chat.move.failed=§cCould not move you into the replay!
+
+# Browser
+
+browser.item=§5Replay §d%s
+browser.item.pinned=§7(Pinned)
+browser.lore.map=§8➥ §7Map: §d%s
+browser.lore.date=§8➥ §7Date: §d%s
+browser.lore.duration=§8➥ §7Duration: §d%s
+browser.lore.players=§8➥ §7Players: §d%s
+browser.lore.gamemode=§8➥ §7Gamemode: §d%s
+browser.value.unknown=§7unknown
+browser.value.none=§7-
+browser.click.watch=§7Click to watch
+browser.click.pin=§7Shift-click to pin
+browser.click.unpin=§7Shift-click to unpin
+browser.title.own=Your replays
+browser.title.all=All replays
+browser.title.player=Replays of %s
+browser.sort.newest=Newest first
+browser.sort.oldest=Oldest first
+browser.sort.map_name=Map name
+browser.filter=§5§lFilter §8▎ §7%s
+browser.sort=§5§lSort §8▎ §7%s
+browser.search=§5§lSearch §8▎ §7%s
+browser.search.all=All maps
+browser.search.reason=§5map name
+browser.search.prompt=§7Enter a map name
+browser.loading=§7Loading replays...
+browser.failed=§cCould not load replays
+browser.failed.hint=§8➥ §7Click to try again
+browser.empty=§7No replays found
+browser.empty.own=§7You have no replays yet.
+browser.empty.hint=§8➥ §7Try another filter or search
+
+# Recorded
+
+chat.recording_stopped_early=§cThe recording stopped early because all other players left the game.
+chat.map.fallback=§cThe replay map could not be loaded! Playing in a fallback world.
