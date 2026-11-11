@@ -143,7 +143,7 @@ chat.publish.published=§aReplay §5#%s§a is now public.
 chat.publish.unpublished=§aReplay §5#%s§a is no longer public.
 chat.publish.limit_reached=§cPublic replay limit reached (%s)!<br>§7Unpublish a replay with §d/replay unpublish§7 or raise your limit with a better rank: §ehttps://shop.smashmc.eu/
 chat.publish.no_recording=§cNo recording is active to publish!
-chat.publish.pending=§aThis round will be published after the upload.
+chat.publish.pending=§aThis round will be published when the game ends.
 chat.publish.ready=§7Your replay is now public: §d#%s§7. §aClick to watch.
 
 # Save
@@ -177,10 +177,10 @@ chat.move.failed=§cCould not move you into the replay!
 
 browser.item=§5Replay §d%s
 browser.item.public=§7(Public)
-browser.item.titled=§b%s §7by %s
-browser.item.titled.noname=§b%s
-browser.item.publisher=§5Replay by §d%s §8(§d#%s§8)
+browser.item.titled=§5%s §7(§d#%s§7)
+browser.item.publisher=§5Replay by §d%s §7(§d#%s§7)
 browser.lore.map=§8➥ §7Map: §d%s
+browser.lore.publisher=§8➥ §7by %s
 browser.lore.date=§8➥ §7Date: §d%s
 browser.lore.duration=§8➥ §7Duration: §d%s
 browser.lore.players=§8➥ §7Players: §d%s
