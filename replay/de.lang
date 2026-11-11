@@ -144,8 +144,7 @@ chat.publish.unpublished=§aReplay §5#%s§a ist nicht mehr öffentlich.
 chat.publish.limit_reached=§cLimit für öffentliche Replays erreicht (%s)!<br>§7Mache ein Replay mit §d/replay unpublish§7 wieder privat oder erhöhe dein Limit mit einem besseren Rang: §ehttps://shop.smashmc.eu/
 chat.publish.no_recording=§cEs läuft keine Aufnahme, die veröffentlicht werden kann!
 chat.publish.pending=§aDiese Runde wird nach dem Spielende veröffentlicht.
-chat.publish.ready=§7Dein Replay ist jetzt öffentlich: §d#%s§7. §aKlicke zum Ansehen.
-chat.publish.ready.plain=§7Dein Replay ist jetzt öffentlich: §d#%s§7.
+chat.publish.ready=§7Dein Replay ist veröffentlicht. Jeder kann es in der Lobby mit §a/replay #%s§7 ansehen.
 
 # Speichern
 
