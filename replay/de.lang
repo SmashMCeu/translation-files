@@ -117,6 +117,7 @@ chat.play.loading=§7Lade Replay §5#%s§7...
 chat.play.ended=§eDas Replay ist beendet. Nutze /replay seek 0, um es erneut anzusehen.
 chat.play.started=§aWiedergabe gestartet.
 chat.play.cannot=§cWiedergabe nicht möglich: kein Replay geladen oder bereits aktiv!
+chat.play.lobby_only=§7Replays werden in der Lobby angesehen.
 chat.play.not_allowed=§cDu kannst nur Replays ansehen, in denen du mitgespielt hast.
 chat.pause.done=§eWiedergabe pausiert.
 chat.pause.no_replay=§cEs wird kein Replay abgespielt!
@@ -144,7 +145,7 @@ chat.publish.unpublished=§aReplay §5#%s§a ist nicht mehr öffentlich.
 chat.publish.limit_reached=§cLimit für öffentliche Replays erreicht (%s)!<br>§7Mache ein Replay mit §d/replay unpublish§7 wieder privat oder erhöhe dein Limit mit einem besseren Rang: §ehttps://shop.smashmc.eu/
 chat.publish.no_recording=§cEs läuft keine Aufnahme, die veröffentlicht werden kann!
 chat.publish.pending=§aDiese Runde wird nach dem Spielende veröffentlicht.
-chat.publish.ready=§7Dein Replay ist veröffentlicht. Jeder kann es in der Lobby mit §a/replay #%s§7 ansehen.
+chat.publish.ready=§7Dein Replay wurde veröffentlicht. Jeder kann es in der Lobby mit §d/replay #%s§7 ansehen.
 
 # Speichern
 
@@ -180,7 +181,7 @@ browser.item.public=§7(Öffentlich)
 browser.item.titled=§5%s §7(§d#%s§7)
 browser.item.publisher=§5Replay von §d%s §7(§d#%s§7)
 browser.lore.map=§8➥ §7Map: §d%s
-browser.lore.publisher=§8➥ §7von %s
+browser.lore.publisher=§8➥ §7veröffentlicht von %s
 browser.lore.date=§8➥ §7Datum: §d%s
 browser.lore.duration=§8➥ §7Dauer: §d%s
 browser.lore.players=§8➥ §7Spieler: §d%s
