@@ -178,10 +178,9 @@ chat.move.failed=§cDu konntest nicht ins Replay gebracht werden!
 
 browser.item=§5Replay §d%s
 browser.item.public=§7(Öffentlich)
-browser.item.titled=§5%s §7(§d#%s§7)
-browser.item.publisher=§5Replay von §d%s §7(§d#%s§7)
+browser.item.titled=§5"%s" §7(§d#%s§7)
 browser.lore.map=§8➥ §7Map: §d%s
-browser.lore.publisher=§8➥ §7veröffentlicht von %s
+browser.lore.publisher=§7von %s
 browser.lore.date=§8➥ §7Datum: §d%s
 browser.lore.duration=§8➥ §7Dauer: §d%s
 browser.lore.players=§8➥ §7Spieler: §d%s
