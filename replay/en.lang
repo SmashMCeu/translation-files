@@ -43,10 +43,10 @@ menu.speed.select=§7Click to select
 
 # Actionbar
 
-actionbar.playing=§a▶ §7%s §8/ §7%s
-actionbar.paused=§c❚❚ §7%s §8/ §7%s
-actionbar.ready=§5■ §7Ready
-actionbar.ended=§5■ §7Ended §8» §7%s §8/ §7%s
+actionbar.playing=§d#%s §7%s §8/ §7%s
+actionbar.paused=§d#%s §7%s §8/ §7%s
+actionbar.ready=§d#%s §7Ready
+actionbar.ended=§d#%s §7Ended §8» §7%s §8/ §7%s
 actionbar.speed= §8(§d%sx§8)
 
 # Titles
@@ -77,7 +77,6 @@ chat.status.header=§5Recording
 chat.status.duration=  §8● §7Duration: §d%s §7(%s ticks)
 chat.status.events=  §8● §7Events: §d%s §7(%s/tick)
 chat.status.size=  §8● §7Size: §d%s §7(measured)
-chat.status.size.measuring=  §8● §7Size: §dmeasuring...
 chat.status.size.unavailable=  §8● §7Size: §cunavailable
 chat.map=  §8● §7Map: §d%s
 chat.map.hover.scope=§7World: §f%s<br>§7Gamemode: §f%s
@@ -160,6 +159,7 @@ chat.load.failed=§cCouldn't load replay #%s.
 chat.handoff.already_preparing=§eYour replay is already being prepared.
 chat.handoff.preparing=§7Preparing replay §5#%s§7...
 chat.handoff.not_found=§cReplay §e#%s§c was not found!
+chat.handoff.not_ready=§cThis replay is not ready yet. Please try again in a moment.
 chat.handoff.no_server=§cNo replay server is available right now!
 chat.handoff.timeout=§cThe replay server did not start in time. Please try again!
 chat.handoff.failed=§cCould not prepare the replay! Please try again.
