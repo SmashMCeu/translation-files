@@ -43,8 +43,8 @@ menu.speed.select=§7Click to select
 
 # Actionbar
 
-actionbar.playing=§5▶ §7%s §8/ §7%s
-actionbar.paused=§5❚❚ §7%s §8/ §7%s
+actionbar.playing=§a▶ §7%s §8/ §7%s
+actionbar.paused=§c❚❚ §7%s §8/ §7%s
 actionbar.ready=§5■ §7Ready
 actionbar.ended=§5■ §7Ended §8» §7%s §8/ §7%s
 actionbar.speed= §8(§d%sx§8)
@@ -91,7 +91,7 @@ chat.stats.status.ready=  §8● §7Ready: §d%s
 chat.stats.status.uploading=  §8● §7Uploading: §d%s
 chat.stats.status.failed=  §8● §7Failed: §d%s
 chat.stats.archived=  §8● §7Archived: §d%s
-chat.stats.pinned=  §8● §7Pinned: §d%s
+chat.stats.public=  §8● §7Public: §d%s
 chat.stats.storage=  §8● §7Storage used: §d%s
 chat.info.none=§7No replay is loaded.
 chat.info.header=§5Replay
@@ -117,6 +117,7 @@ chat.play.loading=§7Loading replay §5#%s§7...
 chat.play.ended=§eThe replay has ended. Use /replay seek 0 to watch it again.
 chat.play.started=§aPlayback started.
 chat.play.cannot=§cCannot play: no replay is loaded or playback is already running!
+chat.play.lobby_only=§7Replays are watched on the lobby.
 chat.play.not_allowed=§cYou can only watch replays you played in.
 chat.pause.done=§ePlayback paused.
 chat.pause.no_replay=§cNo replay is playing!
@@ -133,16 +134,23 @@ chat.seek.already_ended=§eThe replay is already at the end. Use /replay seek 0 
 chat.speed.done=§7Speed set to §5%sx§7.
 chat.speed.invalid=§cNo replay is loaded or the speed is outside §e%s§c!
 
-# Pins
+# Publishing
 
-chat.pin.cannot=§cYou cannot pin replays!
-chat.pin.already=§eAlready pinned.
-chat.pin.not_pinned=§eNot pinned.
-chat.pin.failed=§cCould not pin the replay!
-chat.pin.unpin_failed=§cCould not unpin the replay!
-chat.pin.pinned=§aReplay §5#%s§a pinned.
-chat.pin.unpinned=§aReplay §5#%s§a unpinned.
-chat.pin.limit_reached=§cPin limit reached (%s)!
+chat.publish.already=§eAlready public.
+chat.publish.not_public=§eThis replay is not public.
+chat.publish.failed=§cCould not publish the replay!
+chat.publish.unpublish_failed=§cCould not unpublish the replay!
+chat.publish.published=§aReplay §5#%s§a is now public.
+chat.publish.unpublished=§aReplay §5#%s§a is no longer public.
+chat.publish.limit_reached=§cPublic replay limit reached (%s)!<br>§7Unpublish a replay with §d/replay unpublish§7 or raise your limit with a better rank: §ehttps://shop.smashmc.eu/
+chat.publish.no_recording=§cNo recording is active to publish!
+chat.publish.pending=§aThis round will be published when the game ends.
+chat.publish.ready=§7Your replay is published. Anyone can view it from the lobby using §d/replay #%s§7.
+
+# Save
+
+chat.save.info=§7All replays on SmashMC are saved automatically for §d%s days§7.<br>§7To keep one forever, open it and use §d/replay publish§7 — published replays are permanent and public.
+chat.save.info.unknown=§7All replays on SmashMC are saved automatically for a limited time.<br>§7To keep one forever, open it and use §d/replay publish§7 — published replays are permanent and public.
 
 # Hand-off
 
@@ -169,8 +177,10 @@ chat.move.failed=§cCould not move you into the replay!
 # Browser
 
 browser.item=§5Replay §d%s
-browser.item.pinned=§7(Pinned)
+browser.item.public=§7(Public)
+browser.item.titled=§5"%s" §7(§d#%s§7)
 browser.lore.map=§8➥ §7Map: §d%s
+browser.lore.publisher=§7by %s
 browser.lore.date=§8➥ §7Date: §d%s
 browser.lore.duration=§8➥ §7Duration: §d%s
 browser.lore.players=§8➥ §7Players: §d%s
@@ -178,9 +188,8 @@ browser.lore.gamemode=§8➥ §7Gamemode: §d%s
 browser.value.unknown=§7unknown
 browser.value.none=§7-
 browser.click.watch=§7Click to watch
-browser.click.pin=§7Shift-click to pin
-browser.click.unpin=§7Shift-click to unpin
 browser.title.own=Your replays
+browser.title.public=Public replays
 browser.title.all=All replays
 browser.title.player=Replays of %s
 browser.sort.newest=Newest first

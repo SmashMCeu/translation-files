@@ -43,8 +43,8 @@ menu.speed.select=§7Klicke zum Auswählen
 
 # Actionbar
 
-actionbar.playing=§5▶ §7%s §8/ §7%s
-actionbar.paused=§5❚❚ §7%s §8/ §7%s
+actionbar.playing=§a▶ §7%s §8/ §7%s
+actionbar.paused=§c❚❚ §7%s §8/ §7%s
 actionbar.ready=§5■ §7Bereit
 actionbar.ended=§5■ §7Beendet §8» §7%s §8/ §7%s
 actionbar.speed= §8(§d%sx§8)
@@ -91,7 +91,7 @@ chat.stats.status.ready=  §8● §7Bereit: §d%s
 chat.stats.status.uploading=  §8● §7Im Upload: §d%s
 chat.stats.status.failed=  §8● §7Fehlgeschlagen: §d%s
 chat.stats.archived=  §8● §7Archiviert: §d%s
-chat.stats.pinned=  §8● §7Angepinnt: §d%s
+chat.stats.public=  §8● §7Öffentlich: §d%s
 chat.stats.storage=  §8● §7Belegter Speicher: §d%s
 chat.info.none=§7Kein Replay geladen.
 chat.info.header=§5Replay
@@ -117,6 +117,7 @@ chat.play.loading=§7Lade Replay §5#%s§7...
 chat.play.ended=§eDas Replay ist beendet. Nutze /replay seek 0, um es erneut anzusehen.
 chat.play.started=§aWiedergabe gestartet.
 chat.play.cannot=§cWiedergabe nicht möglich: kein Replay geladen oder bereits aktiv!
+chat.play.lobby_only=§7Replays werden in der Lobby angesehen.
 chat.play.not_allowed=§cDu kannst nur Replays ansehen, in denen du mitgespielt hast.
 chat.pause.done=§eWiedergabe pausiert.
 chat.pause.no_replay=§cEs wird kein Replay abgespielt!
@@ -133,16 +134,23 @@ chat.seek.already_ended=§eDas Replay ist bereits am Ende. Nutze /replay seek 0,
 chat.speed.done=§7Tempo auf §5%sx§7 gesetzt.
 chat.speed.invalid=§cKein Replay geladen oder das Tempo liegt außerhalb von §e%s§c!
 
-# Pins
+# Veröffentlichen
 
-chat.pin.cannot=§cDu kannst keine Replays anpinnen!
-chat.pin.already=§eBereits angepinnt.
-chat.pin.not_pinned=§eNicht angepinnt.
-chat.pin.failed=§cDas Replay konnte nicht angepinnt werden!
-chat.pin.unpin_failed=§cDer Pin konnte nicht entfernt werden!
-chat.pin.pinned=§aReplay §5#%s§a angepinnt.
-chat.pin.unpinned=§aReplay §5#%s§a nicht mehr angepinnt.
-chat.pin.limit_reached=§cPin-Limit erreicht (%s)!
+chat.publish.already=§eBereits öffentlich.
+chat.publish.not_public=§eDieses Replay ist nicht öffentlich.
+chat.publish.failed=§cDas Replay konnte nicht veröffentlicht werden!
+chat.publish.unpublish_failed=§cDie Veröffentlichung konnte nicht rückgängig gemacht werden!
+chat.publish.published=§aReplay §5#%s§a ist jetzt öffentlich.
+chat.publish.unpublished=§aReplay §5#%s§a ist nicht mehr öffentlich.
+chat.publish.limit_reached=§cLimit für öffentliche Replays erreicht (%s)!<br>§7Mache ein Replay mit §d/replay unpublish§7 wieder privat oder erhöhe dein Limit mit einem besseren Rang: §ehttps://shop.smashmc.eu/
+chat.publish.no_recording=§cEs läuft keine Aufnahme, die veröffentlicht werden kann!
+chat.publish.pending=§aDiese Runde wird nach dem Spielende veröffentlicht.
+chat.publish.ready=§7Dein Replay wurde veröffentlicht. Jeder kann es in der Lobby mit §d/replay #%s§7 ansehen.
+
+# Speichern
+
+chat.save.info=§7Alle Replays auf SmashMC werden automatisch für §d%s Tage§7 gespeichert.<br>§7Um eines dauerhaft zu behalten, öffne es und nutze §d/replay publish§7 — veröffentlichte Replays sind dauerhaft und öffentlich.
+chat.save.info.unknown=§7Alle Replays auf SmashMC werden automatisch für eine begrenzte Zeit gespeichert.<br>§7Um eines dauerhaft zu behalten, öffne es und nutze §d/replay publish§7 — veröffentlichte Replays sind dauerhaft und öffentlich.
 
 # Hand-off
 
@@ -169,8 +177,10 @@ chat.move.failed=§cDu konntest nicht ins Replay gebracht werden!
 # Browser
 
 browser.item=§5Replay §d%s
-browser.item.pinned=§7(Angepinnt)
+browser.item.public=§7(Öffentlich)
+browser.item.titled=§5"%s" §7(§d#%s§7)
 browser.lore.map=§8➥ §7Map: §d%s
+browser.lore.publisher=§7von %s
 browser.lore.date=§8➥ §7Datum: §d%s
 browser.lore.duration=§8➥ §7Dauer: §d%s
 browser.lore.players=§8➥ §7Spieler: §d%s
@@ -178,9 +188,8 @@ browser.lore.gamemode=§8➥ §7Spielmodus: §d%s
 browser.value.unknown=§7unbekannt
 browser.value.none=§7-
 browser.click.watch=§7Klicke zum Ansehen
-browser.click.pin=§7Shift-Klick zum Anpinnen
-browser.click.unpin=§7Shift-Klick entfernt den Pin
 browser.title.own=Deine Replays
+browser.title.public=Öffentliche Replays
 browser.title.all=Alle Replays
 browser.title.player=Replays von %s
 browser.sort.newest=Neueste zuerst
