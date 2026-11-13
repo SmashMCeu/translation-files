@@ -35,6 +35,7 @@ chat.edit.reason=§aDer Grund wurde von §e%s §aauf §e%s §aaktualisiert.
 chat.edit.proof=§aDer Beweis wurde von §e%s §aauf §e%s §aaktualisiert.
 chat.proof.archive_failed=§cDas Replay §e%s §ckonnte nicht archiviert werden und kann durch die Aufbewahrungsfrist entfernt werden.
 chat.proof.replay.unavailable=§cDieses Replay ist nicht verfügbar!
+chat.proof.replay.not_ready=§cDieses Replay wird noch verarbeitet, bitte versuche es gleich noch einmal!
 chat.edit.duration=§aDer Dauer wurde von §e%s §aauf §e%s §aaktualisiert.
 chat.edit.warn.appeal=§eDie bearbeitete Bestrafung enthält einen Appeal der die Änderungen ggf. unwirksam macht.
 chat.edit.comment=§aDer Kommentar wurde von §e%s §aauf §e%s §aaktualisiert.
