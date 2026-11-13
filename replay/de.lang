@@ -183,7 +183,6 @@ browser.lore.map=§8➥ §7Map: §d%s
 browser.lore.publisher=§7von %s
 browser.lore.date=§8➥ §7Datum: §d%s
 browser.lore.duration=§8➥ §7Dauer: §d%s
-browser.lore.players=§8➥ §7Spieler: §d%s
 browser.lore.gamemode=§8➥ §7Spielmodus: §d%s
 browser.value.unknown=§7unbekannt
 browser.value.none=§7-
