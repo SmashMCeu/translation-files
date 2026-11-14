@@ -169,8 +169,8 @@ chat.request.none=§eEs wurde kein Replay angefragt.
 # Chat
 
 chat.watch.none_available=§cIn diesem Replay sind keine Spieler verfügbar!
-chat.watch.following=§aDu folgst jetzt §d%s§a.
-chat.watch.teleported=§aDu wurdest zu §d%s§a teleportiert.
+chat.watch.following=§7Du folgst jetzt §5%s§7.
+chat.watch.teleported=§7Du wurdest zu §5%s§7 teleportiert.
 chat.watch.target_unavailable=§cDieser Spieler ist nicht verfügbar!
 chat.move.failed=§cDu konntest nicht ins Replay gebracht werden!
 
