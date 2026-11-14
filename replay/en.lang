@@ -148,8 +148,8 @@ chat.publish.ready=§7Your replay is published. Anyone can view it from the lobb
 
 # Save
 
-chat.save.info=§7All replays on SmashMC are saved automatically for §d%s days§7.<br>§7To keep one forever, open it and use §d/replay publish§7 — published replays are permanent and public.
-chat.save.info.unknown=§7All replays on SmashMC are saved automatically for a limited time.<br>§7To keep one forever, open it and use §d/replay publish§7 — published replays are permanent and public.
+chat.save.info=§7All replays on SmashMC are saved automatically for §d%s days§7.<br>§7To keep one forever, open it and use §d/replay publish§7: published replays are permanent and public.
+chat.save.info.unknown=§7All replays on SmashMC are saved automatically for a limited time.<br>§7To keep one forever, open it and use §d/replay publish§7: published replays are permanent and public.
 
 # Hand-off
 
@@ -163,7 +163,7 @@ chat.handoff.not_ready=§cThis replay is not ready yet. Please try again in a mo
 chat.handoff.no_server=§cNo replay server is available right now!
 chat.handoff.timeout=§cThe replay server did not start in time. Please try again!
 chat.handoff.failed=§cCould not prepare the replay! Please try again.
-chat.handoff.same_server=§eYou are already on a replay server — use §d/replay list§e to switch.
+chat.handoff.same_server=§eYou are already on a replay server. Use §d/replay list§e to switch.
 chat.switch.failed=§cCould not switch replay §e#%s§c!
 chat.request.none=§eNo replay was requested.
 
