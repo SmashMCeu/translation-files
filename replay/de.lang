@@ -163,6 +163,7 @@ chat.handoff.not_ready=§cDieses Replay ist noch nicht bereit. Bitte versuche es
 chat.handoff.no_server=§cDerzeit ist kein Replay-Server verfügbar!
 chat.handoff.timeout=§cDer Replay-Server konnte nicht rechtzeitig starten. Bitte versuche es erneut!
 chat.handoff.failed=§cDas Replay konnte nicht vorbereitet werden! Bitte versuche es erneut.
+chat.handoff.same_server=§eDu bist bereits auf einem Replay-Server — nutze §d/replay list§e zum Wechseln.
 chat.switch.failed=§cWechsel zu Replay §e#%s§c fehlgeschlagen!
 chat.request.none=§eEs wurde kein Replay angefragt.
 
