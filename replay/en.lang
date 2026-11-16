@@ -133,6 +133,15 @@ chat.seek.already_ended=§eThe replay is already at the end. Use /replay seek 0 
 chat.speed.done=§7Speed set to §5%sx§7.
 chat.speed.invalid=§cNo replay is loaded or the speed is outside §e%s§c!
 
+# Bookmarks
+
+chat.bookmark.done=§aReplay §5#%s§a bookmarked.
+chat.unbookmark.done=§aReplay §5#%s§a is no longer bookmarked.
+chat.bookmark.failed=§cCould not bookmark replay §e#%s§c!
+chat.unbookmark.failed=§cCould not remove the bookmark of replay §e#%s§c!
+chat.bookmark.limit_reached=§cYou can bookmark at most §e%s §creplays!
+chat.bookmark.not_allowed=§cYou cannot bookmark this replay!
+
 # Publishing
 
 chat.publish.already=§eAlready public.
@@ -145,11 +154,6 @@ chat.publish.limit_reached=§cPublic replay limit reached (%s)!<br>§7Unpublish 
 chat.publish.no_recording=§cNo recording is active to publish!
 chat.publish.pending=§aThis round will be published when the game ends.
 chat.publish.ready=§7Your replay is published. Anyone can view it from the lobby using §d/replay #%s§7.
-
-# Save
-
-chat.save.info=§7All replays on SmashMC are saved automatically for §d%s days§7.<br>§7To keep one forever, open it and use §d/replay publish§7: published replays are permanent and public.
-chat.save.info.unknown=§7All replays on SmashMC are saved automatically for a limited time.<br>§7To keep one forever, open it and use §d/replay publish§7: published replays are permanent and public.
 
 # Hand-off
 
@@ -179,16 +183,22 @@ chat.move.failed=§cCould not move you into the replay!
 
 browser.item=§5Replay §d%s
 browser.item.public=§7(Public)
+browser.item.bookmarked=§7(Bookmarked)
+browser.item.archived=§7(Archived)
 browser.item.titled=§5"%s" §7(§d#%s§7)
 browser.lore.map=§8➥ §7Map: §d%s
 browser.lore.publisher=§7by %s
+browser.lore.published_as=§7published as §d"%s"
 browser.lore.date=§8➥ §7Date: §d%s
 browser.lore.duration=§8➥ §7Duration: §d%s
 browser.lore.gamemode=§8➥ §7Gamemode: §d%s
+browser.lore.delete_warning=§cThis replay will be deleted in §e%s days§c.
+browser.lore.delete_warning.one=§cThis replay will be deleted in §e1 day§c.
 browser.value.unknown=§7unknown
 browser.value.none=§7-
 browser.click.watch=§7Click to watch
 browser.title.own=Your replays
+browser.title.bookmarked=Bookmarked replays
 browser.title.public=Public replays
 browser.title.all=All replays
 browser.title.player=Replays of %s
@@ -206,6 +216,7 @@ browser.failed=§cCould not load replays
 browser.failed.hint=§8➥ §7Click to try again
 browser.empty=§7No replays found
 browser.empty.own=§7You have no replays yet.
+browser.empty.bookmarked=§7You have not bookmarked any replay yet.
 browser.empty.hint=§8➥ §7Try another filter or search
 
 # Recorded
