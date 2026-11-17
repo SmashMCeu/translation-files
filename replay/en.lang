@@ -148,7 +148,7 @@ chat.unbookmark.failed=§cCould not remove the bookmark of replay §e#%s§c!
 chat.bookmark.limit_reached=§cYou can bookmark at most §e%s §creplays!
 chat.bookmark.not_allowed=§cYou cannot bookmark this replay!
 chat.bookmark.no_recording=§cNo recording is active to bookmark!
-chat.bookmark.pending=§aThis replay will be bookmarked when the game ends.
+chat.bookmark.pending=§aThis replay will be bookmarked as soon as it is available.
 chat.bookmark.round_failed=§cCould not bookmark this round!
 
 # Publishing
@@ -161,7 +161,7 @@ chat.publish.published=§aReplay §5#%s§a is now public.
 chat.publish.unpublished=§aReplay §5#%s§a is no longer public.
 chat.publish.limit_reached=§cPublic replay limit reached (%s)!<br>§7Unpublish a replay with §d/replay unpublish§7 or raise your limit with a better rank: §ehttps://shop.smashmc.eu/
 chat.publish.no_recording=§cNo recording is active to publish!
-chat.publish.pending=§aThis round will be published when the game ends.
+chat.publish.pending=§aThis replay will be published as soon as it is available.
 chat.publish.ready=§7Your replay is published. Anyone can view it from the lobby using §d/replay #%s§7.
 
 # Hand-off
