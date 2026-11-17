@@ -107,6 +107,12 @@ chat.info.size=  §8● §7Größe: §d%s
 chat.info.keyframes=  §8● §7Keyframes: %s
 chat.info.host=  §8● §7Host: §d%s
 chat.info.viewers=  §8● §7Zuschauer: §d%s
+chat.info.archived=  §8● §7Archiviert: §aJa
+chat.info.archived.no=  §8● §7Archiviert: §7Nein
+chat.info.published=  §8● §7Veröffentlicht: §aJa
+chat.info.published.no=  §8● §7Veröffentlicht: §7Nein
+chat.info.published.by=  §8● §7Veröffentlicht: §aJa §7(von §d%s§7)
+chat.info.bookmarked=  §8● §7Gemerkt: §d%sx
 
 # Playback
 
@@ -141,6 +147,9 @@ chat.bookmark.failed=§cReplay §e#%s§c konnte nicht gemerkt werden!
 chat.unbookmark.failed=§cLesezeichen von Replay §e#%s§c konnte nicht entfernt werden!
 chat.bookmark.limit_reached=§cDu kannst höchstens §e%s §cReplays merken!
 chat.bookmark.not_allowed=§cDu kannst dieses Replay nicht merken!
+chat.bookmark.no_recording=§cEs läuft keine Aufnahme, die gemerkt werden kann!
+chat.bookmark.pending=§aDieses Replay wird nach dem Spielende gemerkt.
+chat.bookmark.round_failed=§cDiese Runde konnte nicht gemerkt werden!
 
 # Veröffentlichen
 
