@@ -52,8 +52,10 @@ actionbar.speed= §8(§d%sx§8)
 # Titles
 
 title.join=§5§lReplay #%s
+title.join.named=§5§l%s
 title.join.subtitle=§7%s §8· §7%s
 title.join.subtitle.nomap=§7%s
+title.join.subtitle.publisher=§7von %s
 title.loading=§7Lädt...
 title.end=§5§lReplay beendet
 title.end.subtitle=§d%s
@@ -148,8 +150,9 @@ chat.unbookmark.failed=§cLesezeichen von Replay §e#%s§c konnte nicht entfernt
 chat.bookmark.limit_reached=§cLimit für gemerkte Replays erreicht (%s)!<br>§7Entferne eines mit §d/replay unbookmark§7 oder erhöhe dein Limit mit einem besseren Rang: §ehttps://shop.smashmc.eu/
 chat.bookmark.not_allowed=§cDu kannst nur Replays merken, in denen du mitgespielt hast oder die öffentlich sind!
 chat.bookmark.no_recording=§cEs läuft keine Aufnahme, die gemerkt werden kann!
-chat.bookmark.pending=§aDieses Replay wird gemerkt, sobald es verfügbar ist.
+chat.bookmark.pending=§aDieses Replay wird als §d"%s" §agemerkt.
 chat.bookmark.round_failed=§cDiese Runde konnte nicht gemerkt werden!
+chat.bookmark.ready=§7Dein Replay ist als §d"%s" §7gemerkt. Öffne es mit §d/replay #%s§7.
 
 # Veröffentlichen
 
@@ -162,6 +165,7 @@ chat.publish.unpublished=§aReplay §5#%s§a ist nicht mehr öffentlich.
 chat.publish.limit_reached=§cLimit für öffentliche Replays erreicht (%s)!<br>§7Mache ein Replay mit §d/replay unpublish§7 wieder privat oder erhöhe dein Limit mit einem besseren Rang: §ehttps://shop.smashmc.eu/
 chat.publish.no_recording=§cEs läuft keine Aufnahme, die veröffentlicht werden kann!
 chat.publish.pending=§aDieses Replay wird veröffentlicht, sobald es verfügbar ist.
+chat.publish.pending.titled=§aDieses Replay wird als §d"%s" §averöffentlicht.
 chat.publish.ready=§7Dein Replay wurde veröffentlicht. Jeder kann es in der Lobby mit §d/replay #%s§7 ansehen.
 
 # Hand-off
@@ -195,7 +199,7 @@ browser.item=§5Replay §d%s
 browser.item.public=§7(Öffentlich)
 browser.item.bookmarked=§7(Gemerkt)
 browser.item.archived=§7(Archiviert)
-browser.item.titled=§5"%s" §7(§d#%s§7)
+browser.item.titled=§5"%s"
 browser.lore.map=§8➥ §7Map: §d%s
 browser.lore.publisher=§7von %s
 browser.lore.published_as=§7veröffentlicht als §d"%s"
