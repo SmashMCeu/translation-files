@@ -52,8 +52,10 @@ actionbar.speed= §8(§d%sx§8)
 # Titles
 
 title.join=§5§lReplay #%s
+title.join.named=§5§l%s
 title.join.subtitle=§7%s §8· §7%s
 title.join.subtitle.nomap=§7%s
+title.join.subtitle.publisher=§7von %s
 title.loading=§7Lädt...
 title.end=§5§lReplay beendet
 title.end.subtitle=§d%s
@@ -107,6 +109,12 @@ chat.info.size=  §8● §7Größe: §d%s
 chat.info.keyframes=  §8● §7Keyframes: %s
 chat.info.host=  §8● §7Host: §d%s
 chat.info.viewers=  §8● §7Zuschauer: §d%s
+chat.info.archived=  §8● §7Archiviert: §aJa
+chat.info.archived.no=  §8● §7Archiviert: §7Nein
+chat.info.published=  §8● §7Veröffentlicht: §aJa
+chat.info.published.no=  §8● §7Veröffentlicht: §7Nein
+chat.info.published.by=  §8● §7Veröffentlicht: §aJa §7(von §d%s§7)
+chat.info.bookmarked=  §8● §7Gemerkt: §d%sx
 
 # Playback
 
@@ -133,6 +141,20 @@ chat.seek.already_ended=§eDas Replay ist bereits am Ende. Nutze /replay seek 0,
 chat.speed.done=§7Tempo auf §5%sx§7 gesetzt.
 chat.speed.invalid=§cKein Replay geladen oder das Tempo liegt außerhalb von §e%s§c!
 
+# Lesezeichen
+
+chat.bookmark.done=§aReplay §5#%s§a gemerkt.
+chat.unbookmark.done=§aReplay §5#%s§a ist nicht mehr gemerkt.
+chat.bookmark.failed=§cReplay §e#%s§c konnte nicht gemerkt werden!
+chat.unbookmark.failed=§cLesezeichen von Replay §e#%s§c konnte nicht entfernt werden!
+chat.unbookmark.not_bookmarked=§eDieses Replay ist nicht gemerkt.
+chat.bookmark.limit_reached=§cLimit für gemerkte Replays erreicht (%s)!<br>§7Entferne eines mit §d/replay unbookmark§7 oder erhöhe dein Limit mit einem besseren Rang: §ehttps://shop.smashmc.eu/
+chat.bookmark.not_allowed=§cDu kannst nur Replays merken, in denen du mitgespielt hast oder die öffentlich sind!
+chat.bookmark.no_recording=§cEs läuft keine Aufnahme, die gemerkt werden kann!
+chat.bookmark.pending=§aDieses Replay wird als §d"%s" §agemerkt.
+chat.bookmark.round_failed=§cDiese Runde konnte nicht gemerkt werden!
+chat.bookmark.ready=§7Dein Replay ist als §d"%s" §7gemerkt. Öffne es mit §d/replay #%s§7.
+
 # Veröffentlichen
 
 chat.publish.already=§eBereits öffentlich.
@@ -143,13 +165,9 @@ chat.publish.published=§aReplay §5#%s§a ist jetzt öffentlich.
 chat.publish.unpublished=§aReplay §5#%s§a ist nicht mehr öffentlich.
 chat.publish.limit_reached=§cLimit für öffentliche Replays erreicht (%s)!<br>§7Mache ein Replay mit §d/replay unpublish§7 wieder privat oder erhöhe dein Limit mit einem besseren Rang: §ehttps://shop.smashmc.eu/
 chat.publish.no_recording=§cEs läuft keine Aufnahme, die veröffentlicht werden kann!
-chat.publish.pending=§aDiese Runde wird nach dem Spielende veröffentlicht.
+chat.publish.pending=§aDieses Replay wird veröffentlicht, sobald es verfügbar ist.
+chat.publish.pending.titled=§aDieses Replay wird als §d"%s" §averöffentlicht.
 chat.publish.ready=§7Dein Replay wurde veröffentlicht. Jeder kann es in der Lobby mit §d/replay #%s§7 ansehen.
-
-# Speichern
-
-chat.save.info=§7Alle Replays auf SmashMC werden automatisch für §d%s Tage§7 gespeichert.<br>§7Um eines dauerhaft zu behalten, öffne es und nutze §d/replay publish§7: veröffentlichte Replays sind dauerhaft und öffentlich.
-chat.save.info.unknown=§7Alle Replays auf SmashMC werden automatisch für eine begrenzte Zeit gespeichert.<br>§7Um eines dauerhaft zu behalten, öffne es und nutze §d/replay publish§7: veröffentlichte Replays sind dauerhaft und öffentlich.
 
 # Hand-off
 
@@ -158,6 +176,7 @@ chat.load.busy.active=§eDieser Replay-Server ist mit §5#%s§e beschäftigt (Ho
 chat.load.failed=§cReplay #%s konnte nicht geladen werden.
 chat.handoff.already_preparing=§eDein Replay wird bereits vorbereitet.
 chat.handoff.preparing=§7Replay §5#%s§7 wird vorbereitet...
+chat.handoff.preparing.at=§7Replay §5#%s §7ab §5%s§7 wird vorbereitet...
 chat.handoff.not_found=§cReplay §e#%s§c wurde nicht gefunden!
 chat.handoff.not_ready=§cDieses Replay ist noch nicht bereit. Bitte versuche es gleich noch einmal.
 chat.handoff.no_server=§cDerzeit ist kein Replay-Server verfügbar!
@@ -179,16 +198,24 @@ chat.move.failed=§cDu konntest nicht ins Replay gebracht werden!
 
 browser.item=§5Replay §d%s
 browser.item.public=§7(Öffentlich)
-browser.item.titled=§5"%s" §7(§d#%s§7)
+browser.item.bookmarked=§7(Gemerkt)
+browser.item.archived=§7(Archiviert)
+browser.item.titled=§5"%s"
 browser.lore.map=§8➥ §7Map: §d%s
 browser.lore.publisher=§7von %s
+browser.lore.published_as=§7veröffentlicht als §d"%s"
 browser.lore.date=§8➥ §7Datum: §d%s
 browser.lore.duration=§8➥ §7Dauer: §d%s
 browser.lore.gamemode=§8➥ §7Spielmodus: §d%s
+browser.lore.delete_warning=§cDieses Replay wird in §e%s Tagen§c gelöscht.
+browser.lore.delete_warning.one=§cDieses Replay wird in §e1 Tag§c gelöscht.
 browser.value.unknown=§7unbekannt
 browser.value.none=§7-
 browser.click.watch=§7Klicke zum Ansehen
+browser.click.shift=§7Shift-Klick zum Merken
+browser.click.shift.remove=§7Shift-Klick zum Entfernen des Lesezeichens
 browser.title.own=Deine Replays
+browser.title.bookmarked=Gemerkte Replays
 browser.title.public=Öffentliche Replays
 browser.title.all=Alle Replays
 browser.title.player=Replays von %s
@@ -206,6 +233,7 @@ browser.failed=§cReplays konnten nicht geladen werden
 browser.failed.hint=§8➥ §7Klicke, um es erneut zu versuchen
 browser.empty=§7Keine Replays gefunden
 browser.empty.own=§7Du hast noch keine Replays.
+browser.empty.bookmarked=§7Du hast noch kein Replay gemerkt.
 browser.empty.hint=§8➥ §7Versuche einen anderen Filter oder eine andere Suche
 
 # Recorded
