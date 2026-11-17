@@ -171,6 +171,7 @@ chat.load.busy.active=§eThis replay server is busy with §5#%s§e (host §d%s§
 chat.load.failed=§cCouldn't load replay #%s.
 chat.handoff.already_preparing=§eYour replay is already being prepared.
 chat.handoff.preparing=§7Preparing replay §5#%s§7...
+chat.handoff.preparing.at=§7Preparing replay §5#%s §7at §5%s§7...
 chat.handoff.not_found=§cReplay §e#%s§c was not found!
 chat.handoff.not_ready=§cThis replay is not ready yet. Please try again in a moment.
 chat.handoff.no_server=§cNo replay server is available right now!

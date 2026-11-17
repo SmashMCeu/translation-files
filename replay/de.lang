@@ -171,6 +171,7 @@ chat.load.busy.active=§eDieser Replay-Server ist mit §5#%s§e beschäftigt (Ho
 chat.load.failed=§cReplay #%s konnte nicht geladen werden.
 chat.handoff.already_preparing=§eDein Replay wird bereits vorbereitet.
 chat.handoff.preparing=§7Replay §5#%s§7 wird vorbereitet...
+chat.handoff.preparing.at=§7Replay §5#%s §7ab §5%s§7 wird vorbereitet...
 chat.handoff.not_found=§cReplay §e#%s§c wurde nicht gefunden!
 chat.handoff.not_ready=§cDieses Replay ist noch nicht bereit. Bitte versuche es gleich noch einmal.
 chat.handoff.no_server=§cDerzeit ist kein Replay-Server verfügbar!
