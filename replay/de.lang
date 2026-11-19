@@ -120,7 +120,6 @@ chat.info.bookmarked=  §8● §7Gemerkt: §d%sx
 
 # Playback
 
-chat.replay.already_loaded=§cEs ist bereits ein Replay geladen!
 chat.replay.already_loading=§cEs wird bereits ein Replay geladen!
 chat.play.loading=§7Lade Replay §5#%s§7...
 chat.play.ended=§eDas Replay ist beendet. Nutze /replay seek 0, um es erneut anzusehen.
@@ -130,13 +129,10 @@ chat.play.lobby_only=§7Replays werden in der Lobby angesehen.
 chat.play.not_allowed=§cDu kannst nur Replays ansehen, in denen du mitgespielt hast.
 chat.pause.done=§eWiedergabe pausiert.
 chat.pause.no_replay=§cEs wird kein Replay abgespielt!
-chat.pause.already=§eDie Wiedergabe ist bereits pausiert.
 chat.pause.ended=§eDas Replay ist beendet.
 chat.pause.not_started=§eDie Wiedergabe wurde noch nicht gestartet.
 chat.pause.cannot=§cDie Wiedergabe kann nicht pausiert werden!
-chat.leave.done=§eDu hast das Replay verlassen.
 chat.no_replay=§cEs ist kein Replay geladen!
-chat.leave.not_watching=§cDu siehst dir kein Replay an!
 chat.seek.no_replay=§cKein Replay geladen oder die Zeit ist ungültig!
 chat.seek.done=§7Zu §5%s§7 gesprungen.
 chat.seek.already_ended=§eDas Replay ist bereits am Ende. Nutze /replay seek 0, um es erneut anzusehen.
@@ -173,8 +169,8 @@ chat.publish.ready=§7Dein Replay wurde veröffentlicht. Jeder kann es in der Lo
 
 # Hand-off
 
-chat.load.busy=§eDieser Replay-Server ist beschäftigt. Bitte versuche es erneut oder nutze /lobby.
-chat.load.busy.active=§eDieser Replay-Server ist mit §5#%s§e beschäftigt (Host §d%s§e, §d%s§e Zuschauer). Bitte versuche es erneut oder nutze /lobby.
+chat.load.busy=§eDieser Replay-Server ist beschäftigt. Bitte versuche es später erneut.
+chat.load.busy.active=§eDieser Replay-Server ist mit §5#%s§e beschäftigt (Host §d%s§e, §d%s§e Zuschauer). Bitte versuche es später erneut.
 chat.load.failed=§cReplay #%s konnte nicht geladen werden.
 chat.handoff.already_preparing=§eDein Replay wird bereits vorbereitet.
 chat.handoff.preparing=§7Replay §5#%s§7 wird vorbereitet...
@@ -227,9 +223,9 @@ browser.sort.map_name=Mapname
 browser.filter=§5§lFilter §8▎ §7%s
 browser.sort=§5§lSortierung §8▎ §7%s
 browser.search=§5§lSuche §8▎ §7%s
-browser.search.all=Alle Maps
-browser.search.reason=§5Mapname
-browser.search.prompt=§7Gib einen Mapnamen ein
+browser.search.all=Alle Replays
+browser.search.reason=§5Suche
+browser.search.prompt=§7Gib eine Map, einen Spieler oder einen Titel ein
 browser.loading=§7Lade Replays...
 browser.failed=§cReplays konnten nicht geladen werden
 browser.failed.hint=§8➥ §7Klicke, um es erneut zu versuchen
