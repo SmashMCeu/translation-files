@@ -120,7 +120,6 @@ chat.info.bookmarked=  §8● §7Bookmarked: §d%sx
 
 # Playback
 
-chat.replay.already_loaded=§cA replay is already loaded!
 chat.replay.already_loading=§cA replay is already loading!
 chat.play.loading=§7Loading replay §5#%s§7...
 chat.play.ended=§eThe replay has ended. Use /replay seek 0 to watch it again.
@@ -130,13 +129,10 @@ chat.play.lobby_only=§7Replays are watched on the lobby.
 chat.play.not_allowed=§cYou can only watch replays you played in.
 chat.pause.done=§ePlayback paused.
 chat.pause.no_replay=§cNo replay is playing!
-chat.pause.already=§ePlayback is already paused.
 chat.pause.ended=§eThe replay has ended.
 chat.pause.not_started=§ePlayback has not started yet.
 chat.pause.cannot=§cCannot pause playback!
-chat.leave.done=§eLeft the replay.
 chat.no_replay=§cNo replay is loaded!
-chat.leave.not_watching=§cYou are not watching a replay!
 chat.seek.no_replay=§cNo replay is loaded or the time is invalid!
 chat.seek.done=§7Seeked to §5%s§7.
 chat.seek.already_ended=§eThe replay is already at the end. Use /replay seek 0 to watch it again.
@@ -173,8 +169,8 @@ chat.publish.ready=§7Your replay is published. Anyone can view it from the lobb
 
 # Hand-off
 
-chat.load.busy=§eThis replay server is busy. Please try again or use /lobby.
-chat.load.busy.active=§eThis replay server is busy with §5#%s§e (host §d%s§e, §d%s§e watching). Please try again or use /lobby.
+chat.load.busy=§eThis replay server is busy. Please try again later.
+chat.load.busy.active=§eThis replay server is busy with §5#%s§e (host §d%s§e, §d%s§e watching). Please try again later.
 chat.load.failed=§cCouldn't load replay #%s.
 chat.handoff.already_preparing=§eYour replay is already being prepared.
 chat.handoff.preparing=§7Preparing replay §5#%s§7...
@@ -227,9 +223,9 @@ browser.sort.map_name=Map name
 browser.filter=§5§lFilter §8▎ §7%s
 browser.sort=§5§lSort §8▎ §7%s
 browser.search=§5§lSearch §8▎ §7%s
-browser.search.all=All maps
-browser.search.reason=§5map name
-browser.search.prompt=§7Enter a map name
+browser.search.all=All replays
+browser.search.reason=§5search
+browser.search.prompt=§7Enter a map, player or title
 browser.loading=§7Loading replays...
 browser.failed=§cCould not load replays
 browser.failed.hint=§8➥ §7Click to try again
