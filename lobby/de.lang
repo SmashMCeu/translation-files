@@ -226,7 +226,7 @@ entity.play_football=§a§lMinispiel: §b§lFußball
 entity.play_ttt=§a§lMinispiel: §c§lTickTackToe
 entity.play_snake=§a§lMinispiel: §2§lSnake
 actionbar.global_spinner=Globaler Spinner: %s
-actionbar.snowballer.size=§fSchneeball %s §8• §e%s%% §8• §7Linksklick zum Schießen
+actionbar.snowballer.size=§fSchneeball %s §8• §e%s§7s §8• §7Linksklick zum Schießen
 chat.become_partner=§7Du möchtest zu unserem Partner werden? Dann kontaktiere uns gerne auf unserem Discord (§3/discord§7).
 
 # Osterevent
