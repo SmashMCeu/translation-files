@@ -77,6 +77,9 @@ item.name.pumpkin_boots=§6Kürbisschuhe
 item.name.santa_head=§cSanta
 item.name.ice_boots=§dEisschuhe
 item.name.snowman_pet=§fSchneeman-Haustier
+item.name.snowballer=§fSchneeballer
+item.name.frosty_pet=§bFrosty
+item.name.sleigh=§c§lWeihnachtsschlitten
 item.name.christmas_tree=§cWeihnachtsbaum
 item.name.easterbow=§cOsterbogen
 item.name.easter_boots=§dOsterschuhe
@@ -223,6 +226,7 @@ entity.play_football=§a§lMinispiel: §b§lFußball
 entity.play_ttt=§a§lMinispiel: §c§lTickTackToe
 entity.play_snake=§a§lMinispiel: §2§lSnake
 actionbar.global_spinner=Globaler Spinner: %s
+actionbar.snowballer.push=§fSchneeball schieben §8• §7Linksklick zum Schießen
 chat.become_partner=§7Du möchtest zu unserem Partner werden? Dann kontaktiere uns gerne auf unserem Discord (§3/discord§7).
 
 # Osterevent

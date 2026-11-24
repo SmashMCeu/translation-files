@@ -78,6 +78,9 @@ item.name.pumpkin_boots=§6Pumpkin boots
 item.name.santa_head=§cSanta
 item.name.ice_boots=§dIce boots
 item.name.snowman_pet=§fSnowman-Pet
+item.name.snowballer=§fSnowballer
+item.name.frosty_pet=§bFrosty
+item.name.sleigh=§c§lChristmas Sleigh
 item.name.christmas_tree=§cChristmas tree
 item.name.easterbow=§cEaster bow
 item.name.easter_boots=§dEaster boots
@@ -224,6 +227,7 @@ entity.play_football=§a§lMinigame: §b§lFootball
 entity.play_ttt=§a§lMinigame: §c§lTicTacToe
 entity.play_snake=§a§lMinigame: §2§lSnake
 actionbar.global_spinner=Global spinner: %s
+actionbar.snowballer.push=§fPush the snowball §8• §7Left click to shoot
 chat.become_partner=§7You want to apply for a partnership with SmashMC? Please contact us on our Discord (§3/discord§7).
 
 # Osterevent
