@@ -227,7 +227,7 @@ entity.play_football=§a§lMinigame: §b§lFootball
 entity.play_ttt=§a§lMinigame: §c§lTicTacToe
 entity.play_snake=§a§lMinigame: §2§lSnake
 actionbar.global_spinner=Global spinner: %s
-actionbar.snowballer.size=§fSnowball %s §8• §e%s§7s §8• §7Left click to shoot
+actionbar.snowballer.size=§7Left click to shoot §8» %s §8» §e%s§7s
 chat.become_partner=§7You want to apply for a partnership with SmashMC? Please contact us on our Discord (§3/discord§7).
 
 # Osterevent
