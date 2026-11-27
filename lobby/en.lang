@@ -125,6 +125,7 @@ item.trick_or_treat.choose=§6Pick a pumpkin!
 item.trick_or_treat.collected=§6Caught: §f%s §7of 9 candies
 item.trick_or_treat.catch=§7Catch candy, then right-click to throw it at players!
 item.trick_or_treat.hit=§6Sugar rush!
+item.trick_or_treat.combo=§6Combo §e×%s
 item.trick_or_treat.chain_target=§6Candy rain!
 item.trick_or_treat.reward=§e%s throwing candies received
 item.trick_or_treat.treat=§6Treat!
@@ -136,6 +137,7 @@ chat.pixel_painter=§7Use this item on the outer barrier around spawn.<br>§e⚠
 chat.pixel_painter.info=§7This pixel was last modified by §a%s §e%s §7ago.
 
 chat.gadget_disabled=§cYour gadget §e%s §cis now disabled.
+chat.sleigh.no_room=§cNot enough room for the sleigh here.
 
 # Chest opening
 item.name.use_key=§a§lUse a key

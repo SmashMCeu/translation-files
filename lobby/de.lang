@@ -124,6 +124,7 @@ item.trick_or_treat.choose=§6Wähle einen Kürbis!
 item.trick_or_treat.collected=§6Gefangen: §f%s §7von 9 Süßigkeiten
 item.trick_or_treat.catch=§7Fange Bonbons und schieß sie per Rechtsklick auf Spieler!
 item.trick_or_treat.hit=§6Zuckerrausch!
+item.trick_or_treat.combo=§6Kombo §e×%s
 item.trick_or_treat.chain_target=§6Bonbonregen!
 item.trick_or_treat.reward=§e%s Wurfbonbons erhalten
 item.trick_or_treat.treat=§6Süßes!
@@ -135,6 +136,7 @@ chat.pixel_painter=§7Nutze dieses Item an der Außenwand des Spawns.<br>§e⚠ 
 chat.pixel_painter.info=§7Dieser Pixel wurde von §a%s §7vor §e%s §7geändert.
 
 chat.gadget_disabled=§cDein Gadget §e%s §cist hier deaktiviert.
+chat.sleigh.no_room=§cHier ist nicht genug Platz für den Schlitten.
 
 # Chest opening
 item.name.use_key=§a§lBenutze einen Schlüssel
