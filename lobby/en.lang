@@ -78,6 +78,9 @@ item.name.pumpkin_boots=§6Pumpkin boots
 item.name.santa_head=§cSanta
 item.name.ice_boots=§dIce boots
 item.name.snowman_pet=§fSnowman-Pet
+item.name.snowballer=§fSnowballer
+item.name.frosty_pet=§bFrosty
+item.name.sleigh=§c§lChristmas Sleigh
 item.name.christmas_tree=§cChristmas tree
 item.name.easterbow=§cEaster bow
 item.name.easter_boots=§dEaster boots
@@ -122,6 +125,7 @@ item.trick_or_treat.choose=§6Pick a pumpkin!
 item.trick_or_treat.collected=§6Caught: §f%s §7of 9 candies
 item.trick_or_treat.catch=§7Catch candy, then right-click to throw it at players!
 item.trick_or_treat.hit=§6Sugar rush!
+item.trick_or_treat.combo=§6Combo §e×%s
 item.trick_or_treat.chain_target=§6Candy rain!
 item.trick_or_treat.reward=§e%s throwing candies received
 item.trick_or_treat.treat=§6Treat!
@@ -133,6 +137,7 @@ chat.pixel_painter=§7Use this item on the outer barrier around spawn.<br>§e⚠
 chat.pixel_painter.info=§7This pixel was last modified by §a%s §e%s §7ago.
 
 chat.gadget_disabled=§cYour gadget §e%s §cis now disabled.
+chat.sleigh.no_room=§cNot enough room for the sleigh here.
 
 # Chest opening
 item.name.use_key=§a§lUse a key
@@ -224,6 +229,8 @@ entity.play_football=§a§lMinigame: §b§lFootball
 entity.play_ttt=§a§lMinigame: §c§lTicTacToe
 entity.play_snake=§a§lMinigame: §2§lSnake
 actionbar.global_spinner=Global spinner: %s
+actionbar.snowballer.size=§7L-Click: Shoot §8▍ %s §8▍ §e%s§7s
+actionbar.sleigh.hud=§e%s km/h §8▍ §7Drift %s
 chat.become_partner=§7You want to apply for a partnership with SmashMC? Please contact us on our Discord (§3/discord§7).
 
 # Osterevent
